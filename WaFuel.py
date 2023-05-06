@@ -5,6 +5,8 @@ import xlsxwriter
 import random
 import pandas as pb
 from github import Github
+import datetime
+import time
 
 #INPUT TAGS
 ACCESS_TOKEN = "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"
@@ -20,6 +22,8 @@ INTERNAL_FILE_LPG = "WaFuelLPG.html"
 FOLDER_EMPL_IN_GIT_LPG = "WaFuelLPG.html"
 INTERNAL_FILE_95 = "WaFuel95.html"
 FOLDER_EMPL_IN_GIT_95 = "WaFuel95.html"
+
+
 #INPUT TAGS
 def ULP():
     workbook = xlsxwriter.Workbook('WaFuelULP.xlsx')
@@ -1927,17 +1931,89 @@ def UpLoad_LPG(access_tocken, github_repo, git_branch, initial_file, folder_empl
         repo.create_file(folder_empl_in_git, "committing files", content, branch=git_branch)
         return folder_empl_in_git + ' CREATED'
 
+
+def scheduler():
+    current_time = datetime.datetime.now()
+    hour = current_time.hour
+    minute = current_time.minute
+    # import time
+    # from subprocess import call
+    # import sys
+    # print(sys.getrecursionlimit())
+
+
+    # print (f'The time of the day:   {hour}:{minute}')
+
+    if hour == 6 and minute == 0:
+        time.sleep(20)
+        print("run1")
+        state()
+
+    elif hour == 7 and minute == 0:
+        time.sleep(20)
+        print("run2")
+        state()
+
+    elif hour == 8 and minute == 0:
+        time.sleep(20)
+        print("run3")
+        state()
+
+    elif hour == 9 and minute == 0:
+        time.sleep(20)
+        print("run4")
+        state()
+
+    elif hour == 10 and minute == 0:
+        time.sleep(20)
+        state()
+
+    elif hour == 11 and minute == 0:
+        time.sleep(20)
+        state()
+
+    elif hour == 12 and minute == 0:
+        time.sleep(20)
+        state()
+
+    elif hour == 13 and minute == 0:
+        time.sleep(20)
+        state()
+
+    elif hour == 14 and minute == 0:
+        time.sleep(20)
+        state()
+
+    elif hour == 15 and minute == 0:
+        time.sleep(20)
+        state()
+
+    elif hour == 23 and minute == 47:
+        time.sleep(20)
+        RUN()
+
+    else:
+        time.sleep(20)
+        scheduler()
+
+def RUN():
+    ULP()
+    PUP()
+    PRE()
+    DSL()
+    LPG()
+    Convert()
+    UpLoad_ULP(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_ULP, FOLDER_EMPL_IN_GIT_ULP)
+    UpLoad_95(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_95, FOLDER_EMPL_IN_GIT_95)
+    UpLoad_DSL(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_DSL, FOLDER_EMPL_IN_GIT_DSL)
+    UpLoad_LPG(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_LPG, FOLDER_EMPL_IN_GIT_LPG)
+    UpLoad_98(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_98, FOLDER_EMPL_IN_GIT_98)
+    print('schedular')
+    scheduler()
 print ('started')
-ULP()
-PUP()
-PRE()
-DSL()
-LPG()
-Convert()
-UpLoad_ULP(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_ULP, FOLDER_EMPL_IN_GIT_ULP)
-UpLoad_95(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_95, FOLDER_EMPL_IN_GIT_95)
-UpLoad_DSL(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_DSL, FOLDER_EMPL_IN_GIT_DSL)
-UpLoad_LPG(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_LPG, FOLDER_EMPL_IN_GIT_LPG)
-UpLoad_98(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_98, FOLDER_EMPL_IN_GIT_98)
+
+RUN()
+
+#scheduler()
 
 print ('finished')
