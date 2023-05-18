@@ -1,0 +1,2341 @@
+Delivered-To: luke3573@gmail.com
+Received: by 2002:a05:6a10:b14a:0:0:0:0 with SMTP id m10csp1556077pxh;
+        Sun, 1 Aug 2021 20:40:22 -0700 (PDT)
+X-Google-Smtp-Source: ABdhPJxx1apD5DfUe/QFCRSLjbDMdenxbgAUkt1sKkW+Q2UzrNqYJbCJrNkNlAHYkD/uKOUbR9Lk
+X-Received: by 2002:a05:6402:214a:: with SMTP id bq10mr16637806edb.296.1627875622707;
+        Sun, 01 Aug 2021 20:40:22 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1627875622; cv=none;
+        d=google.com; s=arc-20160816;
+        b=dxV3jwjX2TWJOXIfkJYygwcBLRTUp8o464wIjB18iSooHl4kbObhv98LfkOSxShESy
+         XudC2qTAYnbEMjZh6xv+tRrvP1xI/V7PsPsFYHNQKNVk5SZh4idKmzxLsXCLKsWorNbs
+         E4yN6DZTk7L0bEfzdte0ECBzcI3WN60XCHk1DTmHsKLYFtSUp6IKyhVR8tBWj9hlQ63N
+         rY/YFsJQ3cotZP/M3R5vqLkQ1DUeLPV1vJ3UlQ3erzPcXIyhAUy1QrgyoQvrp/kqzldO
+         VNS4TCcVdkHej28tsKXPvQ23RIWF3QvrtWjtk0ExvkuWn31PdcYC8j/I2Nmjp+uUpdnc
+         21vg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=message-id:feedback-id:subject:reply-to:from:to:date
+         :content-transfer-encoding:mime-version:dkim-signature
+         :dkim-signature;
+        bh=W6X0otPsBqEJyhur+miYalfrAYR0swQIeWmeYIWJEK8=;
+        b=GwSCkghJp0wz9hXkcaaUJzwDwf10k7RbQS0sCrkrcLsUmk6QitHKXjHMs16CzKOYy7
+         lxr2rEHnv5l/APJS4gmOQdIca439IWe/yk17S1ZjjK6vtXaM3HaxsQjaAHN+BTQtpHI7
+         SN2/Bp1Tv8N9aHXC4AjPtuyl2HAtjNRrN7J0VSI/89hYfPNl1pXFoipdGJa6qu/hsGwJ
+         GUvoqcyOVgeXcVqTTptbEHpJ47Mc7LWJKFt9Fg0DafyUgPbnCv0dMiPzoltg+CDGbqXT
+         Xvc64UB+xLErbpwlNAc6TZndzgpfI0Fo1uUad+opC02QseoqELg3m6zo83nqRF79N1qm
+         K2ow==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@em.opsm.com.au header.s=opsm header.b="i/TrUfTC";
+       dkim=pass header.i=@responsys.net header.s=oraclersys header.b=WFPG4Gwe;
+       spf=pass (google.com: domain of news@em.opsm.com.au designates 199.7.205.34 as permitted sender) smtp.mailfrom=news@em.opsm.com.au;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=em.opsm.com.au
+Return-Path: <news@em.opsm.com.au>
+Received: from omptrans.em.opsm.com.au (omptrans.em.opsm.com.au. [199.7.205.34])
+        by mx.google.com with ESMTPS id m24si8238004eji.257.2021.08.01.20.40.21
+        for <luke3573@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-CHACHA20-POLY1305 bits=256/256);
+        Sun, 01 Aug 2021 20:40:22 -0700 (PDT)
+Received-SPF: pass (google.com: domain of news@em.opsm.com.au designates 199.7.205.34 as permitted sender) client-ip=199.7.205.34;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@em.opsm.com.au header.s=opsm header.b="i/TrUfTC";
+       dkim=pass header.i=@responsys.net header.s=oraclersys header.b=WFPG4Gwe;
+       spf=pass (google.com: domain of news@em.opsm.com.au designates 199.7.205.34 as permitted sender) smtp.mailfrom=news@em.opsm.com.au;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=em.opsm.com.au
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=opsm; d=em.opsm.com.au;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:
+ Subject:Feedback-ID:Message-ID; i=news@em.opsm.com.au;
+ bh=W6X0otPsBqEJyhur+miYalfrAYR0swQIeWmeYIWJEK8=;
+ b=i/TrUfTCHG6xinD55WSBSL1UrvVDWih92eUR1rgKlCdRN0G6kSa19jGzGxubaPrGBrx1NzBCngMT
+   ADmphLFbzYGThxu6fYNYDD0bYvKMruV83pIw2e7HvMpe8Jweusg47/oLT+q8NWRGByFSfYUXv0uU
+   H6+enqO5vji0nLDvwOQ=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=oraclersys; d=responsys.net;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:
+ Subject:Feedback-ID:Message-ID;
+ bh=W6X0otPsBqEJyhur+miYalfrAYR0swQIeWmeYIWJEK8=;
+ b=WFPG4GweW0ogsRaAXY5mP5ja45CyMd/WV37kXO+r7boZK8TQNxdMRCUV/J7X83HFD1993S35B5W2
+   OZC8bkAYO0BwxGZkZiJOX+lFhFJ59l/l5TjIhPj5fOdEUivvNcfKWopJcmad5WMU/+Q/3oHvVGQj
+   82IUCoekVUZiV/vlwzU=
+Received: by omptrans.em.opsm.com.au id h0tki82q38k5 for <luke3573@gmail.com>; Sun, 1 Aug 2021 20:40:20 -0700 (envelope-from <news@em.opsm.com.au>)
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Sun, 1 Aug 2021 20:40:20 -0700
+To: luke3573@gmail.com
+From: =?UTF-8?B?T1BTTQ==?= <news@em.opsm.com.au>
+Reply-To: =?UTF-8?B?T1BTTQ==?= <customer.care@luxottica.com.au>
+Subject: Your receipt from OPSM
+Feedback-ID: 80392:2069825:oraclersys
+X-sgxh1: tmsLUYBUxnuHptQJhu
+X-rext: 6.interact5.Eofrd7qV4pg-ZV0AZO1Cuekz-YwIFFQlJRkyIWCCUuomYaNhLl5r4BM2
+X-cid: luxottica001.8075525
+X-ei: ElktR8XkuhJof1KtaNJNqo1fb8bwtaMJ1ZeZf_xsS0WOQ8pO_tgc
+Message-ID: <0.1.A.48C.1D787501E3FC41E.0@omptrans.em.opsm.com.au>
+
+<html>
+
+    <head>
+        <style type=3D=22text/css=22>
+            =2EReadMsgBody =7B
+                width: 100%;
+            =7D
+
+            =2EExternalClass =7B
+                width: 100%;
+            =7D
+
+            =2EExternalClass * =7B
+                line-height: 100%;
+            =7D
+
+            div,
+            p,
+            a,
+            li,
+            td =7B
+                -webkit-text-size-adjust: none;
+                -ms-text-size-adjust: none;
+            =7D
+
+            TD IMG =7B
+                display: block;
+                border: 0;
+            =7D
+
+            table td =7B
+                border-collapse: collapse;
+            =7D
+
+            table =7B
+                mso-table-lspace: 0pt;
+                mso-table-rspace: 0pt;
+                border-collapse: collapse;
+            =7D
+
+            a:link =7B
+                color: =23838383;
+                text-decoration: none;
+            =7D
+
+            a:active =7B
+                color: =23838383;
+                text-decoration: none;
+            =7D
+
+            a:visited =7B
+                color: =23838383;
+                text-decoration: none;
+            =7D
+
+            a:hover =7B
+                color: =23838383;
+                text-decoration: none;
+            =7D
+
+            textarea =7B
+                resize: none;
+            =7D
+
+            textarea:focus,
+            input:focus =7B
+                outline: none;
+            =7D
+
+            body =7B
+                background-color: =23ffffff;
+                margin: 0;
+            =7D
+        </style>
+    </head>
+
+    <body>
+
+        <custom name=3D=22opencounter=22 type=3D=22tracking=22>
+            <table width=3D=22100%=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 border=3D=220=22 bgcolor=3D=22=23ffffff=22 align=3D=22center=22>
+                <tbody>
+                    <tr>
+                        <td align=3D=22center=22 valign=3D=22top=22 bgcolor=
+=3D=22=23ffffff=22>
+                            <table width=3D=22628=22 border=3D=220=22 align=
+=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                                <tbody>
+                                    <tr>
+                                        <td width=3D=22628=22 align=3D=22ce=
+nter=22 valign=3D=22top=22 bgcolor=3D=22=23ffffff=22 style=3D=22font-family=
+:Verdana, Geneva, sans-serif; font-size:10px; color:=23838383; text-align:c=
+enter;=22>
+                                            Having trouble viewing this ema=
+il? <a href=3D=22https://em=2Eopsm=2Ecom=2Eau/pub/cc?_ri_=3DX0Gzc2X%3DAQpgl=
+LjHJlYQGhMjKBzbzeWinqzdzeR6zdwS8mLsFq5Obzgzgzatc0sPb4883mhu5HvoetYjW7fTVXtp=
+KX%3DATSTTTY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9BbmVAJfxWej0FodWLK9RVxYpmRuGgtX=
+LVINRNtdLQNRmJkg0vtdRBH3Ox3XtWeCmD7lIB2e8ZFSw4CFH9e1ABkLGSIBFsn89JU1wGJx7_j=
+j5w7qNEax-87dz7UWHbNIH_N_o-Y84NeOMwGEQqd7jTOe-BgoZkH6H2cTiZL936yS6KJuXGPg=
+=2E&amp;_di_=3Df6ligv9t4a726ivbu3akmu00g9834u6q20nu4cn9973r3c0k9m7g=22 titl=
+e=3D=22View as a web page=22 target=3D=22_blank=22 alias=3D=22View as a web=
+ page=22 style=3D=22color:=23838383; text-decoration:underline;=22><span st=
+yle=3D=22color:=23838383; text-decoration:underline;=22>View as a web page<=
+/span></a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D=225=22 bgcolor=3D=22=
+=23ffffff=22 style=3D=22font-size:0%;=22><img src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/luxottica001/contentlibrary/opsm/imag=
+es/OPSM-Template_spacer=2Egif=22 width=3D=221=22 height=3D=221=22 style=3D=
+=22display:block; font-size:0%;=22 border=3D=220=22></td>
+                                    </tr>
+                                    <tr>
+                                        <td width=3D=22628=22 align=3D=22ce=
+nter=22 valign=3D=22top=22 bgcolor=3D=22=23ffffff=22>
+                                            <table width=3D=22628=22 border=
+=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                                                <tbody>
+                                                    <tr valign=3D=22bottom=
+=22 bgcolor=3D=22=23ffffff=22>
+                                                        <td width=3D=22628=
+=22 height=3D=2210=22 align=3D=22center=22 style=3D=22font-size:0%;=22><img=
+ src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/luxotti=
+ca001/contentlibrary/opsm/images/OPSM-Template_gradient-top=2Egif=22 width=
+=3D=22628=22 height=3D=2210=22 border=3D=220=22 style=3D=22display:block; f=
+ont-size:0%;=22></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td width=3D=22628=
+=22 align=3D=22center=22>
+                                                            <table width=3D=
+=22628=22 border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 cells=
+pacing=3D=220=22>
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td=
+ width=3D=221=22 bgcolor=3D=22=23f7f7f7=22 style=3D=22font-size:0%;=22><img=
+ src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/luxotti=
+ca001/contentlibrary/opsm/images/OPSM-Template_spacer=2Egif=22 width=3D=221=
+=22 height=3D=221=22 style=3D=22display:block; font-size:0%;=22 border=3D=
+=220=22></td>
+                                                                        <td=
+ width=3D=221=22 bgcolor=3D=22=23eeeeee=22 style=3D=22font-size:0%;=22><img=
+ src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/luxotti=
+ca001/contentlibrary/opsm/images/OPSM-Template_spacer=2Egif=22 width=3D=221=
+=22 height=3D=221=22 style=3D=22display:block; font-size:0%;=22 border=3D=
+=220=22></td>
+                                                                        <td=
+ width=3D=221=22 bgcolor=3D=22=23e3e3e3=22 style=3D=22font-size:0%;=22><img=
+ src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/luxotti=
+ca001/contentlibrary/opsm/images/OPSM-Template_spacer=2Egif=22 width=3D=221=
+=22 height=3D=221=22 style=3D=22display:block; font-size:0%;=22 border=3D=
+=220=22></td>
+                                                                        <td=
+ width=3D=221=22 bgcolor=3D=22=23d5d5d5=22 style=3D=22font-size:0%;=22><img=
+ src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/luxotti=
+ca001/contentlibrary/opsm/images/OPSM-Template_spacer=2Egif=22 width=3D=221=
+=22 height=3D=221=22 style=3D=22display:block; font-size:0%;=22 border=3D=
+=220=22></td>
+                                                                        <td=
+ width=3D=22620=22 align=3D=22center=22 valign=3D=22top=22>
+                                                                           =
+ <table width=3D=22594=22 border=3D=220=22 align=3D=22center=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22>
+                                                                           =
+     <tbody>
+                                                                           =
+         <tr valign=3D=22bottom=22>
+                                                                           =
+             <td width=3D=22594=22 align=3D=22left=22 style=3D=22color:=23A=
+0918B; font-family:Verdana, Geneva, sans-serif; font-weight:bold; font-size=
+:24px; text-align:right; text-decoration:none; padding-right:2px;=22>
+                                                                           =
+                 <table width=3D=22192=22 border=3D=220=22 align=3D=22left=
+=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                                                                           =
+                     <tbody>
+                                                                           =
+                         <tr>
+                                                                           =
+                             <td width=3D=22192=22 height=3D=226=22 style=
+=3D=22font-size:0%;=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet=
+/i5/responsysimages/luxottica001/contentlibrary/opsm/images/OPSM-Template_s=
+pacer=2Egif=22 width=3D=221=22 height=3D=221=22 style=3D=22display:block; f=
+ont-size:0%;=22 border=3D=220=22></td>
+                                                                           =
+                         </tr>
+                                                                           =
+                         <tr>
+                                                                           =
+                             <td width=3D=22192=22 height=3D=2239=22 align=
+=3D=22center=22 valign=3D=22middle=22 style=3D=22padding-left:4px;=22>
+                                                                           =
+                                 <a href=3D=22https://em=2Eopsm=2Ecom=2Eau/=
+pub/cc?_ri_=3DX0Gzc2X%3DAQpglLjHJlYQGhMjKBzbzeWinqzdzeR6zdwS8mLsFq5Obzgzgza=
+tc0sPb4883mhu5HvoetYjW7fTVXtpKX%3DATSTTWY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9Bb=
+mVAJfxWej0FodWLK9RVxYpmRuGgtXLVINRNtdLQNRmJkg0vtdRBH3Ox3XtWeCmD7lIB2e8ZFSw4=
+CFH9e1ABkLGSIBFsn89JU1wGJx7_jj5w7qNEax-87dz7UWHbNIH_N_o-Y84NeOMwGEQqd7jTOe-=
+BgoZkH6H2cTiZL936yS6KJuXGPg=2E&amp;_di_=3D0qfnp7mnv2c36m7qgkhgsv5sctf9f2rqh=
+1dd9u17t7f6u00tt09g=22 title=3D=22OPSM=22 target=3D=22_blank=22 alias=3D=22=
+OPSM Logo - Header=22 style=3D=22color:=23A0918B; font-family:Verdana, Gene=
+va, sans-serif; font-weight:bold; font-size:24px; text-align:right; text-de=
+coration:none;=22>
+                                                                           =
+                                     <img src=3D=22https://static=2Ecdn=2Er=
+esponsys=2Enet/i5/responsysimages/luxottica001/contentlibrary/opsm/images/o=
+psmlogo99x44px=2Ejpg=22 alt=3D=22OPSM=22 width=3D=2299=22 height=3D=2244=22=
+ style=3D=22display:block; color:=23A0918B; font-family:Verdana, Geneva, sa=
+ns-serif; font-weight:bold; font-size:24px; text-align:right; text-decorati=
+on:none;=22 border=3D=220=22>
+                                                                           =
+                                 </a>
+                                                                           =
+                             </td>
+                                                                           =
+                         </tr>
+                                                                           =
+                         <tr>
+                                                                           =
+                             <td height=3D=2215=22 style=3D=22font-size:0%;=
+=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages=
+/luxottica001/contentlibrary/opsm/images/OPSM-Template_spacer=2Egif=22 widt=
+h=3D=221=22 height=3D=221=22 style=3D=22display:block; font-size:0%;=22 bor=
+der=3D=220=22></td>
+                                                                           =
+                         </tr>
+                                                                           =
+                     </tbody>
+                                                                           =
+                 </table>
+                                                                           =
+             </td>
+                                                                           =
+         </tr>
+                                                                           =
+         <tr>
+                                                                           =
+             <td width=3D=22594=22 align=3D=22center=22 valign=3D=22top=22>
+                                                                           =
+                 <div contentid=3D=229138=22 isdc=3D=22false=22 isdl=3D=22f=
+alse=22 islocked=3D=22false=22 hasbeenlocalized=3D=22false=22 canunlock=3D=
+=22true=22 cellkey=3D=22Content Area 1=22 contentname=3D=22=22 issurvey=3D=
+=22false=22 haserror=3D=22false=22 canmodify=3D=22true=22 orientation=3D=22=
+14=22 isab=3D=22false=22
+                                                                           =
+                      class=3D=22contentcell=22 onmouseover=3D=22parent=2EC=
+ellOver(this, event);=22 onmouseout=3D=22parent=2ECellOut(this, event);=22 =
+onclick=3D=22parent=2ECellClick(this, event);=22 onmousemove=3D=22parent=2E=
+CellFollow(event)=22>
+                                                                           =
+                     <?xml version=3D=221=2E0=22?>
+                                                                           =
+                             <table width=3D=22560=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22 border=3D=220=22 align=3D=22center=22>
+                                                                           =
+                                 <tbody>
+                                                                           =
+                                     <tr>
+                                                                           =
+                                         <td width=3D=22560=22 valign=3D=22=
+top=22 align=3D=22center=22 style=3D=22background-color: =23ffffff;=22>
+                                                                           =
+                                             <table width=3D=22560=22 cells=
+pacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 align=3D=22center=
+=22>
+                                                                           =
+                                                 <tbody>
+                                                                           =
+                                                     <tr>
+                                                                           =
+                                                         <td width=3D=22560=
+=22 valign=3D=22top=22 align=3D=22left=22 style=3D=22background-color: =23f=
+fffff; color: =231f1f1f; font-family: Verdana, Geneva, sans-serif; font-siz=
+e: 13px; text-align: left; padding-bottom: 20px; padding-top: 15px;=22>
+                                                                           =
+                                                             Thank you for =
+choosing OPSM=2E Please find your purchase details below or <a href=3D=22ht=
+tps://em=2Eopsm=2Ecom=2Eau/pub/cc?_ri_=3DX0Gzc2X%3DAQpglLjHJlYQGhMjKBzbzeWi=
+nqzdzeR6zdwS8mLsFq5Obzgzgzatc0sPb4883mhu5HvoetYjW7fTVXtpKX%3DAYUYCCY&amp;_e=
+i_=3DEq2tf9zs59idfPO1Sc_9BbmVAJfxWej0FodWLK9RVxYpmRuGgtXLVINRNtdLQNRmJkg0vt=
+dRBH3Ox3XtWeCmD7lIB2e8ZFSw4CFH9e1ABkLGSIBFsn89JU1wGJx7_jj5w7qNEax-87dz7UWHb=
+NIH_N_o-Y84NeOMwGEQqd7jTOe-BgoZkH6H2cTiZL936yS6KJuXGPg=2E&amp;_di_=3Dgmnf48=
+k272fn4j3jia5ui4obu4fchp5dfdusgkr5ccd1ev7u5ajg=22 style=3D=22text-decoratio=
+n:underline;color:=231f1f1f=22>view your purchase	history online</a> in You=
+r Account=2E
+                                                                           =
+                                                         </td>
+                                                                           =
+                                                     </tr>
+                                                                           =
+                                                 </tbody>
+                                                                           =
+                                             </table>
+                                                                           =
+                                         </td>
+                                                                           =
+                                     </tr>
+                                                                           =
+                                     <tr>
+                                                                           =
+                                         <td width=3D=22560=22 valign=3D=22=
+top=22 align=3D=22center=22 style=3D=22background-color: =23ffffff;=22>
+                                                                           =
+                                             <table width=3D=22560=22 cells=
+pacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 align=3D=22center=
+=22>
+                                                                           =
+                                                 <tbody>
+                                                                           =
+                                                     <tr>
+                                                                           =
+                                                         <td width=3D=22560=
+=22 align=3D=22center=22 style=3D=22padding-top: 20px; border-top-width: 1p=
+x; border-top-style: solid; border-top-color: =23cac9c6;=22>
+                                                                           =
+                                                             <table width=
+=3D=22560=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 a=
+lign=3D=22center=22>
+                                                                           =
+                                                                 <tbody>
+                                                                           =
+                                                                     <tr>
+                                                                           =
+                                                                         <t=
+d width=3D=22560=22 valign=3D=22top=22 align=3D=22left=22 style=3D=22backgr=
+ound-color: =23ffffff; color: =231f1f1f; font-family: 'Trebuchet MS', Arial=
+, Helvetica, sans-serif; font-size: 14px; text-align: left; font-weight: bo=
+ld;=22>
+																																					TAX INVOICE
+                                                                           =
+                             <br />
+                                                                           =
+                                                                         </=
+td>
+                                                                           =
+                                                                     </tr>
+                                                                           =
+                                                                 </tbody>
+                                                                           =
+                                                             </table>
+                                                                           =
+                                                         </td>
+                                                                           =
+                                                     </tr>
+                                                                           =
+                                                     <tr>
+                                                                           =
+                                                         <td width=3D=22560=
+=22 align=3D=22center=22 style=3D=22padding-bottom: 20px;=22>
+                                                                           =
+                                                             <table width=
+=3D=22560=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 a=
+lign=3D=22center=22>
+                                                                           =
+                                                                 <tbody>
+                                                                           =
+                                                                     <tr>
+                                                                           =
+                                                                         <t=
+d width=3D=22321=22 valign=3D=22top=22 align=3D=22left=22 style=3D=22backgr=
+ound-color: =23ffffff; font-family: Verdana, Geneva, sans-serif; font-size:=
+ 11px; padding-right: 15px; text-align: left; color: =23545454;=22>
+																																					LUXOTTICA RETAIL AUSTRALIA PTY LTD B36=
+1<br />
+																																					OPSM MIDLAND GATE<br />
+																																					Provider No=2E: 086486TH<br />
+																																					Sales Consultant: Rosanna
+                                                                           =
+                                                                         </=
+td>
+
+                                                                           =
+                                                                         <t=
+d width=3D=22239=22 valign=3D=22top=22 align=3D=22left=22 style=3D=22backgr=
+ound-color: =23ffffff; font-family: Verdana, Geneva, sans-serif; font-size:=
+ 11px; padding-right: 15px; text-align: left; color: =23545454;=22>
+																																					ABN: 26 000 025 758<br />
+																																					Telephone : (08) 9274 3565<br />
+																																					Receipt No=2E: 505308<br />
+																																					Receipt Date : 02/08/21
+                                                                           =
+                                                                         </=
+td>
+                                                                           =
+                                                                     </tr>
+                                                                           =
+                                                                 </tbody>
+                                                                           =
+                                                             </table>
+                                                                           =
+                                                         </td>
+                                                                           =
+                                                     </tr>
+                                                                           =
+                                                 </tbody>
+                                                                           =
+                                             </table>
+                                                                           =
+                                         </td>
+                                                                           =
+                                     </tr>
+                                                                           =
+                                 </tbody>
+                                                                           =
+                     </table>
+
+                                                                           =
+                     <tr>
+                                                                           =
+                         <td width=3D=22560=22 valign=3D=22top=22 align=3D=
+=22center=22 style=3D=22background-color: =23ffffff;=22>
+                                                                           =
+                             <table width=3D=22560=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22 border=3D=220=22 align=3D=22center=22>
+                                                                           =
+                                 <tbody>
+                                                                           =
+                            =20
+                                                                           =
+                                     <tr>
+                                                                           =
+                                         <td width=3D=22560=22 valign=3D=22=
+top=22 align=3D=22left=22 style=3D=22background-color: =23ffffff; font-fami=
+ly: Verdana, Geneva, sans-serif; font-size: 11px; padding-right: 15px; text=
+-align: left; color: =23545454; padding-bottom: 8px; padding-top: 20px; bor=
+der-top-width: 1px; border-top-style: solid; border-top-color: =23cac9c6;=
+=22>
+                                                                           =
+                                         MR LUKE HAEUSLER<br />
+                                                                           =
+                                         5 DODDINGTON PL<br />
+                                                                           =
+                                         PARKERVILLE WA 6081<br />
+                                                                           =
+                                         Health Fund : HBF<br />
+                                                                           =
+                                     <br />
+                                                                           =
+                                         </td>
+
+                                                                           =
+                                         <=21-- Contact Lens sales -->
+
+
+                                                                           =
+                                         <=21-- Spectacles sales -->
+
+
+                                                                           =
+                                         <=21-- Consultation sales -->
+
+
+                                                                           =
+                                         <=21-- SUNDRY ITEMS sales -->
+
+
+                                                                           =
+                                 </tbody>
+                                                                           =
+                             </table>
+                                                                           =
+                         </td>
+                                                                           =
+                     </tr>
+
+                                                                           =
+                                         <tr>
+                                                                           =
+                                             <td width=3D=22560=22 valign=
+=3D=22top=22 align=3D=22center=22 style=3D=22background-color: =23ffffff;=
+=22>
+                                                                           =
+                                                 <table width=3D=22560=22 c=
+ellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 align=3D=22cent=
+er=22>
+                                                                           =
+                                                     <tbody>
+                                                                           =
+                                                         <tr valign=3D=22bo=
+ttom=22>
+                                                                           =
+                                                             <td width=3D=
+=22280=22 align=3D=22left=22 style=3D=22background-color: =23ffffff; font-f=
+amily: Verdana, Geneva, sans-serif; font-size: 11px; padding-right: 15px; t=
+ext-align: left; color: =23545454; padding-bottom: 8px;=22>
+                                                                           =
+                                                         <strong>Job =23: <=
+/strong>312804<br />
+                                                                           =
+                                                         <strong>Sale No=2E=
+: </strong>B361S000477132<br />
+                                                                           =
+                                                         <strong>Order Date=
+: </strong>19/07/21<br />
+                                                                           =
+                                                         <strong>Delivered:=
+ </strong>02/08/21<br />
+                                                                           =
+                                                         <strong>Plan: </st=
+rong>C2230<br />
+                                                                           =
+                                         </td>
+                                                                           =
+                                                         </tr>
+                                                                           =
+                                                     </tbody>
+                                                                           =
+                                                 </table>
+                                                                           =
+                                             </td>
+                                                                           =
+                     </tr>
+
+                                                                           =
+                     <tr>
+                                                                           =
+                         <td width=3D=22560=22 valign=3D=22top=22 align=3D=
+=22center=22 style=3D=22background-color: =23ffffff;=22>
+                                                                           =
+                             <table width=3D=22560=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22 border=3D=220=22 align=3D=22center=22>
+                                                                           =
+                                 <tbody>
+                                                                           =
+                                     <tr>
+                                                                           =
+                                         <td width=3D=22278=22 valign=3D=22=
+middle=22 align=3D=22left=22 style=3D=22background-color: =237f8283; border=
+-right-width: 1px; border-right-style: solid; border-right-color: =23ffffff=
+; color: =23ffffff; font-family: Verdana, Geneva, sans-serif; font-size: 11=
+px; font-weight: bold; padding-bottom: 6px; padding-left: 10px; padding-top=
+: 6px; text-align: left;=22>Description</td>
+                                                                           =
+                                         <td valign=3D=22middle=22 align=3D=
+=22center=22 style=3D=22background-color: =237f8283; border-right-width: 1p=
+x; border-right-style: solid; border-right-color: =23ffffff; color: =23ffff=
+ff; font-family: Verdana, Geneva, sans-serif; font-size: 11px; font-weight:=
+ bold; padding-bottom: 6px; padding-top: 6px; text-align: center;=22>Qty</t=
+d>
+                                                                           =
+                                         <td width=3D=2273=22 valign=3D=22m=
+iddle=22 align=3D=22center=22 style=3D=22background-color: =237f8283; borde=
+r-right-width: 1px; border-right-style: solid; border-right-color: =23fffff=
+f; color: =23ffffff; font-family: Verdana, Geneva, sans-serif; font-size: 1=
+1px; font-weight: bold; padding-bottom: 6px; padding-top: 6px; text-align: =
+center;=22>Retail
+                                                                           =
+                                             <br />
+                                                                           =
+                                             Price</td>
+                                                                           =
+                                         <td width=3D=2268=22 valign=3D=22m=
+iddle=22 align=3D=22center=22 style=3D=22background-color: =237f8283; borde=
+r-right-width: 1px; border-right-style: solid; border-right-color: =23fffff=
+f; color: =23ffffff; font-family: Verdana, Geneva, sans-serif; font-size: 1=
+1px; font-weight: bold; padding-bottom: 6px; padding-top: 6px; text-align: =
+center;=22>Discount</td>
+                                                                           =
+                                         <td width=3D=2278=22 valign=3D=22m=
+iddle=22 align=3D=22center=22 style=3D=22background-color: =237f8283; borde=
+r-right-width: 1px; border-right-style: solid; border-right-color: =23fffff=
+f; color: =23ffffff; font-family: Verdana, Geneva, sans-serif; font-size: 1=
+1px; font-weight: bold; padding-bottom: 6px; padding-top: 6px; text-align: =
+center;=22>Final
+                                                                           =
+                                             <br />
+                                                                           =
+                                             Price</td>
+                                                                           =
+                                         <td valign=3D=22middle=22 align=3D=
+=22center=22 style=3D=22background-color: =237f8283; color: =23ffffff; font=
+-family: Verdana, Geneva, sans-serif; font-size: 11px; font-weight: bold; p=
+adding-bottom: 6px; padding-top: 6px; text-align: center;=22>GST</td>
+                                                                           =
+                                     </tr>
+
+                                                                           =
+                                             <tr valign=3D=22middle=22 styl=
+e=3D=22background-color: =23f2f1f1;=22>
+                                                                           =
+                                                 <td width=3D=22278=22 alig=
+n=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fo=
+nt-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-left: 10px; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                                 SW06 MED Essilor (15236700=
+01)
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                                 1
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2273=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                                 =24&nbsp;55=2E00
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2268=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                                 =24&nbsp;0=2E00
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2278=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                                 =24&nbsp;55=2E00
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                                 Y
+                                                                           =
+                                             </td>
+                                                                           =
+                                     </tr>
+                                                                           =
+                                             <tr valign=3D=22middle=22 styl=
+e=3D=22background-color: =23f2f1f1;=22>
+                                                                           =
+                                                 <td width=3D=22278=22 alig=
+n=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fo=
+nt-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-left: 10px; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                                 Polycarb SINGLE VISION ASPH
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                                 2
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2273=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                                 =24&nbsp;335=2E00
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2268=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                                 =24&nbsp;0=2E00
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2278=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                                 =24&nbsp;335=2E00
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                                 N
+                                                                           =
+                                             </td>
+                                                                           =
+                                     </tr>
+                                                                           =
+                                             <tr valign=3D=22middle=22 styl=
+e=3D=22background-color: =23f2f1f1;=22>
+                                                                           =
+                                                 <td width=3D=22278=22 alig=
+n=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fo=
+nt-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-left: 10px; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                                 TR8 GRY
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2273=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2268=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2278=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                     </tr>
+                                                                           =
+                                             <tr valign=3D=22middle=22 styl=
+e=3D=22background-color: =23f2f1f1;=22>
+                                                                           =
+                                                 <td width=3D=22278=22 alig=
+n=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fo=
+nt-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-left: 10px; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                                 INVISIBLES UV DUAL SIDE-P
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2273=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2268=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2278=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                     </tr>
+                                                                           =
+                                             <tr valign=3D=22middle=22 styl=
+e=3D=22background-color: =23f2f1f1;=22>
+                                                                           =
+                                                 <td width=3D=22278=22 alig=
+n=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fo=
+nt-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-left: 10px; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                                 SAFETY CERTIFICATION
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2273=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2268=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2278=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                     </tr>
+
+
+                                                                           =
+                                             <tr valign=3D=22middle=22 styl=
+e=3D=22background-color: =23f2f1f1;=22>
+
+                                                                           =
+                                             <td width=3D=22278=22 align=3D=
+=22left=22 style=3D=22font-weight:bold;background-color: =23f2f1f1; color: =
+=231f1f1f; font-family: Verdana, Geneva, sans-serif; font-size: 11px; text-=
+align: left; border-right-width: 1px; border-right-style: solid; border-rig=
+ht-color: =23ffffff; padding-left: 10px; padding-top: 7px; padding-bottom: =
+7px; white-space: nowrap;=22>
+                                                                           =
+                                                 Sale Total
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-top: 7px; padding-bottom: 7px;=22></td>
+                                                                           =
+                                                 <td width=3D=2273=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; b=
+order-right-width: 1px; border-right-style: solid; border-right-color: =23f=
+fffff; padding-top: 7px; padding-bottom: 7px; padding-left: 10px;=22></td>
+                                                                           =
+                                                 <td width=3D=2268=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; b=
+order-right-width: 1px; border-right-style: solid; border-right-color: =23f=
+fffff; padding-top: 7px; padding-bottom: 7px; padding-left: 10px;=22></td>
+                                                                           =
+                                                 <td width=3D=2278=22 align=
+=3D=22left=22 style=3D=22font-weight:bold;background-color: =23f2f1f1; colo=
+r: =231f1f1f; font-family: Verdana, Geneva, sans-serif; font-size: 11px; te=
+xt-align: right; border-right-width: 1px; border-right-style: solid; border=
+-right-color: =23ffffff; padding-top: 7px; padding-bottom: 7px; padding-rig=
+ht: 15px; white-space: nowrap;=22>
+                                                                           =
+                                                     =24&nbsp;390=2E00
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; padding-top: 7px; padding-bottom: 7px;=22></td>
+                                                                           =
+                                     </tr>
+                                                                           =
+                                             <tr valign=3D=22middle=22 styl=
+e=3D=22background-color: =23f2f1f1;=22>
+
+                                                                           =
+                                             <td width=3D=22278=22 align=3D=
+=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; font-f=
+amily: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; bord=
+er-right-width: 1px; border-right-style: solid; border-right-color: =23ffff=
+ff; padding-left: 10px; padding-top: 7px; padding-bottom: 7px; white-space:=
+ nowrap;=22>
+                                                                           =
+                                                 Less previous payments
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-top: 7px; padding-bottom: 7px;=22></td>
+                                                                           =
+                                                 <td width=3D=2273=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; b=
+order-right-width: 1px; border-right-style: solid; border-right-color: =23f=
+fffff; padding-top: 7px; padding-bottom: 7px; padding-left: 10px;=22></td>
+                                                                           =
+                                                 <td width=3D=2268=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; b=
+order-right-width: 1px; border-right-style: solid; border-right-color: =23f=
+fffff; padding-top: 7px; padding-bottom: 7px; padding-left: 10px;=22></td>
+                                                                           =
+                                                 <td width=3D=2278=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px; white-s=
+pace: nowrap;=22>
+                                                                           =
+                                                     =24&nbsp;390=2E00
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; padding-top: 7px; padding-bottom: 7px;=22></td>
+                                                                           =
+                                     </tr>
+                                                                           =
+                                             <tr valign=3D=22middle=22 styl=
+e=3D=22background-color: =23f2f1f1;=22>
+
+                                                                           =
+                                             <td width=3D=22278=22 align=3D=
+=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; font-f=
+amily: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; bord=
+er-right-width: 1px; border-right-style: solid; border-right-color: =23ffff=
+ff; padding-left: 10px; padding-top: 7px; padding-bottom: 7px; white-space:=
+ nowrap;=22>
+                                                                           =
+                                                 Balance owing
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-top: 7px; padding-bottom: 7px;=22></td>
+                                                                           =
+                                                 <td width=3D=2273=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; b=
+order-right-width: 1px; border-right-style: solid; border-right-color: =23f=
+fffff; padding-top: 7px; padding-bottom: 7px; padding-left: 10px;=22></td>
+                                                                           =
+                                                 <td width=3D=2268=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; b=
+order-right-width: 1px; border-right-style: solid; border-right-color: =23f=
+fffff; padding-top: 7px; padding-bottom: 7px; padding-left: 10px;=22></td>
+                                                                           =
+                                                 <td width=3D=2278=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px; white-s=
+pace: nowrap;=22>
+                                                                           =
+                                                     =24&nbsp;0=2E00
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; padding-top: 7px; padding-bottom: 7px;=22></td>
+                                                                           =
+                                     </tr>
+
+                                                                           =
+                                             <tr>
+                                                                           =
+                                                 <td width=3D=22278=22 alig=
+n=3D=22right=22 style=3D=22background-color: =23f2f1f1; color: =23545454; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left;=
+ border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-left: 30px; padding-top: 7px; padding-right: 5px; paddin=
+g-bottom: 7px;font-style: italic;=22>
+                                                                           =
+                                                     Includes GST: =24 5=2E=
+00
+                                                                           =
+                                                 </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-top: 7px; padding-bottom: 7px;=22></td>
+                                                                           =
+                                                 <td width=3D=2273=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; b=
+order-right-width: 1px; border-right-style: solid; border-right-color: =23f=
+fffff; padding-top: 7px; padding-bottom: 7px; padding-left: 10px;=22></td>
+                                                                           =
+                                                 <td width=3D=2268=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; b=
+order-right-width: 1px; border-right-style: solid; border-right-color: =23f=
+fffff; padding-top: 7px; padding-bottom: 7px; padding-left: 10px;=22></td>
+                                                                           =
+                                                 <td width=3D=2278=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; b=
+order-right-width: 1px; border-right-style: solid; border-right-color: =23f=
+fffff; padding-top: 7px; padding-bottom: 7px; padding-left: 10px;=22></td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right=
+; padding-top: 7px; padding-bottom: 7px;=22></td>
+                                                                           =
+                                     </tr>
+
+                                                                           =
+                                         </tbody>
+                                                                           =
+                             </table>
+                                                                           =
+                         </td>
+                                                                           =
+                     </tr>
+
+                                                                           =
+                     <tr>
+                                                                           =
+                         <td width=3D=22560=22 height=3D=2220=22 style=3D=
+=22background-color: =23ffffff; font-size: 0%;=22>
+                                                                           =
+                             <img width=3D=221=22 height=3D=221=22 border=
+=3D=220=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimag=
+es/luxottica001/contentlibrary/opsm/images/OPSM-Template_spacer=2Egif=22 st=
+yle=3D=22display: block; font-size: 0%;=22 />
+                                                                           =
+                         </td>
+                                                                           =
+                     </tr>
+                                                                           =
+                                         <tr>
+                                                                           =
+                                             <td width=3D=22560=22 valign=
+=3D=22top=22 align=3D=22center=22 style=3D=22background-color: =23ffffff;=
+=22>
+                                                                           =
+                                                 <table width=3D=22560=22 c=
+ellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 align=3D=22cent=
+er=22>
+                                                                           =
+                                                     <tbody>
+                                                                           =
+                                                         <tr valign=3D=22bo=
+ttom=22>
+                                                                           =
+                                                             <td width=3D=
+=22280=22 align=3D=22left=22 style=3D=22background-color: =23ffffff; font-f=
+amily: Verdana, Geneva, sans-serif; font-size: 11px; padding-right: 15px; t=
+ext-align: left; color: =23545454; padding-bottom: 8px;=22>
+                                                                           =
+                                                         <strong>Job =23: <=
+/strong>312805<br />
+                                                                           =
+                                                         <strong>Sale No=2E=
+: </strong>B361S000477133<br />
+                                                                           =
+                                                         <strong>Order Date=
+: </strong>19/07/21<br />
+                                                                           =
+                                                         <strong>Delivered:=
+ </strong>02/08/21<br />
+                                                                           =
+                                         </td>
+                                                                           =
+                                                         </tr>
+                                                                           =
+                                                     </tbody>
+                                                                           =
+                                                 </table>
+                                                                           =
+                                             </td>
+                                                                           =
+                     </tr>
+
+                                                                           =
+                     <tr>
+                                                                           =
+                         <td width=3D=22560=22 valign=3D=22top=22 align=3D=
+=22center=22 style=3D=22background-color: =23ffffff;=22>
+                                                                           =
+                             <table width=3D=22560=22 cellspacing=3D=220=22=
+ cellpadding=3D=220=22 border=3D=220=22 align=3D=22center=22>
+                                                                           =
+                                 <tbody>
+                                                                           =
+                                     <tr>
+                                                                           =
+                                         <td width=3D=22278=22 valign=3D=22=
+middle=22 align=3D=22left=22 style=3D=22background-color: =237f8283; border=
+-right-width: 1px; border-right-style: solid; border-right-color: =23ffffff=
+; color: =23ffffff; font-family: Verdana, Geneva, sans-serif; font-size: 11=
+px; font-weight: bold; padding-bottom: 6px; padding-left: 10px; padding-top=
+: 6px; text-align: left;=22>Description</td>
+                                                                           =
+                                         <td valign=3D=22middle=22 align=3D=
+=22center=22 style=3D=22background-color: =237f8283; border-right-width: 1p=
+x; border-right-style: solid; border-right-color: =23ffffff; color: =23ffff=
+ff; font-family: Verdana, Geneva, sans-serif; font-size: 11px; font-weight:=
+ bold; padding-bottom: 6px; padding-top: 6px; text-align: center;=22>Qty</t=
+d>
+                                                                           =
+                                         <td width=3D=2273=22 valign=3D=22m=
+iddle=22 align=3D=22center=22 style=3D=22background-color: =237f8283; borde=
+r-right-width: 1px; border-right-style: solid; border-right-color: =23fffff=
+f; color: =23ffffff; font-family: Verdana, Geneva, sans-serif; font-size: 1=
+1px; font-weight: bold; padding-bottom: 6px; padding-top: 6px; text-align: =
+center;=22>Retail
+                                                                           =
+                                             <br />
+                                                                           =
+                                             Price</td>
+                                                                           =
+                                         <td width=3D=2268=22 valign=3D=22m=
+iddle=22 align=3D=22center=22 style=3D=22background-color: =237f8283; borde=
+r-right-width: 1px; border-right-style: solid; border-right-color: =23fffff=
+f; color: =23ffffff; font-family: Verdana, Geneva, sans-serif; font-size: 1=
+1px; font-weight: bold; padding-bottom: 6px; padding-top: 6px; text-align: =
+center;=22>Discount</td>
+                                                                           =
+                                         <td width=3D=2278=22 valign=3D=22m=
+iddle=22 align=3D=22center=22 style=3D=22background-color: =237f8283; borde=
+r-right-width: 1px; border-right-style: solid; border-right-color: =23fffff=
+f; color: =23ffffff; font-family: Verdana, Geneva, sans-serif; font-size: 1=
+1px; font-weight: bold; padding-bottom: 6px; padding-top: 6px; text-align: =
+center;=22>Final
+                                                                           =
+                                             <br />
+                                                                           =
+                                             Price</td>
+                                                                           =
+                                         <td valign=3D=22middle=22 align=3D=
+=22center=22 style=3D=22background-color: =237f8283; color: =23ffffff; font=
+-family: Verdana, Geneva, sans-serif; font-size: 11px; font-weight: bold; p=
+adding-bottom: 6px; padding-top: 6px; text-align: center;=22>GST</td>
+                                                                           =
+                                     </tr>
+
+                                                                           =
+                                             <tr valign=3D=22middle=22 styl=
+e=3D=22background-color: =23f2f1f1;=22>
+                                                                           =
+                                                 <td width=3D=22278=22 alig=
+n=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fo=
+nt-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-left: 10px; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                                 AX1036 Armani Exchange (15=
+23344002)
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                                 1
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2273=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                                 =24&nbsp;126=2E00
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2268=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                                 =24&nbsp;66=2E00
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2278=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                                 =24&nbsp;60=2E00
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                                 Y
+                                                                           =
+                                             </td>
+                                                                           =
+                                     </tr>
+                                                                           =
+                                             <tr valign=3D=22middle=22 styl=
+e=3D=22background-color: =23f2f1f1;=22>
+                                                                           =
+                                                 <td width=3D=22278=22 alig=
+n=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fo=
+nt-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-left: 10px; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                                 Plast 1=2E49 SINGLE VISION=
+ HC
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                                 2
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2273=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                                 =24&nbsp;350=2E00
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2268=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                                 =24&nbsp;100=2E00
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2278=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                                 =24&nbsp;250=2E00
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                                 N
+                                                                           =
+                                             </td>
+                                                                           =
+                                     </tr>
+                                                                           =
+                                             <tr valign=3D=22middle=22 styl=
+e=3D=22background-color: =23f2f1f1;=22>
+                                                                           =
+                                                 <td width=3D=22278=22 alig=
+n=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fo=
+nt-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-left: 10px; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                                 TR8 GRY
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2273=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2268=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2278=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                     </tr>
+                                                                           =
+                                             <tr valign=3D=22middle=22 styl=
+e=3D=22background-color: =23f2f1f1;=22>
+                                                                           =
+                                                 <td width=3D=22278=22 alig=
+n=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fo=
+nt-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-left: 10px; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                                 INVISIBLES ULTRA DUAL SIDE=
+-P
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2273=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2268=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2278=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px;white-sp=
+ace: nowrap;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; padding-top: 7px; padding-bottom: 7px;=22>
+                                                                           =
+                                             </td>
+                                                                           =
+                                     </tr>
+
+
+                                                                           =
+                                             <tr valign=3D=22middle=22 styl=
+e=3D=22background-color: =23f2f1f1;=22>
+
+                                                                           =
+                                             <td width=3D=22278=22 align=3D=
+=22left=22 style=3D=22font-weight:bold;background-color: =23f2f1f1; color: =
+=231f1f1f; font-family: Verdana, Geneva, sans-serif; font-size: 11px; text-=
+align: left; border-right-width: 1px; border-right-style: solid; border-rig=
+ht-color: =23ffffff; padding-left: 10px; padding-top: 7px; padding-bottom: =
+7px; white-space: nowrap;=22>
+                                                                           =
+                                                 Sale Total
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-top: 7px; padding-bottom: 7px;=22></td>
+                                                                           =
+                                                 <td width=3D=2273=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; b=
+order-right-width: 1px; border-right-style: solid; border-right-color: =23f=
+fffff; padding-top: 7px; padding-bottom: 7px; padding-left: 10px;=22></td>
+                                                                           =
+                                                 <td width=3D=2268=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; b=
+order-right-width: 1px; border-right-style: solid; border-right-color: =23f=
+fffff; padding-top: 7px; padding-bottom: 7px; padding-left: 10px;=22></td>
+                                                                           =
+                                                 <td width=3D=2278=22 align=
+=3D=22left=22 style=3D=22font-weight:bold;background-color: =23f2f1f1; colo=
+r: =231f1f1f; font-family: Verdana, Geneva, sans-serif; font-size: 11px; te=
+xt-align: right; border-right-width: 1px; border-right-style: solid; border=
+-right-color: =23ffffff; padding-top: 7px; padding-bottom: 7px; padding-rig=
+ht: 15px; white-space: nowrap;=22>
+                                                                           =
+                                                     =24&nbsp;310=2E00
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; padding-top: 7px; padding-bottom: 7px;=22></td>
+                                                                           =
+                                     </tr>
+                                                                           =
+                                             <tr valign=3D=22middle=22 styl=
+e=3D=22background-color: =23f2f1f1;=22>
+
+                                                                           =
+                                             <td width=3D=22278=22 align=3D=
+=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; font-f=
+amily: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; bord=
+er-right-width: 1px; border-right-style: solid; border-right-color: =23ffff=
+ff; padding-left: 10px; padding-top: 7px; padding-bottom: 7px; white-space:=
+ nowrap;=22>
+                                                                           =
+                                                 Less previous payments
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-top: 7px; padding-bottom: 7px;=22></td>
+                                                                           =
+                                                 <td width=3D=2273=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; b=
+order-right-width: 1px; border-right-style: solid; border-right-color: =23f=
+fffff; padding-top: 7px; padding-bottom: 7px; padding-left: 10px;=22></td>
+                                                                           =
+                                                 <td width=3D=2268=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; b=
+order-right-width: 1px; border-right-style: solid; border-right-color: =23f=
+fffff; padding-top: 7px; padding-bottom: 7px; padding-left: 10px;=22></td>
+                                                                           =
+                                                 <td width=3D=2278=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px; white-s=
+pace: nowrap;=22>
+                                                                           =
+                                                     =24&nbsp;310=2E00
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; padding-top: 7px; padding-bottom: 7px;=22></td>
+                                                                           =
+                                     </tr>
+                                                                           =
+                                             <tr valign=3D=22middle=22 styl=
+e=3D=22background-color: =23f2f1f1;=22>
+
+                                                                           =
+                                             <td width=3D=22278=22 align=3D=
+=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; font-f=
+amily: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; bord=
+er-right-width: 1px; border-right-style: solid; border-right-color: =23ffff=
+ff; padding-left: 10px; padding-top: 7px; padding-bottom: 7px; white-space:=
+ nowrap;=22>
+                                                                           =
+                                                 Balance owing
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-top: 7px; padding-bottom: 7px;=22></td>
+                                                                           =
+                                                 <td width=3D=2273=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; b=
+order-right-width: 1px; border-right-style: solid; border-right-color: =23f=
+fffff; padding-top: 7px; padding-bottom: 7px; padding-left: 10px;=22></td>
+                                                                           =
+                                                 <td width=3D=2268=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; b=
+order-right-width: 1px; border-right-style: solid; border-right-color: =23f=
+fffff; padding-top: 7px; padding-bottom: 7px; padding-left: 10px;=22></td>
+                                                                           =
+                                                 <td width=3D=2278=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right; =
+border-right-width: 1px; border-right-style: solid; border-right-color: =23=
+ffffff; padding-top: 7px; padding-bottom: 7px; padding-right: 15px; white-s=
+pace: nowrap;=22>
+                                                                           =
+                                                     =24&nbsp;0=2E00
+                                                                           =
+                                             </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; padding-top: 7px; padding-bottom: 7px;=22></td>
+                                                                           =
+                                     </tr>
+
+                                                                           =
+                                             <tr>
+                                                                           =
+                                                 <td width=3D=22278=22 alig=
+n=3D=22right=22 style=3D=22background-color: =23f2f1f1; color: =23545454; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left;=
+ border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-left: 30px; padding-top: 7px; padding-right: 5px; paddin=
+g-bottom: 7px;font-style: italic;=22>
+                                                                           =
+                                                     Includes GST: =24 5=2E=
+45
+                                                                           =
+                                                 </td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: cente=
+r; border-right-width: 1px; border-right-style: solid; border-right-color: =
+=23ffffff; padding-top: 7px; padding-bottom: 7px;=22></td>
+                                                                           =
+                                                 <td width=3D=2273=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; b=
+order-right-width: 1px; border-right-style: solid; border-right-color: =23f=
+fffff; padding-top: 7px; padding-bottom: 7px; padding-left: 10px;=22></td>
+                                                                           =
+                                                 <td width=3D=2268=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; b=
+order-right-width: 1px; border-right-style: solid; border-right-color: =23f=
+fffff; padding-top: 7px; padding-bottom: 7px; padding-left: 10px;=22></td>
+                                                                           =
+                                                 <td width=3D=2278=22 align=
+=3D=22left=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; fon=
+t-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left; b=
+order-right-width: 1px; border-right-style: solid; border-right-color: =23f=
+fffff; padding-top: 7px; padding-bottom: 7px; padding-left: 10px;=22></td>
+                                                                           =
+                                                 <td width=3D=2231=22 align=
+=3D=22center=22 style=3D=22background-color: =23f2f1f1; color: =231f1f1f; f=
+ont-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: right=
+; padding-top: 7px; padding-bottom: 7px;=22></td>
+                                                                           =
+                                     </tr>
+
+                                                                           =
+                                         </tbody>
+                                                                           =
+                             </table>
+                                                                           =
+                         </td>
+                                                                           =
+                     </tr>
+
+                                                                           =
+                     <tr>
+                                                                           =
+                         <td width=3D=22560=22 height=3D=2220=22 style=3D=
+=22background-color: =23ffffff; font-size: 0%;=22>
+                                                                           =
+                             <img width=3D=221=22 height=3D=221=22 border=
+=3D=220=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimag=
+es/luxottica001/contentlibrary/opsm/images/OPSM-Template_spacer=2Egif=22 st=
+yle=3D=22display: block; font-size: 0%;=22 />
+                                                                           =
+                         </td>
+                                                                           =
+                     </tr>
+                                                                           =
+                               																						<tr>
+                                                                           =
+                     <td valign=3D=22top=22 align=3D=22center=22 style=3D=
+=22background-color: =23ffffff;=22>
+                                                                           =
+                         <table width=3D=22560=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22 border=3D=220=22 align=3D=22center=22>
+                                                                           =
+                             <tbody>
+                                                                           =
+                                 <tr>
+                                                                           =
+                                     <td width=3D=22560=22 align=3D=22cente=
+r=22 style=3D=22padding-bottom: 20px; padding-top: 20px; border-top-width: =
+1px; border-top-style: solid; border-top-color: =23cac9c6;=22>
+                                                                           =
+                                         <table width=3D=22560=22 cellspaci=
+ng=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 align=3D=22center=22>
+                                                                           =
+                                             <tbody>
+                                                                           =
+                                                 <tr>
+                                                                           =
+                                                     <td width=3D=22321=22 =
+valign=3D=22top=22 align=3D=22left=22 style=3D=22background-color: =23fffff=
+f; font-family: Verdana, Geneva, sans-serif; font-size: 13px; text-align: l=
+eft; color: =23545454;=22>
+                                                                           =
+                                                         <table width=3D=22=
+321=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 align=
+=3D=22left=22>
+                                                                           =
+                                                             <tbody>
+                                                                           =
+                                                                 <tr>
+                                                                           =
+                                                                     <td wi=
+dth=3D=22560=22 valign=3D=22top=22 align=3D=22left=22 style=3D=22background=
+-color: =23ffffff; color: =231f1f1f; font-family: 'Trebuchet MS', Arial, He=
+lvetica, sans-serif; font-size: 14px; text-align: left; font-weight: bold;=
+=22>PAYMENT
+                                                                           =
+                                                                         DE=
+TAILS</td>
+                                                                           =
+                                                                 </tr>
+                                                                           =
+                                                             </tbody>
+                                                                           =
+                                                         </table>
+                                                                           =
+                                                     </td>
+                                                                           =
+                                                     <td width=3D=22239=22 =
+valign=3D=22top=22 align=3D=22left=22>
+                                                                           =
+                                                         <table width=3D=22=
+239=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 align=
+=3D=22right=22>
+                                                                           =
+                                                             <tbody>
+                                                                           =
+                                                                 <tr>
+                                                                           =
+                                                                     <td wi=
+dth=3D=22239=22 style=3D=22background-color: =23ffffff; font-family: Verdan=
+a, Geneva, sans-serif; font-size: 11px; padding-right: 15px; text-align: le=
+ft; color: =23545454; padding-bottom: 5px;=22>
+                                                                           =
+                                                                         <s=
+trong>Receipt Number: </strong>505308
+                                                                           =
+                                 </td>
+                                                                           =
+                                                                 </tr>
+                                                                           =
+                                                                 <tr>
+                                                                           =
+                                                                     <td wi=
+dth=3D=22239=22 style=3D=22padding-bottom: 7px;=22>
+                                                                           =
+                                                                         <t=
+able width=3D=22239=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=
+=3D=220=22>
+																																									<tbody>
+                                                                           =
+                                 </tbody>
+                                                                           =
+                                                                         </=
+table>
+                                                                           =
+                                                                     </td>
+                                                                           =
+                                                                 </tr>
+                                                                           =
+                                                                 <tr>
+                                                                           =
+                                                                     <td wi=
+dth=3D=22239=22 height=3D=221=22 style=3D=22background-color: =23cac9c6; fo=
+nt-size: 0%;=22><img width=3D=221=22 height=3D=221=22 border=3D=220=22 src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/luxottica00=
+1/contentlibrary/opsm/images/OPSM-Template_spacer=2Egif=22 style=3D=22displ=
+ay: block; font-size: 0%;=22 /></td>
+                                                                           =
+                                                                 </tr>
+                                                                           =
+                                                                 <tr>
+                                                                           =
+                                                                     <td wi=
+dth=3D=22239=22 style=3D=22padding-top: 5px;=22>
+                                                                           =
+                                                                         <t=
+able width=3D=22239=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=
+=3D=220=22>
+																																									<tbody>
+																																										<tr>
+																																											<td width=3D=22162=22 valign=3D=
+=22top=22 style=3D=22background-color: =23ffffff; font-family: Verdana, Gen=
+eva, sans-serif; font-size: 11px; padding-right: 15px; text-align: left; co=
+lor: =23545454; line-height: 16px;=22>Total Paid</td>
+																																											<td width=3D=2277=22 valign=3D=
+=22top=22 style=3D=22background-color: =23ffffff; font-family: Verdana, Gen=
+eva, sans-serif; font-size: 11px; text-align: right; color: =23545454; line=
+-height: 16px;white-space: nowrap;=22>
+
+                                                                           =
+                                 =24&nbsp;0=2E00
+                                                                           =
+                                 </td>
+																																										</tr>
+																																									</tbody>
+                                                                           =
+                                                                         </=
+table>
+                                                                           =
+                                                                     </td>
+                                                                           =
+                                                                 </tr>
+                                                                           =
+                                                             </tbody>
+                                                                           =
+                                                         </table>
+                                                                           =
+                                                     </td>
+                                                                           =
+                                                 </tr>
+                                                                           =
+                                             </tbody>
+                                                                           =
+                                         </table>
+                                                                           =
+                                     </td>
+                                                                           =
+                                 </tr>
+                                                                           =
+                             </tbody>
+                                                                           =
+                         </table>
+                                                                           =
+                     </td>
+                                                                           =
+                     </tr>
+
+                                                                           =
+                     <=21-- TO BE CONFIRMED -->
+
+                                                                           =
+                     <=21-- EPP -->
+
+                                                                           =
+                                 <=21-- DONATION -->
+
+                                                                           =
+                             </div>
+                                                                           =
+             </td>
+                                                                           =
+         </tr>
+                                                                           =
+         <tr>
+                                                                           =
+             <td width=3D=22594=22 align=3D=22center=22 valign=3D=22top=22>
+                                                                           =
+                 <div contentid=3D=229059=22 isdc=3D=22false=22 isdl=3D=22f=
+alse=22 islocked=3D=22false=22 hasbeenlocalized=3D=22false=22 canunlock=3D=
+=22true=22 cellkey=3D=22Content Area 2=22 contentname=3D=22=22 issurvey=3D=
+=22false=22 haserror=3D=22false=22 canmodify=3D=22true=22 orientation=3D=22=
+13=22 isab=3D=22false=22
+                                                                           =
+                      class=3D=22contentcell=22 onmouseover=3D=22parent=2EC=
+ellOver(this, event);=22 onmouseout=3D=22parent=2ECellOut(this, event);=22 =
+onclick=3D=22parent=2ECellClick(this, event);=22 onmousemove=3D=22parent=2E=
+CellFollow(event)=22>
+                                                                           =
+                     <table width=3D=22100%=22 border=3D=220=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22>
+                                                                           =
+                         <tbody>
+                                                                           =
+                             <tr>
+                                                                           =
+                                 <td style=3D=22font-family:Arial; font-siz=
+e:13px=22>
+                                                                           =
+                                     <table width=3D=22560=22 cellspacing=
+=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 align=3D=22center=22>
+                                                                           =
+                                         <tbody>
+                                                                           =
+                                             <tr>
+                                                                           =
+                                                 <td width=3D=22560=22 vali=
+gn=3D=22top=22 align=3D=22center=22 style=3D=22background-color: =23ffffff;=
+=22>
+                                                                           =
+                                                     <table width=3D=22560=
+=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 align=3D=
+=22center=22>
+                                                                           =
+                                                         <tbody>
+                                                                           =
+                                                             <tr>
+                                                                           =
+                                                                 <td width=
+=3D=22560=22 valign=3D=22middle=22 align=3D=22center=22 style=3D=22padding-=
+top: 20px; padding-bottom: 10px; border-top: 1px solid =23cac9c6;=22>
+                                                                           =
+                                                                     <table=
+ width=3D=22560=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=22=
+0=22 align=3D=22left=22 style=3D=22background-color: =23f1f1f1;=22>
+                                                                           =
+                                                                         <t=
+body>
+																																	<tr>
+                                                                           =
+                                                             <td width=3D=
+=22190=22 valign=3D=22middle=22 bgcolor=3D=22=23F1F1F1=22 align=3D=22right=
+=22 style=3D=22background-color: =23f1f1f1; color: =231f1f1f; font-family: =
+'Arial Black',Gadget,sans-serif; font-size: 17px; padding-bottom: 20px; pad=
+ding-top: 20px; padding-right: 10px; text-align: right;=22>
+                                                                           =
+                                                                 <table wid=
+th=3D=22160=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22=
+ align=3D=22right=22>
+                                                                           =
+                                                                     <tbody>
+                                                                           =
+                                                                         <t=
+r>
+																																						<td><img width=3D=22160=22 height=3D=
+=22160=22 border=3D=220=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/=
+i5/responsysimages/luxottica001/contentlibrary/opsm/images/OPSM-Receipt_Cle=
+anAdjust=2Ejpg=22 style=3D=22display: block;=22></td>
+                                                                           =
+                                                                         </=
+tr>
+                                                                           =
+                                                                     </tbod=
+y>
+                                                                           =
+                                                                 </table>
+                                                                           =
+                                                             </td>
+                                                                           =
+                                                             <td width=3D=
+=22370=22 valign=3D=22middle=22 bgcolor=3D=22=23F1F1F1=22 align=3D=22left=
+=22 style=3D=22background-color: =23f1f1f1;=22>
+                                                                           =
+                                                                 <table wid=
+th=3D=22355=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22=
+ align=3D=22right=22>
+                                                                           =
+                                                                     <tbody>
+                                                                           =
+                                                                         <t=
+r>
+																																						<td width=3D=22355=22 valign=3D=22top=
+=22 bgcolor=3D=22=23F1F1F1=22 align=3D=22left=22 style=3D=22background-colo=
+r: =23f1f1f1; padding-top:20px;=22><img width=3D=22219=22 height=3D=2258=22=
+ border=3D=220=22 alt=3D=22Lifetime Cleaning &amp; Adjustments=22 src=3D=22=
+https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/luxottica001/cont=
+entlibrary/opsm/images/OPSM-Receipt_Header_LifetimeCleaning=2Egif=22
+																																							  style=3D=22display: block;=22></td>
+                                                                           =
+                                                                         </=
+tr>
+                                                                           =
+                                                                         <t=
+r>
+																																						<td width=3D=22355=22 valign=3D=22top=
+=22 bgcolor=3D=22=23F1F1F1=22 align=3D=22left=22 style=3D=22background-colo=
+r: =23f1f1f1; color: =231f1f1f; font-family: Verdana,Geneva,sans-serif; fon=
+t-size: 12px; padding-right: 25px; text-align: left; padding-bottom:20px;=
+=22>By
+																																							choosing OPSM as your eye care partn=
+er, you are entitled to a complimentary lifetime glasses service=2E <strong=
+>We'll adjust and clean your glasses</strong> - that includes your sunglass=
+es too=21<br>
+																																							<br>
+																																							Simply come and visit us in store at=
+ OPSM and we will adjust your glasses for a comfortable fit=2E</td>
+                                                                           =
+                                                                         </=
+tr>
+                                                                           =
+                                                                     </tbod=
+y>
+                                                                           =
+                                                                 </table>
+                                                                           =
+                                                             </td>
+																																	</tr>
+                                                                           =
+                                                                         </=
+tbody>
+                                                                           =
+                                                                     </tabl=
+e>
+                                                                           =
+                                                                 </td>
+                                                                           =
+                                                             </tr>
+                                                                           =
+                                                         </tbody>
+                                                                           =
+                                                     </table>
+                                                                           =
+                                                 </td>
+                                                                           =
+                                             </tr>
+                                                                           =
+                                         </tbody>
+                                                                           =
+                                     </table>
+                                                                           =
+                                 </td>
+                                                                           =
+                             </tr>
+                                                                           =
+                         </tbody>
+                                                                           =
+                     </table>
+                                                                           =
+                 </div>
+                                                                           =
+             </td>
+                                                                           =
+         </tr>
+                                                                           =
+     </tbody>
+                                                                           =
+ </table>
+                                                                        </t=
+d>
+                                                                        <td=
+ width=3D=221=22 bgcolor=3D=22=23d5d5d5=22 style=3D=22font-size:0%;=22><img=
+ src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/luxotti=
+ca001/contentlibrary/opsm/images/OPSM-Template_spacer=2Egif=22 width=3D=221=
+=22 height=3D=221=22 style=3D=22display:block; font-size:0%;=22 border=3D=
+=220=22></td>
+                                                                        <td=
+ width=3D=221=22 bgcolor=3D=22=23e3e3e3=22 style=3D=22font-size:0%;=22><img=
+ src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/luxotti=
+ca001/contentlibrary/opsm/images/OPSM-Template_spacer=2Egif=22 width=3D=221=
+=22 height=3D=221=22 style=3D=22display:block; font-size:0%;=22 border=3D=
+=220=22></td>
+                                                                        <td=
+ width=3D=221=22 bgcolor=3D=22=23eeeeee=22 style=3D=22font-size:0%;=22><img=
+ src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/luxotti=
+ca001/contentlibrary/opsm/images/OPSM-Template_spacer=2Egif=22 width=3D=221=
+=22 height=3D=221=22 style=3D=22display:block; font-size:0%;=22 border=3D=
+=220=22></td>
+                                                                        <td=
+ width=3D=221=22 bgcolor=3D=22=23f7f7f7=22 style=3D=22font-size:0%;=22><img=
+ src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/luxotti=
+ca001/contentlibrary/opsm/images/OPSM-Template_spacer=2Egif=22 width=3D=221=
+=22 height=3D=221=22 style=3D=22display:block; font-size:0%;=22 border=3D=
+=220=22></td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td width=3D=22628=
+=22 height=3D=2210=22 align=3D=22center=22 style=3D=22font-size:0%;=22><img=
+ src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/luxotti=
+ca001/contentlibrary/opsm/images/OPSM-Template_gradient_btm=2Egif=22 width=
+=3D=22628=22 height=3D=2210=22 border=3D=220=22 style=3D=22display:block; f=
+ont-size:0%;=22></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width=3D=22628=22 align=3D=22ce=
+nter=22 valign=3D=22top=22 bgcolor=3D=22=23ffffff=22>
+                                            <table width=3D=22590=22 border=
+=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                                                <tbody>
+                                                    <tr>
+                                                        <td height=3D=2225=
+=22 bgcolor=3D=22=23ffffff=22 style=3D=22background-color: =23FFFFFF; color=
+: =23838383; font-family: Verdana,Geneva,sans-serif; font-size: 10px; paddi=
+ng-right: 5px; text-align: left; padding-bottom: 10px; padding-top: 8px; pa=
+dding-left: 1px;=22>OPSM
+                                                            collects your p=
+ersonal information in accordance with our <a href=3D=22https://em=2Eopsm=
+=2Ecom=2Eau/pub/cc?_ri_=3DX0Gzc2X%3DAQpglLjHJlYQGhMjKBzbzeWinqzdzeR6zdwS8mL=
+sFq5Obzgzgzatc0sPb4883mhu5HvoetYjW7fTVXtpKX%3DATSTTAY&amp;_ei_=3DEq2tf9zs59=
+idfPO1Sc_9BbmVAJfxWej0FodWLK9RVxYpmRuGgtXLVINRNtdLQNRmJkg0vtdRBH3Ox3XtWeCmD=
+7lIB2e8ZFSw4CFH9e1ABkLGSIBFsn89JU1wGJx7_jj5w7qNEax-87dz7UWHbNIH_N_o-Y84NeOM=
+wGEQqd7jTOe-BgoZkH6H2cTiZL936yS6KJuXGPg=2E&amp;_di_=3Docri1mgle66etl7pdetq5=
+c22sobu0325e2f2uihqmcdgevn7r5m0=22 title=3D=22privacy policy=22 target=3D=
+=22_blank=22 alias=3D=22privacy policy=22 style=3D=22color:=23838383; text-=
+decoration:underline;=22><span style=3D=22color:=23838383; text-decoration:=
+underline;=22>privacy
+                                                            policy</span></=
+a>=2E</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td width=3D=22590=
+=22 height=3D=2230=22 align=3D=22center=22 valign=3D=22middle=22 bgcolor=3D=
+=22=23ffffff=22 style=3D=22font-family:Verdana, Geneva, sans-serif; color:=
+=23cac9c6; font-size:11px; border-top-color:=23cac9c6; border-top-style:sol=
+id; border-top-width:1px; border-bottom-color:=23cac9c6; border-bottom-styl=
+e:solid; border-bottom-width:1px; text-align:center;=22><a
+										  href=3D=22https://em=2Eopsm=2Ecom=2Eau/pub/cc?_ri_=3DX0Gzc2X%3D=
+AQpglLjHJlYQGhMjKBzbzeWinqzdzeR6zdwS8mLsFq5Obzgzgzatc0sPb4883mhu5HvoetYjW7f=
+TVXtpKX%3DATSTTCY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9BbmVAJfxWej0FodWLK9RVxYpmR=
+uGgtXLVINRNtdLQNRmJkg0vtdRBH3Ox3XtWeCmD7lIB2e8ZFSw4CFH9e1ABkLGSIBFsn89JU1wG=
+Jx7_jj5w7qNEax-87dz7UWHbNIH_N_o-Y84NeOMwGEQqd7jTOe-BgoZkH6H2cTiZL936yS6KJuX=
+GPg=2E&amp;_di_=3Dpria08i7sk9hsngpdb10a0m4eemo8vr8etfq72gqjpe7q792feug=22 t=
+itle=3D=22Contact Us=22 target=3D=22_blank=22 alias=3D=22Footer Nav - Conta=
+ct Us=22 style=3D=22color:=2370abcc; font-weight:bold; text-decoration:none=
+;=22><span style=3D=22color:=2370abcc; font-weight:bold; text-decoration:no=
+ne;=22>Contact
+                                                            Us</span></a>&n=
+bsp; =7C &nbsp;<a href=3D=22https://em=2Eopsm=2Ecom=2Eau/pub/cc?_ri_=3DX0Gz=
+c2X%3DAQpglLjHJlYQGhMjKBzbzeWinqzdzeR6zdwS8mLsFq5Obzgzgzatc0sPb4883mhu5Hvoe=
+tYjW7fTVXtpKX%3DATSTURY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9BbmVAJfxWej0FodWLK9R=
+VxYpmRuGgtXLVINRNtdLQNRmJkg0vtdRBH3Ox3XtWeCmD7lIB2e8ZFSw4CFH9e1ABkLGSIBFsn8=
+9JU1wGJx7_jj5w7qNEax-87dz7UWHbNIH_N_o-Y84NeOMwGEQqd7jTOe-BgoZkH6H2cTiZL936y=
+S6KJuXGPg=2E&amp;_di_=3Dh925hls9smc5hi0rq698jcngiuauims1s181ebedm1vep10gvpr=
+0=22 title=3D=22FAQ's=22 target=3D=22_blank=22 alias=3D=22Footer Nav - FAQ'=
+s=22 style=3D=22color:=2370abcc; font-weight:bold; text-decoration:none;=22=
+><span style=3D=22color:=2370abcc; font-weight:bold; text-decoration:none;=
+=22>FAQ's</span></a>&nbsp;
+                                                            =7C &nbsp;<a hr=
+ef=3D=22https://em=2Eopsm=2Ecom=2Eau/pub/cc?_ri_=3DX0Gzc2X%3DAQpglLjHJlYQGh=
+MjKBzbzeWinqzdzeR6zdwS8mLsFq5Obzgzgzatc0sPb4883mhu5HvoetYjW7fTVXtpKX%3DATST=
+UTY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9BbmVAJfxWej0FodWLK9RVxYpmRuGgtXLVINRNtdL=
+QNRmJkg0vtdRBH3Ox3XtWeCmD7lIB2e8ZFSw4CFH9e1ABkLGSIBFsn89JU1wGJx7_jj5w7qNEax=
+-87dz7UWHbNIH_N_o-Y84NeOMwGEQqd7jTOe-BgoZkH6H2cTiZL936yS6KJuXGPg=2E&amp;_di=
+_=3D65u53eu5dp04mie7r5qjq2lbuono334gts9nnu21bupeaj9hj770=22 title=3D=22Your=
+ Account=22 target=3D=22_blank=22 alias=3D=22Footer Nav - Your Account=22 s=
+tyle=3D=22color:=2370abcc; font-weight:bold; text-decoration:none;=22><span=
+ style=3D=22color:=2370abcc; font-weight:bold; text-decoration:none;=22>Your
+                                                            Account</span><=
+/a>&nbsp; =7C &nbsp;<a href=3D=22https://em=2Eopsm=2Ecom=2Eau/pub/cc?_ri_=
+=3DX0Gzc2X%3DAQpglLjHJlYQGhMjKBzbzeWinqzdzeR6zdwS8mLsFq5Obzgzgzatc0sPb4883m=
+hu5HvoetYjW7fTVXtpKX%3DATSTUWY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9BbmVAJfxWej0F=
+odWLK9RVxYpmRuGgtXLVINRNtdLQNRmJkg0vtdRBH3Ox3XtWeCmD7lIB2e8ZFSw4CFH9e1ABkLG=
+SIBFsn89JU1wGJx7_jj5w7qNEax-87dz7UWHbNIH_N_o-Y84NeOMwGEQqd7jTOe-BgoZkH6H2cT=
+iZL936yS6KJuXGPg=2E&amp;_di_=3Dvf41971t0svm3jq3e44mffcra8g9k530ovjqosvfi37e=
+359n4t3g=22 title=3D=22Find a Store=22 target=3D=22_blank=22 alias=3D=22Foo=
+ter Nav - Find a Store=22 style=3D=22color:=2370abcc; font-weight:bold; tex=
+t-decoration:none;=22><span style=3D=22color:=2370abcc; font-weight:bold; t=
+ext-decoration:none;=22>Find
+                                                            a Store</span><=
+/a>&nbsp; =7C &nbsp;<a href=3D=22https://em=2Eopsm=2Ecom=2Eau/pub/cc?_ri_=
+=3DX0Gzc2X%3DAQpglLjHJlYQGhMjKBzbzeWinqzdzeR6zdwS8mLsFq5Obzgzgzatc0sPb4883m=
+hu5HvoetYjW7fTVXtpKX%3DATSTTAY&amp;_ei_=3DEq2tf9zs59idfPO1Sc_9BbmVAJfxWej0F=
+odWLK9RVxYpmRuGgtXLVINRNtdLQNRmJkg0vtdRBH3Ox3XtWeCmD7lIB2e8ZFSw4CFH9e1ABkLG=
+SIBFsn89JU1wGJx7_jj5w7qNEax-87dz7UWHbNIH_N_o-Y84NeOMwGEQqd7jTOe-BgoZkH6H2cT=
+iZL936yS6KJuXGPg=2E&amp;_di_=3Docri1mgle66etl7pdetq5c22sobu0325e2f2uihqmcdg=
+evn7r5m0=22 title=3D=22Privacy Policy=22 target=3D=22_blank=22 alias=3D=22F=
+ooter Nav - Privacy Policy=22 style=3D=22color:=2370abcc; font-weight:bold;=
+ text-decoration:none;=22><span style=3D=22color:=2370abcc; font-weight:bol=
+d; text-decoration:none;=22>Privacy
+                                                            Policy</span></=
+a>
+                                                            <=21--&nbsp; =
+=7C &nbsp;<a href=3D=22=22 title=3D=22Unsubscribe=22 target=3D=22_blank=22 =
+alias=3D=22Footer Nav - Unsubscribe=22 style=3D=22color:=2370abcc; font-wei=
+ght:bold; text-decoration:none;=22><span style=3D=22color:=2370abcc; font-w=
+eight:bold; text-decoration:none;=22>Unsubscribe</span></a>-->
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td width=3D=22590=
+=22 height=3D=2215=22 bgcolor=3D=22=23ffffff=22 style=3D=22font-size:0%;=22=
+><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/lu=
+xottica001/contentlibrary/opsm/images/OPSM-Template_spacer=2Egif=22 width=
+=3D=221=22 height=3D=221=22 style=3D=22display:block; font-size:0%;=22 bord=
+er=3D=220=22></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align=3D=22left=
+=22 valign=3D=22top=22 bgcolor=3D=22=23ffffff=22>
+                                                            <table width=3D=
+=22590=22 border=3D=220=22 align=3D=22left=22 cellpadding=3D=220=22 cellspa=
+cing=3D=220=22>
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td=
+ width=3D=2293=22 align=3D=22left=22 valign=3D=22middle=22 style=3D=22color=
+:=23A0918B; font-family:Verdana, Geneva, sans-serif; font-weight:bold; font=
+-size:12px; text-align: left; text-decoration:none;=22><a href=3D=22https:/=
+/em=2Eopsm=2Ecom=2Eau/pub/cc?_ri_=3DX0Gzc2X%3DAQpglLjHJlYQGhMjKBzbzeWinqzdz=
+eR6zdwS8mLsFq5Obzgzgzatc0sPb4883mhu5HvoetYjW7fTVXtpKX%3DATSTTWY&amp;_ei_=3D=
+Eq2tf9zs59idfPO1Sc_9BbmVAJfxWej0FodWLK9RVxYpmRuGgtXLVINRNtdLQNRmJkg0vtdRBH3=
+Ox3XtWeCmD7lIB2e8ZFSw4CFH9e1ABkLGSIBFsn89JU1wGJx7_jj5w7qNEax-87dz7UWHbNIH_N=
+_o-Y84NeOMwGEQqd7jTOe-BgoZkH6H2cTiZL936yS6KJuXGPg=2E&amp;_di_=3D0qfnp7mnv2c=
+36m7qgkhgsv5sctf9f2rqh1dd9u17t7f6u00tt09g=22 title=3D=22OPSM=22 target=3D=
+=22_blank=22
+														  alias=3D=22OPSM Logo - Footer=22 style=3D=22color:=23A0918B=
+; font-family:Verdana, Geneva, sans-serif; font-weight:bold; font-size:12px=
+; text-align: left; text-decoration:none;=22><img src=3D=22https://static=
+=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/luxottica001/contentlibrary/ops=
+m/images/opsmlogo45x22px=2Ejpg=22 alt=3D=22OPSM=22
+															  width=3D=2244=22 height=3D=2222=22 style=3D=22display:bloc=
+k;color:=23A0918B; font-family:Verdana, Geneva, sans-serif; font-weight:bol=
+d; font-size:12px; text-align: left; text-decoration:none;=22 border=3D=220=
+=22></a></td>
+                                                                        <td=
+ align=3D=22left=22 valign=3D=22middle=22 style=3D=22font-family:Verdana, G=
+eneva, sans-serif; color:=23838383; font-size:9px; text-align:left; padding=
+-left:15px;=22>=C2=A9 2013=2E OPSM All rights reserved=2E Luxottica Retail =
+Australia Pty Ltd =E2=80=A2<br>
+                                                                           =
+ 75 Talavera Rd =E2=80=A2 Macquarie Park 2113 NSW =E2=80=A2 Australia</td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td height=3D=2220=
+=22 bgcolor=3D=22=23ffffff=22 style=3D=22font-size:0%;=22><img src=3D=22htt=
+ps://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/luxottica001/content=
+library/opsm/images/OPSM-Template_spacer=2Egif=22 width=3D=221=22 height=3D=
+=2220=22 style=3D=22display:block; font-size:0%;=22 border=3D=220=22></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </custom><table cellpadding=3D=220=22 cellspacing=3D=220=22 style=
+=3D=22border: 0px; padding: 0px; margin: 0px; position: absolute; display: =
+none; float: left=22>
+<tr>
+<td height=3D=221=22 style=3D=22font-size: 1px; line-height: 1px; padding: =
+0px;=22>
+<br><img src=3D=22https://em=2Eopsm=2Ecom=2Eau/pub/as?_ri_=3DX0Gzc2X%3DAQpg=
+lLjHJlYQGhMjKBzbzeWinqzdzeR6zdwS8mLsFq5Obzgzgzatc0sPb4883mhu5HvoetYjW7fTVXH=
+kMX%3Dw&_ei_=3DEolaGGF4SNMvxFF7KucKuWPsx1V4UFBu4fqCyNZHZHPZ5ITbPP0lsJG-6osm=
+4Es9s5_0ENNq0OmLIwrcAcd-gJhDjw9ZOMAo092PffuxTQCuhp-6OJmTcyP7C60PTuYXNEADv56=
+guKAFRrkSQqWnuRqNa1BZ80fSiGBiKlw0dQh8x6DyxkeX44I2M4DV=2E=22></img>
+</td>
+</tr>
+</table>
+    </body>
+
+</html>
+
+
