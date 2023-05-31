@@ -1764,7 +1764,8 @@ def LPG():
                 row += 1
 
     workbook.close()
-
+    
+# convert exel to SCV then to HTML
 def Convert():
     read_file = pb.read_excel (r'WaFuelULP.xlsx')
     read_file.to_csv (r'WaFuelULP.csv', index = None, header=True)
@@ -1931,64 +1932,61 @@ def UpLoad_LPG(access_tocken, github_repo, git_branch, initial_file, folder_empl
         repo.create_file(folder_empl_in_git, "committing files", content, branch=git_branch)
         return folder_empl_in_git + ' CREATED'
 
-
+# schedualer time pattern for runnung RUN script
 def scheduler():
     current_time = datetime.datetime.now()
     hour = current_time.hour
     minute = current_time.minute
-    # import time
-    # from subprocess import call
-    # import sys
-    # print(sys.getrecursionlimit())
-
-
-    # print (f'The time of the day:   {hour}:{minute}')
 
     if hour == 6 and minute == 0:
         time.sleep(20)
-        print("run1")
-        state()
+        RUN()
 
     elif hour == 7 and minute == 0:
         time.sleep(20)
-        print("run2")
-        state()
+        RUN()
 
     elif hour == 8 and minute == 0:
         time.sleep(20)
-        print("run3")
-        state()
+        RUN()
 
     elif hour == 9 and minute == 0:
         time.sleep(20)
-        print("run4")
-        state()
+        RUN()
 
     elif hour == 10 and minute == 0:
         time.sleep(20)
-        state()
+        RUN()
 
     elif hour == 11 and minute == 0:
         time.sleep(20)
-        state()
+        RUN()
 
     elif hour == 12 and minute == 0:
         time.sleep(20)
-        state()
+        RUN()
 
     elif hour == 13 and minute == 0:
         time.sleep(20)
-        state()
+        RUN()
 
     elif hour == 14 and minute == 0:
         time.sleep(20)
-        state()
+        RUN()
 
     elif hour == 15 and minute == 0:
         time.sleep(20)
-        state()
+        RUN()
 
-    elif hour == 23 and minute == 47:
+    elif hour == 16 and minute == 0:
+        time.sleep(20)
+        RUN()
+        
+    elif hour == 17 and minute == 0:
+        time.sleep(20)
+        RUN()
+        
+    elif hour == 18 and minute == 0:
         time.sleep(20)
         RUN()
 
@@ -2008,12 +2006,12 @@ def RUN():
     UpLoad_DSL(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_DSL, FOLDER_EMPL_IN_GIT_DSL)
     UpLoad_LPG(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_LPG, FOLDER_EMPL_IN_GIT_LPG)
     UpLoad_98(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_98, FOLDER_EMPL_IN_GIT_98)
-    print('schedular')
+    print('completed')
     scheduler()
 print ('started')
 
 RUN()
 
-#scheduler()
+
 
 print ('finished')
