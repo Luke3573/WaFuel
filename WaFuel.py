@@ -9,7 +9,7 @@ import datetime
 import time
 
 #INPUT TAGS
-ACCESS_TOKEN = "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"
+ACCESS_TOKEN = "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"
 GITHUB_REPO = "WaFuel"
 GIT_BRANCH = "main"
 INTERNAL_FILE_ULP = "WaFuelULP.html"
