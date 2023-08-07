@@ -1,6 +1,4 @@
 Name,Location,Suberb,PostCode,Price Today,Price Tomorrow,Brand
-Costco Casuarina,137 Market St,CASUARINA,6167,188.7,188.7,Costco
-Costco Perth Airport,142 Dunreath Dr,PERTH AIRPORT,6105,188.7,188.7,Costco
 Atlas Fuel Ascot,472 Great Eastern Hwy,ASCOT,6104,195.9,195.9,Atlas
 Mobil Fresh Trading Co Northam,Cnr Great Eastern Hwy & Yilgarn Ave,MALABAINE,6401,195.9,195.9,Mobil
 Chidlow Growers Mart Liquor Store,570 Rosedale Rd,CHIDLOW,6556,196.0,196.0,Independent
@@ -111,7 +109,6 @@ BP Greenwood North,1 Canham Way,GREENWOOD,6024,202.9,202.9,BP
 Ampol Foodary High Wycombe,967 Abernethy Rd,HIGH WYCOMBE,6057,202.9,202.9,Ampol
 Ampol Foodary Kwinana,Cnr Mandurah Rd & Wellard Rd,KWINANA BEACH,6167,202.9,200.9,Ampol
 EG Ampol Morley Galleria,60 Russell St,MORLEY,6062,202.9,198.9,EG Ampol
-BP Port Kennedy,46 Bakewell Dr,PORT KENNEDY,6172,202.9,202.9,BP
 7-Eleven Wangara,79 Gnangara Rd,WANGARA,6065,202.9,197.7,7 Eleven
 EG Ampol Warnbro,202 Warnbro Sound Ave,WARNBRO,6169,202.9,200.9,EG Ampol
 Caltex Guildford,16 Johnson St,GUILDFORD,6055,203.5,203.9,Caltex
@@ -386,7 +383,6 @@ Ampol Foodary Albany York St ,271 York St,ALBANY,6330,212.9,216.9,Ampol
 BP 2go Armadale,3249 Albany Hwy,ARMADALE,6112,212.9,202.9,BP
 BP Balcatta,53 Erindale Rd,BALCATTA,6021,212.9,212.9,BP
 BP Beldon,261 Eddystone Ave,BELDON,6027,212.9,212.9,BP
-BP 2go Bellevue,59 Great Eastern Hwy,BELLEVUE,6056,212.9,202.9,BP
 BP Canning Vale,1 Wilfred Rd,CANNING VALE,6155,212.9,202.9,BP
 BP Thornlie,459 Nicholson Rd,CANNING VALE,6155,212.9,202.9,BP
 BP Connect Carlisle,44 Archer St,CARLISLE,6101,212.9,202.9,BP
@@ -433,7 +429,6 @@ Maisey Fuels Flores Road,83 Flores Rd,WEBBERTON,6530,214.5,214.5,Independent
 Puma Bunbury South,1 Brittain Rd,CAREY PARK,6230,214.7,214.7,Puma
 Puma Stratham Downs Roadhouse,1540 Bussell Hwy,STRATHAM,6237,214.7,214.7,Puma
 Puma Tammin Roadhouse,15323 Great Eastern Hwy,TAMMIN,6409,214.7,217.7,Puma
-Petro Fuels Denmark,69 South Coast Hwy,DENMARK,6333,214.8,215.8,Shell
 BP Baldivis Northbound Travel Centre,Lot 191 Paparone Rd,BALDIVIS,6171,214.9,205.9,BP
 BP Baldivis Southbound Travel Centre,Lot 192 Leary Rd,BALDIVIS,6171,214.9,205.9,BP
 Caltex Binningup,7080 Forrest Hwy,BINNINGUP,6233,214.9,214.9,Caltex
@@ -503,6 +498,7 @@ Coles Express Mandurah,Cnr Pinjarra Rd & Watson Dr,BARRAGUP,6209,,206.9,Coles Ex
 Petro Fuels Bassendean,190 Railway Pde,BASSENDEAN,6054,,,
 United Bassendean,335 Collier Rd,BASSENDEAN,6054,,198.3,United
 Coles Express Beeliar,8 Durnin Ave,BEELIAR,6164,,204.9,Coles Express
+BP 2go Bellevue,59 Great Eastern Hwy,BELLEVUE,6056,,202.9,BP
 Puma Belmont,33 Belvidere St,BELMONT,6104,,207.7,Puma
 United Bibra Lake,13 Whyalla Ct,BIBRA LAKE,6163,,198.3,United
 Coles Express Bicton,394 Canning Hwy,BICTON,6157,,202.9,Coles Express
@@ -522,6 +518,7 @@ Vibe Byford,868 South Western Hwy,BYFORD,6122,,199.5,Vibe
 Petro Fuels Calista,103 Calista Ave,CALISTA,6167,,198.5,Liberty
 Carbunup River Store,6672 Bussell Hwy,CARBUNUP RIVER,6280,,218.9,Independent
 Puma Castletown,49 Norseman Rd,CASTLETOWN,6450,,220.7,Puma
+Costco Casuarina,137 Market St,CASUARINA,6167,,188.7,Costco
 Liberty Roadhouse Cataby,10805 Brand Hwy,CATABY,6507,,205.9,Liberty
 Atlas Fuel Caversham,40 Bennett St,CAVERSHAM,6055,,195.4,Atlas
 Petro Fuels Albany,250 Albany Hwy,CENTENNIAL PARK,6330,,205.5,
@@ -530,6 +527,7 @@ Better Choice Como,25 Preston St,COMO,6152,,198.5,Better Choice
 Vibe Placid Ark Roadhouse,6947 South Western Hwy,COOLUP,6214,,202.5,Vibe
 EG Ampol Currambine Marketplace,1244 Marmion Ave,CURRAMBINE,6028,,202.9,EG Ampol
 Coles Express Dampier,47 Church Rd,DAMPIER,6713,,228.9,Coles Express
+Petro Fuels Denmark,69 South Coast Hwy,DENMARK,6333,,215.8,Shell
 Vibe Donnybrook,45 South Western Hwy,DONNYBROOK,6239,,211.5,Vibe
 BP Dunsborough,238 Naturaliste Tce,DUNSBOROUGH,6281,,214.9,BP
 Liberty East Rockingham,115 Dixon Road,EAST ROCKINGHAM,6168,,,Liberty
@@ -592,8 +590,10 @@ Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,205.9,Independen
 Ampol Foodary North Wanneroo,2624 Wanneroo Rd,NOWERGUP,6032,,204.9,Ampol
 Coles Express Albany Orana ,342 Albany Hwy,ORANA,6330,,219.9,Coles Express
 United Osborne Park,479 Scarborough Beach Rd,OSBORNE PARK,6017,,,United
+Costco Perth Airport,142 Dunreath Dr,PERTH AIRPORT,6105,,188.7,Costco
 BP Port Hedland,90 Anderson St,PORT HEDLAND,6721,,220.0,BP
 BP Port Hedland Boulevard,150 Anderson St,PORT HEDLAND,6721,,233.9,BP
+BP Port Kennedy,46 Bakewell Dr,PORT KENNEDY,6172,,202.9,BP
 United Rangeway,50 Rifle Range Rd,RANGEWAY,6530,,211.9,United
 Atlas Fuel Sawyers Valley,10895 Great Eastern Hwy,SAWYERS VALLEY,6074,,195.3,Atlas
 BP Parklands,85 Forrest Ave,SOUTH BUNBURY,6230,,212.9,BP
