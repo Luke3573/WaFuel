@@ -286,7 +286,6 @@ Gull Collie,143 Throssell St,COLLIE,6225,199.7,199.7,Gull
 Puma Glen Forrest,1400 Great Eastern Hwy,GLEN FORREST,6071,199.7,195.7,Puma
 Puma Henderson OPT,81 Quill Way,HENDERSON,6166,199.7,199.7,Puma
 Puma High Wycombe,494 Kalamunda Rd,HIGH WYCOMBE,6057,199.7,199.7,Puma
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,199.7,199.7,Independent
 Puma Landsdale,220 Gnangara Rd,LANDSDALE,6065,199.7,189.7,Puma
 Puma Mindarie,22 Anchorage Dr,MINDARIE,6030,199.7,195.7,Puma
 Puma Mundaring,7060 Great Eastern Hwy,MUNDARING,6073,199.7,195.7,Puma
@@ -297,7 +296,6 @@ Puma Wanneroo,951 Wanneroo Rd,WANNEROO,6065,199.7,189.7,Puma
 Puma North Perth,311 Fitzgerald St,WEST PERTH,6005,199.7,193.7,Puma
 Puma Wooroloo,3381 Great Eastern Hwy,WUNDOWIE,6558,199.7,195.7,Puma
 Gull York Roadhouse,63 Avon Tce,YORK,6302,199.7,199.7,Gull
-Smiths Shell Service,86 Avon Tce,YORK,6302,199.7,199.7,Shell
 Refuel Australia - Dalwallinu,2 Clinch Rd,DALWALLINU,6609,199.8,199.8,Ampol
 Ampol Foodary Albany York St ,271 York St,ALBANY,6330,199.9,201.9,Ampol
 Ampol Foodary Melville,585 Canning Hwy,ALFRED COVE,6154,199.9,191.9,Ampol
@@ -557,7 +555,6 @@ BP Pemberton Garage & Service Station,84 Brockman St,PEMBERTON,6260,200.9,200.9,
 BP Kalgoorlie-Boulder Truckstop,248 Celebration Rd,YILKARI,6430,200.9,200.9,BP
 Vibe Bullsbrook,2533 Great Northern Hwy,BULLSBROOK,6084,201.5,199.5,Vibe
 Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,201.5,201.5,Puma
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,201.5,201.5,Independent
 Refuel Australia - Sunset Geraldton,620 Chapman Rd,GLENFIELD,6532,201.8,201.8,Ampol
 Refuel Australia - Geraldton Flores Road,120 Flores Rd,WEBBERTON,6530,201.8,201.8,Ampol
 Refuel Australia - Geraldton Willcock Drive,Cnr John Willcock Link & Portway,WEST END,6530,201.8,201.8,Ampol
@@ -701,8 +698,11 @@ BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 Petro Fuels Bassendean,190 Railway Pde,BASSENDEAN,6054,,,
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,237.9,BP
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,199.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 EG Ampol Northam,86 Wellington St,NORTHAM,6401,,193.9,EG Ampol
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,201.5,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
 Caltex Piccadilly,7 Maritana St,PICCADILLY,6430,,,Caltex
 BP Port Hedland,90 Anderson St,PORT HEDLAND,6721,,,BP
+Smiths Shell Service,86 Avon Tce,YORK,6302,,199.7,Shell
