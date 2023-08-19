@@ -1,3 +1,8 @@
+# whilts inthe folder that the files have been stored in command shell (gti add && gti commit -a -m "*file name*" && git push)
+# to update a cloned repository that has already been downloaded , make sure terminal in folder (git pull)
+# clone repo onto computer (git clone gti.github.com:Luke3573/WaFuel.git)
+#ensure the SSH code is correct for that PC and added to the Git hub repo settings
+
 from bs4 import BeautifulSoup
 import urllib.request
 import re
@@ -12,16 +17,16 @@ import time
 ACCESS_TOKEN = "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"
 GITHUB_REPO = "WaFuel"
 GIT_BRANCH = "main"
-INTERNAL_FILE_ULP = "WaFuelULP.html"
-FOLDER_EMPL_IN_GIT_ULP = "WaFuelULP.html"
-INTERNAL_FILE_98 = "WaFuel98.html"
-FOLDER_EMPL_IN_GIT_98 = "WaFuel98.html"
-INTERNAL_FILE_DSL = "WaFuelDSL.html"
-FOLDER_EMPL_IN_GIT_DSL = "WaFuelDSL.html"
-INTERNAL_FILE_LPG = "WaFuelLPG.html"
-FOLDER_EMPL_IN_GIT_LPG = "WaFuelLPG.html"
-INTERNAL_FILE_95 = "WaFuel95.html"
-FOLDER_EMPL_IN_GIT_95 = "WaFuel95.html"
+INTERNAL_FILE_ULP = "WaFuel/WaFuelULP.html"
+FOLDER_EMPL_IN_GIT_ULP = "WaFuel/WaFuelULP.html"
+INTERNAL_FILE_98 = "WaFuel/WaFuel98.html"
+FOLDER_EMPL_IN_GIT_98 = "WaFuel/WaFuel98.html"
+INTERNAL_FILE_DSL = "WaFuel/WaFuelDSL.html"
+FOLDER_EMPL_IN_GIT_DSL = "WaFuel/WaFuelDSL.html"
+INTERNAL_FILE_LPG = "WaFuel/WaFuelLPG.html"
+FOLDER_EMPL_IN_GIT_LPG = "WaFuel/WaFuelLPG.html"
+INTERNAL_FILE_95 = "WaFuel/WaFuel95.html"
+FOLDER_EMPL_IN_GIT_95 = "WaFuel/WaFuel95.html"
 
 
 #INPUT TAGS
@@ -1765,7 +1770,7 @@ def LPG():
 
     workbook.close()
     
-# convert exel to SCV then to HTML
+# convert exel to CSV then to HTML
 def Convert():
     read_file = pb.read_excel (r'WaFuelULP.xlsx')
     read_file.to_csv (r'WaFuelULP.csv', index = None, header=True)
@@ -1773,23 +1778,23 @@ def Convert():
     df.to_html('WaFuelULP.html')
 
     read_file = pb.read_excel(r'WaFuel95.xlsx')
-    read_file.to_csv(r'WaFuel95.csv', index=None, header=True)
-    df = pb.read_csv('WaFuel95.csv')
+    read_file.to_csv(r'WaFuel/WaFuel95.csv', index=None, header=True)
+    df = pb.read_csv('WaFuel/WaFuel95.csv')
     df.to_html('WaFuel95.html')
 
     read_file = pb.read_excel(r'WaFuel98.xlsx')
-    read_file.to_csv(r'WaFuel98.csv', index=None, header=True)
-    df = pb.read_csv('WaFuel98.csv')
+    read_file.to_csv(r'WaFuel/WaFuel98.csv', index=None, header=True)
+    df = pb.read_csv('WaFuel/WaFuel98.csv')
     df.to_html('WaFuel98.html')
 
     read_file = pb.read_excel(r'WaFuelDSL.xlsx')
-    read_file.to_csv(r'WaFuelDSL.csv', index=None, header=True)
-    df = pb.read_csv('WaFuelDSL.csv')
+    read_file.to_csv(r'WaFuel/WaFuelDSL.csv', index=None, header=True)
+    df = pb.read_csv('WaFuel/WaFuelDSL.csv')
     df.to_html('WaFuelDSL.html')
 
     read_file = pb.read_excel(r'WaFuelLPG.xlsx')
-    read_file.to_csv(r'WaFuelLPG.csv', index=None, header=True)
-    df = pb.read_csv('WaFuelLPG.csv')
+    read_file.to_csv(r'WaFuel/WaFuelLPG.csv', index=None, header=True)
+    df = pb.read_csv('WaFuel/WaFuelLPG.csv')
     df.to_html('WaFuelLPG.html')
 
 def UpLoad_ULP(access_tocken, github_repo, git_branch, initial_file, folder_empl_in_git):
@@ -2001,11 +2006,12 @@ def RUN():
     DSL()
     LPG()
     Convert()
-    UpLoad_ULP(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_ULP, FOLDER_EMPL_IN_GIT_ULP)
-    UpLoad_95(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_95, FOLDER_EMPL_IN_GIT_95)
-    UpLoad_DSL(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_DSL, FOLDER_EMPL_IN_GIT_DSL)
-    UpLoad_LPG(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_LPG, FOLDER_EMPL_IN_GIT_LPG)
-    UpLoad_98(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_98, FOLDER_EMPL_IN_GIT_98)
+    call(git add && git commit -a -m "updated files" && git push, shell=True)
+    #UpLoad_ULP(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_ULP, FOLDER_EMPL_IN_GIT_ULP)
+    #UpLoad_95(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_95, FOLDER_EMPL_IN_GIT_95)
+    #UpLoad_DSL(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_DSL, FOLDER_EMPL_IN_GIT_DSL)
+    #UpLoad_LPG(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_LPG, FOLDER_EMPL_IN_GIT_LPG)
+    #UpLoad_98(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_98, FOLDER_EMPL_IN_GIT_98)
     print('completed')
     scheduler()
 print ('started')
