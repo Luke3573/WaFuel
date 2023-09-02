@@ -16,7 +16,6 @@ EG Ampol Mandurah,10-12 Magenta Tce,MANDURAH,6210,129.7,129.7,EG Ampol
 EG Ampol Mandurah Forum,330 Pinjarra Rd,MANDURAH,6210,129.7,129.7,EG Ampol
 United Myaree,182 Leach Hwy,MYAREE,6154,129.7,129.7,United
 EG Ampol Osborne Park,401 Scarborough Beach Rd,OSBORNE PARK,6017,129.7,129.7,EG Ampol
-United Osborne Park,479 Scarborough Beach Rd,OSBORNE PARK,6017,129.7,129.7,United
 United Perth Airport,Airport Dr (Cnr Paltridge Rd),PERTH AIRPORT,6105,129.7,129.7,United
 Puma Sawyers Valley,96 Great Eastern Hwy,SAWYERS VALLEY,6074,129.7,129.7,Puma
 EG Ampol South Lake,752 North Lake Rd,SOUTH LAKE,6164,129.7,129.7,EG Ampol
@@ -81,7 +80,8 @@ Ampol Maddington Truck Stop,18 Orchard Rd,MADDINGTON,6109,,,Ampol
 Better Choice Malaga,3 Carson Rd,MALAGA,6090,,135.9,Better Choice
 Puma Manjimup Roadhouse,1182 South Western Hwy,MANJIMUP,6258,,,Puma
 United Mt Lawley,791 Beaufort St,MOUNT LAWLEY,6050,,,United
-Narrogin Gasworx,22 Fairway St,NARROGIN,6312,,170.0,Independent
+Narrogin Gasworx,22 Fairway St,NARROGIN,6312,,,Independent
+United Osborne Park,479 Scarborough Beach Rd,OSBORNE PARK,6017,,129.7,United
 United Roleystone,11 Wygonda Rd,ROLEYSTONE,6111,,135.9,United
 United South Lake,49 Berrigan Dr,SOUTH LAKE,6164,,129.7,United
 Vibe Spearwood,333 Rockingham Rd,SPEARWOOD,6163,,129.7,Vibe
