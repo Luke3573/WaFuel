@@ -1,5 +1,5 @@
 Name,Location,Suberb,PostCode,Price Today,Price Tomorrow,Brand
-Burk Alkimos,12 Longstaff Ave,ALKIMOS,6038,195.3,194.3,BURK
+Burk Alkimos,12 Longstaff Ave,ALKIMOS,6038,999,194.3,BURK
 Metro Malaga,1 Harlond Ave,MALAGA,6090,195.3,195.3,Metro
 7-Eleven Booragoon,492 Marmion St,BOORAGOON,6154,195.7,242.9,7 Eleven
 7-Eleven Cockburn Central,814 North Lake Rd,COCKBURN CENTRAL,6164,195.9,222.9,7 Eleven
@@ -296,7 +296,7 @@ Caltex Merriwa,5/4 Hughie Edwards Dr,MERRIWA,6030,205.9,245.9,Caltex
 Caltex Murdoch,170 Murdoch Dr,MURDOCH,6150,205.9,245.9,Caltex
 Caltex Osborne Park,8 Main St,OSBORNE PARK,6017,205.9,245.9,Caltex
 Caltex Welshpool,23 Kewdale Rd,WELSHPOOL,6106,205.9,245.9,Caltex
-Phoenix Barlee St,31 Barlee St,BUSSELTON,6280,206.0,206.0,Independent
+Phoenix Barlee St,31 Barlee St,BUSSELTON,6280,206,206,Independent
 7-Eleven Bunbury East,8D Picton Rd,EAST BUNBURY,6230,206.5,206.5,7 Eleven
 Vibe Kwinana,4 Ocean St,KWINANA BEACH,6167,206.7,207.3,Vibe
 Ampol Foodary Applecross,918 Canning Hwy,APPLECROSS,6153,206.9,244.9,Ampol
@@ -363,7 +363,7 @@ Coles Express Bunbury Outbound,9850 Forrest Hwy,VITTORIA,6230,218.9,216.9,Coles 
 Ampol Foodary North Road,204 North Rd,YAKAMIA,6330,218.9,218.9,Ampol
 Metro Jurien Bay,74 Bashford St,JURIEN BAY,6516,219.9,219.9,Metro
 Metro Geraldton,1 Fortyn Ct,MAHOMETS FLATS,6530,219.9,219.9,Metro
-FDWA Cunderdin,67 Lundy Ave,CUNDERDIN,6407,220.0,220.0,Independent
+FDWA Cunderdin,67 Lundy Ave,CUNDERDIN,6407,220,220,Independent
 Ampol Foodary Coolgardie,110-114 Bayley St,COOLGARDIE,6429,220.9,220.9,Ampol
 Mt Barker Fuel Services,48 Lowood Rd,MOUNT BARKER,6324,220.9,220.9,Independent
 Ampol Foodary Kalgoorlie South,146 Boulder Rd,SOUTH KALGOORLIE,6430,220.9,220.9,Ampol
@@ -377,7 +377,7 @@ Serpentine Falls Roadhouse,2 Falls Rd,SERPENTINE,6125,223.9,223.9,Independent
 Ampol Foodary Esperance,59 Dempster St,ESPERANCE,6450,224.9,224.9,Ampol
 Liberty Karratha,2 Cockatoo St,NICKOL,6714,224.9,224.9,Liberty
 Ampol Foodary Wonthella,40 North West Coastal Hwy,WONTHELLA,6530,224.9,224.9,Ampol
-S-Bend Caravan Park,27 Company Rd,SOUTH GREENOUGH,6528,225.0,225.0,Liberty
+S-Bend Caravan Park,27 Company Rd,SOUTH GREENOUGH,6528,225,225,Liberty
 EG Ampol Geraldton,59 Cathedral Ave,GERALDTON,6530,226.9,226.9,EG Ampol
 Ampol Foodary Karratha,Lot 3861 Bathgate Rd,NICKOL,6714,230.9,230.9,Ampol
 Puma South Hedland,1 Altitude Ave,PORT HEDLAND,6721,232.7,232.7,Puma
@@ -463,7 +463,7 @@ Vibe Subiaco,123 Thomas St,SUBIACO,6008,,242.9,Vibe
 Coles Express Vasse,2 Napoleon Prom,VASSE,6280,,222.9,Coles Express
 Gull Waterloo,14270 South Western Hwy,WATERLOO,6228,,211.7,Gull
 Coles Express South Hedland Roadhouse,Lot 5553 Great Northern Hwy,WEDGEFIELD,6721,,238.9,Coles Express
-Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,,228.0,Ampol
+Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,,228,Ampol
 Atlas Fuel Welshpool,36 Welshpool Rd,WELSHPOOL,6106,,199.9,Atlas
 Vibe West Swan,6639 West Swan Rd,WEST SWAN,6055,,213.5,Vibe
 Gull York Roadhouse,63 Avon Tce,YORK,6302,,211.7,Gull
