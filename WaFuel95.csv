@@ -1,5 +1,5 @@
 Name,Location,Suberb,PostCode,Price Today,Price Tomorrow,Brand
-FastFuel 24/7,54 Cumberland Rd,FORRESTFIELD,6058,196.9,196.9,FastFuel
+FastFuel 24/7,54 Cumberland Rd,FORRESTFIELD,6058,9999,196.9,FastFuel
 Atlas Fuel Ascot,472 Great Eastern Hwy,ASCOT,6104,198.9,198.9,Atlas
 Burk Alkimos,12 Longstaff Ave,ALKIMOS,6038,201.3,201.3,BURK
 Metro Malaga,1 Harlond Ave,MALAGA,6090,201.3,201.3,Metro
@@ -42,7 +42,7 @@ X Convenience Alkimos,58 Montana Cres,ALKIMOS,6038,205.3,205.3,X Convenience
 NightOwl Shell Maddington,1 Davison St,MADDINGTON,6109,205.8,205.8,Shell
 OTR Como,73 Manning Rd,MANNING,6152,205.9,205.9,BP
 Ampol Rous Head,Cnr North Mole Dr & Rous Head Rd,NORTH FREMANTLE,6159,205.9,205.9,Ampol
-Phoenix Barlee St,31 Barlee St,BUSSELTON,6280,206.0,206.0,Independent
+Phoenix Barlee St,31 Barlee St,BUSSELTON,6280,206,206,Independent
 Vibe Armadale,126 Forrest Rd,ARMADALE,6112,206.5,205.7,Vibe
 Liberty Dalyellup,9 Norton Prom,DALYELLUP,6230,206.5,208.5,Liberty
 United Ellenbrook,3 Locke Lane,ELLENBROOK,6069,206.5,201.5,United
@@ -384,7 +384,7 @@ Coles Express Bunbury Outbound,9850 Forrest Hwy,VITTORIA,6230,218.9,218.9,Coles 
 Ampol Foodary North Road,204 North Rd,YAKAMIA,6330,218.9,218.9,Ampol
 Metro Jurien Bay,74 Bashford St,JURIEN BAY,6516,219.9,219.9,Metro
 Metro Geraldton,1 Fortyn Ct,MAHOMETS FLATS,6530,219.9,219.9,Metro
-FDWA Cunderdin,67 Lundy Ave,CUNDERDIN,6407,220.0,220.0,Independent
+FDWA Cunderdin,67 Lundy Ave,CUNDERDIN,6407,220,220,Independent
 Coles Express Boulder,35 Frank St,BOULDER,6432,220.9,220.9,Coles Express
 Ampol Foodary Coolgardie,110-114 Bayley St,COOLGARDIE,6429,220.9,220.9,Ampol
 Mt Barker Fuel Services,48 Lowood Rd,MOUNT BARKER,6324,220.9,220.9,Independent
@@ -402,7 +402,7 @@ Coles Express Esperance,25 Andrew St,ESPERANCE,6450,224.9,224.9,Coles Express
 EG Ampol Geraldton,59 Cathedral Ave,GERALDTON,6530,224.9,224.9,EG Ampol
 Liberty Karratha,2 Cockatoo St,NICKOL,6714,224.9,224.9,Liberty
 Ampol Foodary Wonthella,40 North West Coastal Hwy,WONTHELLA,6530,224.9,224.9,Ampol
-S-Bend Caravan Park,27 Company Rd,SOUTH GREENOUGH,6528,225.0,225.0,Liberty
+S-Bend Caravan Park,27 Company Rd,SOUTH GREENOUGH,6528,225,225,Liberty
 EG Ampol Karratha,Lot 1437 Warambie Rd,KARRATHA,6714,230.9,230.9,EG Ampol
 Ampol Foodary Karratha,Lot 3861 Bathgate Rd,NICKOL,6714,230.9,230.9,Ampol
 Puma South Hedland,1 Altitude Ave,PORT HEDLAND,6721,232.7,232.7,Puma
@@ -464,6 +464,6 @@ United South Lake,49 Berrigan Dr,SOUTH LAKE,6164,,201.5,United
 Vibe Spearwood,333 Rockingham Rd,SPEARWOOD,6163,,209.3,Vibe
 Vibe Subiaco,123 Thomas St,SUBIACO,6008,,206.5,Vibe
 Gull Waterloo,14270 South Western Hwy,WATERLOO,6228,,211.7,Gull
-Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,,228.0,Ampol
+Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,,228,Ampol
 Vibe West Swan,6639 West Swan Rd,WEST SWAN,6055,,203.7,Vibe
 Gull York Roadhouse,63 Avon Tce,YORK,6302,,211.7,Gull
