@@ -496,7 +496,6 @@ Ampol Welshpool Diesel Stop,119 Kurnall Rd,WELSHPOOL,6106,222.9,222.9,Ampol
 BP 2go Woodvale,941 Whitfords Ave,WOODVALE,6026,222.9,212.9,BP
 Liberty McKail,557 Albany Hwy,MCKAIL,6330,223.5,231.9,Liberty
 Vibe Witchcliffe,10428 Bussell Hwy,WITCHCLIFFE,6286,223.5,223.5,Vibe
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,223.7,223.7,Independent
 Petro Fuels Denmark,69 South Coast Hwy,DENMARK,6333,223.8,225.8,Shell
 BP Applecross,848 Canning Hwy,APPLECROSS,6153,223.9,213.9,BP
 BP Augusta,64 Blackwood Ave,AUGUSTA,6290,223.9,224.9,BP
@@ -533,7 +532,6 @@ BP Kambalda,Lot 35 Goldfields Hwy,KAMBALDA EAST,6442,225.9,225.9,BP
 Puma Manjimup Roadhouse,1182 South Western Hwy,MANJIMUP,6258,225.9,225.9,Puma
 BP Pemberton Garage & Service Station,84 Brockman St,PEMBERTON,6260,225.9,227.9,BP
 BP Kalgoorlie-Boulder Truckstop,248 Celebration Rd,YILKARI,6430,225.9,225.9,BP
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,226.0,226.0,Independent
 Maisey Fuels Flores Road,83 Flores Rd,WEBBERTON,6530,226.5,226.5,Independent
 Ampol Foodary Albany York St ,271 York St,ALBANY,6330,226.9,226.9,Ampol
 BP Carnarvon,1134 North West Coastal Hwy,BROWN RANGE,6701,226.9,226.9,BP
@@ -562,7 +560,6 @@ Coles Express Margaret River,78 Bussell Hwy,MARGARET RIVER,6285,228.9,228.9,Cole
 Coles Express Albany Orana ,342 Albany Hwy,ORANA,6330,228.9,228.9,Coles Express
 Ampol Foodary Kalgoorlie,581 Hannan St,SOMERVILLE,6430,228.9,228.9,Ampol
 Ampol Foodary Kalgoorlie South,146 Boulder Rd,SOUTH KALGOORLIE,6430,228.9,228.9,Ampol
-Smiths Shell Service,86 Avon Tce,YORK,6302,228.9,228.9,Shell
 Castletown Service Station,57 Goldfields Rd,CASTLETOWN,6450,229.7,229.7,BP
 Harbour Rd Truckstop,213 Harbour Rd,CHADWICK,6450,229.7,229.7,BP
 Puma Esperance OPT,Lot 6 Beckwith Rd,CHADWICK,6450,229.7,229.7,Puma
@@ -616,3 +613,6 @@ Petro Fuels Bassendean,190 Railway Pde,BASSENDEAN,6054,,,
 BP Cowaramup,1 Roy Earl Dr,COWARAMUP,6284,,,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,223.7,Independent
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,226.0,Independent
+Smiths Shell Service,86 Avon Tce,YORK,6302,,228.9,Shell

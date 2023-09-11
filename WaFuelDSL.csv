@@ -173,7 +173,6 @@ Vibe Harvey,46 South Western Hwy,HARVEY,6220,213.5,213.5,Vibe
 Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,213.5,213.5,Better Choice
 Vibe Siesta Park,367 Caves Rd,KEALY,6280,213.5,213.5,Vibe
 Vibe Yangebup,109 Barrington St,YANGEBUP,6164,213.5,213.5,Vibe
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,213.7,213.7,Independent
 Coles Express Banksia Grove,1001 Joondalup Dr,BANKSIA GROVE,6031,213.9,213.9,Coles Express
 BP Bibra Lake,2 Wellard St,BIBRA LAKE,6163,213.9,213.9,BP
 Coles Express Bibra Lake,1 Timberyard Way,BIBRA LAKE,6163,213.9,215.9,Coles Express
@@ -249,7 +248,6 @@ Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,216.4,216.4,Puma
 BP Langford,230-234 Nicholson Rd,LANGFORD,6147,216.7,217.7,BP
 Puma Mindarie,22 Anchorage Dr,MINDARIE,6030,216.7,219.7,Puma
 Puma Wooroloo,3381 Great Eastern Hwy,WUNDOWIE,6558,216.7,216.7,Puma
-Smiths Shell Service,86 Avon Tce,YORK,6302,216.7,216.7,Shell
 Refuel Australia - DMW Supplies,39 Moreton Tce,DONGARA,6525,216.8,218.8,Ampol
 Liberty Beckenham,63 William St,BECKENHAM,6107,216.9,216.9,Liberty
 Coles Express Cloverdale,223 Belmont Ave,CLOVERDALE,6105,216.9,217.9,Coles Express
@@ -265,7 +263,6 @@ BP Walpole,18 Nockolds St,WALPOLE,6398,216.9,216.9,BP
 Moonyoonooka Store,753 Geraldton-Mt Magnet Rd,MOONYOONOOKA,6532,217.0,217.0,Ampol
 Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,217.0,217.0,Independent
 Vibe Osborne Park,7 Hutton St,OSBORNE PARK,6017,217.3,217.3,Vibe
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,217.5,217.5,Independent
 United Osborne Park,479 Scarborough Beach Rd,OSBORNE PARK,6017,217.5,217.5,United
 Refuel Australia - Port Hedland,Lot 3 Great Northern Hwy,PORT HEDLAND,6721,217.8,220.8,Ampol
 Coles Express Armadale,269 South Western Hwy,ARMADALE,6112,217.9,217.9,Coles Express
@@ -324,7 +321,6 @@ Coles Express Wangara,1 Niche Pde,WANGARA,6065,219.9,219.9,Coles Express
 Coles Express Wanneroo Pearsall,621 Wanneroo Rd,WANNEROO,6065,219.9,219.9,Coles Express
 Eagle West Kalgoorlie Truckstop,2 Brinsden Rd,WEST KALGOORLIE,6430,219.9,219.9,Eagle
 Ampol Foodary Wonthella,40 North West Coastal Hwy,WONTHELLA,6530,219.9,219.9,Ampol
-Gracie's General,2 Bayview Dr,GRACETOWN,6284,220.0,220.0,Independent
 Walpole IGA Pioneer Store,10 Nockolds St,WALPOLE,6398,220.0,220.0,Ampol
 Refuel Carnarvon Truck Stop,1014 North West Coastal Hwy,BROWN RANGE,6701,220.8,222.8,Ampol
 Refuel Australia - Carnarvon,40 Harbour Rd,GREYS PLAIN,6701,220.8,222.8,Ampol
@@ -442,7 +438,11 @@ BP Cowaramup,1 Roy Earl Dr,COWARAMUP,6284,,,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,225.9,BP
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
+Gracie's General,2 Bayview Dr,GRACETOWN,6284,,220.0,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,213.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,217.5,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
 The Canal Shop ,16 South Yunderup Rd,SOUTH YUNDERUP,6208,,,Independent
+Smiths Shell Service,86 Avon Tce,YORK,6302,,216.7,Shell
