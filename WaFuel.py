@@ -4,6 +4,7 @@
 #ensure the SSH code is correct for that PC and added to the Git hub repo settings
 
 from bs4 import BeautifulSoup
+import os
 import urllib.request
 import re
 import xlsxwriter
@@ -1774,29 +1775,29 @@ def LPG():
 # convert exel to CSV then to HTML
 def Convert():
     read_file = pb.read_excel (r'WaFuelULP.xlsx')
-    read_file.to_csv (r'WaFuelULP.csv', index = None, header=True)
-    df = pb.read_csv('WaFuelULP.csv')
-    df.to_html('WaFuelULP.html')
+    read_file.to_csv (r'Documents/WaFuel/WaFuelULP.csv', index = None, header=True)
+    df = pb.read_csv('Documents/WaFuel/WaFuelULP.csv')
+    df.to_html('WaFuel/WaFuelULP.html')
 
     read_file = pb.read_excel(r'WaFuel95.xlsx')
-    read_file.to_csv(r'WaFuel/WaFuel95.csv', index=None, header=True)
-    df = pb.read_csv('WaFuel/WaFuel95.csv')
-    df.to_html('WaFuel95.html')
+    read_file.to_csv(r'Documents/WaFuel/WaFuel95.csv', index=None, header=True)
+    df = pb.read_csv('Documents/WaFuel/WaFuel95.csv')
+    df.to_html('WaFuel/WaFuel95.html')
 
     read_file = pb.read_excel(r'WaFuel98.xlsx')
-    read_file.to_csv(r'WaFuel/WaFuel98.csv', index=None, header=True)
-    df = pb.read_csv('WaFuel/WaFuel98.csv')
-    df.to_html('WaFuel98.html')
+    read_file.to_csv(r'Documents/WaFuel/WaFuel98.csv', index=None, header=True)
+    df = pb.read_csv('Documents/WaFuel/WaFuel98.csv')
+    df.to_html('WaFuel/WaFuel98.html')
 
     read_file = pb.read_excel(r'WaFuelDSL.xlsx')
-    read_file.to_csv(r'WaFuel/WaFuelDSL.csv', index=None, header=True)
-    df = pb.read_csv('WaFuel/WaFuelDSL.csv')
-    df.to_html('WaFuelDSL.html')
+    read_file.to_csv(r'Documents/WaFuel/WaFuelDSL.csv', index=None, header=True)
+    df = pb.read_csv('Documents/WaFuel/WaFuelDSL.csv')
+    df.to_html('WaFuel/WaFuelDSL.html')
 
     read_file = pb.read_excel(r'WaFuelLPG.xlsx')
-    read_file.to_csv(r'WaFuel/WaFuelLPG.csv', index=None, header=True)
-    df = pb.read_csv('WaFuel/WaFuelLPG.csv')
-    df.to_html('WaFuelLPG.html')
+    read_file.to_csv(r'Documents/WaFuel/WaFuelLPG.csv', index=None, header=True)
+    df = pb.read_csv('Documents/WaFuel/WaFuelLPG.csv')
+    df.to_html('WaFuel/WaFuelLPG.html')
 
 def UpLoad_ULP(access_tocken, github_repo, git_branch, initial_file, folder_empl_in_git):
     g = Github(access_tocken)
@@ -1950,46 +1951,57 @@ def scheduler():
 
     elif hour == 7 and minute == 0:
         time.sleep(20)
+        print(hour)
         RUN()
 
     elif hour == 8 and minute == 0:
         time.sleep(20)
+        print(hour)
         RUN()
 
     elif hour == 9 and minute == 0:
         time.sleep(20)
+        print(hour)
         RUN()
 
     elif hour == 10 and minute == 0:
         time.sleep(20)
+        print(hour)
         RUN()
 
     elif hour == 11 and minute == 0:
         time.sleep(20)
+        print(hour)
         RUN()
 
     elif hour == 12 and minute == 0:
         time.sleep(20)
+        print(hour)
         RUN()
 
     elif hour == 13 and minute == 0:
         time.sleep(20)
+        print(hour)
         RUN()
 
     elif hour == 14 and minute == 0:
         time.sleep(20)
+        print(hour)
         RUN()
 
     elif hour == 15 and minute == 0:
         time.sleep(20)
+        print(hour)
         RUN()
 
     elif hour == 16 and minute == 0:
         time.sleep(20)
+        print(hour)
         RUN()
         
     elif hour == 17 and minute == 0:
         time.sleep(20)
+        print(hour)
         RUN()
         
     elif hour == 18 and minute == 0:
@@ -2001,15 +2013,24 @@ def scheduler():
         scheduler()
 
 def RUN():
+#    cwd = os.getcwd()
+#    print(cwd)
     ULP()
     PUP()
     PRE()
     DSL()
     LPG()
     Convert()
-    call(["git", "add"],cwd='WaFuel/WaFuel')
-    call(["git", "commit", "-a", "-m", "updated files"],cwd='WaFuel/WaFuel')
-    call(["git", "push"],cwd='WaFuel/WaFuel')
+    os.chdir('Documents/WaFuel')
+#    path = os.system('ls')
+#    print(path)
+    os.system('git add')
+    os.system('git commit -a -m "updated"')
+    os.system('git push')
+    os.chdir('/home/luke')
+    #call(["git", "add"],cwd='Documents/WaFuel')
+    #call(["git", "commit"],cwd='Documents/WaFuel')
+    #call(["git", "push"],cwd='Documents/WaFuel')
     #UpLoad_ULP(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_ULP, FOLDER_EMPL_IN_GIT_ULP)
     #UpLoad_95(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_95, FOLDER_EMPL_IN_GIT_95)
     #UpLoad_DSL(ACCESS_TOKEN, GITHUB_REPO, GIT_BRANCH, INTERNAL_FILE_DSL, FOLDER_EMPL_IN_GIT_DSL)
