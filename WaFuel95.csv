@@ -32,7 +32,6 @@ United Tapping,1369 Wanneroo Rd,WANNEROO,6065,201.3,199.5,United
 Shell High Wycombe,1100 Abernethy Rd,HIGH WYCOMBE,6057,201.5,200.5,Shell
 United Hepburn Heights,4 Walter Padbury Bvd,PADBURY,6025,201.5,199.9,United
 Vibe Canning Vale,6 Birnam Rd,CANNING VALE,6155,201.7,198.7,Vibe
-Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,201.7,199.7,Independent
 Vibe Port Kennedy,35 Blackburn Dr,PORT KENNEDY,6172,201.7,201.7,Vibe
 EG Ampol Banksia Grove,133 Ghost Gum Bvd,BANKSIA GROVE,6031,201.9,199.9,EG Ampol
 7-Eleven Canning Vale,215 Campbell Rd,CANNING VALE,6155,201.9,198.9,7 Eleven
@@ -398,8 +397,6 @@ Coles Express Bunbury Outbound,9850 Forrest Hwy,VITTORIA,6230,214.9,214.9,Coles 
 BP Connect Wembley,240 Cambridge St,WEMBLEY,6014,214.9,204.9,BP
 BP 2go Woodvale,941 Whitfords Ave,WOODVALE,6026,214.9,204.9,BP
 Vibe Treendale,157 Grand Ent,AUSTRALIND,6233,215.5,215.5,Vibe
-Gull York Roadhouse,63 Avon Tce,YORK,6302,215.7,215.7,Gull
-Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,215.9,215.9,Puma
 EG Ampol Australind,Cnr Grand Ent & The Promenade,AUSTRALIND,6233,216.5,216.5,EG Ampol
 Liberty Oyster Harbour,4 Bayonet Head Rd,BAYONET HEAD,6330,216.5,214.9,Liberty
 Liberty McKail,557 Albany Hwy,MCKAIL,6330,216.5,214.9,Liberty
@@ -408,7 +405,6 @@ United Mount Barker Roadhouse,31763 Albany Hwy,MOUNT BARKER,6324,216.9,216.9,Uni
 Caltex Mt Melville,317 Albany Hwy,MOUNT MELVILLE,6330,216.9,216.9,Caltex
 Whalley's United Uberwash,225-227 Albany Hwy,MOUNT MELVILLE,6330,216.9,216.9,United
 Coles Express Bunbury,70 Forrest Ave,SOUTH BUNBURY,6230,216.9,216.9,Coles Express
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,217.5,217.5,Better Choice
 Fruit Barn,7 South Western Hwy,DONNYBROOK,6239,217.9,217.9,Liberty
 Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,218.5,218.5,Puma
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,218.5,218.5,Better Choice
@@ -466,4 +462,8 @@ EG Ampol Djugun,106 Frederick St,DJUGUN,6725,262.9,262.9,EG Ampol
 BP Colac,138 Loch St,DERBY,6728,263.9,263.9,BP
 BP Cowaramup,1 Roy Earl Dr,COWARAMUP,6284,,,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,,215.9,Puma
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,217.5,Better Choice
+Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,199.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
+Gull York Roadhouse,63 Avon Tce,YORK,6302,,215.7,Gull
