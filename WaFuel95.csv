@@ -41,7 +41,6 @@ Vibe Kwinana,4 Ocean St,KWINANA BEACH,6167,209.9,209.9,Vibe
 Astron Roleystone,11 Wygonda Rd,ROLEYSTONE,6111,209.9,209.9,
 Liberty Roadhouse Cataby,10805 Brand Hwy,CATABY,6507,210.9,210.9,Liberty
 Vibe Forrestfield,159 Milner Rd,FORRESTFIELD,6058,211.3,209.3,Vibe
-Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,211.7,211.7,Independent
 Gull Waterloo,14270 South Western Hwy,WATERLOO,6228,211.7,211.7,Gull
 7-Eleven Eaton,15 Albatross Cres,EATON,6232,211.9,211.9,7 Eleven
 Gull Moora,65 Roberts St,MOORA,6510,211.9,211.9,Gull
@@ -77,7 +76,6 @@ EG Ampol Eaton,2 Recreation Dr,EATON,6232,214.9,216.9,EG Ampol
 Liberty McKail,557 Albany Hwy,MCKAIL,6330,214.9,214.9,Liberty
 BP Redcliffe,419 Great Eastern Hwy,REDCLIFFE,6104,214.9,210.9,BP
 Vibe Treendale,157 Grand Ent,AUSTRALIND,6233,215.5,215.5,Vibe
-Gull York Roadhouse,63 Avon Tce,YORK,6302,215.7,215.7,Gull
 EG Ampol Busselton,36 Duchess St,BUSSELTON,6280,215.9,215.9,EG Ampol
 EG Ampol Australind,Cnr Grand Ent & The Promenade,AUSTRALIND,6233,216.5,216.9,EG Ampol
 Liberty Dongara,30215 Brand Hwy,DONGARA,6525,216.9,218.9,Liberty
@@ -89,7 +87,6 @@ Caltex Mt Melville,317 Albany Hwy,MOUNT MELVILLE,6330,216.9,218.9,Caltex
 Whalley's United Uberwash,225-227 Albany Hwy,MOUNT MELVILLE,6330,216.9,216.9,United
 Coles Express Bunbury Outbound,9850 Forrest Hwy,VITTORIA,6230,216.9,216.9,Coles Express
 Better Choice Bellevue,177-179 Great Eastern Hwy,BELLEVUE,6056,217.5,213.5,Better Choice
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,217.5,218.5,Better Choice
 Better Choice Malaga,3 Carson Rd,MALAGA,6090,217.5,217.5,Better Choice
 United Mount Barker Roadhouse,31763 Albany Hwy,MOUNT BARKER,6324,217.9,217.9,United
 Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,218.5,218.5,Puma
@@ -114,7 +111,6 @@ Coles Express Boulder,35 Frank St,BOULDER,6432,222.9,222.9,Coles Express
 7-Eleven Cockburn Central,814 North Lake Rd,COCKBURN CENTRAL,6164,222.9,212.9,7 Eleven
 7-Eleven Rockingham,129 Dixon Rd,EAST ROCKINGHAM,6168,222.9,212.9,7 Eleven
 7-Eleven Harrisdale,120 Yellowwood Ave,HARRISDALE,6112,222.9,222.9,7 Eleven
-Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,222.9,222.9,Puma
 Metro Geraldton,1 Fortyn Ct,MAHOMETS FLATS,6530,222.9,222.9,Metro
 Liberty O'Connor,9 Pritchard St,O'CONNOR,6163,222.9,218.9,Liberty
 Coles Express Albany Orana ,342 Albany Hwy,ORANA,6330,222.9,222.9,Coles Express
@@ -465,5 +461,9 @@ EG Ampol Djugun,106 Frederick St,DJUGUN,6725,262.9,262.9,EG Ampol
 BP Colac,138 Loch St,DERBY,6728,263.9,266.9,BP
 BP Cowaramup,1 Roy Earl Dr,COWARAMUP,6284,,,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,,222.9,Puma
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,218.5,Better Choice
+Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,211.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Caltex Murdoch,170 Murdoch Dr,MURDOCH,6150,,,Caltex
+Gull York Roadhouse,63 Avon Tce,YORK,6302,,215.7,Gull
