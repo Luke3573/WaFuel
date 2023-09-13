@@ -128,7 +128,6 @@ Better Choice Malaga,3 Carson Rd,MALAGA,6090,223.5,223.5,Better Choice
 Vibe Charles St,427 Charles St,NORTH PERTH,6006,223.5,229.3,Vibe
 Vibe Witchcliffe,10428 Bussell Hwy,WITCHCLIFFE,6286,223.5,223.5,Vibe
 BP Edgewater,2 The Gateway,EDGEWATER,6027,223.7,223.7,BP
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,223.7,223.7,Independent
 EG Ampol Busselton,36 Duchess St,BUSSELTON,6280,223.9,223.9,EG Ampol
 BP Denmark,44A South Coast Hwy,DENMARK,6333,223.9,225.9,BP
 Liberty Dongara,30215 Brand Hwy,DONGARA,6525,223.9,225.9,Liberty
@@ -156,7 +155,6 @@ Puma Manjimup Roadhouse,1182 South Western Hwy,MANJIMUP,6258,225.9,226.9,Puma
 BP Kalgoorlie-Boulder Truckstop,248 Celebration Rd,YILKARI,6430,225.9,225.9,BP
 BP Jurien Bay,110 Bashford St,JURIEN BAY,6516,226.0,226.0,BP
 Bakers Food and Fuel,46458 South Coast Hwy,KING RIVER,6330,226.0,226.0,Liberty
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,226.0,226.0,Independent
 Little Grove General Store,639 Frenchmans Bay Rd,LITTLE GROVE,6330,226.8,226.8,Shell
 Ampol Foodary Albany York St ,271 York St,ALBANY,6330,226.9,226.9,Ampol
 BP Carnarvon,1134 North West Coastal Hwy,BROWN RANGE,6701,226.9,226.9,BP
@@ -185,7 +183,6 @@ Coles Express Albany Orana ,342 Albany Hwy,ORANA,6330,228.9,228.9,Coles Express
 Ampol Foodary Kalgoorlie,581 Hannan St,SOMERVILLE,6430,228.9,228.9,Ampol
 Ampol Foodary Kalgoorlie South,146 Boulder Rd,SOUTH KALGOORLIE,6430,228.9,228.9,Ampol
 Coles Express Vasse,2 Napoleon Prom,VASSE,6280,228.9,228.9,Coles Express
-Smiths Shell Service,86 Avon Tce,YORK,6302,228.9,228.9,Shell
 Vibe Bassendean,309 Guildford Rd,BASSENDEAN,6054,229.3,227.5,Vibe
 Vibe Jandakot,630 Karel Ave,JANDAKOT,6164,229.5,219.5,Vibe
 Petro Fuels Baldivis,2/909 Mandurah Rd,BALDIVIS,6171,229.7,229.7,
@@ -615,4 +612,7 @@ Puma Bedfordale,681 Albany Hwy,BEDFORDALE,6112,,,Puma
 BP Cowaramup,1 Roy Earl Dr,COWARAMUP,6284,,,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,223.7,Independent
 Caltex Murdoch,170 Murdoch Dr,MURDOCH,6150,,,Caltex
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,226.0,Independent
+Smiths Shell Service,86 Avon Tce,YORK,6302,,228.9,Shell
