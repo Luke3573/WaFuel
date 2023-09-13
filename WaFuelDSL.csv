@@ -196,7 +196,6 @@ Vibe Spearwood,333 Rockingham Rd,SPEARWOOD,6163,215.5,219.5,Vibe
 Vibe Witchcliffe,10428 Bussell Hwy,WITCHCLIFFE,6286,215.5,215.5,Vibe
 Vibe Bassendean,309 Guildford Rd,BASSENDEAN,6054,215.7,214.9,Vibe
 Puma Belmont,33 Belvidere St,BELMONT,6104,215.7,215.7,Puma
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,215.7,215.7,Independent
 Gull York Roadhouse,63 Avon Tce,YORK,6302,215.7,215.7,Gull
 Little Grove General Store,639 Frenchmans Bay Rd,LITTLE GROVE,6330,215.8,215.8,Shell
 Refuel Australia - Deepdale Meru,256 Deepdale Rd,MERU,6530,215.8,215.8,Ampol
@@ -224,7 +223,6 @@ Coles Express Vasse,2 Napoleon Prom,VASSE,6280,215.9,215.9,Coles Express
 Bakers Food and Fuel,46458 South Coast Hwy,KING RIVER,6330,216.0,216.0,Liberty
 Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,216.4,216.4,Puma
 Puma Wooroloo,3381 Great Eastern Hwy,WUNDOWIE,6558,216.7,216.7,Puma
-Smiths Shell Service,86 Avon Tce,YORK,6302,216.7,216.7,Shell
 United Armadale,178 South Western Hwy,ARMADALE,6112,216.9,216.9,United
 Liberty Beckenham,63 William St,BECKENHAM,6107,216.9,216.9,Liberty
 Ampol Foodary Forrestdale,63 Alex Wood Dr,FORRESTDALE,6112,216.9,216.9,Ampol
@@ -241,7 +239,6 @@ BP Jurien Bay,110 Bashford St,JURIEN BAY,6516,217.0,217.0,BP
 Moonyoonooka Store,753 Geraldton-Mt Magnet Rd,MOONYOONOOKA,6532,217.0,217.0,Ampol
 Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,217.0,217.0,Independent
 Vibe Osborne Park,7 Hutton St,OSBORNE PARK,6017,217.3,218.3,Vibe
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,217.5,217.5,Independent
 Puma Mandurah,715 Pinjarra Rd,BARRAGUP,6209,217.7,217.7,Puma
 BP Langford,230-234 Nicholson Rd,LANGFORD,6147,217.7,217.7,BP
 Puma Mundaring,7060 Great Eastern Hwy,MUNDARING,6073,217.7,216.7,Puma
@@ -302,7 +299,6 @@ Coles Express Bunbury Outbound,9850 Forrest Hwy,VITTORIA,6230,219.9,219.9,Coles 
 Coles Express Wanneroo Pearsall,621 Wanneroo Rd,WANNEROO,6065,219.9,219.9,Coles Express
 BP West Kalgoorlie,11 Wilurarra Rd,WEST KALGOORLIE,6430,219.9,219.9,BP
 Eagle West Kalgoorlie Truckstop,2 Brinsden Rd,WEST KALGOORLIE,6430,219.9,223.9,Eagle
-Gracie's General,2 Bayview Dr,GRACETOWN,6284,220.0,220.0,Independent
 Walpole IGA Pioneer Store,10 Nockolds St,WALPOLE,6398,220.0,220.0,Ampol
 Harbour Rd Truckstop,213 Harbour Rd,CHADWICK,6450,220.8,220.8,BP
 Refuel Australia - Dalwallinu,2 Clinch Rd,DALWALLINU,6609,220.8,220.8,Ampol
@@ -365,7 +361,6 @@ Ampol Foodary Coolgardie,110-114 Bayley St,COOLGARDIE,6429,225.9,225.9,Ampol
 Coles Express Ellenbrook,3 Goodwood Cres,ELLENBROOK,6069,225.9,227.9,Coles Express
 United Ellenbrook,3 Locke Lane,ELLENBROOK,6069,225.9,225.9,United
 Coles Express Esperance,25 Andrew St,ESPERANCE,6450,225.9,225.9,Coles Express
-BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,225.9,235.5,BP
 Ampol Foodary Carnarvon,595 Robinson St,KINGSFORD,6701,225.9,225.9,Ampol
 Coles Express Langford,70 Nicholson Rd,LANGFORD,6147,225.9,225.9,Coles Express
 Meekatharra Caravan Park,119 Main St,MEEKATHARRA,6642,225.9,225.9,Independent
@@ -440,9 +435,14 @@ Petro Fuels Bassendean,190 Railway Pde,BASSENDEAN,6054,,,
 Puma Bedfordale,681 Albany Hwy,BEDFORDALE,6112,,,Puma
 BP Cowaramup,1 Roy Earl Dr,COWARAMUP,6284,,,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,235.5,BP
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
+Gracie's General,2 Bayview Dr,GRACETOWN,6284,,220.0,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,215.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,217.5,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
 The Canal Shop ,16 South Yunderup Rd,SOUTH YUNDERUP,6208,,,Independent
 Caltex Upper Swan,1383 Great Northern Hwy,UPPER SWAN,6069,,,Caltex
+Smiths Shell Service,86 Avon Tce,YORK,6302,,216.7,Shell
