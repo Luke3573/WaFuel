@@ -371,11 +371,9 @@ Puma North Perth,311 Fitzgerald St,WEST PERTH,6005,205.5,197.7,Puma
 Vibe Witchcliffe,10428 Bussell Hwy,WITCHCLIFFE,6286,205.5,205.5,Vibe
 Vibe Yangebup,109 Barrington St,YANGEBUP,6164,205.5,205.5,Vibe
 Puma Mandurah,715 Pinjarra Rd,BARRAGUP,6209,205.7,197.7,Puma
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,205.7,205.7,Independent
 Puma Mindarie,22 Anchorage Dr,MINDARIE,6030,205.7,197.7,Puma
 Caltex Yokine,398 Hector St,YOKINE,6060,205.7,197.9,Caltex
 Gull York Roadhouse,63 Avon Tce,YORK,6302,205.7,205.7,Gull
-Smiths Shell Service,86 Avon Tce,YORK,6302,205.7,205.7,Shell
 Ampol Foodary Albany York St ,271 York St,ALBANY,6330,205.9,205.9,Ampol
 Ampol Foodary Melville,585 Canning Hwy,ALFRED COVE,6154,205.9,199.9,Ampol
 Ampol Foodary Applecross,918 Canning Hwy,APPLECROSS,6153,205.9,201.9,Ampol
@@ -485,7 +483,6 @@ Ampol Foodary Kalgoorlie,581 Hannan St,SOMERVILLE,6430,206.9,206.9,Ampol
 Ampol Foodary Kalgoorlie South,146 Boulder Rd,SOUTH KALGOORLIE,6430,206.9,206.9,Ampol
 BP Walpole,18 Nockolds St,WALPOLE,6398,206.9,206.9,BP
 BP Dog Swamp,4 Wanneroo Rd,YOKINE,6060,206.9,199.9,BP
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,207.1,209.5,Independent
 Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,207.3,212.9,Puma
 Puma Glen Forrest,1400 Great Eastern Hwy,GLEN FORREST,6071,207.5,197.7,Puma
 Vibe Mt Helena,9 McVicar Pl,MOUNT HELENA,6082,207.5,188.9,Vibe
@@ -703,6 +700,9 @@ Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,237.9,BP
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,205.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,209.5,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
 Caltex Piccadilly,7 Maritana St,PICCADILLY,6430,,,Caltex
+Smiths Shell Service,86 Avon Tce,YORK,6302,,205.7,Shell
