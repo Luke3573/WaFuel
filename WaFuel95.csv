@@ -32,7 +32,6 @@ Liberty Naval Base,24 Dooley St,NAVAL BASE,6165,207.9,207.9,Liberty
 Liberty Dalyellup,9 Norton Prom,DALYELLUP,6230,208.5,208.5,Liberty
 United Ellenbrook,3 Locke Lane,ELLENBROOK,6069,208.5,206.9,United
 United Southern River,Lot 101 Terrier Pl,SOUTHERN RIVER,6110,208.5,206.9,United
-Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,208.7,205.7,Independent
 7-Eleven Cockburn Central,814 North Lake Rd,COCKBURN CENTRAL,6164,208.9,206.9,7 Eleven
 7-Eleven Landsdale,8 Mullingar Way,LANDSDALE,6065,208.9,208.9,7 Eleven
 Liberty Landsdale,2 Cowle St,LANDSDALE,6065,208.9,204.9,Liberty
@@ -176,7 +175,6 @@ Better Choice Tuart Hill,150 Wanneroo Rd,TUART HILL,6060,217.3,213.3,Better Choi
 Better Choice Como,25 Preston St,COMO,6152,217.5,213.5,Better Choice
 Vibe Spearwood,333 Rockingham Rd,SPEARWOOD,6163,217.5,203.9,Vibe
 Vibe Subiaco,123 Thomas St,SUBIACO,6008,217.5,213.7,Vibe
-Gull York Roadhouse,63 Avon Tce,YORK,6302,217.7,217.7,Gull
 BP 2go Cannington,1443 Albany Hwy,CANNINGTON,6107,217.9,217.9,BP
 OTR Como,73 Manning Rd,MANNING,6152,217.9,211.9,BP
 BP 2go Morrison Road,226 Morrison Rd,MIDVALE,6056,217.9,213.9,BP
@@ -185,7 +183,6 @@ United Mount Barker Roadhouse,31763 Albany Hwy,MOUNT BARKER,6324,217.9,218.9,Uni
 Astron Quinns Rocks,121 Quinns Rd,QUINNS ROCKS,6030,217.9,207.9,
 Puma Alexander Heights,200 Mirrabooka Ave,ALEXANDER HEIGHTS,6064,218.3,214.7,Puma
 Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,218.5,224.8,Puma
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,218.5,220.5,Better Choice
 Caltex Merriwa,5/4 Hughie Edwards Dr,MERRIWA,6030,218.5,213.9,Caltex
 Puma Pearsall,204 Shiraz Bvd,PEARSALL,6065,218.7,213.7,Puma
 EG Ampol Alkimos,11 Shorehaven Bvd,ALKIMOS,6038,218.9,212.9,EG Ampol
@@ -345,7 +342,6 @@ Ampol Foodary Forrestdale,63 Alex Wood Dr,FORRESTDALE,6112,222.9,214.9,Ampol
 Ampol Foodary Gosnells,158 Corfield St,GOSNELLS,6110,222.9,214.9,Ampol
 7-Eleven Greenfields South,13 Lakes Rd,GREENFIELDS,6210,222.9,212.9,7 Eleven
 Caltex Harvey,81 Uduc Rd,HARVEY,6220,222.9,222.9,Caltex
-Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,222.9,215.9,Puma
 BP Huntingdale,68 Warton Rd,HUNTINGDALE,6110,222.9,218.9,BP
 Ampol Foodary Cockburn Central,3 Armadale Rd,JANDAKOT,6164,222.9,214.9,Ampol
 Metro Geraldton,1 Fortyn Ct,MAHOMETS FLATS,6530,222.9,222.9,Metro
@@ -466,4 +462,8 @@ Shinju BP,101 Guy St,BROOME,6725,262.9,262.9,BP
 EG Ampol Djugun,106 Frederick St,DJUGUN,6725,262.9,265.9,EG Ampol
 BP Colac,138 Loch St,DERBY,6728,266.9,266.9,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,,215.9,Puma
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,220.5,Better Choice
+Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,205.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
+Gull York Roadhouse,63 Avon Tce,YORK,6302,,217.7,Gull
