@@ -29,7 +29,6 @@ Vibe Wanneroo,964 Wanneroo Rd,WANNEROO,6065,205.9,,Vibe
 Metro Malaga,1 Harlond Ave,MALAGA,6090,206.3,,Metro
 Vibe Port Kennedy,35 Blackburn Dr,PORT KENNEDY,6172,206.3,,Vibe
 Better Choice Naval Base,Cnr Rockingham Rd & Lee Rd,NAVAL BASE,6165,206.5,,Better Choice
-Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,206.9,,Independent
 United Tapping,1369 Wanneroo Rd,WANNEROO,6065,206.9,,United
 Liberty Tapping,3 Herdsman Lane,WANNEROO,6065,206.9,,Liberty
 Vibe East Bunbury,13 Picton Rd,EAST BUNBURY,6230,207.5,,Vibe
@@ -163,7 +162,6 @@ United Myaree,182 Leach Hwy,MYAREE,6154,215.9,,United
 Dunning's Northam,38 Peel Tce,NORTHAM,6401,215.9,,Shell
 United Rangeway,50 Rifle Range Rd,RANGEWAY,6530,215.9,,United
 BP Parklands,85 Forrest Ave,SOUTH BUNBURY,6230,215.9,,BP
-BP South Bunbury,188 Spencer St,SOUTH BUNBURY,6230,215.9,,BP
 Coles Express Vasse,2 Napoleon Prom,VASSE,6280,215.9,,Coles Express
 Ampol Albany,634 Menang Dr,WILLYUNG,6330,215.9,,Ampol
 Puma Bedfordale,681 Albany Hwy,BEDFORDALE,6112,216.5,,Puma
@@ -234,7 +232,6 @@ BP Kununurra Depot (Recharge Petroleum),Cnr Stockman Rd & Bull Run Rd,KUNUNURRA,
 Puma Manjimup Roadhouse,1182 South Western Hwy,MANJIMUP,6258,218.9,,Puma
 Mt Barker Fuel Services,48 Lowood Rd,MOUNT BARKER,6324,218.9,,Independent
 Del Park Roadhouse,4267 South Western Hwy,NORTH DANDALUP,6207,218.9,,Ampol
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,218.9,,Independent
 BP Pemberton Garage & Service Station,84 Brockman St,PEMBERTON,6260,218.9,,BP
 Vibe Osborne Park,7 Hutton St,OSBORNE PARK,6017,219.3,,Vibe
 Cheynes Beach Caravan Park,12 Bald Island Rd,CHEYNES,6328,219.4,,Independent
@@ -328,7 +325,6 @@ Refuel Australia - Port Hedland,Lot 3 Great Northern Hwy,PORT HEDLAND,6721,224.8
 BP Baldivis Northbound Travel Centre,Lot 191 Paparone Rd,BALDIVIS,6171,224.9,,BP
 BP Baldivis Southbound Travel Centre,Lot 192 Leary Rd,BALDIVIS,6171,224.9,,BP
 Ampol Foodary Bannister Road,60 Bannister Rd,CANNING VALE,6155,224.9,,Ampol
-Dunning's Carnarvon,125 Robinson St,MORGANTOWN,6701,224.9,,Shell
 United Northbridge,31 Fitzgerald St,NORTHBRIDGE,6003,224.9,,United
 Ampol Foodary Forrest Highway South,Lot 601 Forrest Hwy,WEST PINJARRA,6208,224.9,,Ampol
 Ampol Foodary Forrest Highway North,Lot 602 Forrest Hwy,WEST PINJARRA,6208,224.9,,Ampol
@@ -441,7 +437,11 @@ Petro Fuels Bassendean,190 Railway Pde,BASSENDEAN,6054,,,
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
+Dunning's Carnarvon,125 Robinson St,MORGANTOWN,6701,,,Shell
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
+BP South Bunbury,188 Spencer St,SOUTH BUNBURY,6230,,,BP
 The Canal Shop ,16 South Yunderup Rd,SOUTH YUNDERUP,6208,,,Independent
 Smiths Shell Service,86 Avon Tce,YORK,6302,,,Shell
