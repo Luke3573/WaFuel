@@ -44,7 +44,6 @@ Vibe Morley,430 Morley Dr,MORLEY,6062,193.5,,Vibe
 Petro Fuels Baldivis,2/909 Mandurah Rd,BALDIVIS,6171,193.7,,
 Vibe East Bunbury,13 Picton Rd,EAST BUNBURY,6230,193.7,,Vibe
 7-Eleven Bunbury East,8D Picton Rd,EAST BUNBURY,6230,193.7,,7 Eleven
-Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,193.7,,Independent
 NightOwl Shell Redcliffe,443 Great Eastern Hwy,REDCLIFFE,6104,193.8,,Shell
 Petro Fuels Swan View,309 Morrison Rd,SWAN VIEW,6056,193.8,,
 EG Ampol Banksia Grove,133 Ghost Gum Bvd,BANKSIA GROVE,6031,193.9,,EG Ampol
@@ -443,7 +442,6 @@ Geographe Petroleum Margaret River,12 Auger Way,MARGARET RIVER,6285,202.9,,Liber
 Caltex Murdoch,170 Murdoch Dr,MURDOCH,6150,202.9,,Caltex
 BP Picton Wetherley Dr,24 Wetherly Dr,PICTON,6229,202.9,,BP
 BP Parklands,85 Forrest Ave,SOUTH BUNBURY,6230,202.9,,BP
-BP South Bunbury,188 Spencer St,SOUTH BUNBURY,6230,202.9,,BP
 Dardanup Garage & Service Station,11 Charlotte St,DARDANUP,6236,203.0,,Independent
 Liberty Oyster Harbour,4 Bayonet Head Rd,BAYONET HEAD,6330,203.5,,Liberty
 Liberty McKail,557 Albany Hwy,MCKAIL,6330,203.5,,Liberty
@@ -586,7 +584,6 @@ Puma Kununurra Depot,2257 Victoria Hwy,KUNUNURRA,6743,206.9,,Puma
 BP Manjimup,96 Giblett St,MANJIMUP,6258,206.9,,BP
 Dunning's Thompsons Garage,127 Giblett St,MANJIMUP,6258,206.9,,Shell
 EG Ampol Manjimup,89 Mottram St,MANJIMUP,6258,206.9,,EG Ampol
-Dunning's Carnarvon,125 Robinson St,MORGANTOWN,6701,206.9,,Shell
 Ampol Foodary Kalgoorlie,581 Hannan St,SOMERVILLE,6430,206.9,,Ampol
 Ampol Foodary Kalgoorlie South,146 Boulder Rd,SOUTH KALGOORLIE,6430,206.9,,Ampol
 BP Walpole,18 Nockolds St,WALPOLE,6398,206.9,,BP
@@ -700,9 +697,12 @@ Petro Fuels Bassendean,190 Railway Pde,BASSENDEAN,6054,,,
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Coles Express Meekatharra Roadhouse,Lot 821 Main St,MEEKATHARRA,6642,,,Coles Express
+Dunning's Carnarvon,125 Robinson St,MORGANTOWN,6701,,,Shell
 Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
 Caltex Piccadilly,7 Maritana St,PICCADILLY,6430,,,Caltex
+BP South Bunbury,188 Spencer St,SOUTH BUNBURY,6230,,,BP
 Smiths Shell Service,86 Avon Tce,YORK,6302,,,Shell
