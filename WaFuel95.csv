@@ -148,7 +148,6 @@ BP Kelmscott,2907 Albany Hwy,KELMSCOTT,6111,211.6,211.6,BP
 Puma Karragullen Motors,164 Brookton Hwy,KARRAGULLEN,6111,211.7,211.7,Puma
 Vibe Piara Waters,390 Nicholson Rd,PIARA WATERS,6112,211.7,209.3,Vibe
 Puma Wanneroo,951 Wanneroo Rd,WANNEROO,6065,211.7,209.7,Puma
-Gull Waterloo,14270 South Western Hwy,WATERLOO,6228,211.7,211.7,Gull
 BP Ballajura,2 Illawarra Cres North,BALLAJURA,6066,211.9,208.9,BP
 Caltex Bentley,1/1163 Albany Hwy,BENTLEY,6102,211.9,209.9,Caltex
 BP East Rockingham,137 Dixon Rd,EAST ROCKINGHAM,6168,211.9,208.9,BP
@@ -431,7 +430,6 @@ EG Ampol Carnarvon,90 Robinson St,CARNARVON,6701,223.9,223.9,EG Ampol
 Ampol Foodary Carnarvon,595 Robinson St,KINGSFORD,6701,223.9,223.9,Ampol
 Serpentine Falls Roadhouse,2 Falls Rd,SERPENTINE,6125,223.9,223.9,Independent
 Ampol Foodary Kalgoorlie,581 Hannan St,SOMERVILLE,6430,223.9,223.9,Ampol
-Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,224.8,224.8,Puma
 Ampol Foodary Esperance,59 Dempster St,ESPERANCE,6450,224.9,224.9,Ampol
 Coles Express Esperance,25 Andrew St,ESPERANCE,6450,224.9,224.9,Coles Express
 Metro Jurien Bay,74 Bashford St,JURIEN BAY,6516,224.9,224.9,Metro
@@ -465,5 +463,7 @@ Coles Express Broome,19 Napier Tce,BROOME,6725,265.9,266.9,Coles Express
 EG Ampol Djugun,106 Frederick St,DJUGUN,6725,265.9,265.9,EG Ampol
 BP Colac,138 Loch St,DERBY,6728,266.9,266.9,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,,224.8,Puma
 Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,203.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
+Gull Waterloo,14270 South Western Hwy,WATERLOO,6228,,211.7,Gull

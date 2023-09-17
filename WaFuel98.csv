@@ -37,7 +37,6 @@ Vibe Canning Vale,6 Birnam Rd,CANNING VALE,6155,212.7,210.9,Vibe
 Vibe Forrestfield,159 Milner Rd,FORRESTFIELD,6058,212.7,212.7,Vibe
 NightOwl Shell Maddington,1 Davison St,MADDINGTON,6109,212.8,212.8,Shell
 NightOwl Shell Ravenswood,6 Beacham Rd,RAVENSWOOD,6208,212.8,212.8,Shell
-Hills Emporio,1615 Canning Rd,KARRAGULLEN,6111,212.9,212.9,Independent
 Ampol Foodary South Lake,2 Omeo St,SOUTH LAKE,6164,212.9,212.9,Ampol
 Route 94 Bakers Hill,4641 Great Eastern Hwy,BAKERS HILL,6562,213.3,213.3,United
 Burk Camillo,Cnr Westfield Rd & Ypres Rd,CAMILLO,6111,213.3,211.3,BURK
@@ -326,7 +325,6 @@ Caltex Baldivis,67 Ridge Bvd,BALDIVIS,6171,222.9,221.5,Caltex
 Coles Express Bayswater,34 Jackson St,BAYSWATER,6053,222.9,218.9,Coles Express
 Coles Express Bentley,1128 Albany Hwy,BENTLEY,6102,222.9,218.9,Coles Express
 Ampol Bibra Lake Diesel Stop,5 Cocos Dr,BIBRA LAKE,6163,222.9,222.9,Ampol
-GD's Brunswick Roadhouse,94 Ommaney Rd,BRUNSWICK,6224,222.9,222.9,Ampol
 Coles Express Bull Creek,44 Benningfield Rd,BULL CREEK,6149,222.9,218.9,Coles Express
 7-Eleven Busselton,81-93 West St,BUSSELTON,6280,222.9,222.9,7 Eleven
 Caltex Busselton,99 Causeway Rd,BUSSELTON,6280,222.9,222.9,Caltex
@@ -566,7 +564,6 @@ Ampol Foodary Esperance,59 Dempster St,ESPERANCE,6450,232.9,232.9,Ampol
 Metro Geraldton,1 Fortyn Ct,MAHOMETS FLATS,6530,232.9,232.9,Metro
 Ampol Foodary Newman,Lot 1328 Newman Dr,NEWMAN,6753,232.9,232.9,Ampol
 Smart Mart Newman,Lot 1 Newman Dr,NEWMAN,6753,232.9,232.9,Shell
-United Swanbourne,2 Servetus St,SWANBOURNE,6010,232.9,232.9,United
 Liberty Karratha,2 Cockatoo St,NICKOL,6714,233.9,233.9,Liberty
 United Rangeway,50 Rifle Range Rd,RANGEWAY,6530,233.9,233.9,United
 Liberty Oyster Harbour,4 Bayonet Head Rd,BAYONET HEAD,6330,234.5,234.5,Liberty
@@ -604,15 +601,18 @@ Dunning's Broome,7 Clementson St,BROOME,6725,264.9,264.9,Shell
 BP Broome Central Service Centre,2 Coghlan St,DJUGUN,6725,267.9,267.9,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 Petro Fuels Bassendean,190 Railway Pde,BASSENDEAN,6054,,,
+GD's Brunswick Roadhouse,94 Ommaney Rd,BRUNSWICK,6224,,222.9,Ampol
 Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,,225.0,Shell
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Hills Emporio,1615 Canning Rd,KARRAGULLEN,6111,,212.9,Independent
 Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,227.7,Independent
 Hi-Way Sales & Service 1982,154 Albany Hwy,KOJONUP,6395,,232.9,Ampol
 Moonyoonooka Store,753 Geraldton-Mt Magnet Rd,MOONYOONOOKA,6532,,231.0,Ampol
 Dunning's Carnarvon,125 Robinson St,MORGANTOWN,6701,,226.9,Shell
 Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,229.5,Independent
 BP South Bunbury,188 Spencer St,SOUTH BUNBURY,6230,,223.9,BP
+United Swanbourne,2 Servetus St,SWANBOURNE,6010,,232.9,United
 Caltex Wangara,1 Brady St,WANGARA,6065,,218.9,Caltex
 Vibe Yangebup,109 Barrington St,YANGEBUP,6164,,225.5,Vibe
 Smiths Shell Service,86 Avon Tce,YORK,6302,,228.9,Shell
