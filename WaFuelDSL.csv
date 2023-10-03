@@ -205,7 +205,6 @@ Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,221.5,221.5,B
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,221.5,221.5,Better Choice
 Vibe Witchcliffe,10428 Bussell Hwy,WITCHCLIFFE,6286,221.5,221.5,Vibe
 Vibe Treendale,157 Grand Ent,AUSTRALIND,6233,221.7,221.7,Vibe
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,221.7,221.7,Independent
 Petro Fuels Denmark,69 South Coast Hwy,DENMARK,6333,221.8,218.8,Shell
 United Anketell,Anketell Rd (Cnr Albinia Ave),ANKETELL,6167,221.9,221.9,United
 Coles Express Brookdale,1256 Armadale Rd,ARMADALE,6112,221.9,221.9,Coles Express
@@ -269,7 +268,6 @@ Coles Express Wanneroo Pearsall,621 Wanneroo Rd,WANNEROO,6065,223.9,223.9,Coles 
 BP Jurien Bay,110 Bashford St,JURIEN BAY,6516,224.0,224.0,BP
 Petro Fuels Mount Barker,25 Mitchell Rd,MOUNT BARKER,6324,224.8,224.8,BP
 Liberty Beckenham,63 William St,BECKENHAM,6107,224.9,224.9,Liberty
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,224.9,224.9,Independent
 Vibe Osborne Park,7 Hutton St,OSBORNE PARK,6017,224.9,224.9,Vibe
 BP West Kalgoorlie,11 Wilurarra Rd,WEST KALGOORLIE,6430,224.9,224.9,BP
 BP Port Hedland,90 Anderson St,PORT HEDLAND,6721,225.0,225.0,BP
@@ -332,7 +330,6 @@ United Ellenbrook,3 Locke Lane,ELLENBROOK,6069,227.9,227.9,United
 Ampol Karratha - Truck Stop,1540 Anderson Rd,KARRATHA INDUSTRIAL ESTATE,6714,227.9,227.9,Ampol
 BP Karratha Depot (Recharge Petroleum),1033 Mardie Rd,KARRATHA INDUSTRIAL ESTATE,6714,227.9,227.9,BP
 United Hepburn Heights,4 Walter Padbury Bvd,PADBURY,6025,227.9,227.9,United
-Smiths Shell Service,86 Avon Tce,YORK,6302,227.9,223.9,Shell
 Mundijong Store & Deli,20 Paterson St,MUNDIJONG,6123,228.0,228.0,Independent
 Puma Carnarvon OPT,59 Hudson St,GREYS PLAIN,6701,228.7,228.7,Puma
 Coles Express Boulder,35 Frank St,BOULDER,6432,228.9,228.9,Coles Express
@@ -374,7 +371,6 @@ BP Wedgefield OPT,Cnr Pinga St & Anthill St,WEDGEFIELD,6721,229.9,229.9,BP
 Coles Express South Hedland Roadhouse,Lot 5553 Great Northern Hwy,WEDGEFIELD,6721,229.9,229.9,Coles Express
 Ampol Kalgoorlie - Service Station,2 Cunningham Rd,WEST KALGOORLIE,6430,229.9,229.9,Ampol
 Coles Express West Perth,30 Thomas St,WEST PERTH,6005,229.9,229.9,Coles Express
-Gracie's General,2 Bayview Dr,GRACETOWN,6284,230.0,230.0,Independent
 Walpole IGA Pioneer Store,10 Nockolds St,WALPOLE,6398,230.0,230.0,Ampol
 Young Siding General Store,19 Station St,YOUNGS SIDING,6330,230.7,230.7,BP
 Dunning's Carnarvon,125 Robinson St,MORGANTOWN,6701,230.9,230.9,Shell
@@ -393,7 +389,6 @@ BP Port Hedland Boulevard,150 Anderson St,PORT HEDLAND,6721,233.9,233.9,BP
 Coles Express Port Hedland,Lot 2065 Wilson St,PORT HEDLAND,6721,233.9,233.9,Coles Express
 Fitzroy River Lodge,Lot 277 Great Northern Hwy,FITZROY CROSSING,6765,234.0,234.0,Independent
 Liberty Karratha,2 Cockatoo St,NICKOL,6714,234.9,234.9,Liberty
-BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,235.5,235.5,BP
 Yarrumba Service Station,21 Jose St,MULLEWA,6630,235.7,235.7,Liberty
 Ampol Fitzroy Crossing Diesel Stop,53 Emanuel Way,FITZROY CROSSING,6765,235.9,235.9,Ampol
 Coles Express Fitzroy Crossing Roadhouse,87 Great Northern Hwy,FITZROY CROSSING,6765,235.9,235.9,Coles Express
@@ -438,9 +433,14 @@ Derby Fuels,46 Clarendon St,DERBY,6728,258.5,258.5,Shell
 BP Colac,138 Loch St,DERBY,6728,258.9,258.9,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,235.5,BP
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
+Gracie's General,2 Bayview Dr,GRACETOWN,6284,,230.0,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,221.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Caltex Mundaring,7060 Great Eastern Hwy,MUNDARING,6073,,,Caltex
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,224.9,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
 The Canal Shop ,16 South Yunderup Rd,SOUTH YUNDERUP,6208,,,Independent
+Smiths Shell Service,86 Avon Tce,YORK,6302,,223.9,Shell
