@@ -131,7 +131,6 @@ Liberty Landsdale,2 Cowle St,LANDSDALE,6065,201.5,201.5,Liberty
 Liberty O'Connor,9 Pritchard St,O'CONNOR,6163,201.5,201.5,Liberty
 Vibe Piara Waters,390 Nicholson Rd,PIARA WATERS,6112,201.5,242.5,Vibe
 Vibe Subiaco,123 Thomas St,SUBIACO,6008,201.5,243.5,Vibe
-Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,201.7,212.7,Independent
 7-Eleven Queens Park,235 Welshpool Rd,QUEENS PARK,6107,201.7,242.9,7 Eleven
 EG Ampol Alkimos,11 Shorehaven Bvd,ALKIMOS,6038,201.9,244.9,EG Ampol
 BP Applecross,848 Canning Hwy,APPLECROSS,6153,201.9,244.9,BP
@@ -409,16 +408,13 @@ Coles Express Boulder,35 Frank St,BOULDER,6432,220.9,220.9,Coles Express
 United Mount Barker Roadhouse,31763 Albany Hwy,MOUNT BARKER,6324,220.9,220.9,United
 Coles Express Albany Orana ,342 Albany Hwy,ORANA,6330,220.9,220.9,Coles Express
 Coles Express Bunbury,70 Forrest Ave,SOUTH BUNBURY,6230,220.9,220.9,Coles Express
-Gull York Roadhouse,63 Avon Tce,YORK,6302,221.7,221.7,Gull
 BP Cowaramup,1 Roy Earl Dr,COWARAMUP,6284,221.9,221.9,BP
 Fruit Barn,7 South Western Hwy,DONNYBROOK,6239,221.9,221.9,Liberty
 Ampol Foodary Eaton,1 Pratt Rd,EATON,6232,221.9,221.9,Ampol
 EG Ampol Eaton,2 Recreation Dr,EATON,6232,221.9,218.9,EG Ampol
 United Rangeway,50 Rifle Range Rd,RANGEWAY,6530,221.9,221.9,United
 Liberty Dongara,30215 Brand Hwy,DONGARA,6525,222.9,222.9,Liberty
-Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,222.9,227.9,Puma
 EG Ampol Manjimup,89 Mottram St,MANJIMUP,6258,222.9,222.9,EG Ampol
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,224.5,224.5,Better Choice
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,224.5,224.5,Better Choice
 Puma Dalwallinu,4 Johnston St,DALWALLINU,6609,224.7,224.7,Puma
 Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,224.8,224.8,Puma
@@ -466,4 +462,8 @@ EG Ampol Djugun,106 Frederick St,DJUGUN,6725,266.9,266.9,EG Ampol
 BP Colac,138 Loch St,DERBY,6728,268.9,268.9,BP
 Coles Express Bibra Lake,1 Timberyard Way,BIBRA LAKE,6163,,,Coles Express
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,,227.9,Puma
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,224.5,Better Choice
+Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,212.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
+Gull York Roadhouse,63 Avon Tce,YORK,6302,,221.7,Gull

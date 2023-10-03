@@ -20,7 +20,6 @@ United South Lake,49 Berrigan Dr,SOUTH LAKE,6164,129.7,129.7,United
 Caltex Upper Swan,1383 Great Northern Hwy,UPPER SWAN,6069,129.7,129.7,Caltex
 Caltex Burswood,265 Great Eastern Hwy,BURSWOOD,6100,129.9,129.9,Caltex
 BP Henley Brook,1520 Gnangara Rd,HENLEY BROOK,6055,129.9,129.9,BP
-Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,129.9,129.9,Independent
 BP Redcliffe,419 Great Eastern Hwy,REDCLIFFE,6104,129.9,129.9,BP
 United East Victoria Park,916 Albany Hwy,EAST VICTORIA PARK,6101,132.9,132.9,United
 EG Ampol Whitfords,470 Whitfords Ave,HILLARYS,6025,132.9,132.9,EG Ampol
@@ -67,7 +66,6 @@ Ampol Foodary Bunbury,1 Forrest Ave,BUNBURY,6230,139.9,139.9,Ampol
 Ampol Foodary Busselton,115 Strelly St,BUSSELTON,6280,139.9,139.9,Ampol
 Ampol Foodary Eaton,1 Pratt Rd,EATON,6232,139.9,139.9,Ampol
 Petro Fuels Karragullen,1287 Brookton Hwy,KARRAGULLEN,6111,139.9,139.9,BP
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,139.9,139.9,Better Choice
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,139.9,139.9,Better Choice
 Ampol Foodary Williams,56 Albany Hwy,WILLIAMS,6391,139.9,139.9,Ampol
 Ampol Foodary North Road,204 North Rd,YAKAMIA,6330,139.9,139.9,Ampol
@@ -80,6 +78,8 @@ BP Wubin,80-82 Great Northern Hwy,WUBIN,6612,209.7,209.7,BP
 BP Connect Ascot (WA),210 Great Eastern Hwy,ASCOT,6104,,,BP
 Vibe Beechboro,495 Beechboro Rd N,BEECHBORO,6063,,,Vibe
 BP Forrestfield,155 Hale Rd,FORRESTFIELD,6058,,,BP
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,139.9,Better Choice
+Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,129.9,Independent
 Ampol Foodary Leederville,319 Vincent St,LEEDERVILLE,6007,,,Ampol
 BP Crystal Brook (Lesmurdie),7 Welshpool Rd East,LESMURDIE,6076,,,BP
 Ampol Maddington Truck Stop,18 Orchard Rd,MADDINGTON,6109,,,Ampol
