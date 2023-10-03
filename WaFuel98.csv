@@ -526,7 +526,6 @@ United Rangeway,50 Rifle Range Rd,RANGEWAY,6530,228.9,228.9,United
 Coles Express Bunbury Outbound,9850 Forrest Hwy,VITTORIA,6230,228.9,228.9,Coles Express
 Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,229.0,239.0,Shell
 Vibe Witchcliffe,10428 Bussell Hwy,WITCHCLIFFE,6286,229.5,229.5,Vibe
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,229.7,229.7,Independent
 Petro Fuels Denmark,69 South Coast Hwy,DENMARK,6333,229.8,227.8,Shell
 Refuel Australia - Sunset Geraldton,620 Chapman Rd,GLENFIELD,6532,229.8,229.8,Ampol
 Petro Fuels Mount Barker,25 Mitchell Rd,MOUNT BARKER,6324,229.8,229.8,BP
@@ -553,7 +552,6 @@ Caltex Piccadilly,7 Maritana St,PICCADILLY,6430,230.9,230.9,Caltex
 BP Jurien Bay,110 Bashford St,JURIEN BAY,6516,231.0,231.0,BP
 Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,231.5,231.5,Better Choice
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,231.5,231.5,Better Choice
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,231.5,231.5,Independent
 EG Ampol Eaton,2 Recreation Dr,EATON,6232,231.9,228.9,EG Ampol
 Coles Express Vasse,2 Napoleon Prom,VASSE,6280,231.9,231.9,Coles Express
 Maisey Fuels Flores Road,83 Flores Rd,WEBBERTON,6530,232.5,228.8,Independent
@@ -581,7 +579,6 @@ Coles Express Dunsborough,64 Dunn Bay Rd,DUNSBOROUGH,6281,234.9,234.9,Coles Expr
 Metro Jurien Bay,74 Bashford St,JURIEN BAY,6516,234.9,234.9,Metro
 Ampol Foodary Newman,Lot 1328 Newman Dr,NEWMAN,6753,234.9,234.9,Ampol
 Ampol Foodary Wonthella,40 North West Coastal Hwy,WONTHELLA,6530,234.9,234.9,Ampol
-Smiths Shell Service,86 Avon Tce,YORK,6302,235.9,231.9,Shell
 Ampol Foodary Esperance,59 Dempster St,ESPERANCE,6450,236.9,236.9,Ampol
 Coles Express Tarcoola,2 Fortyn Ct,MAHOMETS FLATS,6530,236.9,236.9,Coles Express
 Coles Express Wonthella,115 North West Coastal Hwy,WONTHELLA,6530,236.9,236.9,Coles Express
@@ -616,3 +613,6 @@ BP Broome Central Service Centre,2 Coghlan St,DJUGUN,6725,269.9,269.9,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,229.7,Independent
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,231.5,Independent
+Smiths Shell Service,86 Avon Tce,YORK,6302,,231.9,Shell
