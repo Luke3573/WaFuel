@@ -189,7 +189,6 @@ Ampol Meckering,31 Dreyer St,MECKERING,6405,204.9,204.9,Ampol
 Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,205.0,205.0,Independent
 Vibe Bridgetown,169 Hampton St,BRIDGETOWN,6255,205.5,205.5,Vibe
 Gull York Roadhouse,63 Avon Tce,YORK,6302,205.7,205.7,Gull
-Smiths Shell Service,86 Avon Tce,YORK,6302,205.7,205.7,Shell
 Petro Fuels Cataby,10513 Brand Hwy,CATABY,6507,205.8,205.8,Ampol
 Little Grove General Store,639 Frenchmans Bay Rd,LITTLE GROVE,6330,205.8,201.8,Shell
 Maisey Fuels Rudds Gully,512 Rudds Gully Rd,NARNGULU,6532,205.8,205.8,Independent
@@ -249,7 +248,6 @@ Vibe Bassendean,309 Guildford Rd,BASSENDEAN,6054,209.5,199.5,Vibe
 Vibe Coolgardie,1 Bayley St,COOLGARDIE,6429,209.5,209.5,Vibe
 Puma Esperance OPT,Lot 6 Beckwith Rd,CHADWICK,6450,209.7,209.7,Puma
 Gull Collie,143 Throssell St,COLLIE,6225,209.7,209.7,Gull
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,209.7,209.7,Independent
 Vibe West Swan,6639 West Swan Rd,WEST SWAN,6055,209.7,209.7,Vibe
 7-Eleven Balcatta,174 Balcatta Rd,BALCATTA,6021,209.9,209.9,7 Eleven
 7-Eleven Stirling,377 Wanneroo Rd,BALCATTA,6021,209.9,209.9,7 Eleven
@@ -283,7 +281,6 @@ Geographe IGA,328 Marine Tce,GEOGRAPHE,6280,210.4,210.4,Liberty
 Castletown Service Station,57 Goldfields Rd,CASTLETOWN,6450,210.9,210.9,BP
 Harbour Rd Truckstop,213 Harbour Rd,CHADWICK,6450,210.9,210.9,BP
 BP Jurien Bay,110 Bashford St,JURIEN BAY,6516,211.5,211.5,BP
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,211.5,211.5,Independent
 Karnup Roadhouse,2263 Mandurah Rd,KARNUP,6176,211.9,204.9,BP
 Manypeaks Store,43738 South Coast Hwy,MANYPEAKS,6328,212.0,212.0,BP
 S-Bend Caravan Park,27 Company Rd,SOUTH GREENOUGH,6528,212.0,212.0,Liberty
@@ -574,7 +571,6 @@ Ampol Wedgefield Diesel Stop,12-14 Cajarina Rd,WEDGEFIELD,6721,221.9,221.9,Ampol
 Ampol Foodary Forrest Highway North,Lot 602 Forrest Hwy,WEST PINJARRA,6208,221.9,209.9,Ampol
 Ampol Foodary Forrest Highway South,Lot 601 Forrest Hwy,WEST PINJARRA,6208,221.9,209.9,Ampol
 Ampol Foodary Yangebup,289 Beeliar Dr,YANGEBUP,6164,221.9,209.9,Ampol
-Gracie's General,2 Bayview Dr,GRACETOWN,6284,222.0,222.0,Independent
 Vibe Piara Waters,390 Nicholson Rd,PIARA WATERS,6112,223.5,209.5,Vibe
 Puma South Hedland,1 Altitude Ave,PORT HEDLAND,6721,223.7,223.7,Puma
 EG Ampol Alkimos,11 Shorehaven Bvd,ALKIMOS,6038,223.9,205.9,EG Ampol
@@ -702,7 +698,11 @@ Coles Express Dianella,67 Walter Rd West,DIANELLA,6059,,,Coles Express
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,237.9,BP
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
+Gracie's General,2 Bayview Dr,GRACETOWN,6284,,222.0,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,209.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,211.5,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
 Puma Wooroloo,3381 Great Eastern Hwy,WUNDOWIE,6558,,,Puma
+Smiths Shell Service,86 Avon Tce,YORK,6302,,205.7,Shell
