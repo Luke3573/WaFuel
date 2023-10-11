@@ -50,7 +50,6 @@ Phoenix Barlee St,31 Barlee St,BUSSELTON,6280,205.0,205.0,Independent
 Geographe Petroleum,84 Strelly St,BUSSELTON,6280,206.5,206.5,Liberty
 Better Choice Bellevue,177-179 Great Eastern Hwy,BELLEVUE,6056,207.5,199.7,Better Choice
 Condello's Liquor Waterloo,14755 South Western Hwy,PICTON EAST,6229,207.5,202.5,Pheonix
-Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,207.7,207.7,Independent
 7-Eleven Dalyellup,51 Tiffany Ctr,DALYELLUP,6230,207.9,203.9,7 Eleven
 7-Eleven Bunbury East,8D Picton Rd,EAST BUNBURY,6230,208.3,207.9,7 Eleven
 Liberty Oyster Harbour,4 Bayonet Head Rd,BAYONET HEAD,6330,209.5,206.5,Liberty
@@ -97,7 +96,6 @@ Metro Geraldton,1 Fortyn Ct,MAHOMETS FLATS,6530,216.9,213.9,Metro
 Caltex Mt Melville,317 Albany Hwy,MOUNT MELVILLE,6330,216.9,212.9,Caltex
 Whalley's United Uberwash,225-227 Albany Hwy,MOUNT MELVILLE,6330,216.9,216.9,United
 Coles Express Bunbury,70 Forrest Ave,SOUTH BUNBURY,6230,216.9,216.9,Coles Express
-Gull York Roadhouse,63 Avon Tce,YORK,6302,217.7,217.7,Gull
 Astron Quinns Rocks,121 Quinns Rd,QUINNS ROCKS,6030,217.9,217.9,
 Ampol Foodary Albany York St ,271 York St,ALBANY,6330,218.9,218.9,Ampol
 Ampol Foodary Busselton,115 Strelly St,BUSSELTON,6280,218.9,218.9,Ampol
@@ -123,7 +121,6 @@ Ampol Foodary Newman,Lot 1328 Newman Dr,NEWMAN,6753,222.9,219.9,Ampol
 Ampol Foodary Kalgoorlie,581 Hannan St,SOMERVILLE,6430,222.9,222.9,Ampol
 7-Eleven Success,660 Beeliar Dr,SUCCESS,6164,222.9,222.9,7 Eleven
 Caltex Tarcoola,156 Brand Hwy,TARCOOLA BEACH,6530,222.9,222.9,Caltex
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,223.5,223.5,Better Choice
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,223.5,223.5,Better Choice
 Vibe West Swan,6639 West Swan Rd,WEST SWAN,6055,223.7,223.7,Vibe
 Puma Dalwallinu,4 Johnston St,DALWALLINU,6609,223.9,222.9,Puma
@@ -137,7 +134,6 @@ Cheynes Beach Caravan Park,12 Bald Island Rd,CHEYNES,6328,225.3,225.3,Independen
 Geographe IGA,328 Marine Tce,GEOGRAPHE,6280,225.5,225.5,Liberty
 Caltex Bayswater,502 Guildford Rd,BAYSWATER,6053,225.9,219.9,Caltex
 Caltex Guildford,16 Johnson St,GUILDFORD,6055,225.9,215.9,Caltex
-Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,225.9,225.9,Puma
 Serpentine Falls Roadhouse,2 Falls Rd,SERPENTINE,6125,225.9,225.9,Independent
 Coles Express Vasse,2 Napoleon Prom,VASSE,6280,225.9,225.9,Coles Express
 United Boulder Kalgoorlie,26 Davis St,BOULDER,6432,226.9,226.9,United
@@ -465,5 +461,9 @@ Shinju BP,101 Guy St,BROOME,6725,266.9,266.9,BP
 EG Ampol Djugun,106 Frederick St,DJUGUN,6725,266.9,266.9,EG Ampol
 BP Colac,138 Loch St,DERBY,6728,268.9,268.9,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,,225.9,Puma
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,223.5,Better Choice
+Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,207.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Puma Wooroloo,3381 Great Eastern Hwy,WUNDOWIE,6558,,,Puma
+Gull York Roadhouse,63 Avon Tce,YORK,6302,,217.7,Gull
