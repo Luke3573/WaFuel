@@ -191,7 +191,6 @@ Ampol Foodary Kalgoorlie,581 Hannan St,SOMERVILLE,6430,228.9,228.9,Ampol
 Ampol Foodary Kalgoorlie South,146 Boulder Rd,SOUTH KALGOORLIE,6430,228.9,228.9,Ampol
 Vibe Bassendean,309 Guildford Rd,BASSENDEAN,6054,229.5,219.5,Vibe
 Puma Esperance OPT,Lot 6 Beckwith Rd,CHADWICK,6450,229.7,229.7,Puma
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,229.7,229.7,Independent
 Vibe West Swan,6639 West Swan Rd,WEST SWAN,6055,229.7,229.7,Vibe
 7-Eleven Balcatta,174 Balcatta Rd,BALCATTA,6021,229.9,229.9,7 Eleven
 7-Eleven Stirling,377 Wanneroo Rd,BALCATTA,6021,229.9,229.9,7 Eleven
@@ -221,10 +220,8 @@ Northcliffe Newsagent & General Store,17 Zamia St,NORTHCLIFFE,6262,230.9,230.9,I
 Caltex Tarcoola,156 Brand Hwy,TARCOOLA BEACH,6530,230.9,230.9,Caltex
 Ampol Kalgoorlie - Service Station,2 Cunningham Rd,WEST KALGOORLIE,6430,230.9,228.9,Ampol
 BP Jurien Bay,110 Bashford St,JURIEN BAY,6516,231.0,231.0,BP
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,231.5,231.5,Independent
 Coles Express Margaret River,78 Bussell Hwy,MARGARET RIVER,6285,231.9,231.9,Coles Express
 Coles Express Vasse,2 Napoleon Prom,VASSE,6280,231.9,231.9,Coles Express
-Smiths Shell Service,86 Avon Tce,YORK,6302,231.9,231.9,Shell
 United Boulder Kalgoorlie,26 Davis St,BOULDER,6432,232.9,232.9,United
 Ampol Foodary Coolgardie,110-114 Bayley St,COOLGARDIE,6429,232.9,232.9,Ampol
 Coles Express Dunsborough,64 Dunn Bay Rd,DUNSBOROUGH,6281,232.9,232.9,Coles Express
@@ -616,3 +613,6 @@ BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 Puma Mandurah,715 Pinjarra Rd,BARRAGUP,6209,,,Puma
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,229.7,Independent
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,231.5,Independent
+Smiths Shell Service,86 Avon Tce,YORK,6302,,231.9,Shell

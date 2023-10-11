@@ -234,7 +234,6 @@ Vibe Spearwood,333 Rockingham Rd,SPEARWOOD,6163,221.5,221.5,Vibe
 Vibe Witchcliffe,10428 Bussell Hwy,WITCHCLIFFE,6286,221.5,221.5,Vibe
 Vibe Yangebup,109 Barrington St,YANGEBUP,6164,221.5,219.5,Vibe
 Vibe Treendale,157 Grand Ent,AUSTRALIND,6233,221.7,221.7,Vibe
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,221.7,221.7,Independent
 Coles Express Brookdale,1256 Armadale Rd,ARMADALE,6112,221.9,221.9,Coles Express
 BP Augusta,64 Blackwood Ave,AUGUSTA,6290,221.9,221.9,BP
 BP Baldivis Northbound Travel Centre,Lot 191 Paparone Rd,BALDIVIS,6171,221.9,218.9,BP
@@ -288,7 +287,6 @@ BP Kununurra Depot (Recharge Petroleum),Cnr Stockman Rd & Bull Run Rd,KUNUNURRA,
 Coles Express Southern River,216 Lakey St,SOUTHERN RIVER,6110,223.9,223.9,Coles Express
 Coles Express Wanneroo Pearsall,621 Wanneroo Rd,WANNEROO,6065,223.9,223.9,Coles Express
 Ampol Foodary Wonthella,40 North West Coastal Hwy,WONTHELLA,6530,223.9,223.9,Ampol
-Smiths Shell Service,86 Avon Tce,YORK,6302,223.9,223.9,Shell
 BP Jurien Bay,110 Bashford St,JURIEN BAY,6516,224.0,224.0,BP
 Vibe Osborne Park,7 Hutton St,OSBORNE PARK,6017,224.3,224.3,Vibe
 United Osborne Park,479 Scarborough Beach Rd,OSBORNE PARK,6017,224.5,224.5,United
@@ -297,7 +295,6 @@ Refuel Australia - Carnarvon,40 Harbour Rd,GREYS PLAIN,6701,224.8,224.8,Ampol
 Puma Dalwallinu,4 Johnston St,DALWALLINU,6609,224.9,222.9,Puma
 United Ellenbrook,3 Locke Lane,ELLENBROOK,6069,224.9,219.9,United
 Greenbushes Roadhouse,28 Blackwood Rd,GREENBUSHES,6254,224.9,224.9,Pheonix
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,224.9,224.9,Independent
 BP West Kalgoorlie,11 Wilurarra Rd,WEST KALGOORLIE,6430,224.9,224.9,BP
 BP Port Hedland,90 Anderson St,PORT HEDLAND,6721,225.0,225.0,BP
 Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,225.0,225.0,Independent
@@ -377,7 +374,6 @@ Ampol Wedgefield Diesel Stop,12-14 Cajarina Rd,WEDGEFIELD,6721,229.9,229.9,Ampol
 BP Wedgefield OPT,Cnr Pinga St & Anthill St,WEDGEFIELD,6721,229.9,229.9,BP
 Coles Express South Hedland Roadhouse,Lot 5553 Great Northern Hwy,WEDGEFIELD,6721,229.9,229.9,Coles Express
 Coles Express West Perth,30 Thomas St,WEST PERTH,6005,229.9,229.9,Coles Express
-Gracie's General,2 Bayview Dr,GRACETOWN,6284,230.0,230.0,Independent
 Walpole IGA Pioneer Store,10 Nockolds St,WALPOLE,6398,230.0,230.0,Ampol
 Young Siding General Store,19 Station St,YOUNGS SIDING,6330,230.7,230.7,BP
 BP Karratha Depot (Recharge Petroleum),1033 Mardie Rd,KARRATHA INDUSTRIAL ESTATE,6714,230.9,230.9,BP
@@ -397,7 +393,6 @@ Coles Express Port Hedland,Lot 2065 Wilson St,PORT HEDLAND,6721,233.9,233.9,Cole
 Coles Express South Perth,3 Canning Hwy,SOUTH PERTH,6151,233.9,233.9,Coles Express
 Coles Express Willetton,239-247 High Rd,WILLETTON,6155,233.9,233.9,Coles Express
 Fitzroy River Lodge,Lot 277 Great Northern Hwy,FITZROY CROSSING,6765,234.0,234.0,Independent
-BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,235.5,235.5,BP
 Yarrumba Service Station,21 Jose St,MULLEWA,6630,235.7,235.7,Liberty
 Coles Express Dampier,47 Church Rd,DAMPIER,6713,235.9,235.9,Coles Express
 Ampol Fitzroy Crossing Diesel Stop,53 Emanuel Way,FITZROY CROSSING,6765,235.9,235.9,Ampol
@@ -437,10 +432,15 @@ BP Colac,138 Loch St,DERBY,6728,258.9,258.9,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 Puma Mandurah,715 Pinjarra Rd,BARRAGUP,6209,,,Puma
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,235.5,BP
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
+Gracie's General,2 Bayview Dr,GRACETOWN,6284,,230.0,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,221.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Caltex Mundaring,7060 Great Eastern Hwy,MUNDARING,6073,,,Caltex
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,224.9,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
 The Canal Shop ,16 South Yunderup Rd,SOUTH YUNDERUP,6208,,,Independent
 Puma Wooroloo,3381 Great Eastern Hwy,WUNDOWIE,6558,,,Puma
+Smiths Shell Service,86 Avon Tce,YORK,6302,,223.9,Shell
