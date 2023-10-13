@@ -3,7 +3,7 @@ Liberty Beckenham,63 William St,BECKENHAM,6107,122.5,,Liberty
 BP Attadale,530 Canning Hwy,ATTADALE,6156,125.9,,BP
 BP Kelmscott,2907 Albany Hwy,KELMSCOTT,6111,125.9,,BP
 BP Langford,230-234 Nicholson Rd,LANGFORD,6147,125.9,,BP
-BP Morley,335 Walter Rd West,MORLEY,6062,125.9,,BP
+BP Morley,335 Walter Rd West,MORLEY,6062,127.9,,BP
 Vibe Placid Ark Roadhouse,6947 South Western Hwy,COOLUP,6214,129.7,,Vibe
 United Ellenbrook,3 Locke Lane,ELLENBROOK,6069,129.7,,United
 United Hamilton Hill,9 Winterfold Rd,HAMILTON HILL,6163,129.7,,United
@@ -19,10 +19,7 @@ EG Ampol South Lake,752 North Lake Rd,SOUTH LAKE,6164,129.7,,EG Ampol
 BP Beeliar,701 Beeliar Dr,COCKBURN CENTRAL,6164,129.9,,BP
 Ampol Foodary North Yunderup,868 Pinjarra Rd,FURNISSDALE,6209,129.9,,Ampol
 BP Henley Brook,1520 Gnangara Rd,HENLEY BROOK,6055,129.9,,BP
-Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,129.9,,Independent
-Caltex Kiara,157 Morley Dr,KIARA,6054,129.9,,Caltex
 BP Redcliffe,419 Great Eastern Hwy,REDCLIFFE,6104,129.9,,BP
-Caltex Burswood,265 Great Eastern Hwy,BURSWOOD,6100,131.9,,Caltex
 BP Beldon,261 Eddystone Ave,BELDON,6027,132.9,,BP
 United East Victoria Park,916 Albany Hwy,EAST VICTORIA PARK,6101,132.9,,United
 EG Ampol Whitfords,470 Whitfords Ave,HILLARYS,6025,132.9,,EG Ampol
@@ -32,10 +29,10 @@ United Northbridge,31 Fitzgerald St,NORTHBRIDGE,6003,132.9,,United
 United Hepburn Heights,4 Walter Padbury Bvd,PADBURY,6025,132.9,,United
 Astron Quinns Rocks,121 Quinns Rd,QUINNS ROCKS,6030,132.9,,
 United Leda,2 Feilman Dr,LEDA,6170,133.9,,United
-Caltex Upper Swan,1383 Great Northern Hwy,UPPER SWAN,6069,133.9,,Caltex
 Better Choice Bellevue,177-179 Great Eastern Hwy,BELLEVUE,6056,134.5,,Better Choice
 Better Choice Naval Base,Cnr Rockingham Rd & Lee Rd,NAVAL BASE,6165,134.5,,Better Choice
 Better Choice Tuart Hill,150 Wanneroo Rd,TUART HILL,6060,134.5,,Better Choice
+Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,134.9,,Independent
 BP Woodbridge,380 Great Eastern Hwy,WOODBRIDGE,6056,134.9,,BP
 Puma Alexander Heights,200 Mirrabooka Ave,ALEXANDER HEIGHTS,6064,135.7,,Puma
 Puma Mandurah,715 Pinjarra Rd,BARRAGUP,6209,135.7,,Puma
@@ -43,11 +40,13 @@ Puma Sawyers Valley,96 Great Eastern Hwy,SAWYERS VALLEY,6074,135.7,,Puma
 Vibe Spearwood,333 Rockingham Rd,SPEARWOOD,6163,135.7,,Vibe
 BP Balcatta,53 Erindale Rd,BALCATTA,6021,135.9,,BP
 Ampol Foodary Baldivis,614 Baldivis Rd,BALDIVIS,6171,135.9,,Ampol
+Caltex Burswood,265 Great Eastern Hwy,BURSWOOD,6100,135.9,,Caltex
 EG Ampol Dianella,372 Grand Prom,DIANELLA,6059,135.9,,EG Ampol
 Ampol Foodary East Fremantle,176 Canning Hwy,EAST FREMANTLE,6158,135.9,,Ampol
 Ampol Foodary Erskine,112 Oakleigh Dr,ERSKINE,6210,135.9,,Ampol
 Ampol Foodary Forrestdale,63 Alex Wood Dr,FORRESTDALE,6112,135.9,,Ampol
 Ampol Foodary Joondalup,420 Joondalup Dr,JOONDALUP,6027,135.9,,Ampol
+Caltex Kiara,157 Morley Dr,KIARA,6054,135.9,,Caltex
 EG Ampol Maddington West,207 Burslem Dr,MADDINGTON,6109,135.9,,EG Ampol
 Better Choice Malaga,3 Carson Rd,MALAGA,6090,135.9,,Better Choice
 Ampol Foodary O'Connor,309 Stock Rd,O'CONNOR,6163,135.9,,Ampol
@@ -55,6 +54,7 @@ EG Ampol Port Kennedy,12 Saltaire Way,PORT KENNEDY,6172,135.9,,EG Ampol
 Ampol Foodary Secret Harbour,420 Secret Harbour Bvd,SECRET HARBOUR,6173,135.9,,Ampol
 Ampol Foodary South Lake,2 Omeo St,SOUTH LAKE,6164,135.9,,Ampol
 EG Ampol Southern River,466 Warton Rd,SOUTHERN RIVER,6110,135.9,,EG Ampol
+Caltex Upper Swan,1383 Great Northern Hwy,UPPER SWAN,6069,135.9,,Caltex
 EG Ampol Warnbro,202 Warnbro Sound Ave,WARNBRO,6169,135.9,,EG Ampol
 Ampol Foodary Carine,510 Beach Rd,CARINE,6020,136.9,,Ampol
 Ampol Foodary Wangara,79 Buckingham Dr,WANGARA,6065,136.9,,Ampol
@@ -77,7 +77,6 @@ Ampol Foodary Esperance,59 Dempster St,ESPERANCE,6450,157.9,,Ampol
 Ampol Foodary Carnarvon,595 Robinson St,KINGSFORD,6701,159.9,,Ampol
 Narrogin Gasworx,22 Fairway St,NARROGIN,6312,170.0,,Independent
 EG Ampol Karratha,Lot 1437 Warambie Rd,KARRATHA,6714,173.9,,EG Ampol
-BOC Gas & Gear,287 Place Rd,WEBBERTON,6530,180.0,,
 BP Wubin,80-82 Great Northern Hwy,WUBIN,6612,209.7,,BP
 BP Connect Ascot (WA),210 Great Eastern Hwy,ASCOT,6104,,,BP
 Vibe Beechboro,495 Beechboro Rd N,BEECHBORO,6063,,,Vibe
@@ -87,4 +86,5 @@ BP Crystal Brook (Lesmurdie),7 Welshpool Rd East,LESMURDIE,6076,,,BP
 Ampol Maddington Truck Stop,18 Orchard Rd,MADDINGTON,6109,,,Ampol
 Puma Manjimup Roadhouse,1182 South Western Hwy,MANJIMUP,6258,,,Puma
 United Mt Lawley,791 Beaufort St,MOUNT LAWLEY,6050,,,United
+BOC Gas & Gear,287 Place Rd,WEBBERTON,6530,,,
 Ampol Foodary Yanchep,1 Morwell St,YANCHEP,6035,,,Ampol
