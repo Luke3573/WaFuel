@@ -5,7 +5,7 @@ Vibe Kwinana OPT,Cnr Mandurah Rd & Beach St,KWINANA BEACH,6167,181.7,181.70,Vibe
 Atlas Fuel Ascot,472 Great Eastern Hwy,ASCOT,6104,181.9,181.90,Atlas
 FastFuel 24/7,54 Cumberland Rd,FORRESTFIELD,6058,181.9,181.90,FastFuel
 Atlas Fuel Kwinana,1 Mandurah Rd,KWINANA BEACH,6167,181.9,181.90,Atlas
-Atlas Fuel Caversham,40 Bennett St,CAVERSHAM,6055,182.5,true},Atlas
+Atlas Fuel Caversham,40 Bennett St,CAVERSHAM,6055,182.5,182.50,Atlas
 Atlas Fuel Forrestfield,78C Hale Rd,FORRESTFIELD,6058,182.5,true},Atlas
 Petro Fuels Bassendean,190 Railway Pde,BASSENDEAN,6054,183.5,182.90,
 Vibe Welshpool,124 Welshpool Rd,WELSHPOOL,6106,183.7,183.70,Vibe
@@ -152,7 +152,7 @@ Ampol Albany,634 Menang Dr,WILLYUNG,6330,199.9,199.90,Ampol
 Ampol Foodary Wonthella,40 North West Coastal Hwy,WONTHELLA,6530,199.9,199.90,Ampol
 Dwellingup BP,48 McLarty St,DWELLINGUP,6213,200.9,200.90,BP
 Mt Barker Fuel Services,48 Lowood Rd,MOUNT BARKER,6324,200.9,200.90,Independent
-Petro Fuels Denmark,69 South Coast Hwy,DENMARK,6333,201.8,true},Shell
+Petro Fuels Denmark,69 South Coast Hwy,DENMARK,6333,201.8,199.80,Shell
 BP Forrestdale,2 Alex Wood Dr,FORRESTDALE,6112,201.9,199.90,BP
 BP Kewdale,549 Abernethy Rd,KEWDALE,6105,201.9,201.90,BP
 Ampol Welshpool Diesel Stop,119 Kurnall Rd,WELSHPOOL,6106,201.9,201.90,Ampol
@@ -245,7 +245,7 @@ Harbour Rd Truckstop,213 Harbour Rd,CHADWICK,6450,208.9,208.90,BP
 Puma Dalwallinu,4 Johnston St,DALWALLINU,6609,208.9,208.90,Puma
 BP Langford,230-234 Nicholson Rd,LANGFORD,6147,208.9,208.90,BP
 Coles Express Langford,70 Nicholson Rd,LANGFORD,6147,208.9,208.90,Coles Express
-Moonyoonooka Store,753 Geraldton-Mt Magnet Rd,MOONYOONOOKA,6532,209.0,true},Ampol
+Moonyoonooka Store,753 Geraldton-Mt Magnet Rd,MOONYOONOOKA,6532,209.0,209.00,Ampol
 Geographe Petroleum,84 Strelly St,BUSSELTON,6280,209.5,207.50,Liberty
 Vibe Canning Vale,6 Birnam Rd,CANNING VALE,6155,209.5,209.50,Vibe
 Vibe Mt Helena,9 McVicar Pl,MOUNT HELENA,6082,209.5,true},Vibe
@@ -304,7 +304,7 @@ Windmill Roadhouse,1 Darch St,REGANS FORD,6507,212.9,212.90,Liberty
 Chidlow Growers Mart Liquor Store,570 Rosedale Rd,CHIDLOW,6556,213.0,213.00,Independent
 Better Choice Como,25 Preston St,COMO,6152,213.5,true},Better Choice
 BP Augusta,64 Blackwood Ave,AUGUSTA,6290,213.9,true},BP
-BP Dunsborough,238 Naturaliste Tce,DUNSBOROUGH,6281,213.9,true},BP
+BP Dunsborough,238 Naturaliste Tce,DUNSBOROUGH,6281,213.9,213.90,BP
 Coles Express Edgewater,57 Joondalup Dr,EDGEWATER,6027,213.9,213.90,Coles Express
 Coles Express Esperance,25 Andrew St,ESPERANCE,6450,213.9,213.90,Coles Express
 Coles Express Halls Head,14 Guava Way,HALLS HEAD,6210,213.9,213.90,Coles Express
@@ -346,7 +346,7 @@ Ampol Wedgefield Diesel Stop,12-14 Cajarina Rd,WEDGEFIELD,6721,215.9,215.90,Ampo
 Puma Kalgoorlie Fuel Point,9 Kayili Rd,WEST KALGOORLIE,6430,216.7,216.70,Puma
 Refuel Australia - Port Hedland,Lot 3 Great Northern Hwy,PORT HEDLAND,6721,216.8,216.80,Ampol
 Eagle West Kalgoorlie Truckstop,2 Brinsden Rd,WEST KALGOORLIE,6430,216.9,216.90,Eagle
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,217.5,true},Better Choice
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,217.5,213.50,Better Choice
 Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,217.7,true},Independent
 Geographe IGA,328 Marine Tce,GEOGRAPHE,6280,217.9,true},Liberty
 Coles Express Jolimont,6 Jersey St,JOLIMONT,6014,217.9,true},Coles Express
@@ -358,7 +358,7 @@ Coles Express West Perth,30 Thomas St,WEST PERTH,6005,217.9,217.90,Coles Express
 Carbunup River Store,6672 Bussell Hwy,CARBUNUP RIVER,6280,218.9,true},Independent
 Jurien Bay Service Station & Roadhouse,22 Bashford St,JURIEN BAY,6516,218.9,218.90,Ampol
 Hills Emporio,1615 Canning Rd,KARRAGULLEN,6111,218.9,true},Independent
-Vasse General Store,28 Northerly St,VASSE,6280,218.9,true},Gull
+Vasse General Store,28 Northerly St,VASSE,6280,218.9,218.90,Gull
 Mundijong Store & Deli,20 Paterson St,MUNDIJONG,6123,219.0,219.00,Independent
 Vibe Coolgardie,1 Bayley St,COOLGARDIE,6429,219.5,219.50,Vibe
 Puma South Hedland,1 Altitude Ave,PORT HEDLAND,6721,219.7,219.70,Puma
