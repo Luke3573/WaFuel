@@ -467,7 +467,6 @@ Ampol Foodary North Road,204 North Rd,YAKAMIA,6330,210.9,210.9,Ampol
 Vibe Bunbury,42 Strickland St,BUNBURY,6230,211.5,211.5,Vibe
 United Mount Barker Roadhouse,31763 Albany Hwy,MOUNT BARKER,6324,211.5,211.5,United
 United Rangeway,50 Rifle Range Rd,RANGEWAY,6530,211.5,211.5,United
-GD's Brunswick Roadhouse,94 Ommaney Rd,BRUNSWICK,6224,211.9,211.9,Ampol
 BP Moora Depot,153 Gardiner St,MOORA,6510,211.9,211.9,BP
 BP Narrogin,37 Federal St,NARROGIN,6312,211.9,211.9,BP
 Petro Fuels Denmark,69 South Coast Hwy,DENMARK,6333,212.8,209.8,Shell
@@ -589,7 +588,6 @@ S24 Kununurra,5 Messmate Way,KUNUNURRA,6743,230.9,230.9,Caltex
 Refuel Australia - Port Hedland,Lot 3 Great Northern Hwy,PORT HEDLAND,6721,232.8,232.8,Ampol
 Ampol Foodary Norseman,1 Princep St,NORSEMAN,6443,232.9,232.9,Ampol
 BP Karratha West,Lot 9 Resource Rd,GAP RIDGE,6714,233.9,233.9,BP
-Hills Emporio,1615 Canning Rd,KARRAGULLEN,6111,233.9,233.9,Independent
 BP Karratha Service Station,30 Balmoral Rd,KARRATHA,6714,233.9,233.9,BP
 Ampol Foodary South Hedland,67 Hamilton Rd,SOUTH HEDLAND,6722,234.9,234.9,Ampol
 Coles Express Dampier,47 Church Rd,DAMPIER,6713,236.9,236.9,Coles Express
@@ -604,10 +602,12 @@ Ampol StarMart Exmouth,77 Maidstone Cr,EXMOUTH,6707,248.9,248.9,Ampol
 Dunning's Broome,7 Clementson St,BROOME,6725,255.9,255.9,Shell
 BP Broome Central Service Centre,2 Coghlan St,DJUGUN,6725,265.9,265.9,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
+GD's Brunswick Roadhouse,94 Ommaney Rd,BRUNSWICK,6224,,211.9,Ampol
 Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,,209.0,Shell
 Puma Bunbury South,1 Brittain Rd,CAREY PARK,6230,,,Puma
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Hills Emporio,1615 Canning Rd,KARRAGULLEN,6111,,233.9,Independent
 Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,219.7,Independent
 Hi-Way Sales & Service 1982,154 Albany Hwy,KOJONUP,6395,,227.9,Ampol
 Puma Mindarie,22 Anchorage Dr,MINDARIE,6030,,,Puma
