@@ -239,7 +239,6 @@ Ampol Foodary Byford,Lot 22 South Western Hwy,BYFORD,6122,196.9,194.9,Ampol
 BP Thornlie,459 Nicholson Rd,CANNING VALE,6155,196.9,196.9,BP
 EG Ampol Canning Vale,15 Sarah Cl,CANNING VALE,6155,196.9,191.9,EG Ampol
 Ampol Foodary Cannington,1346 Albany Hwy,CANNINGTON,6107,196.9,194.9,Ampol
-EG Ampol Cannington,25 Cecil Ave,CANNINGTON,6107,196.9,195.9,EG Ampol
 7-Eleven Carlisle,232 Orrong Rd,CARLISLE,6101,196.9,192.9,7 Eleven
 Ampol Foodary Dawesville,191 Bailey Bvd,DAWESVILLE,6211,196.9,192.9,Ampol
 EG Ampol Dianella,372 Grand Prom,DIANELLA,6059,196.9,193.9,EG Ampol
@@ -276,12 +275,10 @@ BP Connect Myaree,246 Leach Hwy,MYAREE,6154,196.9,196.9,BP
 BP Naval Base,1351 Rockingham Rd,NAVAL BASE,6165,196.9,196.9,BP
 BP Rosegarden,129 Stirling Hwy,NEDLANDS,6009,196.9,196.9,BP
 BP Connect North Perth,349 Charles St,NORTH PERTH,6006,196.9,196.9,BP
-EG Ampol Northam,86 Wellington St,NORTHAM,6401,196.9,191.9,EG Ampol
 EG Ampol Osborne Park,401 Scarborough Beach Rd,OSBORNE PARK,6017,196.9,191.9,EG Ampol
 BP Connect Padbury,2 Warburton Ave,PADBURY,6025,196.9,196.9,BP
 BP Connect Rockingham Park,2 Chalgrove Ave,ROCKINGHAM,6168,196.9,196.9,BP
 BP South Fremantle,229B Hampton Rd,SOUTH FREMANTLE,6162,196.9,196.9,BP
-EG Ampol South Fremantle,219 Hampton Rd,SOUTH FREMANTLE,6162,196.9,195.9,EG Ampol
 BP Connect South Perth,9 Mends St,SOUTH PERTH,6151,196.9,196.9,BP
 EG Ampol Southern River,466 Warton Rd,SOUTHERN RIVER,6110,196.9,191.9,EG Ampol
 7-Eleven Success,660 Beeliar Dr,SUCCESS,6164,196.9,194.9,7 Eleven
@@ -379,7 +376,6 @@ EG Ampol Brooks Garden,162 Chester Pass Rd,LANGE,6330,202.9,202.9,EG Ampol
 Ampol Foodary Williams,56 Albany Hwy,WILLIAMS,6391,202.9,202.9,Ampol
 Ampol Foodary North Road,204 North Rd,YAKAMIA,6330,202.9,202.9,Ampol
 Geographe Petroleum,84 Strelly St,BUSSELTON,6280,203.5,203.5,Liberty
-Gull Moora,65 Roberts St,MOORA,6510,203.9,203.9,Gull
 United Mount Barker Roadhouse,31763 Albany Hwy,MOUNT BARKER,6324,204.5,204.5,United
 United Rangeway,50 Rifle Range Rd,RANGEWAY,6530,204.5,204.5,United
 BP Beeliar,701 Beeliar Dr,COCKBURN CENTRAL,6164,204.9,198.9,BP
@@ -397,11 +393,9 @@ Caltex Busselton,99 Causeway Rd,BUSSELTON,6280,205.9,205.9,Caltex
 Vibe Treendale,157 Grand Ent,AUSTRALIND,6233,206.9,206.9,Vibe
 Caltex Binningup,7080 Forrest Hwy,BINNINGUP,6233,206.9,206.9,Caltex
 Ampol Foodary Bunbury,1 Forrest Ave,BUNBURY,6230,206.9,206.9,Ampol
-EG Ampol Busselton,36 Duchess St,BUSSELTON,6280,206.9,206.9,EG Ampol
 EG Ampol Bunbury,Lot 68 Pennant Rd,EAST BUNBURY,6230,206.9,206.9,EG Ampol
 Mt Barker Fuel Services,48 Lowood Rd,MOUNT BARKER,6324,206.9,206.9,Independent
 Caltex Myalup,6043 Forrest Hwy,MYALUP,6220,206.9,206.9,Caltex
-Gull York Roadhouse,63 Avon Tce,YORK,6302,207.7,207.7,Gull
 EG Ampol Australind,Cnr Grand Ent & The Promenade,AUSTRALIND,6233,207.9,207.9,EG Ampol
 Ampol Foodary Busselton,115 Strelly St,BUSSELTON,6280,207.9,207.9,Ampol
 BP Cowaramup,1 Roy Earl Dr,COWARAMUP,6284,207.9,207.9,BP
@@ -417,11 +411,9 @@ Coles Express Bunbury Outbound,9850 Forrest Hwy,VITTORIA,6230,208.9,208.9,Coles 
 Caltex Harvey,81 Uduc Rd,HARVEY,6220,209.9,209.9,Caltex
 EG Ampol Manjimup,89 Mottram St,MANJIMUP,6258,209.9,208.9,EG Ampol
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,210.5,210.5,Better Choice
-Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,210.9,207.9,Puma
 Ampol Foodary Newman,Lot 1328 Newman Dr,NEWMAN,6753,210.9,210.9,Ampol
 Coles Express Bunbury,70 Forrest Ave,SOUTH BUNBURY,6230,210.9,210.9,Coles Express
 Geographe IGA,328 Marine Tce,GEOGRAPHE,6280,212.5,212.5,Liberty
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,212.5,212.5,Better Choice
 Fruit Barn,7 South Western Hwy,DONNYBROOK,6239,212.9,212.9,Liberty
 United Kellerberrin,150 Massingham St,KELLERBERRIN,6410,212.9,212.9,United
 Serpentine Falls Roadhouse,2 Falls Rd,SERPENTINE,6125,212.9,212.9,Independent
@@ -459,12 +451,20 @@ Coles Express Broome,19 Napier Tce,BROOME,6725,256.9,256.9,Coles Express
 EG Ampol Djugun,106 Frederick St,DJUGUN,6725,256.9,256.9,EG Ampol
 Shinju BP,101 Guy St,BROOME,6725,262.9,262.9,BP
 BP Colac,138 Loch St,DERBY,6728,265.9,265.9,BP
+EG Ampol Busselton,36 Duchess St,BUSSELTON,6280,,206.9,EG Ampol
+EG Ampol Cannington,25 Cecil Ave,CANNINGTON,6107,,195.9,EG Ampol
 Puma Bunbury South,1 Brittain Rd,CAREY PARK,6230,,,Puma
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,,208.3,Puma
+Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,,207.9,Puma
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,212.5,Better Choice
 Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,188.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Puma Mindarie,22 Anchorage Dr,MINDARIE,6030,,,Puma
+Gull Moora,65 Roberts St,MOORA,6510,,203.9,Gull
+EG Ampol Northam,86 Wellington St,NORTHAM,6401,,191.9,EG Ampol
+EG Ampol South Fremantle,219 Hampton Rd,SOUTH FREMANTLE,6162,,195.9,EG Ampol
 Coles Express Vasse,2 Napoleon Prom,VASSE,6280,,,Coles Express
 Gull Waterloo,14270 South Western Hwy,WATERLOO,6228,,201.7,Gull
 Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,,,Ampol
+Gull York Roadhouse,63 Avon Tce,YORK,6302,,207.7,Gull
