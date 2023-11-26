@@ -371,7 +371,6 @@ Ampol Maddington Truck Stop,18 Orchard Rd,MADDINGTON,6109,200.7,192.7,Ampol
 Caltex Mt Melville,317 Albany Hwy,MOUNT MELVILLE,6330,200.9,200.9,Caltex
 Phoenix Barlee St,31 Barlee St,BUSSELTON,6280,201.0,201.0,Independent
 7-Eleven Bunbury East,8D Picton Rd,EAST BUNBURY,6230,201.5,201.5,7 Eleven
-Gull Waterloo,14270 South Western Hwy,WATERLOO,6228,201.7,201.7,Gull
 Caltex Balcatta,229 Balcatta Rd,BALCATTA,6021,201.9,195.9,Caltex
 Caltex Byford,8 Kardan Bvd,BYFORD,6122,201.9,195.9,Caltex
 Ampol Foodary Albany York St ,271 York St,ALBANY,6330,202.9,202.9,Ampol
@@ -411,7 +410,6 @@ EG Ampol Eaton,2 Recreation Dr,EATON,6232,207.9,207.9,EG Ampol
 EG Ampol Geraldton,59 Cathedral Ave,GERALDTON,6530,207.9,207.9,EG Ampol
 Ampol Foodary Wonthella,40 North West Coastal Hwy,WONTHELLA,6530,207.9,207.9,Ampol
 FDWA Cunderdin,67 Lundy Ave,CUNDERDIN,6407,208.0,208.0,Independent
-Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,208.3,208.3,Puma
 Coles Express Bunbury Gateway,9805 Forrest Hwy,GLEN IRIS,6230,208.9,208.9,Coles Express
 Caltex Glenfield,1182 Chapman Rd,GLENFIELD,6532,208.9,208.9,Caltex
 Caltex Tarcoola,156 Brand Hwy,TARCOOLA BEACH,6530,208.9,208.9,Caltex
@@ -463,8 +461,10 @@ Shinju BP,101 Guy St,BROOME,6725,262.9,262.9,BP
 BP Colac,138 Loch St,DERBY,6728,265.9,265.9,BP
 Puma Bunbury South,1 Brittain Rd,CAREY PARK,6230,,,Puma
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,,208.3,Puma
 Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,188.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Puma Mindarie,22 Anchorage Dr,MINDARIE,6030,,,Puma
 Coles Express Vasse,2 Napoleon Prom,VASSE,6280,,,Coles Express
+Gull Waterloo,14270 South Western Hwy,WATERLOO,6228,,201.7,Gull
 Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,,,Ampol
