@@ -578,7 +578,6 @@ Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,195.5,195.5,Bet
 Vibe Witchcliffe,10428 Bussell Hwy,WITCHCLIFFE,6286,195.5,195.5,Vibe
 Gull Collie,143 Throssell St,COLLIE,6225,195.7,195.7,Gull
 Gull York Roadhouse,63 Avon Tce,YORK,6302,195.7,195.7,Gull
-Smiths Shell Service,86 Avon Tce,YORK,6302,195.7,195.7,Shell
 Balingup Liquor & General Store,12 Bridgetown Rd,BALINGUP,6253,195.9,195.9,Independent
 BP Cowaramup,1 Roy Earl Dr,COWARAMUP,6284,195.9,195.9,BP
 BP Donnybrook,15 South Western Hwy,DONNYBROOK,6239,195.9,193.9,BP
@@ -597,7 +596,6 @@ BP Walpole,18 Nockolds St,WALPOLE,6398,196.9,192.9,BP
 Moonyoonooka Store,753 Geraldton-Mt Magnet Rd,MOONYOONOOKA,6532,197.0,197.0,Ampol
 S-Bend Caravan Park,27 Company Rd,SOUTH GREENOUGH,6528,197.0,197.0,Liberty
 Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,197.5,197.5,Better Choice
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,197.7,195.7,Independent
 Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,197.8,197.8,Puma
 BP Augusta,64 Blackwood Ave,AUGUSTA,6290,197.9,197.9,BP
 Greenbushes Roadhouse,28 Blackwood Rd,GREENBUSHES,6254,197.9,197.9,Pheonix
@@ -642,7 +640,6 @@ Puma Castletown,49 Norseman Rd,CASTLETOWN,6450,203.7,203.7,Puma
 Puma Esperance OPT,Lot 6 Beckwith Rd,CHADWICK,6450,203.7,203.7,Puma
 Ampol Foodary Esperance,59 Dempster St,ESPERANCE,6450,203.9,203.9,Ampol
 Coles Express Esperance,25 Andrew St,ESPERANCE,6450,203.9,203.9,Coles Express
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,204.5,204.5,Independent
 Manypeaks Store,43738 South Coast Hwy,MANYPEAKS,6328,205.0,205.0,BP
 United Boulder Kalgoorlie,26 Davis St,BOULDER,6432,205.9,205.9,United
 BP Carnarvon,1134 North West Coastal Hwy,BROWN RANGE,6701,205.9,205.9,BP
@@ -674,7 +671,6 @@ Ampol Foodary Karratha,Lot 3861 Bathgate Rd,NICKOL,6714,213.9,213.9,Ampol
 Coles Express Karratha Travel & Truck,6 Madigan Rd,STOVE HILL,6714,213.9,213.9,Coles Express
 Eagle Ravensthorpe,111 Morgans St,RAVENSTHORPE,6346,216.9,216.9,Eagle
 BP Port Hedland,90 Anderson St,PORT HEDLAND,6721,217.0,217.0,BP
-Gracie's General,2 Bayview Dr,GRACETOWN,6284,218.0,218.0,Independent
 BP Ravensthorpe,47 Morgans St,RAVENSTHORPE,6346,218.9,218.9,BP
 Yarrumba Service Station,21 Jose St,MULLEWA,6630,219.8,219.8,Liberty
 Ningaloo Reef Fuels,6 Pelias St,EXMOUTH,6707,219.9,219.9,Independent
@@ -691,7 +687,6 @@ BP Munglinup,16 Tubada St,MUNGLINUP,6450,235.0,235.0,BP
 Fitzroy River Lodge,Lot 277 Great Northern Hwy,FITZROY CROSSING,6765,235.2,235.2,Independent
 Dunning's Broome,7 Clementson St,BROOME,6725,235.9,235.9,Shell
 Preston Beach General Store,52 Mitchell Rd,PRESTON BEACH,6215,236.0,236.0,Gull
-BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,237.9,237.9,BP
 Ampol Foodary Broome,50 Mavis Rd,BILINGURR,6725,239.9,239.9,Ampol
 Coles Express Broome,19 Napier Tce,BROOME,6725,239.9,239.9,Coles Express
 EG Ampol Djugun,106 Frederick St,DJUGUN,6725,239.9,239.9,EG Ampol
@@ -702,10 +697,15 @@ BP Colac,138 Loch St,DERBY,6728,255.9,249.9,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 Puma Bunbury South,1 Brittain Rd,CAREY PARK,6230,,,Puma
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,237.9,BP
 Coles Express Fitzroy Crossing Roadhouse,87 Great Northern Hwy,FITZROY CROSSING,6765,,,Coles Express
 FastFuel 24/7,54 Cumberland Rd,FORRESTFIELD,6058,,172.9,FastFuel
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
+Gracie's General,2 Bayview Dr,GRACETOWN,6284,,218.0,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,195.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Puma Mindarie,22 Anchorage Dr,MINDARIE,6030,,,Puma
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,204.5,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
+Smiths Shell Service,86 Avon Tce,YORK,6302,,195.7,Shell
