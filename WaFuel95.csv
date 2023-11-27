@@ -40,7 +40,6 @@ Liberty Naval Base,24 Dooley St,NAVAL BASE,6165,188.5,184.5,Liberty
 United Neerabup,2038 Wanneroo Rd,NEERABUP,6031,188.5,184.5,United
 United Northbridge,31 Fitzgerald St,NORTHBRIDGE,6003,188.5,182.5,United
 Vibe Port Kennedy,35 Blackburn Dr,PORT KENNEDY,6172,188.5,186.5,Vibe
-Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,188.7,186.7,Independent
 Liberty Banksia Grove ,7 Honeybee Pde,BANKSIA GROVE,6031,188.9,184.5,Liberty
 Liberty Beckenham,63 William St,BECKENHAM,6107,188.9,188.9,Liberty
 United Kewdale,410-412 Orrong Rd,KEWDALE,6105,188.9,182.5,United
@@ -402,14 +401,12 @@ EG Ampol Busselton,36 Duchess St,BUSSELTON,6280,206.9,206.9,EG Ampol
 EG Ampol Bunbury,Lot 68 Pennant Rd,EAST BUNBURY,6230,206.9,204.9,EG Ampol
 Mt Barker Fuel Services,48 Lowood Rd,MOUNT BARKER,6324,206.9,206.9,Independent
 Caltex Myalup,6043 Forrest Hwy,MYALUP,6220,206.9,206.9,Caltex
-Gull York Roadhouse,63 Avon Tce,YORK,6302,207.7,207.7,Gull
 EG Ampol Australind,Cnr Grand Ent & The Promenade,AUSTRALIND,6233,207.9,207.9,EG Ampol
 Ampol Foodary Busselton,115 Strelly St,BUSSELTON,6280,207.9,207.9,Ampol
 BP Cowaramup,1 Roy Earl Dr,COWARAMUP,6284,207.9,207.9,BP
 Ampol Foodary Eaton,1 Pratt Rd,EATON,6232,207.9,207.9,Ampol
 EG Ampol Eaton,2 Recreation Dr,EATON,6232,207.9,207.9,EG Ampol
 EG Ampol Geraldton,59 Cathedral Ave,GERALDTON,6530,207.9,207.9,EG Ampol
-Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,207.9,207.9,Puma
 Ampol Foodary Wonthella,40 North West Coastal Hwy,WONTHELLA,6530,207.9,207.9,Ampol
 FDWA Cunderdin,67 Lundy Ave,CUNDERDIN,6407,208.0,205.0,Independent
 Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,208.3,208.3,Puma
@@ -423,7 +420,6 @@ Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,210.5,210.5,Bet
 Ampol Foodary Newman,Lot 1328 Newman Dr,NEWMAN,6753,210.9,210.9,Ampol
 Coles Express Bunbury,70 Forrest Ave,SOUTH BUNBURY,6230,210.9,208.9,Coles Express
 Geographe IGA,328 Marine Tce,GEOGRAPHE,6280,212.5,212.5,Liberty
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,212.5,212.5,Better Choice
 Fruit Barn,7 South Western Hwy,DONNYBROOK,6239,212.9,212.9,Liberty
 United Kellerberrin,150 Massingham St,KELLERBERRIN,6410,212.9,212.9,United
 Serpentine Falls Roadhouse,2 Falls Rd,SERPENTINE,6125,212.9,212.9,Independent
@@ -465,6 +461,10 @@ BP Colac,138 Loch St,DERBY,6728,265.9,259.9,BP
 Puma Bunbury South,1 Brittain Rd,CAREY PARK,6230,,,Puma
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 FastFuel 24/7,54 Cumberland Rd,FORRESTFIELD,6058,,184.9,FastFuel
+Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,,207.9,Puma
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,212.5,Better Choice
+Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,186.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Puma Mindarie,22 Anchorage Dr,MINDARIE,6030,,,Puma
 Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,,,Ampol
+Gull York Roadhouse,63 Avon Tce,YORK,6302,,207.7,Gull
