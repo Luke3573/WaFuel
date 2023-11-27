@@ -202,7 +202,6 @@ Route 94 Bakers Hill,4641 Great Eastern Hwy,BAKERS HILL,6562,205.3,205.3,United
 Vibe Bullsbrook,2533 Great Northern Hwy,BULLSBROOK,6084,205.5,205.5,Vibe
 Vibe Harvey,46 South Western Hwy,HARVEY,6220,205.5,205.5,Vibe
 Vibe Yangebup,109 Barrington St,YANGEBUP,6164,205.5,205.5,Vibe
-Smiths Shell Service,86 Avon Tce,YORK,6302,205.5,205.5,Shell
 Vibe Osborne Park,7 Hutton St,OSBORNE PARK,6017,205.7,205.7,Vibe
 Gull York Roadhouse,63 Avon Tce,YORK,6302,205.7,205.7,Gull
 Coles Express Duncraig,193 Warwick Rd,DUNCRAIG,6023,205.9,205.9,Coles Express
@@ -355,7 +354,6 @@ Ampol Wedgefield Diesel Stop,12-14 Cajarina Rd,WEDGEFIELD,6721,215.9,215.9,Ampol
 Puma Kalgoorlie Fuel Point,9 Kayili Rd,WEST KALGOORLIE,6430,216.7,216.7,Puma
 Refuel Australia - Port Hedland,Lot 3 Great Northern Hwy,PORT HEDLAND,6721,216.8,214.8,Ampol
 Eagle West Kalgoorlie Truckstop,2 Brinsden Rd,WEST KALGOORLIE,6430,216.9,216.9,Eagle
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,217.7,212.7,Independent
 Geographe IGA,328 Marine Tce,GEOGRAPHE,6280,217.9,217.9,Liberty
 BP Wedgefield OPT,Cnr Pinga St & Anthill St,WEDGEFIELD,6721,217.9,217.9,BP
 Coles Express South Hedland Roadhouse,Lot 5553 Great Northern Hwy,WEDGEFIELD,6721,217.9,217.9,Coles Express
@@ -383,7 +381,6 @@ BP Wubin,80-82 Great Northern Hwy,WUBIN,6612,220.8,220.8,BP
 Coles Express Victoria Park,66 Kent St,EAST VICTORIA PARK,6101,221.9,221.9,Coles Express
 United East Victoria Park,916 Albany Hwy,EAST VICTORIA PARK,6101,221.9,221.9,United
 BP Kambalda,Lot 35 Goldfields Hwy,KAMBALDA EAST,6442,221.9,221.9,BP
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,221.9,221.9,Independent
 Coles Express Karratha Travel & Truck,6 Madigan Rd,STOVE HILL,6714,221.9,221.9,Coles Express
 BP Kalgoorlie-Boulder Truckstop,248 Celebration Rd,YILKARI,6430,221.9,221.9,BP
 Coles Express Boulder,35 Frank St,BOULDER,6432,223.9,223.9,Coles Express
@@ -403,7 +400,6 @@ Meekatharra Caravan Park,119 Main St,MEEKATHARRA,6642,228.9,228.9,Independent
 Ampol Newman Diesel Stop,131 Welsh Dr,NEWMAN,6753,229.9,229.9,Ampol
 BP Newman South,101 Great Northern Hwy,NEWMAN,6753,229.9,229.9,BP
 Dunning's Newman,21 Willis St,NEWMAN,6753,229.9,229.9,Shell
-Gracie's General,2 Bayview Dr,GRACETOWN,6284,230.0,230.0,Independent
 Smart Mart Newman,Lot 1 Newman Dr,NEWMAN,6753,231.9,231.9,Shell
 BP Ravensthorpe,47 Morgans St,RAVENSTHORPE,6346,231.9,231.9,BP
 United Broome,49 Reid Rd,CABLE BEACH,6726,233.9,233.9,United
@@ -431,8 +427,12 @@ BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,
 Coles Express Fitzroy Crossing Roadhouse,87 Great Northern Hwy,FITZROY CROSSING,6765,,,Coles Express
 FastFuel 24/7,54 Cumberland Rd,FORRESTFIELD,6058,,181.9,FastFuel
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
+Gracie's General,2 Bayview Dr,GRACETOWN,6284,,230.0,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,212.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Puma Mindarie,22 Anchorage Dr,MINDARIE,6030,,,Puma
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,221.9,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
 The Canal Shop ,16 South Yunderup Rd,SOUTH YUNDERUP,6208,,,Independent
+Smiths Shell Service,86 Avon Tce,YORK,6302,,205.5,Shell
