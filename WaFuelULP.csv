@@ -438,7 +438,6 @@ Ampol Foodary Mundaring,5895 Great Eastern Hwy,MUNDARING,6073,177.9,219.9,Ampol
 Ampol Foodary Rockingham,29 Dixon Rd,ROCKINGHAM,6168,177.9,217.9,Ampol
 Karnup Roadhouse,2263 Mandurah Rd,KARNUP,6176,178.9,198.9,BP
 Dunning's Northam,38 Peel Tce,NORTHAM,6401,178.9,178.9,Shell
-Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,179.0,179.0,Shell
 Petro Fuels Calista,103 Calista Ave,CALISTA,6167,179.5,179.5,Liberty
 Petro Fuels Albany,250 Albany Hwy,CENTENNIAL PARK,6330,179.5,179.5,Petro
 Ampol Maddington Truck Stop,18 Orchard Rd,MADDINGTON,6109,179.7,179.7,Ampol
@@ -578,7 +577,6 @@ BP Roadhouse Dongara,30373 Brand Hwy,DONGARA,6525,194.9,192.9,BP
 Fruit Barn,7 South Western Hwy,DONNYBROOK,6239,194.9,193.5,Liberty
 Coles Express Dunsborough,64 Dunn Bay Rd,DUNSBOROUGH,6281,194.9,192.9,Coles Express
 Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,194.9,204.9,Puma
-Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,195.0,195.0,Independent
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,195.5,195.5,Better Choice
 Vibe Witchcliffe,10428 Bussell Hwy,WITCHCLIFFE,6286,195.5,195.5,Vibe
 Gull Collie,143 Throssell St,COLLIE,6225,195.7,195.7,Gull
@@ -648,7 +646,6 @@ Hills Emporio,1615 Canning Rd,KARRAGULLEN,6111,205.9,205.9,Independent
 Ampol Foodary Carnarvon,595 Robinson St,KINGSFORD,6701,205.9,205.9,Ampol
 Dunning's KCD Fuels,520 Robinson St,KINGSFORD,6701,205.9,205.9,Independent
 Dunning's Carnarvon,125 Robinson St,MORGANTOWN,6701,205.9,205.9,Shell
-Carbunup River Store,6672 Bussell Hwy,CARBUNUP RIVER,6280,206.9,206.9,Independent
 Metro Jurien Bay,74 Bashford St,JURIEN BAY,6516,207.9,207.9,Metro
 Vasse General Store,28 Northerly St,VASSE,6280,208.9,208.9,Gull
 Puma South Hedland,1 Altitude Ave,PORT HEDLAND,6721,209.7,209.7,Puma
@@ -696,6 +693,8 @@ Shinju BP,101 Guy St,BROOME,6725,245.9,245.9,BP
 BP Colac,138 Loch St,DERBY,6728,249.9,249.9,BP
 Derby Fuels,46 Clarendon St,DERBY,6728,255.5,249.5,Shell
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
+Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,,179.0,Shell
+Carbunup River Store,6672 Bussell Hwy,CARBUNUP RIVER,6280,,206.9,Independent
 Puma Bunbury South,1 Brittain Rd,CAREY PARK,6230,,,Puma
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,237.9,BP
@@ -708,4 +707,5 @@ Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Puma Mindarie,22 Anchorage Dr,MINDARIE,6030,,,Puma
 Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,204.5,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
+Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,,195.0,Independent
 Smiths Shell Service,86 Avon Tce,YORK,6302,,195.7,Shell
