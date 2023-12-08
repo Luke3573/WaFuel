@@ -168,6 +168,7 @@ NightOwl Shell Kalamunda,7 Mead St,KALAMUNDA,6926,185.8,,Shell
 Petro Fuels Mount Barker,25 Mitchell Rd,MOUNT BARKER,6324,185.8,,BP
 NightOwl Shell Highgate,3 Guildford Rd,MOUNT LAWLEY,6050,185.8,,Shell
 EG Ampol Alkimos,11 Shorehaven Bvd,ALKIMOS,6038,185.9,,EG Ampol
+Coles Express Armadale,269 South Western Hwy,ARMADALE,6112,185.9,,Coles Express
 Coles Express Brookdale,1256 Armadale Rd,ARMADALE,6112,185.9,,Coles Express
 Caltex Armadale,10 Orchard Ave,ARMADALE,6112,185.9,,Caltex
 Coles Express Banksia Grove,1001 Joondalup Dr,BANKSIA GROVE,6031,185.9,,Coles Express
@@ -675,6 +676,7 @@ Coles Express Dampier,47 Church Rd,DAMPIER,6713,211.9,,Coles Express
 Coles Express Karratha,13 Searipple Rd,KARRATHA,6714,211.9,,Coles Express
 EG Ampol Karratha,Lot 1437 Warambie Rd,KARRATHA,6714,211.9,,EG Ampol
 Ampol Foodary Karratha,Lot 3861 Bathgate Rd,NICKOL,6714,211.9,,Ampol
+Coles Express Karratha Travel & Truck,6 Madigan Rd,STOVE HILL,6714,211.9,,Coles Express
 Coles Express Port Hedland,Lot 2065 Wilson St,PORT HEDLAND,6721,214.9,,Coles Express
 BP Port Hedland Boulevard,150 Anderson St,PORT HEDLAND,6721,214.9,,BP
 GSG WA Pty Ltd ,111 Morgans St,RAVENSTHORPE,6346,216.9,,Shell
@@ -702,7 +704,6 @@ EG Ampol Djugun,106 Frederick St,DJUGUN,6725,239.9,,EG Ampol
 Derby Fuels,46 Clarendon St,DERBY,6728,249.5,,Shell
 BP Colac,138 Loch St,DERBY,6728,249.9,,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
-Coles Express Armadale,269 South Western Hwy,ARMADALE,6112,,,Coles Express
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Coles Express Fitzroy Crossing Roadhouse,87 Great Northern Hwy,FITZROY CROSSING,6765,,,Coles Express
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
@@ -710,4 +711,3 @@ Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Puma Mindarie,22 Anchorage Dr,MINDARIE,6030,,,Puma
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
-Coles Express Karratha Travel & Truck,6 Madigan Rd,STOVE HILL,6714,,,Coles Express
