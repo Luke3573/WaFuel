@@ -555,7 +555,6 @@ Metro Jurien Bay,74 Bashford St,JURIEN BAY,6516,216.9,216.9,Metro
 BP Mindarie,360 Anchorage Dr North,MINDARIE,6030,216.9,206.9,BP
 BP Mullaloo,101 Dampier Av,MULLALOO,6027,216.9,206.9,BP
 BP Port Kennedy,46 Bakewell Dr,PORT KENNEDY,6172,216.9,202.9,BP
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,217.7,217.7,Independent
 Caltex Como,393 Canning Hwy,COMO,6152,217.9,207.9,Caltex
 Coles Express Dunsborough,64 Dunn Bay Rd,DUNSBOROUGH,6281,217.9,217.9,Coles Express
 Dwellingup BP,48 McLarty St,DWELLINGUP,6213,217.9,217.9,BP
@@ -576,7 +575,6 @@ BP Cunderdin Roadhouse,Lot 6 Great Eastern Hwy,CUNDERDIN,6407,220.9,220.9,BP
 Caltex Piccadilly,7 Maritana St,PICCADILLY,6430,220.9,220.9,Caltex
 Shell Gidgegannup,2095 Toodyay Rd,GIDGEGANNUP,6083,221.9,216.9,Shell
 Ampol Foodary Kalgoorlie,581 Hannan St,SOMERVILLE,6430,221.9,221.9,Ampol
-Smiths Shell Service,86 Avon Tce,YORK,6302,221.9,221.9,Shell
 Mundijong Store & Deli,20 Paterson St,MUNDIJONG,6123,222.0,222.0,Independent
 United Boulder Kalgoorlie,26 Davis St,BOULDER,6432,222.9,222.9,United
 Carbunup River Store,6672 Bussell Hwy,CARBUNUP RIVER,6280,222.9,222.9,Independent
@@ -595,7 +593,6 @@ Dunning's Carnarvon,125 Robinson St,MORGANTOWN,6701,225.9,225.9,Shell
 Caltex Castletown,49 Norseman Rd,CASTLETOWN,6450,226.9,226.9,Caltex
 Ampol Foodary Esperance,59 Dempster St,ESPERANCE,6450,226.9,226.9,Ampol
 Ampol Meckering,31 Dreyer St,MECKERING,6405,226.9,226.9,Ampol
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,226.9,226.9,Independent
 Refuel Australia - Port Hedland,Lot 3 Great Northern Hwy,PORT HEDLAND,6721,227.8,227.8,Ampol
 Liberty Karratha,2 Cockatoo St,NICKOL,6714,227.9,225.9,Liberty
 BP Norseman,Lot 2 Eyre Hwy,NORSEMAN,6443,228.4,225.4,BP
@@ -621,5 +618,8 @@ BP Broome Central Service Centre,2 Coghlan St,DJUGUN,6725,259.9,259.9,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,217.7,Independent
 Puma Mindarie,22 Anchorage Dr,MINDARIE,6030,,,Puma
 Ampol Foodary Norseman,1 Princep St,NORSEMAN,6443,,,Ampol
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,226.9,Independent
+Smiths Shell Service,86 Avon Tce,YORK,6302,,221.9,Shell
