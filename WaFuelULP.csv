@@ -385,7 +385,6 @@ Caltex Tarcoola,156 Brand Hwy,TARCOOLA BEACH,6530,188.9,188.9,Caltex
 Ampol Foodary Forrest Highway North,Lot 602 Forrest Hwy,WEST PINJARRA,6208,188.9,179.9,Ampol
 Ampol Foodary Forrest Highway South,Lot 601 Forrest Hwy,WEST PINJARRA,6208,188.9,179.9,Ampol
 Ampol Foodary Wonthella,40 North West Coastal Hwy,WONTHELLA,6530,188.9,187.9,Ampol
-Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,189.0,189.0,Shell
 Vibe Bunbury,42 Strickland St,BUNBURY,6230,189.3,187.5,Vibe
 7-Eleven Bunbury East,8D Picton Rd,EAST BUNBURY,6230,189.3,189.3,7 Eleven
 Vibe Bunbury Strickland St,81 King Rd,EAST BUNBURY,6230,189.3,187.5,Vibe
@@ -603,7 +602,6 @@ Smart Mart Pure Convenience - Flores Rd,280 Fourth St,WONTHELLA,6530,193.9,193.9
 Petro Fuels Cataby,10513 Brand Hwy,CATABY,6507,194.5,189.5,Ampol
 BP Cunderdin Roadhouse,Lot 6 Great Eastern Hwy,CUNDERDIN,6407,194.9,194.9,BP
 Ampol Foodary Gosnells,158 Corfield St,GOSNELLS,6110,194.9,182.9,Ampol
-Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,195.0,195.0,Independent
 Geographe IGA,328 Marine Tce,GEOGRAPHE,6280,195.5,195.5,Liberty
 BP Kelmscott,2907 Albany Hwy,KELMSCOTT,6111,195.9,179.9,BP
 BP Langford,230-234 Nicholson Rd,LANGFORD,6147,195.9,179.9,BP
@@ -700,6 +698,7 @@ EG Ampol Djugun,106 Frederick St,DJUGUN,6725,239.9,239.9,EG Ampol
 Derby Fuels,46 Clarendon St,DERBY,6728,249.5,249.5,Shell
 BP Colac,138 Loch St,DERBY,6728,249.9,249.9,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
+Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,,189.0,Shell
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,237.9,BP
 Coles Express Fitzroy Crossing Roadhouse,87 Great Northern Hwy,FITZROY CROSSING,6765,,,Coles Express
@@ -710,4 +709,5 @@ Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Puma Mindarie,22 Anchorage Dr,MINDARIE,6030,,,Puma
 Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,204.5,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
+Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,,195.0,Independent
 Smiths Shell Service,86 Avon Tce,YORK,6302,,193.7,Shell

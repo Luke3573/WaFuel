@@ -152,7 +152,6 @@ BP Forrestdale,2 Alex Wood Dr,FORRESTDALE,6112,194.9,191.9,BP
 Gull Moora,65 Roberts St,MOORA,6510,194.9,194.9,Gull
 BP Northam OPT,78 Old York Rd,NORTHAM,6401,194.9,194.9,BP
 Dunning's Picton,254 South Western Hwy,PICTON,6229,194.9,194.9,Shell
-Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,195.0,195.0,Shell
 Walkaway General Store,1 Evans Rd,WALKAWAY,6528,195.0,195.0,Independent
 Vibe Harvey,46 South Western Hwy,HARVEY,6220,195.1,195.1,Vibe
 Vibe East Bunbury,13 Picton Rd,EAST BUNBURY,6230,195.3,195.3,Vibe
@@ -345,7 +344,6 @@ Coles Express Albany Orana ,342 Albany Hwy,ORANA,6330,209.9,209.9,Coles Express
 Serpentine Falls Roadhouse,2 Falls Rd,SERPENTINE,6125,209.9,209.9,Independent
 BP West Kalgoorlie,11 Wilurarra Rd,WEST KALGOORLIE,6430,209.9,209.9,BP
 Coles Express Willetton,239-247 High Rd,WILLETTON,6155,209.9,209.9,Coles Express
-Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,210.0,210.0,Independent
 Coles Express Lakelands,49 Banksiadale Gte,LAKELANDS,6210,210.9,210.9,Coles Express
 Metro Jurien Bay,74 Bashford St,JURIEN BAY,6516,211.9,211.9,Metro
 United Swanbourne,2 Servetus St,SWANBOURNE,6010,211.9,211.9,United
@@ -421,6 +419,7 @@ Preston Beach General Store,52 Mitchell Rd,PRESTON BEACH,6215,250.0,250.0,Gull
 Derby Fuels,46 Clarendon St,DERBY,6728,252.5,252.5,Shell
 BP Colac,138 Loch St,DERBY,6728,252.9,252.9,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
+Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,,195.0,Shell
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,235.5,BP
 Coles Express Fitzroy Crossing Roadhouse,87 Great Northern Hwy,FITZROY CROSSING,6765,,,Coles Express
@@ -432,5 +431,6 @@ Puma Mindarie,22 Anchorage Dr,MINDARIE,6030,,,Puma
 Ampol Foodary Norseman,1 Princep St,NORSEMAN,6443,,,Ampol
 Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,221.9,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
+Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,,210.0,Independent
 The Canal Shop ,16 South Yunderup Rd,SOUTH YUNDERUP,6208,,,Independent
 Smiths Shell Service,86 Avon Tce,YORK,6302,,199.7,Shell
