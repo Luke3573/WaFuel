@@ -227,7 +227,6 @@ Puma Pearsall,204 Shiraz Bvd,PEARSALL,6065,199.7,199.7,Puma
 Puma Wanneroo,951 Wanneroo Rd,WANNEROO,6065,199.7,199.7,Puma
 Puma North Perth,311 Fitzgerald St,WEST PERTH,6005,199.7,199.7,Puma
 Gull York Roadhouse,63 Avon Tce,YORK,6302,199.7,199.7,Gull
-Smiths Shell Service,86 Avon Tce,YORK,6302,199.7,199.7,Shell
 Coles Express Banksia Grove,1001 Joondalup Dr,BANKSIA GROVE,6031,199.9,199.9,Coles Express
 Liberty Beckenham,63 William St,BECKENHAM,6107,199.9,189.9,Liberty
 Binningup General Store,21 Coronation Dr,BINNINGUP,6233,199.9,199.9,Ampol
@@ -323,7 +322,6 @@ Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,206.9,206.9,Puma
 Puma Manjimup Roadhouse,1182 South Western Hwy,MANJIMUP,6258,206.9,201.9,Puma
 Northcliffe Newsagent & General Store,17 Zamia St,NORTHCLIFFE,6262,206.9,206.9,Independent
 Vibe Subiaco,123 Thomas St,SUBIACO,6008,207.5,199.7,Vibe
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,207.7,207.7,Independent
 NightOwl Shell Kalamunda,7 Mead St,KALAMUNDA,6926,207.8,205.8,Shell
 Balingup Liquor & General Store,12 Bridgetown Rd,BALINGUP,6253,207.9,203.9,Independent
 BP Baskerville,1084 Great Northern Hwy,BASKERVILLE,6056,207.9,207.9,BP
@@ -396,7 +394,6 @@ BP Port Hedland,90 Anderson St,PORT HEDLAND,6721,220.0,220.0,BP
 BP Wubin,80-82 Great Northern Hwy,WUBIN,6612,220.8,219.8,BP
 BP Karratha Depot (Recharge Petroleum),1033 Mardie Rd,KARRATHA INDUSTRIAL ESTATE,6714,221.9,221.9,BP
 Meekatharra Caravan Park,119 Main St,MEEKATHARRA,6642,221.9,230.9,Independent
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,221.9,221.9,Independent
 GSG WA Pty Ltd ,111 Morgans St,RAVENSTHORPE,6346,224.9,224.9,Shell
 Yarrumba Service Station,21 Jose St,MULLEWA,6630,225.7,205.7,Liberty
 Coles Express Meekatharra Roadhouse,Lot 821 Main St,MEEKATHARRA,6642,225.9,225.9,Coles Express
@@ -410,7 +407,6 @@ Ningaloo Reef Fuels,6 Pelias St,EXMOUTH,6707,232.9,232.9,Independent
 United Broome,49 Reid Rd,CABLE BEACH,6726,233.9,233.9,United
 Meekatharra Corner Store,16 Main St,MEEKATHARRA,6642,233.9,233.9,BP
 Fitzroy River Lodge,Lot 277 Great Northern Hwy,FITZROY CROSSING,6765,235.0,235.0,Independent
-BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,235.5,235.5,BP
 Exmouth Fuel Supplies,2 Huston St,EXMOUTH,6707,235.8,235.8,Independent
 Dunning's Broome,7 Clementson St,BROOME,6725,235.9,235.9,Shell
 Ampol Fitzroy Crossing Diesel Stop,53 Emanuel Way,FITZROY CROSSING,6765,235.9,235.9,Ampol
@@ -426,11 +422,15 @@ Derby Fuels,46 Clarendon St,DERBY,6728,252.5,252.5,Shell
 BP Colac,138 Loch St,DERBY,6728,252.9,252.9,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,235.5,BP
 Coles Express Fitzroy Crossing Roadhouse,87 Great Northern Hwy,FITZROY CROSSING,6765,,,Coles Express
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,207.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Puma Mindarie,22 Anchorage Dr,MINDARIE,6030,,,Puma
 Ampol Foodary Norseman,1 Princep St,NORSEMAN,6443,,,Ampol
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,221.9,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
 The Canal Shop ,16 South Yunderup Rd,SOUTH YUNDERUP,6208,,,Independent
+Smiths Shell Service,86 Avon Tce,YORK,6302,,199.7,Shell

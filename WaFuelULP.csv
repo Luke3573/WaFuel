@@ -579,9 +579,7 @@ Shell Narrogin,44 Egerton St,NARROGIN,6312,192.9,192.9,Shell
 53 Mile Roadhouse,31 South Western Hwy,PINJARRA,6208,192.9,192.9,United
 BP Walpole,18 Nockolds St,WALPOLE,6398,192.9,192.9,BP
 Better Choice Como,25 Preston St,COMO,6152,193.5,179.5,Better Choice
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,193.7,193.7,Independent
 Gull York Roadhouse,63 Avon Tce,YORK,6302,193.7,193.7,Gull
-Smiths Shell Service,86 Avon Tce,YORK,6302,193.7,193.7,Shell
 Refuel Australia - DMW Supplies,39 Moreton Tce,DONGARA,6525,193.8,193.8,Ampol
 BP Balcatta,53 Erindale Rd,BALCATTA,6021,193.9,183.9,BP
 BP Beldon,261 Eddystone Ave,BELDON,6027,193.9,183.9,BP
@@ -652,7 +650,6 @@ BP Carnarvon,1134 North West Coastal Hwy,BROWN RANGE,6701,203.9,203.9,BP
 Caltex Castletown,49 Norseman Rd,CASTLETOWN,6450,203.9,203.9,Caltex
 Ampol Foodary Esperance,59 Dempster St,ESPERANCE,6450,203.9,203.9,Ampol
 Coles Express Esperance,25 Andrew St,ESPERANCE,6450,203.9,203.9,Coles Express
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,204.5,204.5,Independent
 BP Norseman,Lot 2 Eyre Hwy,NORSEMAN,6443,205.5,203.5,BP
 EG Ampol Carnarvon,90 Robinson St,CARNARVON,6701,205.9,203.9,EG Ampol
 Hills Emporio,1615 Canning Rd,KARRAGULLEN,6111,205.9,205.9,Independent
@@ -695,7 +692,6 @@ BP Munglinup,16 Tubada St,MUNGLINUP,6450,235.0,235.0,BP
 Dunning's Broome,7 Clementson St,BROOME,6725,235.9,235.9,Shell
 Preston Beach General Store,52 Mitchell Rd,PRESTON BEACH,6215,236.0,236.0,Gull
 Fitzroy River Lodge,Lot 277 Great Northern Hwy,FITZROY CROSSING,6765,237.0,237.0,Independent
-BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,237.9,237.9,BP
 Ampol Foodary Broome,50 Mavis Rd,BILINGURR,6725,239.9,239.9,Ampol
 Coles Express Broome,19 Napier Tce,BROOME,6725,239.9,239.9,Coles Express
 Shinju BP,101 Guy St,BROOME,6725,239.9,239.9,BP
@@ -705,9 +701,13 @@ Derby Fuels,46 Clarendon St,DERBY,6728,249.5,249.5,Shell
 BP Colac,138 Loch St,DERBY,6728,249.9,249.9,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,237.9,BP
 Coles Express Fitzroy Crossing Roadhouse,87 Great Northern Hwy,FITZROY CROSSING,6765,,,Coles Express
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,193.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Puma Mindarie,22 Anchorage Dr,MINDARIE,6030,,,Puma
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,204.5,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
+Smiths Shell Service,86 Avon Tce,YORK,6302,,193.7,Shell
