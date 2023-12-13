@@ -12,6 +12,7 @@ EG Ampol Osborne Park,401 Scarborough Beach Rd,OSBORNE PARK,6017,129.7,,EG Ampol
 United Perth Airport,Airport Dr (Cnr Paltridge Rd),PERTH AIRPORT,6105,129.7,,United
 United South Lake,49 Berrigan Dr,SOUTH LAKE,6164,129.7,,United
 EG Ampol South Lake,752 North Lake Rd,SOUTH LAKE,6164,129.7,,EG Ampol
+Caltex Burswood,265 Great Eastern Hwy,BURSWOOD,6100,129.9,,Caltex
 BP Henley Brook,1520 Gnangara Rd,HENLEY BROOK,6055,129.9,,BP
 BP Kelmscott,2907 Albany Hwy,KELMSCOTT,6111,129.9,,BP
 Caltex Kiara,157 Morley Dr,KIARA,6054,129.9,,Caltex
@@ -35,7 +36,6 @@ Caltex Alexander Heights,200 Mirrabooka Ave,ALEXANDER HEIGHTS,6064,135.9,,Caltex
 BP Balcatta,53 Erindale Rd,BALCATTA,6021,135.9,,BP
 Caltex Barragup,715 Pinjarra Rd,BARRAGUP,6209,135.9,,Caltex
 BP Beldon,261 Eddystone Ave,BELDON,6027,135.9,,BP
-Caltex Burswood,265 Great Eastern Hwy,BURSWOOD,6100,135.9,,Caltex
 BP Beeliar,701 Beeliar Dr,COCKBURN CENTRAL,6164,135.9,,BP
 Ampol Foodary East Fremantle,176 Canning Hwy,EAST FREMANTLE,6158,135.9,,Ampol
 Ampol Foodary Erskine,112 Oakleigh Dr,ERSKINE,6210,135.9,,Ampol
@@ -75,6 +75,7 @@ Ampol Foodary Esperance,59 Dempster St,ESPERANCE,6450,159.9,,Ampol
 Ampol Foodary Carnarvon,595 Robinson St,KINGSFORD,6701,161.9,,Ampol
 Narrogin Gasworx,22 Fairway St,NARROGIN,6312,170.0,,Independent
 EG Ampol Karratha,Lot 1437 Warambie Rd,KARRATHA,6714,173.9,,EG Ampol
+BOC Gas & Gear,287 Place Rd,WEBBERTON,6530,180.0,,
 BP Wubin,80-82 Great Northern Hwy,WUBIN,6612,216.7,,BP
 BP Connect Ascot (WA),210 Great Eastern Hwy,ASCOT,6104,,,BP
 Vibe Beechboro,495 Beechboro Rd N,BEECHBORO,6063,,,Vibe
@@ -84,5 +85,4 @@ BP Crystal Brook (Lesmurdie),7 Welshpool Rd East,LESMURDIE,6076,,,BP
 Ampol Maddington Truck Stop,18 Orchard Rd,MADDINGTON,6109,,,Ampol
 Puma Manjimup Roadhouse,1182 South Western Hwy,MANJIMUP,6258,,,Puma
 United Mt Lawley,791 Beaufort St,MOUNT LAWLEY,6050,,,United
-BOC Gas & Gear,287 Place Rd,WEBBERTON,6530,,,
 Ampol Foodary Yanchep,1 Morwell St,YANCHEP,6035,,,Ampol
