@@ -96,7 +96,6 @@ United Mount Barker Roadhouse,31763 Albany Hwy,MOUNT BARKER,6324,188.9,188.9,Uni
 United Osborne Park,479 Scarborough Beach Rd,OSBORNE PARK,6017,188.9,182.9,United
 Ampol Foodary North Road,204 North Rd,YAKAMIA,6330,188.9,188.9,Ampol
 Phoenix Barlee St,31 Barlee St,BUSSELTON,6280,189.0,189.0,Independent
-Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,189.7,183.7,Independent
 Caltex Baldivis,67 Ridge Bvd,BALDIVIS,6171,189.9,189.9,Caltex
 7-Eleven Eaton,15 Albatross Cres,EATON,6232,189.9,189.9,7 Eleven
 Metro Geraldton,1 Fortyn Ct,MAHOMETS FLATS,6530,189.9,189.9,Metro
@@ -199,7 +198,6 @@ EG Ampol Port Kennedy,12 Saltaire Way,PORT KENNEDY,6172,194.9,190.9,EG Ampol
 7-Eleven Southern River,481 Balfour St,SOUTHERN RIVER,6110,194.9,188.9,7 Eleven
 Ampol Foodary Thornlie Square,316 Spencer Rd,THORNLIE,6108,194.9,189.9,Ampol
 Ampol Foodary Yanchep,1 Morwell St,YANCHEP,6035,194.9,187.9,Ampol
-Gull York Roadhouse,63 Avon Tce,YORK,6302,195.7,201.7,Gull
 NightOwl Shell Kalamunda,7 Mead St,KALAMUNDA,6926,195.8,189.8,Shell
 Ampol Foodary Ashby,2 Hollosy Way,ASHBY,6065,195.9,193.9,Ampol
 Ampol Foodary Dawesville,191 Bailey Bvd,DAWESVILLE,6211,195.9,187.9,Ampol
@@ -256,11 +254,9 @@ BP Connect Palm Springs,214 Warnbro Sound Ave,WARNBRO,6169,196.9,192.9,BP
 Ampol Foodary Wonthella,40 North West Coastal Hwy,WONTHELLA,6530,196.9,196.9,Ampol
 Better Choice Bellevue,177-179 Great Eastern Hwy,BELLEVUE,6056,197.5,187.5,Better Choice
 Better Choice Malaga,3 Carson Rd,MALAGA,6090,197.5,190.3,Better Choice
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,197.7,197.7,Better Choice
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,197.7,197.7,Better Choice
 Ampol Foodary Applecross,918 Canning Hwy,APPLECROSS,6153,197.9,190.9,Ampol
 Ampol Foodary Cannington,1346 Albany Hwy,CANNINGTON,6107,197.9,191.9,Ampol
-Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,197.9,197.9,Puma
 BP Malaga,370 Victoria Rd,MALAGA,6090,197.9,184.9,BP
 BP 2go Noranda,40 Benara Rd,NORANDA,6062,197.9,188.9,BP
 Ampol Foodary North Wanneroo,2624 Wanneroo Rd,NOWERGUP,6032,197.9,192.9,Ampol
@@ -472,5 +468,9 @@ Shinju BP,101 Guy St,BROOME,6725,252.9,252.9,BP
 EG Ampol Djugun,106 Frederick St,DJUGUN,6725,252.9,252.9,EG Ampol
 BP Colac,138 Loch St,DERBY,6728,255.9,255.9,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,,197.9,Puma
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,197.7,Better Choice
+Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,183.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,,,Ampol
+Gull York Roadhouse,63 Avon Tce,YORK,6302,,201.7,Gull

@@ -196,7 +196,6 @@ Coles Express Langford,70 Nicholson Rd,LANGFORD,6147,188.9,188.9,Coles Express
 Mt Barker Fuel Services,48 Lowood Rd,MOUNT BARKER,6324,188.9,188.9,Independent
 Coles Express Myaree,69 North Lake Rd,MYAREE,6154,188.9,188.9,Coles Express
 Coles Express Osborne Park,11 Roberts St West,OSBORNE PARK,6017,188.9,187.9,Coles Express
-Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,189.0,189.0,Shell
 Dardanup Garage & Service Station,11 Charlotte St,DARDANUP,6236,189.0,189.0,Independent
 BP Jurien Bay,110 Bashford St,JURIEN BAY,6516,189.0,189.0,BP
 Bakers Food and Fuel,46458 South Coast Hwy,KING RIVER,6330,189.0,189.0,Liberty
@@ -287,7 +286,6 @@ BP Roadhouse Bridgetown,43 Hampton St,BRIDGETOWN,6255,194.9,194.9,BP
 Puma Manjimup Roadhouse,1182 South Western Hwy,MANJIMUP,6258,194.9,194.9,Puma
 Geographe Petroleum Margaret River,12 Auger Way,MARGARET RIVER,6285,194.9,194.9,Liberty
 BP Pemberton Garage & Service Station,84 Brockman St,PEMBERTON,6260,194.9,194.9,BP
-Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,195.0,195.0,Independent
 Vibe Donnybrook,45 South Western Hwy,DONNYBROOK,6239,195.3,195.3,Vibe
 Fruit Barn,7 South Western Hwy,DONNYBROOK,6239,195.5,195.5,Liberty
 Crudeli's Auto Repairs,24 Maitland Rd,MULLEWA,6630,195.5,195.5,BP
@@ -423,6 +421,7 @@ Derby Fuels,46 Clarendon St,DERBY,6728,249.5,245.5,Shell
 BP Munglinup,16 Tubada St,MUNGLINUP,6450,250.0,250.0,BP
 Preston Beach General Store,52 Mitchell Rd,PRESTON BEACH,6215,250.0,250.0,Gull
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
+Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,,189.0,Shell
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,235.5,BP
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
@@ -431,6 +430,7 @@ Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,196.7,Indep
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,195.9,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
+Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,,195.0,Independent
 The Canal Shop,16 South Yunderup Rd,SOUTH YUNDERUP,6208,,,Independent
 Puma Kalgoorlie Fuel Point,9 Kayili Rd,WEST KALGOORLIE,6430,,,Puma
 Smiths Shell Service,86 Avon Tce,YORK,6302,,185.7,Shell

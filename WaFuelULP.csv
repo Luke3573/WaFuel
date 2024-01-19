@@ -55,7 +55,6 @@ Liberty Tapping,3 Herdsman Lane,WANNEROO,6065,168.5,165.5,Liberty
 Vibe Byford,868 South Western Hwy,BYFORD,6122,168.7,168.7,Vibe
 Atlas Fuel Jarrahdale,2 Jarrahdale Rd,JARRAHDALE,6124,168.9,167.9,Atlas
 Vibe Morley,430 Morley Dr,MORLEY,6062,168.9,168.9,Vibe
-Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,169.0,169.0,Shell
 Vibe Wanneroo,964 Wanneroo Rd,WANNEROO,6065,169.3,169.3,Vibe
 Vibe Jandakot,630 Karel Ave,JANDAKOT,6164,169.5,169.5,Vibe
 United Perth Airport,Airport Dr (Cnr Paltridge Rd),PERTH AIRPORT,6105,169.5,165.9,United
@@ -439,7 +438,6 @@ BP Highgate,342 Beaufort St,PERTH,6000,184.9,174.9,BP
 Ampol Foodary Forrest Highway North,Lot 602 Forrest Hwy,WEST PINJARRA,6208,184.9,176.9,Ampol
 Ampol Foodary Forrest Highway South,Lot 601 Forrest Hwy,WEST PINJARRA,6208,184.9,176.9,Ampol
 Ampol Willetton,169 High Rd,WILLETTON,6155,184.9,177.9,Ampol
-Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,185.0,185.0,Independent
 Vibe Donnybrook,45 South Western Hwy,DONNYBROOK,6239,185.3,185.3,Vibe
 Vibe Toodyay Rd,2086 Toodyay Rd,GIDGEGANNUP,6083,185.3,175.3,Vibe
 Fruit Barn,7 South Western Hwy,DONNYBROOK,6239,185.5,185.5,Liberty
@@ -704,6 +702,7 @@ Fitzroy River Lodge,Lot 277 Great Northern Hwy,FITZROY CROSSING,6765,237.0,237.0
 BP Colac,138 Loch St,DERBY,6728,245.9,245.9,BP
 Derby Fuels,46 Clarendon St,DERBY,6728,249.5,245.5,Shell
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
+Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,,169.0,Shell
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,237.9,BP
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
@@ -712,5 +711,6 @@ Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,182.7,Indep
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,187.5,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
+Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,,185.0,Independent
 Caltex Upper Swan,1383 Great Northern Hwy,UPPER SWAN,6069,,,Caltex
 Smiths Shell Service,86 Avon Tce,YORK,6302,,183.7,Shell
