@@ -153,7 +153,6 @@ Liberty Landsdale,2 Cowle St,LANDSDALE,6065,185.9,185.9,Liberty
 Vibe Nollamara,66 Sylvia St,NOLLAMARA,6061,185.9,182.5,Vibe
 Liberty O'Connor,9 Pritchard St,O'CONNOR,6163,185.9,185.9,Liberty
 Coles Express Wangara,1 Niche Pde,WANGARA,6065,185.9,184.9,Coles Express
-Smiths Shell Service,86 Avon Tce,YORK,6302,186.7,185.7,Shell
 Petro Fuels Denmark,69 South Coast Hwy,DENMARK,6333,186.8,186.8,Shell
 Ampol Bibra Lake Diesel Stop,5 Cocos Dr,BIBRA LAKE,6163,186.9,187.9,Ampol
 BP Bibra Lake,2 Wellard St,BIBRA LAKE,6163,186.9,186.9,BP
@@ -301,13 +300,11 @@ Coles Express Edgewater,57 Joondalup Dr,EDGEWATER,6027,195.9,195.9,Coles Express
 Coles Express Jolimont,6 Jersey St,JOLIMONT,6014,195.9,195.9,Coles Express
 Jurien Bay Service Station & Roadhouse,22 Bashford St,JURIEN BAY,6516,195.9,195.9,Ampol
 Coles Express Leeming,29/51 Farrington St,LEEMING,6149,195.9,195.9,Coles Express
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,195.9,195.9,Independent
 Coles Express Ocean Reef,6 Marina Bvd,OCEAN REEF,6027,195.9,195.9,Coles Express
 Coles Express Perth,480 William St,PERTH,6000,195.9,195.9,Coles Express
 Coles Express Wembley,337 Cambridge St,WEMBLEY,6014,195.9,195.9,Coles Express
 Coles Express West Perth,30 Thomas St,WEST PERTH,6005,195.9,195.9,Coles Express
 Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,196.7,196.7,Better Choice
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,196.7,196.7,Independent
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,196.7,196.7,Better Choice
 Vibe Witchcliffe,10428 Bussell Hwy,WITCHCLIFFE,6286,196.7,196.7,Vibe
 BP Augusta,64 Blackwood Ave,AUGUSTA,6290,196.9,196.9,BP
@@ -430,7 +427,10 @@ Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,235.5,BP
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,196.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,195.9,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
 The Canal Shop,16 South Yunderup Rd,SOUTH YUNDERUP,6208,,,Independent
 Puma Kalgoorlie Fuel Point,9 Kayili Rd,WEST KALGOORLIE,6430,,,Puma
+Smiths Shell Service,86 Avon Tce,YORK,6302,,185.7,Shell
