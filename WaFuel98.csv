@@ -560,7 +560,6 @@ Ampol Foodary Wonthella,40 North West Coastal Hwy,WONTHELLA,6530,205.9,206.9,Amp
 BP Donnybrook,15 South Western Hwy,DONNYBROOK,6239,206.9,206.9,BP
 BP Pemberton Garage & Service Station,84 Brockman St,PEMBERTON,6260,206.9,206.9,BP
 Vibe Donnybrook,45 South Western Hwy,DONNYBROOK,6239,207.3,207.3,Vibe
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,207.7,207.7,Independent
 Jurien Bay Service Station & Roadhouse,22 Bashford St,JURIEN BAY,6516,207.9,211.9,Ampol
 Dunning's Thompsons Garage,127 Giblett St,MANJIMUP,6258,207.9,207.9,Shell
 BP Moora Depot,153 Gardiner St,MOORA,6510,207.9,207.9,BP
@@ -574,7 +573,6 @@ Hillview Roadhouse and Motel,47 Albany Hwy,KOJONUP,6395,209.9,209.9,Shell
 Puma Manjimup Roadhouse,1182 South Western Hwy,MANJIMUP,6258,209.9,209.9,Puma
 Binningup General Store,21 Coronation Dr,BINNINGUP,6233,210.9,210.9,Ampol
 Hi-Way Sales & Service 1982,154 Albany Hwy,KOJONUP,6395,210.9,213.9,Ampol
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,210.9,210.9,Independent
 Dardanup Garage & Service Station,11 Charlotte St,DARDANUP,6236,211.0,212.0,Independent
 Coles Express Collie,57 Johnston St,COLLIE,6225,212.9,212.9,Coles Express
 Northcliffe Newsagent & General Store,17 Zamia St,NORTHCLIFFE,6262,212.9,212.9,Independent
@@ -593,7 +591,6 @@ Ampol Foodary Esperance,59 Dempster St,ESPERANCE,6450,220.9,220.9,Ampol
 S24 Kununurra,5 Messmate Way,KUNUNURRA,6743,221.9,221.9,Caltex
 Ampol Foodary Kalgoorlie,581 Hannan St,SOMERVILLE,6430,221.9,221.9,Ampol
 Ampol Foodary Kalgoorlie South,146 Boulder Rd,SOUTH KALGOORLIE,6430,221.9,221.9,Ampol
-Smiths Shell Service,86 Avon Tce,YORK,6302,221.9,221.9,Shell
 United Boulder Kalgoorlie,26 Davis St,BOULDER,6432,222.9,222.9,United
 Ampol Foodary Coolgardie,110-114 Bayley St,COOLGARDIE,6429,222.9,222.9,Ampol
 Coles Express Vasse,2 Napoleon Prom,VASSE,6280,222.9,222.9,Coles Express
@@ -624,4 +621,7 @@ BP Broome Central Service Centre,2 Coghlan St,DJUGUN,6725,255.9,255.9,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,207.7,Independent
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,210.9,Independent
 Ampol Kalgoorlie - Service Station,2 Cunningham Rd,WEST KALGOORLIE,6430,,,Ampol
+Smiths Shell Service,86 Avon Tce,YORK,6302,,221.9,Shell
