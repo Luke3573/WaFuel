@@ -200,7 +200,6 @@ Vibe Harvey,46 South Western Hwy,HARVEY,6220,189.7,189.70,Vibe
 Vibe Piara Waters,390 Nicholson Rd,PIARA WATERS,6112,189.7,189.70,Vibe
 Puma Wanneroo,951 Wanneroo Rd,WANNEROO,6065,189.7,189.70,Puma
 Gull York Roadhouse,63 Avon Tce,YORK,6302,189.7,189.70,Gull
-Smiths Shell Service,86 Avon Tce,YORK,6302,189.7,189.70,Shell
 NightOwl Shell Kalamunda,7 Mead St,KALAMUNDA,6926,189.8,193.80,Shell
 Refuel Australia - Deepdale Meru,256 Deepdale Rd,MERU,6530,189.8,189.80,Ampol
 Refuel Australia - Geraldton Flores Road,120 Flores Rd,WEBBERTON,6530,189.8,189.80,Ampol
@@ -303,7 +302,6 @@ Coles Express Wembley,337 Cambridge St,WEMBLEY,6014,195.9,195.90,Coles Express
 Coles Express West Perth,30 Thomas St,WEST PERTH,6005,195.9,195.90,Coles Express
 FDWA Cunderdin,67 Lundy Ave,CUNDERDIN,6407,196.0,196.00,Independent
 Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,196.7,196.70,Better Choice
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,196.7,196.70,Independent
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,196.7,196.70,Better Choice
 Vibe Witchcliffe,10428 Bussell Hwy,WITCHCLIFFE,6286,196.7,196.70,Vibe
 BP Augusta,64 Blackwood Ave,AUGUSTA,6290,196.9,196.90,BP
@@ -325,7 +323,6 @@ Dunning's KCD Fuels,520 Robinson St,KINGSFORD,6701,197.9,197.90,Independent
 Dunning's Carnarvon,125 Robinson St,MORGANTOWN,6701,197.9,197.90,Shell
 Walpole IGA Pioneer Store,10 Nockolds St,WALPOLE,6398,198.0,198.00,Ampol
 One Stop Roadhouse Donnybrook,51 South Western Hwy,DONNYBROOK,6239,198.5,198.50,Independent
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,198.9,198.90,Independent
 Vasse General Store,28 Northerly St,VASSE,6280,199.7,199.70,Gull
 BP Carnarvon,1134 North West Coastal Hwy,BROWN RANGE,6701,199.9,199.90,BP
 Chadwick (Esperance) Diesel Stop,16 Flinders Cct,CHADWICK,6450,199.9,199.90,Ampol
@@ -367,7 +364,6 @@ Yarrumba Service Station,21 Jose St,MULLEWA,6630,203.9,203.90,Liberty
 Coles Express Scarborough,205 West Coast Hwy,SCARBOROUGH,6019,203.9,203.90,Coles Express
 Liberty Karratha,2 Cockatoo St,NICKOL,6714,205.9,205.90,Liberty
 BP West Kalgoorlie,11 Wilurarra Rd,WEST KALGOORLIE,6430,205.9,205.90,BP
-Gracie's General,2 Bayview Dr,GRACETOWN,6284,207.0,207.00,Independent
 Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,208.0,208.00,Ampol
 Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,208.8,208.80,Puma
 Coles Express Bentley,1128 Albany Hwy,BENTLEY,6102,209.9,209.90,Coles Express
@@ -416,7 +412,6 @@ United Broome,49 Reid Rd,CABLE BEACH,6726,229.9,229.90,United
 Dunning's Broome,7 Clementson St,BROOME,6725,231.9,231.90,Shell
 BP Broome Depot (Recharge Petroleum),276 Port Dr,MINYIRR,6725,231.9,231.90,BP
 Fitzroy River Lodge,Lot 277 Great Northern Hwy,FITZROY CROSSING,6765,235.0,235.00,Independent
-BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,235.5,240.00,BP
 Coles Express Broome,19 Napier Tce,BROOME,6725,235.9,235.90,Coles Express
 Shinju BP,101 Guy St,BROOME,6725,235.9,235.90,BP
 BP Broome Central Service Centre,2 Coghlan St,DJUGUN,6725,235.9,235.90,BP
@@ -427,10 +422,15 @@ BP Munglinup,16 Tubada St,MUNGLINUP,6450,250.0,250.00,BP
 Preston Beach General Store,52 Mitchell Rd,PRESTON BEACH,6215,250.0,250.00,Gull
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,240.00,BP
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
+Gracie's General,2 Bayview Dr,GRACETOWN,6284,,207.00,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,196.70,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,198.90,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
 The Canal Shop,16 South Yunderup Rd,SOUTH YUNDERUP,6208,,,Independent
 Ampol Kalgoorlie - Service Station,2 Cunningham Rd,WEST KALGOORLIE,6430,,,Ampol
 Puma Kalgoorlie Fuel Point,9 Kayili Rd,WEST KALGOORLIE,6430,,,Puma
+Smiths Shell Service,86 Avon Tce,YORK,6302,,189.70,Shell

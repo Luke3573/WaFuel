@@ -551,7 +551,6 @@ EG Ampol Geraldton,59 Cathedral Ave,GERALDTON,6530,181.9,182.9,EG Ampol
 BP Narrogin,37 Federal St,NARROGIN,6312,181.9,181.9,BP
 Smart Mart Pure Convenience - Flores Rd,280 Fourth St,WONTHELLA,6530,181.9,181.9,BP
 Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,182.7,182.7,Better Choice
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,182.7,182.7,Independent
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,182.7,182.7,Better Choice
 Vibe Witchcliffe,10428 Bussell Hwy,WITCHCLIFFE,6286,182.7,182.7,Vibe
 Colroy Country Kitchen,93 Capel Dr,CAPEL,6271,182.9,182.9,Ampol
@@ -622,7 +621,6 @@ Manypeaks Store,43738 South Coast Hwy,MANYPEAKS,6328,189.0,191.0,BP
 Geographe IGA,328 Marine Tce,GEOGRAPHE,6280,189.5,189.5,Liberty
 Crudeli's Auto Repairs,24 Maitland Rd,MULLEWA,6630,189.5,189.5,BP
 Gull York Roadhouse,63 Avon Tce,YORK,6302,189.7,189.7,Gull
-Smiths Shell Service,86 Avon Tce,YORK,6302,189.7,189.7,Shell
 Refuel Australia - DMW Supplies,39 Moreton Tce,DONGARA,6525,189.8,189.8,Ampol
 Ampol Collie,124 Throssell St,COLLIE,6225,189.9,189.9,Ampol
 CGL Fuel,3 Bandicoot Dr,KUNUNURRA,6743,189.9,189.9,CGL Fuel
@@ -631,7 +629,6 @@ S24 Kununurra,5 Messmate Way,KUNUNURRA,6743,189.9,189.9,Caltex
 Serpentine Falls Roadhouse,2 Falls Rd,SERPENTINE,6125,189.9,189.9,Independent
 BP Walpole,18 Nockolds St,WALPOLE,6398,189.9,189.9,BP
 S-Bend Caravan Park,27 Company Rd,SOUTH GREENOUGH,6528,191.0,191.0,Liberty
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,191.5,191.5,Independent
 Northcliffe Newsagent & General Store,17 Zamia St,NORTHCLIFFE,6262,191.9,191.9,Independent
 Cheynes Beach Caravan Park,12 Bald Island Rd,CHEYNES,6328,193.7,193.7,Independent
 Yarrumba Service Station,21 Jose St,MULLEWA,6630,194.8,194.8,Liberty
@@ -649,7 +646,6 @@ Caltex Kalgoorlie,77 Egan St,KALGOORLIE,6430,198.9,198.9,Caltex
 Caltex Piccadilly,7 Maritana St,PICCADILLY,6430,198.9,198.9,Caltex
 Ampol Foodary Kalgoorlie,581 Hannan St,SOMERVILLE,6430,198.9,198.9,Ampol
 Ampol Foodary Kalgoorlie South,146 Boulder Rd,SOUTH KALGOORLIE,6430,198.9,198.9,Ampol
-Gracie's General,2 Bayview Dr,GRACETOWN,6284,199.0,199.0,Independent
 Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,199.0,199.0,Ampol
 Vibe Coolgardie,1 Bayley St,COOLGARDIE,6429,199.7,199.7,Vibe
 Coles Express Boulder,35 Frank St,BOULDER,6432,199.9,199.9,Coles Express
@@ -703,14 +699,18 @@ EG Ampol Djugun,106 Frederick St,DJUGUN,6725,235.9,235.9,EG Ampol
 Preston Beach General Store,52 Mitchell Rd,PRESTON BEACH,6215,236.0,236.0,Gull
 Coles Express Fitzroy Crossing Roadhouse,87 Great Northern Hwy,FITZROY CROSSING,6765,236.9,236.9,Coles Express
 Fitzroy River Lodge,Lot 277 Great Northern Hwy,FITZROY CROSSING,6765,237.0,237.0,Independent
-BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,237.9,237.9,BP
 Derby Fuels,46 Clarendon St,DERBY,6728,245.5,245.5,Shell
 BP Colac,138 Loch St,DERBY,6728,245.9,245.9,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+BP Roadhouse Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,,237.9,BP
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
+Gracie's General,2 Bayview Dr,GRACETOWN,6284,,199.0,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,182.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,191.5,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
 Caltex Upper Swan,1383 Great Northern Hwy,UPPER SWAN,6069,,,Caltex
 Ampol Kalgoorlie - Service Station,2 Cunningham Rd,WEST KALGOORLIE,6430,,,Ampol
+Smiths Shell Service,86 Avon Tce,YORK,6302,,189.7,Shell
