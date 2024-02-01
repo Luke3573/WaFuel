@@ -195,7 +195,6 @@ Phoenix Barlee St,31 Barlee St,BUSSELTON,6280,194.0,194.0,Independent
 Chidlow Growers Mart Liquor Store,570 Rosedale Rd,CHIDLOW,6556,194.0,194.0,Independent
 Moonyoonooka Store,753 Geraldton-Mt Magnet Rd,MOONYOONOOKA,6532,194.0,202.0,Ampol
 Route 94 Bakers Hill,4641 Great Eastern Hwy,BAKERS HILL,6562,194.3,194.3,United
-Smiths Shell Service,86 Avon Tce,YORK,6302,194.7,194.7,Shell
 Refuel Australia - Deepdale Meru,256 Deepdale Rd,MERU,6530,194.8,194.8,Ampol
 Refuel Australia - Geraldton Flores Road,120 Flores Rd,WEBBERTON,6530,194.8,194.8,Ampol
 Refuel Australia - Geraldton Willcock Drive,Cnr John Willcock Link & Portway,WEST END,6530,194.8,194.8,Ampol
@@ -294,7 +293,6 @@ Ampol Collie,124 Throssell St,COLLIE,6225,198.9,199.9,Ampol
 Puma Dalwallinu,4 Johnston St,DALWALLINU,6609,198.9,198.9,Puma
 Coles Express Jolimont,6 Jersey St,JOLIMONT,6014,198.9,198.9,Coles Express
 Dunning's Thompsons Garage,127 Giblett St,MANJIMUP,6258,198.9,198.9,Shell
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,198.9,198.9,Independent
 BP Pemberton Garage & Service Station,84 Brockman St,PEMBERTON,6260,198.9,198.9,BP
 Coles Express Wembley,337 Cambridge St,WEMBLEY,6014,198.9,198.9,Coles Express
 Coles Express West Perth,30 Thomas St,WEST PERTH,6005,198.9,198.9,Coles Express
@@ -302,7 +300,6 @@ FDWA Cunderdin,67 Lundy Ave,CUNDERDIN,6407,199.0,202.0,Independent
 Puma Belmont,33 Belvidere St,BELMONT,6104,199.7,199.7,Puma
 Puma Carnarvon OPT,59 Hudson St,GREYS PLAIN,6701,199.7,199.7,Puma
 Vibe Harvey,46 South Western Hwy,HARVEY,6220,199.7,199.7,Vibe
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,199.7,199.7,Independent
 Puma Pearsall,204 Shiraz Bvd,PEARSALL,6065,199.7,199.7,Puma
 Vasse General Store,28 Northerly St,VASSE,6280,199.7,199.7,Gull
 NightOwl Shell Kalamunda,7 Mead St,KALAMUNDA,6926,199.8,199.8,Shell
@@ -368,7 +365,6 @@ BP West Kalgoorlie,11 Wilurarra Rd,WEST KALGOORLIE,6430,205.9,205.9,BP
 Coles Express Willetton,239-247 High Rd,WILLETTON,6155,205.9,205.9,Coles Express
 Coles Express Lakelands,49 Banksiadale Gte,LAKELANDS,6210,206.9,206.9,Coles Express
 Ampol Foodary Lakelands,Lot 50 Mandurah Rd,MEADOW SPRINGS,6210,206.9,206.9,Ampol
-Gracie's General,2 Bayview Dr,GRACETOWN,6284,207.0,207.0,Independent
 Liberty Karratha,2 Cockatoo St,NICKOL,6714,207.9,207.9,Liberty
 Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,208.8,208.8,Puma
 Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,209.0,212.0,Ampol
@@ -427,9 +423,13 @@ Coles Express Casuarina (WA),1 Johnson Rd,BERTRAM,6167,,,Coles Express
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Ampol Fitzroy Crossing Diesel Stop,53 Emanuel Way,FITZROY CROSSING,6765,,,Ampol
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
+Gracie's General,2 Bayview Dr,GRACETOWN,6284,,207.0,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,199.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,198.9,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
 Puma South Hedland,1 Altitude Ave,PORT HEDLAND,6721,,,Puma
 United Vasse,210 Northerly St,VASSE,6280,,,United
 Ampol Kalgoorlie - Service Station,2 Cunningham Rd,WEST KALGOORLIE,6430,,,Ampol
+Smiths Shell Service,86 Avon Tce,YORK,6302,,194.7,Shell
