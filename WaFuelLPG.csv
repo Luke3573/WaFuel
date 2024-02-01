@@ -42,7 +42,6 @@ Ampol Foodary Erskine,112 Oakleigh Dr,ERSKINE,6210,135.9,135.9,Ampol
 Ampol Foodary Forrestdale,63 Alex Wood Dr,FORRESTDALE,6112,135.9,135.9,Ampol
 Ampol Foodary North Yunderup,868 Pinjarra Rd,FURNISSDALE,6209,135.9,135.9,Ampol
 Ampol Foodary Joondalup,420 Joondalup Dr,JOONDALUP,6027,135.9,135.9,Ampol
-Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,135.9,135.9,Independent
 Better Choice Malaga,3 Carson Rd,MALAGA,6090,135.9,135.9,Better Choice
 EG Ampol Mandurah,10-12 Magenta Tce,MANDURAH,6210,135.9,135.9,EG Ampol
 EG Ampol Mandurah Forum,330 Pinjarra Rd,MANDURAH,6210,135.9,135.9,EG Ampol
@@ -62,7 +61,6 @@ Ampol Foodary Bunbury,1 Forrest Ave,BUNBURY,6230,139.9,139.9,Ampol
 Ampol Foodary Dawesville,191 Bailey Bvd,DAWESVILLE,6211,139.9,139.9,Ampol
 Ampol Foodary Eaton,1 Pratt Rd,EATON,6232,139.9,139.9,Ampol
 Petro Fuels Karragullen,1287 Brookton Hwy,KARRAGULLEN,6111,139.9,139.9,
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,139.9,139.9,Better Choice
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,139.9,139.9,Better Choice
 Ampol Foodary Williams,56 Albany Hwy,WILLIAMS,6391,139.9,139.9,Ampol
 Ampol Foodary Busselton,115 Strelly St,BUSSELTON,6280,141.9,141.9,Ampol
@@ -78,6 +76,8 @@ BP Wubin,80-82 Great Northern Hwy,WUBIN,6612,216.7,216.7,BP
 BP Connect Ascot (WA),210 Great Eastern Hwy,ASCOT,6104,,,BP
 Vibe Beechboro,495 Beechboro Rd North,BEECHBORO,6063,,,Vibe
 BP Forrestfield,155 Hale Rd,FORRESTFIELD,6058,,,BP
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,139.9,Better Choice
+Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,135.9,Independent
 Ampol Foodary Leederville,319 Vincent St,LEEDERVILLE,6007,,,Ampol
 BP Crystal Brook (Lesmurdie),7 Welshpool Rd East,LESMURDIE,6076,,,BP
 Ampol Maddington Truck Stop,18 Orchard Rd,MADDINGTON,6109,,,Ampol

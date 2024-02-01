@@ -81,7 +81,6 @@ BP Cowaramup,1 Roy Earl Dr,COWARAMUP,6284,198.9,198.9,BP
 Mt Barker Fuel Services,48 Lowood Rd,MOUNT BARKER,6324,198.9,203.9,Independent
 Whalley's United Uberwash,225-227 Albany Hwy,MOUNT MELVILLE,6330,198.9,198.9,United
 Geographe Petroleum,84 Strelly St,BUSSELTON,6280,199.5,199.5,Liberty
-Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,199.7,199.7,Independent
 Gull Waterloo,14270 South Western Hwy,WATERLOO,6228,199.7,201.7,Gull
 NightOwl Shell Maddington,1 Davison St,MADDINGTON,6109,199.8,195.8,Shell
 EG Ampol Brooks Garden,162 Chester Pass Rd,LANGE,6330,199.9,199.9,EG Ampol
@@ -96,7 +95,6 @@ EG Ampol Eaton,2 Recreation Dr,EATON,6232,200.9,201.9,EG Ampol
 Coles Express Bunbury Gateway,9805 Forrest Hwy,GLEN IRIS,6230,200.9,200.9,Coles Express
 Gull Moora,65 Roberts St,MOORA,6510,200.9,201.9,Gull
 Coles Express Bunbury Outbound,9850 Forrest Hwy,VITTORIA,6230,200.9,200.9,Coles Express
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,201.5,201.5,Better Choice
 NightOwl Shell Redcliffe,443 Great Eastern Hwy,REDCLIFFE,6104,201.8,201.8,Shell
 Ampol Foodary Bunbury,1 Forrest Ave,BUNBURY,6230,201.9,201.9,Ampol
 7-Eleven Busselton,81-93 West St,BUSSELTON,6280,201.9,201.9,7 Eleven
@@ -112,7 +110,6 @@ Caltex Bunbury South,1 Brittain Rd,CAREY PARK,6230,202.9,198.9,Caltex
 7-Eleven Cockburn Central,814 North Lake Rd,COCKBURN CENTRAL,6164,202.9,192.9,7 Eleven
 Caltex Glenfield,1182 Chapman Rd,GLENFIELD,6532,202.9,206.9,Caltex
 Caltex Harvey,81 Uduc Rd,HARVEY,6220,202.9,202.9,Caltex
-Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,202.9,202.9,Puma
 7-Eleven Landsdale,8 Mullingar Way,LANDSDALE,6065,202.9,202.9,7 Eleven
 Caltex Mt Melville,317 Albany Hwy,MOUNT MELVILLE,6330,202.9,202.9,Caltex
 Caltex Myalup,6043 Forrest Hwy,MYALUP,6220,202.9,202.9,Caltex
@@ -134,7 +131,6 @@ BP Port Kennedy,46 Bakewell Dr,PORT KENNEDY,6172,204.9,204.9,BP
 Serpentine Falls Roadhouse,2 Falls Rd,SERPENTINE,6125,204.9,204.9,Independent
 EG Ampol South Lake,752 North Lake Rd,SOUTH LAKE,6164,204.9,194.9,EG Ampol
 BP Woodbridge,380 Great Eastern Hwy,WOODBRIDGE,6056,204.9,204.9,BP
-Gull York Roadhouse,63 Avon Tce,YORK,6302,205.7,204.7,Gull
 NightOwl Shell Bellevue,49 Great Eastern Hwy,BELLEVUE,6056,205.8,199.8,Shell
 NightOwl Shell Kalamunda,7 Mead St,KALAMUNDA,6926,205.8,201.8,Shell
 NightOwl Shell Highgate,3 Guildford Rd,MOUNT LAWLEY,6050,205.8,201.8,Shell
@@ -472,7 +468,11 @@ Ampol Foodary Broome,50 Mavis Rd,BILINGURR,6725,253.9,253.9,Ampol
 EG Ampol Djugun,106 Frederick St,DJUGUN,6725,254.9,254.9,EG Ampol
 BP Colac,138 Loch St,DERBY,6728,255.9,255.9,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,,202.9,Puma
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,201.5,Better Choice
+Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,199.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Caltex Upper Swan,1383 Great Northern Hwy,UPPER SWAN,6069,,,Caltex
 United Vasse,210 Northerly St,VASSE,6280,,,United
 Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,,,Ampol
+Gull York Roadhouse,63 Avon Tce,YORK,6302,,204.7,Gull
