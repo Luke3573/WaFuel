@@ -125,7 +125,6 @@ Caltex Tammin,15323 Great Eastern Hwy,TAMMIN,6409,206.9,206.9,Caltex
 Vibe Treendale,157 Grand Ent,AUSTRALIND,6233,207.5,211.5,Vibe
 Vibe Wanneroo,964 Wanneroo Rd,WANNEROO,6065,207.5,203.5,Vibe
 Vibe Bunbury,42 Strickland St,BUNBURY,6230,207.7,207.7,Vibe
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,207.7,207.7,Independent
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,207.7,210.9,Better Choice
 Vibe Witchcliffe,10428 Bussell Hwy,WITCHCLIFFE,6286,207.7,207.7,Vibe
 Metro Jurien Bay,74 Bashford St,JURIEN BAY,6516,207.9,207.9,Metro
@@ -189,7 +188,6 @@ Caltex Karragullen,164 Brookton Hwy,KARRAGULLEN,6111,210.9,210.9,Caltex
 Geographe Petroleum Margaret River,12 Auger Way,MARGARET RIVER,6285,210.9,210.9,Liberty
 Caltex Mt Melville,317 Albany Hwy,MOUNT MELVILLE,6330,210.9,210.9,Caltex
 Caltex Myalup,6043 Forrest Hwy,MYALUP,6220,210.9,210.9,Caltex
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,210.9,210.9,Independent
 BP Redcliffe,419 Great Eastern Hwy,REDCLIFFE,6104,210.9,209.9,BP
 OTR Roleystone,770 Brookton Hwy,ROLEYSTONE,6111,210.9,210.9,Caltex
 Caltex Stratham,1540 Bussell Hwy,STRATHAM,6237,210.9,206.9,Caltex
@@ -310,7 +308,6 @@ Harbour Rd Truckstop,213 Harbour Rd,CHADWICK,6450,221.9,223.9,BP
 BP Forrestfield,155 Hale Rd,FORRESTFIELD,6058,221.9,213.9,BP
 BP Crystal Brook (Lesmurdie),7 Welshpool Rd East,LESMURDIE,6076,221.9,213.9,BP
 OTR Como,73 Manning Rd,MANNING,6152,221.9,213.9,BP
-Smiths Shell Service,86 Avon Tce,YORK,6302,221.9,221.9,Shell
 EG Ampol Alkimos,11 Shorehaven Bvd,ALKIMOS,6038,222.9,216.9,EG Ampol
 BP Connect Ascot (WA),210 Great Eastern Hwy,ASCOT,6104,222.9,207.9,BP
 United Boulder Kalgoorlie,26 Davis St,BOULDER,6432,222.9,222.9,United
@@ -625,5 +622,8 @@ BP Broome Central Service Centre,2 Coghlan St,DJUGUN,6725,255.9,255.9,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,207.7,Independent
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,210.9,Independent
 United Vasse,210 Northerly St,VASSE,6280,,,United
 Ampol Kalgoorlie - Service Station,2 Cunningham Rd,WEST KALGOORLIE,6430,,,Ampol
+Smiths Shell Service,86 Avon Tce,YORK,6302,,221.9,Shell
