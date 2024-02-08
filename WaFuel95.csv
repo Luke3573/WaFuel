@@ -109,7 +109,6 @@ Ampol Foodary South Lake,2 Omeo St,SOUTH LAKE,6164,203.9,192.9,Ampol
 Ampol Foodary Yanchep,1 Morwell St,YANCHEP,6035,203.9,202.9,Ampol
 Vibe Treendale,157 Grand Ent,AUSTRALIND,6233,204.5,204.5,Vibe
 United Mount Barker Roadhouse,31763 Albany Hwy,MOUNT BARKER,6324,204.7,204.7,United
-Gull York Roadhouse,63 Avon Tce,YORK,6302,204.7,204.7,Gull
 Ampol Foodary Albany York St,271 York St,ALBANY,6330,204.9,204.9,Ampol
 EG Ampol Australind,Cnr Grand Ent & The Promenade,AUSTRALIND,6233,204.9,204.9,EG Ampol
 BP Ballajura,2 Illawarra Cres North,BALLAJURA,6066,204.9,204.9,BP
@@ -129,7 +128,6 @@ Metro Jurien Bay,74 Bashford St,JURIEN BAY,6516,205.9,205.9,Metro
 United Perth Airport,Airport Dr (Cnr Paltridge Rd),PERTH AIRPORT,6105,206.5,192.9,United
 Cheynes Beach Caravan Park,12 Bald Island Rd,CHEYNES,6328,206.7,206.7,Independent
 Fruit Barn,7 South Western Hwy,DONNYBROOK,6239,206.7,206.7,Liberty
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,206.7,206.7,Better Choice
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,206.7,206.7,Better Choice
 Caltex Busselton,99 Causeway Rd,BUSSELTON,6280,206.9,206.9,Caltex
 EG Ampol Geraldton,59 Cathedral Ave,GERALDTON,6530,206.9,206.9,EG Ampol
@@ -147,7 +145,6 @@ Ampol Foodary Busselton,115 Strelly St,BUSSELTON,6280,208.9,208.9,Ampol
 EG Ampol Manjimup,89 Mottram St,MANJIMUP,6258,208.9,208.9,EG Ampol
 Better Choice Bellevue,177-179 Great Eastern Hwy,BELLEVUE,6056,209.5,203.5,Better Choice
 Geographe IGA,328 Marine Tce,GEOGRAPHE,6280,209.5,209.5,Liberty
-Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,209.7,199.7,Independent
 NightOwl Shell Bellevue,49 Great Eastern Hwy,BELLEVUE,6056,209.8,199.8,Shell
 EG Ampol Joondalup Winton Road,189 Winton Rd,JOONDALUP,6027,209.9,196.9,EG Ampol
 Ampol Foodary Mt Lawley,810 Beaufort St,MOUNT LAWLEY,6050,209.9,200.9,Ampol
@@ -241,7 +238,6 @@ Ampol Foodary Riverton,270 High Rd,RIVERTON,6148,216.9,204.9,Ampol
 Ampol Foodary Kalgoorlie,581 Hannan St,SOMERVILLE,6430,216.9,216.9,Ampol
 EG Ampol Warnbro,202 Warnbro Sound Ave,WARNBRO,6169,216.9,204.9,EG Ampol
 Better Choice Como,25 Preston St,COMO,6152,217.5,207.5,Better Choice
-Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,217.9,210.9,Puma
 Ampol Foodary Nedlands,7 Broadway,NEDLANDS,6009,217.9,206.9,Ampol
 Ampol Foodary Thornlie,219 Yale Rd,THORNLIE,6108,217.9,200.9,Ampol
 Ampol Willetton,169 High Rd,WILLETTON,6155,217.9,205.9,Ampol
@@ -472,7 +468,11 @@ EG Ampol Djugun,106 Frederick St,DJUGUN,6725,256.9,256.9,EG Ampol
 BP Colac,138 Loch St,DERBY,6728,257.9,257.9,BP
 Petro Fuels Albany,250 Albany Hwy,CENTENNIAL PARK,6330,,,
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,,210.9,Puma
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,206.7,Better Choice
+Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,199.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Caltex Upper Swan,1383 Great Northern Hwy,UPPER SWAN,6069,,,Caltex
 United Vasse,210 Northerly St,VASSE,6280,,,United
 Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,,,Ampol
+Gull York Roadhouse,63 Avon Tce,YORK,6302,,204.7,Gull
