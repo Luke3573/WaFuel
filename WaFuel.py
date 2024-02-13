@@ -65,7 +65,7 @@ def ULP():
     sauce = urllib.request.urlopen(req).read()
 
     soup=BeautifulSoup(sauce,'html.parser')
-
+#    print(soup)
     pattern=re.compile(r'sitename[\.,|" ]',re.IGNORECASE)#'Risk', 'risk.', 'risk'  but NOT 'risky'
     no_of_words=2
 
@@ -186,7 +186,11 @@ def ULP():
     wordwaf = 'WAF'
     wordxcv = 'XCV'
     wordbur = 'BUR'
+    wordpfl = 'PFL'
     wordphx = 'PHX'
+    wordotr = 'OTR'
+    wordast = 'AST'
+
     for elem in soup(text=pattern2):
         str=elem.parent.text
         str=str.replace(':', "")
@@ -207,6 +211,14 @@ def ULP():
             data=data.replace('_', " ")
             if word711 in data:
                 data = '7 Eleven'
+                worksheet.write_string(row, col6, data)
+                row += 1
+            elif wordotr in data:
+                data = 'OTR'
+                worksheet.write_string(row, col6, data)
+                row += 1
+            elif wordast in data:
+                data = 'Astron'
                 worksheet.write_string(row, col6, data)
                 row += 1
             elif wordbur in data:
@@ -299,6 +311,10 @@ def ULP():
                 row += 1
             elif wordwaf in data:
                 data = 'WA Fuel'
+                worksheet.write_string(row, col6, data)
+                row += 1
+            elif wordpfl in data:
+                data = 'Petro'
                 worksheet.write_string(row, col6, data)
                 row += 1
             elif wordxcv in data:
@@ -534,7 +550,10 @@ def PUP():
     wordwaf = 'WAF'
     wordxcv = 'XCV'
     wordbur = 'BUR'
+    wordpfl = 'PFL'
     wordphx = 'PHX'
+    wordotr = 'OTR'
+    wordast = 'AST'
     for elem in soup(text=pattern2):
         str=elem.parent.text
         str=str.replace(':', "")
@@ -555,6 +574,14 @@ def PUP():
             data=data.replace('_', " ")
             if word711 in data:
                 data = '7 Eleven'
+                worksheet.write_string(row, col6, data)
+                row += 1
+            elif wordotr in data:
+                data = 'OTR'
+                worksheet.write_string(row, col6, data)
+                row += 1
+            elif wordast in data:
+                data = 'Astron'
                 worksheet.write_string(row, col6, data)
                 row += 1
             elif wordbur in data:
@@ -649,12 +676,17 @@ def PUP():
                 data = 'WA Fuel'
                 worksheet.write_string(row, col6, data)
                 row += 1
+            elif wordpfl in data:
+                data = 'Petro'
+                worksheet.write_string(row, col6, data)
+                row += 1
             elif wordxcv in data:
                 data = 'X Convenience'
                 worksheet.write_string(row, col6, data)
                 row += 1
             else:
                 row += 1
+                
     pattern2=re.compile(r'shortname[\.,|" ]',re.IGNORECASE)#'Risk', 'risk.', 'risk'  but NOT 'risky'
     pattern9=re.compile(r'pricetoday[\.,|" ]',re.IGNORECASE)#'Risk', 'risk.', 'risk'  but NOT 'risky'
     no_of_words2=2
@@ -882,7 +914,11 @@ def PRE():
     wordwaf = 'WAF'
     wordxcv = 'XCV'
     wordbur = 'BUR'
+    wordpfl = 'PFL'
     wordphx = 'PHX'
+    wordotr = 'OTR'
+    wordast = 'AST'
+    
     for elem in soup(text=pattern2):
         str=elem.parent.text
         str=str.replace(':', "")
@@ -903,6 +939,14 @@ def PRE():
             data=data.replace('_', " ")
             if word711 in data:
                 data = '7 Eleven'
+                worksheet.write_string(row, col6, data)
+                row += 1
+            elif wordotr in data:
+                data = 'OTR'
+                worksheet.write_string(row, col6, data)
+                row += 1
+            elif wordast in data:
+                data = 'Astron'
                 worksheet.write_string(row, col6, data)
                 row += 1
             elif wordbur in data:
@@ -997,12 +1041,17 @@ def PRE():
                 data = 'WA Fuel'
                 worksheet.write_string(row, col6, data)
                 row += 1
+            elif wordpfl in data:
+                data = 'Petro'
+                worksheet.write_string(row, col6, data)
+                row += 1
             elif wordxcv in data:
                 data = 'X Convenience'
                 worksheet.write_string(row, col6, data)
                 row += 1
             else:
                 row += 1
+                
     pattern2=re.compile(r'shortname[\.,|" ]',re.IGNORECASE)#'Risk', 'risk.', 'risk'  but NOT 'risky'
     pattern9=re.compile(r'pricetoday[\.,|" ]',re.IGNORECASE)#'Risk', 'risk.', 'risk'  but NOT 'risky'
     no_of_words2=2
@@ -1230,7 +1279,11 @@ def DSL():
     wordwaf = 'WAF'
     wordxcv = 'XCV'
     wordbur = 'BUR'
+    wordpfl = 'PFL'
     wordphx = 'PHX'
+    wordotr = 'OTR'
+    wordast = 'AST'
+    
     for elem in soup(text=pattern2):
         str=elem.parent.text
         str=str.replace(':', "")
@@ -1251,6 +1304,14 @@ def DSL():
             data=data.replace('_', " ")
             if word711 in data:
                 data = '7 Eleven'
+                worksheet.write_string(row, col6, data)
+                row += 1
+            elif wordotr in data:
+                data = 'OTR'
+                worksheet.write_string(row, col6, data)
+                row += 1
+            elif wordast in data:
+                data = 'Astron'
                 worksheet.write_string(row, col6, data)
                 row += 1
             elif wordbur in data:
@@ -1345,12 +1406,17 @@ def DSL():
                 data = 'WA Fuel'
                 worksheet.write_string(row, col6, data)
                 row += 1
+            elif wordpfl in data:
+                data = 'Petro'
+                worksheet.write_string(row, col6, data)
+                row += 1
             elif wordxcv in data:
                 data = 'X Convenience'
                 worksheet.write_string(row, col6, data)
                 row += 1
             else:
                 row += 1
+                
     pattern2=re.compile(r'shortname[\.,|" ]',re.IGNORECASE)#'Risk', 'risk.', 'risk'  but NOT 'risky'
     pattern9=re.compile(r'pricetoday[\.,|" ]',re.IGNORECASE)#'Risk', 'risk.', 'risk'  but NOT 'risky'
     no_of_words2=2
@@ -1578,7 +1644,11 @@ def LPG():
     wordwaf = 'WAF'
     wordxcv = 'XCV'
     wordbur = 'BUR'
+    wordpfl = 'PFL'
     wordphx = 'PHX'
+    wordotr = 'OTR'
+    wordast = 'AST'
+    
     for elem in soup(text=pattern2):
         str=elem.parent.text
         str=str.replace(':', "")
@@ -1599,6 +1669,14 @@ def LPG():
             data=data.replace('_', " ")
             if word711 in data:
                 data = '7 Eleven'
+                worksheet.write_string(row, col6, data)
+                row += 1
+            elif wordotr in data:
+                data = 'OTR'
+                worksheet.write_string(row, col6, data)
+                row += 1
+            elif wordast in data:
+                data = 'Astron'
                 worksheet.write_string(row, col6, data)
                 row += 1
             elif wordbur in data:
@@ -1693,12 +1771,17 @@ def LPG():
                 data = 'WA Fuel'
                 worksheet.write_string(row, col6, data)
                 row += 1
+            elif wordpfl in data:
+                data = 'Petro'
+                worksheet.write_string(row, col6, data)
+                row += 1
             elif wordxcv in data:
                 data = 'X Convenience'
                 worksheet.write_string(row, col6, data)
                 row += 1
             else:
                 row += 1
+                
     pattern2=re.compile(r'shortname[\.,|" ]',re.IGNORECASE)#'Risk', 'risk.', 'risk'  but NOT 'risky'
     pattern9=re.compile(r'pricetoday[\.,|" ]',re.IGNORECASE)#'Risk', 'risk.', 'risk'  but NOT 'risky'
     no_of_words2=2
