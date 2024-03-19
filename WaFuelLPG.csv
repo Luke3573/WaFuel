@@ -1,14 +1,10 @@
 Name,Location,Suberb,PostCode,Price Today,Price Tomorrow,Brand
-Liberty Beckenham,63 William St,BECKENHAM,6107,115.9,115.9,Liberty
-BP Forrestfield,155 Hale Rd,FORRESTFIELD,6058,121.9,123.9,BP
+BP Forrestfield,155 Hale Rd,FORRESTFIELD,6058,123.9,123.9,BP
 BP Attadale,530 Canning Hwy,ATTADALE,6156,128.9,128.9,BP
 BP Morley,335 Walter Rd West,MORLEY,6062,128.9,128.9,BP
-Vibe Placid Ark Roadhouse,6947 South Western Hwy,COOLUP,6214,129.7,129.7,Vibe
 United Ellenbrook,3 Locke Lane,ELLENBROOK,6069,129.7,129.7,United
 United Hamilton Hill,9 Winterfold Rd,HAMILTON HILL,6163,129.7,129.7,United
 United Lexia,779 Gnangara Rd,LEXIA,6065,129.7,129.7,United
-United Myaree,182 Leach Hwy,MYAREE,6154,129.7,129.7,United
-United Osborne Park,479 Scarborough Beach Rd,OSBORNE PARK,6017,129.7,129.7,United
 United Perth Airport,Airport Dr (Cnr Paltridge Rd),PERTH AIRPORT,6105,129.7,129.7,United
 Caltex Burswood,265 Great Eastern Hwy,BURSWOOD,6100,129.9,129.9,Caltex
 BP Beeliar,701 Beeliar Dr,COCKBURN CENTRAL,6164,129.9,129.9,BP
@@ -18,13 +14,11 @@ BP Kelmscott,2907 Albany Hwy,KELMSCOTT,6111,129.9,129.9,BP
 Caltex Kiara,157 Morley Dr,KIARA,6054,129.9,129.9,Caltex
 BP Langford,230-234 Nicholson Rd,LANGFORD,6147,129.9,129.9,BP
 Ampol Foodary O'Connor,309 Stock Rd,O'CONNOR,6163,129.9,129.9,Ampol
-BP Redcliffe,419 Great Eastern Hwy,REDCLIFFE,6104,129.9,131.9,BP
 Ampol Foodary South Lake,2 Omeo St,SOUTH LAKE,6164,129.9,129.9,Ampol
 EG Ampol South Lake,752 North Lake Rd,SOUTH LAKE,6164,129.9,129.9,EG Ampol
-United East Victoria Park,916 Albany Hwy,EAST VICTORIA PARK,6101,132.9,132.9,United
+BP Redcliffe,419 Great Eastern Hwy,REDCLIFFE,6104,131.9,131.9,BP
 United Kewdale,410-412 Orrong Rd,KEWDALE,6105,132.9,132.9,United
 United Northbridge,31 Fitzgerald St,NORTHBRIDGE,6003,132.9,132.9,United
-United Leda,2 Feilman Dr,LEDA,6170,133.9,133.9,United
 EG Ampol Southern River,466 Warton Rd,SOUTHERN RIVER,6110,133.9,133.9,EG Ampol
 Better Choice Bellevue,177-179 Great Eastern Hwy,BELLEVUE,6056,134.5,134.5,Better Choice
 Better Choice Naval Base,Cnr Rockingham Rd & Lee Rd,NAVAL BASE,6165,134.5,134.5,Better Choice
@@ -61,22 +55,28 @@ Ampol Foodary North Road,204 North Rd,YAKAMIA,6330,139.9,139.9,Ampol
 Ampol Foodary Busselton,115 Strelly St,BUSSELTON,6280,141.9,141.9,Ampol
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,141.9,141.9,Better Choice
 Ampol Foodary Albany York St,271 York St,ALBANY,6330,147.9,147.9,Ampol
-Ampol Collie,124 Throssell St,COLLIE,6225,147.9,147.9,Ampol
 Ampol Foodary Esperance,59 Dempster St,ESPERANCE,6450,157.9,157.9,Ampol
 Ampol Foodary Carnarvon,595 Robinson St,KINGSFORD,6701,159.9,159.9,Ampol
-EG Ampol Karratha,Lot 1437 Warambie Rd,KARRATHA,6714,174.9,174.9,EG Ampol
 BP Wubin,80-82 Great Northern Hwy,WUBIN,6612,216.7,216.7,BP
 BP Connect Ascot (WA),210 Great Eastern Hwy,ASCOT,6104,,,BP
+Liberty Beckenham,63 William St,BECKENHAM,6107,,,Liberty
 Vibe Beechboro,495 Beechboro Rd North,BEECHBORO,6063,,,Vibe
+Ampol Collie,124 Throssell St,COLLIE,6225,,147.9,Ampol
+Vibe Placid Ark Roadhouse,6947 South Western Hwy,COOLUP,6214,,129.7,Vibe
+United East Victoria Park,916 Albany Hwy,EAST VICTORIA PARK,6101,,132.9,United
+EG Ampol Karratha,Lot 1437 Warambie Rd,KARRATHA,6714,,174.9,EG Ampol
 Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,141.9,Better Choice
 Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,135.9,Independent
+United Leda,2 Feilman Dr,LEDA,6170,,133.9,United
 Ampol Foodary Leederville,319 Vincent St,LEEDERVILLE,6007,,,Ampol
 BP Crystal Brook (Lesmurdie),7 Welshpool Rd East,LESMURDIE,6076,,,BP
 Ampol Maddington Truck Stop,18 Orchard Rd,MADDINGTON,6109,,,Ampol
 Better Choice Malaga,3 Carson Rd,MALAGA,6090,,135.9,Better Choice
 Puma Manjimup Roadhouse,1182 South Western Hwy,MANJIMUP,6258,,,Puma
 United Mt Lawley,791 Beaufort St,MOUNT LAWLEY,6050,,,United
+United Myaree,182 Leach Hwy,MYAREE,6154,,129.7,United
 Narrogin Gasworx,22 Fairway St,NARROGIN,6312,,172.0,Independent
+United Osborne Park,479 Scarborough Beach Rd,OSBORNE PARK,6017,,129.7,United
 United Hepburn Heights,4 Walter Padbury Bvd,PADBURY,6025,,,United
 Astron Roleystone,11 Wygonda Rd,ROLEYSTONE,6111,,145.9,Astron
 United South Lake,49 Berrigan Dr,SOUTH LAKE,6164,,129.7,United
