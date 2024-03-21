@@ -35,7 +35,6 @@ United Vasse,210 Northerly St,VASSE,6280,175.9,,United
 Vibe Welshpool,124 Welshpool Rd,WELSHPOOL,6106,175.9,,Vibe
 OTR Perth Pier Street,17 Brisbane St,PERTH,6000,176.7,,OTR
 Ampol Foodary Altone Road,159 Altone Rd,BEECHBORO,6063,176.9,,Ampol
-Atlas Fuel Midvale,227 Morrison Rd,MIDVALE,6056,176.9,,Atlas
 Ampol Foodary Morley,296 Benara Rd,MORLEY,6062,176.9,,Ampol
 Shell High Wycombe,1100 Abernethy Rd,HIGH WYCOMBE,6057,177.5,,Shell
 Vibe Canning Vale,6 Birnam Rd,CANNING VALE,6155,177.7,,Vibe
@@ -50,8 +49,8 @@ United Perth Airport,Airport Dr (Cnr Paltridge Rd),PERTH AIRPORT,6105,177.9,,Uni
 Ampol Foodary Dawesville,191 Bailey Bvd,DAWESVILLE,6211,178.9,,Ampol
 Ampol Foodary Falcon (Miami Beach),2 Baroy St,FALCON,6210,178.9,,Ampol
 Ampol Foodary Kwinana,Cnr Mandurah Rd & Wellard Rd,KWINANA BEACH,6167,178.9,,Ampol
+Atlas Fuel Midvale,227 Morrison Rd,MIDVALE,6056,178.9,,Atlas
 Ampol Foodary Rivervale,111 Great Eastern Hwy,RIVERVALE,6103,178.9,,Ampol
-Atlas Fuel Sawyers Valley,10895 Great Eastern Hwy,SAWYERS VALLEY,6074,178.9,,Atlas
 Vibe Henderson,Lot 104 Russel Rd,HENDERSON,6166,179.1,,Vibe
 Vibe Kwinana,4 Ocean St,KWINANA BEACH,6167,179.3,,Vibe
 Better Choice Naval Base,Cnr Rockingham Rd & Lee Rd,NAVAL BASE,6165,179.3,,Better Choice
@@ -84,6 +83,7 @@ BP Morley,335 Walter Rd West,MORLEY,6062,179.9,,BP
 Vibe Osborne Park,7 Hutton St,OSBORNE PARK,6017,179.9,,Vibe
 NightOwl Shell Ravenswood,6 Beacham Rd,RAVENSWOOD,6208,179.9,,Shell
 NightOwl Shell Redcliffe,443 Great Eastern Hwy,REDCLIFFE,6104,179.9,,Shell
+Atlas Fuel Sawyers Valley,10895 Great Eastern Hwy,SAWYERS VALLEY,6074,179.9,,Atlas
 Caltex Stratham,1540 Bussell Hwy,STRATHAM,6237,179.9,,Caltex
 Vibe Subiaco,123 Thomas St,SUBIACO,6008,179.9,,Vibe
 Ampol Foodary Wangara,79 Buckingham Dr,WANGARA,6065,179.9,,Ampol
@@ -449,6 +449,7 @@ BP South Fremantle,229B Hampton Rd,SOUTH FREMANTLE,6162,199.9,,BP
 Ampol Foodary Kalgoorlie South,146 Boulder Rd,SOUTH KALGOORLIE,6430,199.9,,Ampol
 Coles Express South Perth,3 Canning Hwy,SOUTH PERTH,6151,199.9,,Coles Express
 7-Eleven Southern River,481 Balfour St,SOUTHERN RIVER,6110,199.9,,7 Eleven
+Coles Express Southern River,216 Lakey St,SOUTHERN RIVER,6110,199.9,,Coles Express
 EG Ampol Southern River,466 Warton Rd,SOUTHERN RIVER,6110,199.9,,EG Ampol
 7-Eleven Thornlie,125 Murdoch Rd,THORNLIE,6108,199.9,,7 Eleven
 Coles Express Upper Swan Roadhouse,1333 Great Northern Hwy,UPPER SWAN,6069,199.9,,Coles Express
@@ -714,4 +715,3 @@ Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
-Coles Express Southern River,216 Lakey St,SOUTHERN RIVER,6110,,,Coles Express
