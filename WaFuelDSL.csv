@@ -118,7 +118,6 @@ Vibe Bullsbrook,2533 Great Northern Hwy,BULLSBROOK,6084,194.5,194.50,Vibe
 Little Grove General Store,639 Frenchmans Bay Rd,LITTLE GROVE,6330,194.8,194.80,Shell
 Coles Express Armadale,269 South Western Hwy,ARMADALE,6112,194.9,194.90,Coles Express
 United Armadale,178 South Western Hwy,ARMADALE,6112,194.9,194.90,United
-Carbunup River Store,6672 Bussell Hwy,CARBUNUP RIVER,6280,194.9,194.90,Independent
 BP Narrogin,37 Federal St,NARROGIN,6312,194.9,194.90,BP
 Ampol Rous Head,Cnr North Mole Dr & Rous Head Rd,NORTH FREMANTLE,6159,194.9,194.90,Ampol
 BP Picton Wetherley Dr,24 Wetherly Dr,PICTON,6229,194.9,194.90,BP
@@ -337,7 +336,6 @@ Coles Express Albany Orana,342 Albany Hwy,ORANA,6330,203.9,203.90,Coles Express
 Ampol Foodary Forrest Highway North,Lot 602 Forrest Hwy,WEST PINJARRA,6208,203.9,203.90,Ampol
 Ampol Foodary Forrest Highway South,Lot 601 Forrest Hwy,WEST PINJARRA,6208,203.9,203.90,Ampol
 BP Jurien Bay,110 Bashford St,JURIEN BAY,6516,205.0,205.00,BP
-Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,205.0,205.00,Independent
 Puma Kalgoorlie Fuel Point,9 Kayili Rd,WEST KALGOORLIE,6430,205.7,205.70,Puma
 BP Carnarvon,1134 North West Coastal Hwy,BROWN RANGE,6701,205.9,205.90,BP
 Chadwick (Esperance) Diesel Stop,16 Flinders Cct,CHADWICK,6450,205.9,205.90,Ampol
@@ -421,6 +419,7 @@ BP Colac,138 Loch St,DERBY,6728,252.9,252.90,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 GD's Brunswick Roadhouse,94 Ommaney Rd,BRUNSWICK,6224,,194.90,Ampol
 Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,,195.00,Shell
+Carbunup River Store,6672 Bussell Hwy,CARBUNUP RIVER,6280,,194.90,Independent
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
@@ -432,6 +431,7 @@ Moonyoonooka Store,753 Geraldton-Mt Magnet Rd,MOONYOONOOKA,6532,,200.00,Ampol
 Dunning's Carnarvon,125 Robinson St,MORGANTOWN,6701,,,Shell
 Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
+Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,,205.00,Independent
 BP South Bunbury,188 Spencer St,SOUTH BUNBURY,6230,,,BP
 Gull Waterloo,14270 South Western Hwy,WATERLOO,6228,,197.70,Gull
 Smiths Shell Service,86 Avon Tce,YORK,6302,,,Shell

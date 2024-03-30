@@ -346,7 +346,6 @@ BP Rosegarden,129 Stirling Hwy,NEDLANDS,6009,204.9,204.9,BP
 BP 2go Noranda,40 Benara Rd,NORANDA,6062,204.9,204.9,BP
 Coles Express Mount Lawley,253 Walcott St,NORTH PERTH,6006,204.9,204.9,Coles Express
 Coles Express Northam,10 Beamish Ave,NORTHAM,6401,204.9,204.9,Coles Express
-EG Ampol Northam,86 Wellington St,NORTHAM,6401,204.9,200.9,EG Ampol
 Coles Express Palmyra,80 Carrington St,PALMYRA,6157,204.9,204.9,Coles Express
 Coles Express Perth,480 William St,PERTH,6000,204.9,204.9,Coles Express
 BP Piara Waters,12 Erade Dr,PIARA WATERS,6112,204.9,204.9,BP
@@ -403,7 +402,6 @@ BP 2go Burrendah,69 Pinetree Gully Rd,WILLETTON,6155,206.9,206.9,BP
 BP 2go Collins Road,121 Collins Rd,WILLETTON,6155,206.9,206.9,BP
 BP 2go Woodvale,941 Whitfords Ave,WOODVALE,6026,206.9,206.9,BP
 Metro Jurien Bay,74 Bashford St,JURIEN BAY,6516,207.9,207.9,Metro
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,208.5,208.5,Better Choice
 Mt Barker Fuel Services,48 Lowood Rd,MOUNT BARKER,6324,208.5,208.5,Independent
 BP Edgewater,2 The Gateway,EDGEWATER,6027,208.7,206.7,BP
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,208.7,208.7,Better Choice
@@ -425,12 +423,10 @@ NightOwl Shell Kalamunda,7 Mead St,KALAMUNDA,6926,209.9,205.9,Shell
 Ampol Maddington Truck Stop,18 Orchard Rd,MADDINGTON,6109,210.7,206.7,Ampol
 BP Baldivis Northbound Travel Centre,Lot 191 Paparone Rd,BALDIVIS,6171,210.9,210.9,BP
 BP Baldivis Southbound Travel Centre,Lot 192 Leary Rd,BALDIVIS,6171,210.9,210.9,BP
-Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,210.9,210.9,Puma
 Caltex Mt Melville,317 Albany Hwy,MOUNT MELVILLE,6330,210.9,210.9,Caltex
 BP The Lakes Roadhouse,13724 Great Eastern Hwy,THE LAKES,6556,210.9,210.9,BP
 Cheynes Beach Caravan Park,12 Bald Island Rd,CHEYNES,6328,211.5,211.5,Independent
 Geographe IGA,328 Marine Tce,GEOGRAPHE,6280,211.5,211.5,Liberty
-Gull York Roadhouse,63 Avon Tce,YORK,6302,211.7,211.7,Gull
 United Kellerberrin,150 Massingham St,KELLERBERRIN,6410,212.9,212.9,United
 EG Ampol Manjimup,89 Mottram St,MANJIMUP,6258,212.9,212.9,EG Ampol
 Coles Express Margaret River,78 Bussell Hwy,MARGARET RIVER,6285,212.9,212.9,Coles Express
@@ -471,11 +467,15 @@ Shinju BP,101 Guy St,BROOME,6725,262.9,262.9,BP
 BP Colac,138 Loch St,DERBY,6728,262.9,262.9,BP
 EG Ampol Djugun,106 Frederick St,DJUGUN,6725,262.9,262.9,EG Ampol
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,,210.9,Puma
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,208.5,Better Choice
 Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,,Independent
 Coles Express Kununurra Roadhouse,17 Poinciana St,KUNUNURRA,6743,,,Coles Express
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
+EG Ampol Northam,86 Wellington St,NORTHAM,6401,,200.9,EG Ampol
 Coles Express Port Hedland,Lot 2065 Wilson St,PORT HEDLAND,6721,,,Coles Express
 Ampol Foodary Riverton,270 High Rd,RIVERTON,6148,,,Ampol
 Caltex Upper Swan,1383 Great Northern Hwy,UPPER SWAN,6069,,,Caltex
 Gull Waterloo,14270 South Western Hwy,WATERLOO,6228,,205.7,Gull
 Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,,,Ampol
+Gull York Roadhouse,63 Avon Tce,YORK,6302,,211.7,Gull
