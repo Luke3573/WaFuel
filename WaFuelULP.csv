@@ -170,7 +170,6 @@ Vibe Charles St,427 Charles St,NORTH PERTH,6006,193.3,183.90,Vibe
 Better Choice Malaga,3 Carson Rd,MALAGA,6090,193.5,193.50,Better Choice
 Vibe Harvey,46 South Western Hwy,HARVEY,6220,193.7,193.70,Vibe
 Refuel Australia - Dalwallinu,2 Clinch Rd,DALWALLINU,6609,193.8,193.80,Ampol
-Little Grove General Store,639 Frenchmans Bay Rd,LITTLE GROVE,6330,193.8,195.80,Shell
 Ampol Foodary Albany York St,271 York St,ALBANY,6330,193.9,193.90,Ampol
 7-Eleven Busselton,81-93 West St,BUSSELTON,6280,193.9,193.90,7 Eleven
 Ampol Foodary Busselton,115 Strelly St,BUSSELTON,6280,193.9,193.90,Ampol
@@ -228,13 +227,11 @@ BP Roadhouse Dongara,30373 Brand Hwy,DONGARA,6525,197.9,197.90,BP
 Geographe IGA,328 Marine Tce,GEOGRAPHE,6280,197.9,197.90,Liberty
 BP Manjimup,96 Giblett St,MANJIMUP,6258,197.9,197.90,BP
 Geographe Petroleum Margaret River,12 Auger Way,MARGARET RIVER,6285,197.9,197.90,Liberty
-Bakers Food and Fuel,46458 South Coast Hwy,KING RIVER,6330,198.0,198.00,Liberty
 Refuel Australia - Sunset Geraldton,620 Chapman Rd,GLENFIELD,6532,198.8,198.80,Ampol
 Refuel Australia - Geraldton Flores Road,120 Flores Rd,WEBBERTON,6530,198.8,198.80,Ampol
 Refuel Australia - Geraldton Willcock Drive,Cnr John Willcock Link & Portway,WEST END,6530,198.8,198.80,Ampol
 Mt Barker Fuel Services,48 Lowood Rd,MOUNT BARKER,6324,198.9,198.90,Independent
 S-Bend Caravan Park,27 Company Rd,SOUTH GREENOUGH,6528,199.0,199.00,Liberty
-Vibe Coolgardie,1 Bayley St,COOLGARDIE,6429,199.7,199.70,Vibe
 Vibe Neerabup,1 Pinnacle Dr,NEERABUP,6031,199.7,189.70,Vibe
 Petro Fuels Mount Barker,25 Mitchell Rd,MOUNT BARKER,6324,199.8,199.80,BP
 BP Connect Ascot (WA),210 Great Eastern Hwy,ASCOT,6104,199.9,199.90,BP
@@ -667,6 +664,7 @@ United Byford,801-803 South Western Hwy,BYFORD,6122,,191.50,United
 Carbunup River Store,6672 Bussell Hwy,CARBUNUP RIVER,6280,,189.90,Independent
 Gull Collie,143 Throssell St,COLLIE,6225,,196.70,Gull
 Caltex Como,393 Canning Hwy,COMO,6152,,,Caltex
+Vibe Coolgardie,1 Bayley St,COOLGARDIE,6429,,199.70,Vibe
 BP Dunsborough,238 Naturaliste Tce,DUNSBOROUGH,6281,,196.90,BP
 Vibe Bunbury Strickland St,81 King Rd,EAST BUNBURY,6230,,191.70,Vibe
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
@@ -682,8 +680,10 @@ Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,196.30,Bette
 Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,196.50,Independent
 Vibe Siesta Park,367 Caves Rd,KEALY,6280,,193.50,Vibe
 Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,198.70,Independent
+Bakers Food and Fuel,46458 South Coast Hwy,KING RIVER,6330,,198.00,Liberty
 Hi-Way Sales & Service 1982,154 Albany Hwy,KOJONUP,6395,,207.90,Ampol
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
+Little Grove General Store,639 Frenchmans Bay Rd,LITTLE GROVE,6330,,195.80,Shell
 Shell Lower King Liquor & General,629 Lower King Rd,LOWER KING,6330,,195.90,Shell
 Vibe Mandurah,2 Rafferty Rd,MANDURAH,6210,,205.50,Vibe
 Dunning's Thompsons Garage,127 Giblett St,MANJIMUP,6258,,197.90,Shell
