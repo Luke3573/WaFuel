@@ -242,7 +242,6 @@ Ampol Narrogin,12 Clayton Rd,NARROGIN,6312,195.9,198.90,Ampol
 Shell Narrogin,44 Egerton St,NARROGIN,6312,195.9,195.90,Shell
 Dunning's Newman,21 Willis St,NEWMAN,6753,195.9,195.90,Shell
 Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,196.3,196.30,Better Choice
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,196.5,196.50,Independent
 Gull Collie,143 Throssell St,COLLIE,6225,196.7,196.70,Gull
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,196.7,196.70,Better Choice
 Vibe Witchcliffe,10428 Bussell Hwy,WITCHCLIFFE,6286,196.7,196.70,Vibe
@@ -276,7 +275,6 @@ Mt Barker Fuel Services,48 Lowood Rd,MOUNT BARKER,6324,198.9,198.90,Independent
 S-Bend Caravan Park,27 Company Rd,SOUTH GREENOUGH,6528,199.0,199.00,Liberty
 Gull York Roadhouse,63 Avon Tce,YORK,6302,199.5,199.50,Gull
 Vibe Coolgardie,1 Bayley St,COOLGARDIE,6429,199.7,199.70,Vibe
-Smiths Shell Service,86 Avon Tce,YORK,6302,199.7,199.70,Shell
 Petro Fuels Mount Barker,25 Mitchell Rd,MOUNT BARKER,6324,199.8,199.80,BP
 7-Eleven Alkimos,10 Carlsbad Prom,ALKIMOS,6038,199.9,189.90,7 Eleven
 7-Eleven Ascot,194 Great Eastern Hwy,ASCOT,6104,199.9,185.90,7 Eleven
@@ -420,7 +418,6 @@ Coles Express Upper Swan Roadhouse,1333 Great Northern Hwy,UPPER SWAN,6069,203.9
 EG Ampol Warnbro,202 Warnbro Sound Ave,WARNBRO,6169,203.9,191.90,EG Ampol
 FDWA Cunderdin,67 Lundy Ave,CUNDERDIN,6407,204.0,202.00,Independent
 Walpole IGA Pioneer Store,10 Nockolds St,WALPOLE,6398,204.0,204.00,Ampol
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,204.5,204.50,Independent
 BP Malaga,370 Victoria Rd,MALAGA,6090,204.9,194.90,BP
 BP Mandurah,304 Pinjarra Rd,MANDURAH,6210,204.9,194.90,BP
 BP 2go Noranda,40 Benara Rd,NORANDA,6062,204.9,194.90,BP
@@ -484,7 +481,6 @@ BP Connect Wellington Rd,261 Walter Rd West,MORLEY,6062,206.9,193.90,BP
 Northcliffe Newsagent & General Store,17 Zamia St,NORTHCLIFFE,6262,206.9,206.90,Independent
 BP Connect Beaumauris,2 Prendiville Ave,OCEAN REEF,6027,206.9,195.90,BP
 BP Sorrento,128 West Coast Dr,SORRENTO,6020,206.9,195.90,BP
-Gracie's General,2 Bayview Dr,GRACETOWN,6284,207.0,212.00,Independent
 Ampol Foodary Baldivis,614 Baldivis Rd,BALDIVIS,6171,207.9,195.90,Ampol
 EG Ampol Ballajura,5 Hamelin Dr,BALLAJURA,6066,207.9,195.90,EG Ampol
 Ampol Foodary Altone Road,159 Altone Rd,BEECHBORO,6063,207.9,194.90,Ampol
@@ -712,8 +708,12 @@ BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 S24 Balcatta,229 Balcatta Rd,BALCATTA,6021,,199.90,Caltex
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
+Gracie's General,2 Bayview Dr,GRACETOWN,6284,,212.00,Independent
 Caltex Guildford,16 Johnson St,GUILDFORD,6055,,,Caltex
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,196.50,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,204.50,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
 BP Singleton,2514 Mandurah Rd,SINGLETON,6175,,184.90,BP
+Smiths Shell Service,86 Avon Tce,YORK,6302,,199.70,Shell

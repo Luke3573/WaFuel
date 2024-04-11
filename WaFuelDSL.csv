@@ -247,7 +247,6 @@ Mundijong Store & Deli,20 Paterson St,MUNDIJONG,6123,199.0,199.0,Independent
 S-Bend Caravan Park,27 Company Rd,SOUTH GREENOUGH,6528,199.0,199.0,Liberty
 Route 94 Bakers Hill,4641 Great Eastern Hwy,BAKERS HILL,6562,199.3,199.3,United
 Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,199.5,199.5,Better Choice
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,199.5,199.5,Independent
 Vibe Witchcliffe,10428 Bussell Hwy,WITCHCLIFFE,6286,199.5,199.5,Vibe
 Puma Bedfordale,681 Albany Hwy,BEDFORDALE,6112,199.7,199.7,Puma
 Puma Belmont,33 Belvidere St,BELMONT,6104,199.7,199.7,Puma
@@ -332,7 +331,6 @@ Geographe IGA,328 Marine Tce,GEOGRAPHE,6280,203.5,203.5,Liberty
 Gull York Roadhouse,63 Avon Tce,YORK,6302,203.5,203.5,Gull
 Puma Carnarvon OPT,59 Hudson St,GREYS PLAIN,6701,203.7,203.7,Puma
 Puma Pearsall,204 Shiraz Bvd,PEARSALL,6065,203.7,203.7,Puma
-Smiths Shell Service,86 Avon Tce,YORK,6302,203.7,203.7,Shell
 Refuel Carnarvon Truck Stop,1014 North West Coastal Hwy,BROWN RANGE,6701,203.8,203.8,Ampol
 Petro Fuels Denmark,69 South Coast Hwy,DENMARK,6333,203.8,203.8,Shell
 Refuel Australia - Carnarvon,40 Harbour Rd,GREYS PLAIN,6701,203.8,203.8,Ampol
@@ -349,7 +347,6 @@ Ampol Foodary Forrest Highway North,Lot 602 Forrest Hwy,WEST PINJARRA,6208,203.9
 Ampol Foodary Forrest Highway South,Lot 601 Forrest Hwy,WEST PINJARRA,6208,203.9,203.9,Ampol
 Ampol Foodary Lakelands,Lot 50 Mandurah Rd,MEADOW SPRINGS,6210,204.9,204.9,Ampol
 Del Park Roadhouse,4267 South Western Hwy,NORTH DANDALUP,6207,204.9,202.9,Ampol
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,204.9,204.9,Independent
 Puma Kalgoorlie Fuel Point,9 Kayili Rd,WEST KALGOORLIE,6430,205.7,205.7,Puma
 Chadwick (Esperance) Diesel Stop,16 Flinders Cct,CHADWICK,6450,205.9,205.9,Ampol
 Coles Express Esperance,25 Andrew St,ESPERANCE,6450,205.9,205.9,Coles Express
@@ -379,7 +376,6 @@ Ampol Karratha Diesel Stop,1540 Anderson Rd,KARRATHA INDUSTRIAL ESTATE,6714,209.
 Walpole IGA Pioneer Store,10 Nockolds St,WALPOLE,6398,210.0,210.0,Ampol
 Refuel Australia - Port Hedland,Lot 3 Great Northern Hwy,PORT HEDLAND,6721,211.8,211.8,Ampol
 Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,211.9,211.9,Puma
-Gracie's General,2 Bayview Dr,GRACETOWN,6284,212.0,212.0,Independent
 Vibe Coolgardie,1 Bayley St,COOLGARDIE,6429,213.5,213.5,Vibe
 United Boulder Kalgoorlie,26 Davis St,BOULDER,6432,213.9,213.9,United
 Ampol Foodary Coolgardie,110-114 Bayley St,COOLGARDIE,6429,213.9,213.9,Ampol
@@ -432,6 +428,10 @@ BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 Cheynes Beach Caravan Park,12 Bald Island Rd,CHEYNES,6328,,,Independent
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
+Gracie's General,2 Bayview Dr,GRACETOWN,6284,,212.0,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,199.5,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,204.9,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
+Smiths Shell Service,86 Avon Tce,YORK,6302,,203.7,Shell
