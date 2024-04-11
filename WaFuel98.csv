@@ -176,7 +176,6 @@ Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,215.0,215.00,Shell
 Vibe Nollamara,66 Sylvia St,NOLLAMARA,6061,215.3,211.30,Vibe
 Vibe Broadwater,375 Bussell Hwy,BROADWATER,6280,215.5,215.50,Vibe
 Geographe Petroleum,84 Strelly St,BUSSELTON,6280,215.5,214.50,Liberty
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,215.5,215.50,Independent
 Vibe Siesta Park,367 Caves Rd,KEALY,6280,215.5,215.50,Vibe
 Vibe Harvey,46 South Western Hwy,HARVEY,6220,215.7,217.70,Vibe
 Liberty Banksia Grove,7 Honeybee Pde,BANKSIA GROVE,6031,215.9,209.90,Liberty
@@ -252,7 +251,6 @@ Caltex Tarcoola,156 Brand Hwy,TARCOOLA BEACH,6530,220.9,220.90,Caltex
 BP Edgewater,2 The Gateway,EDGEWATER,6027,221.7,213.70,BP
 Coles Express Collie,57 Johnston St,COLLIE,6225,221.9,221.90,Coles Express
 Hillview Roadhouse and Motel,47 Albany Hwy,KOJONUP,6395,221.9,221.90,Shell
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,221.9,221.90,Independent
 BP Pemberton Garage & Service Station,84 Brockman St,PEMBERTON,6260,221.9,221.90,BP
 Refuel Australia - DMW Supplies,39 Moreton Tce,DONGARA,6525,222.8,222.80,Ampol
 BP Ballajura,2 Illawarra Cres North,BALLAJURA,6066,222.9,216.90,BP
@@ -300,7 +298,6 @@ Coles Express Myaree,69 North Lake Rd,MYAREE,6154,224.9,212.90,Coles Express
 Caltex Piccadilly,7 Maritana St,PICCADILLY,6430,224.9,224.90,Caltex
 United Swanbourne,2 Servetus St,SWANBOURNE,6010,224.9,222.90,United
 Caltex Tammin,15323 Great Eastern Hwy,TAMMIN,6409,224.9,224.90,Caltex
-Smiths Shell Service,86 Avon Tce,YORK,6302,224.9,224.90,Shell
 Dardanup Garage & Service Station,11 Charlotte St,DARDANUP,6236,225.0,225.00,Independent
 BP Thornlie,459 Nicholson Rd,CANNING VALE,6155,225.9,213.90,BP
 BP Cunderdin Roadhouse,Lot 6 Great Eastern Hwy,CUNDERDIN,6407,225.9,225.90,BP
@@ -628,5 +625,8 @@ Coles Express Dunsborough,64 Dunn Bay Rd,DUNSBOROUGH,6281,,,Coles Express
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Caltex Guildford,16 Johnson St,GUILDFORD,6055,,,Caltex
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,215.50,Independent
 BP Connect North Perth,349 Charles St,NORTH PERTH,6006,,,BP
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,221.90,Independent
 BP Singleton,2514 Mandurah Rd,SINGLETON,6175,,209.90,BP
+Smiths Shell Service,86 Avon Tce,YORK,6302,,224.90,Shell
