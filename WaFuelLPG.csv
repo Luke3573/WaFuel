@@ -38,7 +38,6 @@ Caltex Barragup,715 Pinjarra Rd,BARRAGUP,6209,135.9,135.90,Caltex
 BP Beldon,261 Eddystone Ave,BELDON,6027,135.9,135.90,BP
 Ampol Foodary Forrestdale,63 Alex Wood Dr,FORRESTDALE,6112,135.9,135.90,Ampol
 Ampol Foodary Joondalup,420 Joondalup Dr,JOONDALUP,6027,135.9,135.90,Ampol
-Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,135.9,135.90,Independent
 Better Choice Malaga,3 Carson Rd,MALAGA,6090,135.9,135.90,Better Choice
 BP Mindarie,360 Anchorage Dr North,MINDARIE,6030,135.9,135.90,BP
 Astron Quinns Rocks,121 Quinns Rd,QUINNS ROCKS,6030,135.9,135.90,Astron
@@ -59,7 +58,6 @@ Ampol Foodary Forrest Highway North,Lot 602 Forrest Hwy,WEST PINJARRA,6208,139.9
 Ampol Foodary Forrest Highway South,Lot 601 Forrest Hwy,WEST PINJARRA,6208,139.9,139.90,Ampol
 Ampol Foodary Williams,56 Albany Hwy,WILLIAMS,6391,139.9,139.90,Ampol
 Ampol Foodary North Road,204 North Rd,YAKAMIA,6330,139.9,139.90,Ampol
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,141.9,141.90,Better Choice
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,141.9,141.90,Better Choice
 Ampol Foodary Busselton,115 Strelly St,BUSSELTON,6280,142.9,142.90,Ampol
 Astron Roleystone,11 Wygonda Rd,ROLEYSTONE,6111,145.9,145.90,Astron
@@ -70,6 +68,8 @@ EG Ampol Karratha,Lot 1437 Warambie Rd,KARRATHA,6714,174.9,174.90,EG Ampol
 BP Wubin,80-82 Great Northern Hwy,WUBIN,6612,216.7,216.70,BP
 BP Connect Ascot (WA),210 Great Eastern Hwy,ASCOT,6104,,,BP
 Vibe Beechboro,495 Beechboro Rd North,BEECHBORO,6063,,,Vibe
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,141.90,Better Choice
+Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,135.90,Independent
 Ampol Foodary Carnarvon,595 Robinson St,KINGSFORD,6701,,,Ampol
 Ampol Foodary Leederville,319 Vincent St,LEEDERVILLE,6007,,,Ampol
 BP Crystal Brook (Lesmurdie),7 Welshpool Rd East,LESMURDIE,6076,,,BP

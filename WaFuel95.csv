@@ -143,7 +143,6 @@ EG Ampol South Lake,752 North Lake Rd,SOUTH LAKE,6164,208.9,198.9,EG Ampol
 Ampol Foodary Wonthella,40 North West Coastal Hwy,WONTHELLA,6530,208.9,208.9,Ampol
 Ampol Foodary North Road,204 North Rd,YAKAMIA,6330,208.9,208.9,Ampol
 Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,209.3,209.3,Puma
-Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,209.7,199.7,Independent
 BP Cowaramup,1 Roy Earl Dr,COWARAMUP,6284,209.9,209.9,BP
 Metro Jurien Bay,74 Bashford St,JURIEN BAY,6516,209.9,209.9,Metro
 Metro Geraldton,1 Fortyn Ct,MAHOMETS FLATS,6530,209.9,209.9,Metro
@@ -151,9 +150,7 @@ BP Naval Base,1351 Rockingham Rd,NAVAL BASE,6165,209.9,205.9,BP
 S24 Harvey,77 Uduc Rd,HARVEY,6220,210.9,210.9,Caltex
 Mt Barker Fuel Services,48 Lowood Rd,MOUNT BARKER,6324,210.9,212.9,Independent
 Coles Express Albany Orana,342 Albany Hwy,ORANA,6330,210.9,210.9,Coles Express
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,211.3,211.3,Better Choice
 Geographe IGA,328 Marine Tce,GEOGRAPHE,6280,211.5,211.5,Liberty
-Gull York Roadhouse,63 Avon Tce,YORK,6302,211.5,211.5,Gull
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,211.7,211.7,Better Choice
 7-Eleven Alkimos,10 Carlsbad Prom,ALKIMOS,6038,211.9,201.9,7 Eleven
 BP Edgewater,2 The Gateway,EDGEWATER,6027,212.7,204.7,BP
@@ -242,7 +239,6 @@ BP Ellenbrook,180 The Promenade,ELLENBROOK,6069,218.9,204.9,BP
 Coles Express Forrestfield,2 Strelitzia Ave,FORRESTFIELD,6058,218.9,204.9,Coles Express
 Coles Express Fremantle,101 Hampton Rd,FREMANTLE,6160,218.9,204.9,Coles Express
 Coles Express Girrawheen,60 Marangaroo Dr,GIRRAWHEEN,6064,218.9,204.9,Coles Express
-Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,218.9,210.9,Puma
 Coles Express Karawara,222 Manning Rd,KARAWARA,6152,218.9,204.9,Coles Express
 Coles Express Leeming,29/51 Farrington St,LEEMING,6149,218.9,204.9,Coles Express
 7-Eleven Maddington South,1969 Albany Hwy,MADDINGTON,6109,218.9,212.9,7 Eleven
@@ -474,8 +470,12 @@ S24 Balcatta,229 Balcatta Rd,BALCATTA,6021,,214.9,Caltex
 Cheynes Beach Caravan Park,12 Bald Island Rd,CHEYNES,6328,,,Independent
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Caltex Guildford,16 Johnson St,GUILDFORD,6055,,,Caltex
+Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,,210.9,Puma
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,211.3,Better Choice
+Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,199.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Coles Express Port Hedland,Lot 2065 Wilson St,PORT HEDLAND,6721,,,Coles Express
 BP Singleton,2514 Mandurah Rd,SINGLETON,6175,,200.9,BP
 Caltex Upper Swan,1383 Great Northern Hwy,UPPER SWAN,6069,,,Caltex
 Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,,,Ampol
+Gull York Roadhouse,63 Avon Tce,YORK,6302,,211.5,Gull

@@ -219,7 +219,6 @@ BP Moora Depot,153 Gardiner St,MOORA,6510,194.9,194.90,BP
 BP Wonthella Service Station,190 North West Coastal Hwy,WEBBERTON,6530,194.9,194.90,BP
 Liberty West Busselton,259 Bussell Hwy,WEST BUSSELTON,6280,194.9,193.90,Liberty
 Smart Mart Pure Convenience - Flores Rd,280 Fourth St,WONTHELLA,6530,194.9,194.90,BP
-Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,195.0,195.00,Shell
 Maisey Fuels Rudds Gully,512 Rudds Gully Rd,NARNGULU,6532,195.5,195.50,Independent
 Maisey Fuels Flores Road,83 Flores Rd,WEBBERTON,6530,195.5,195.50,Independent
 Greenbushes Roadhouse,28 Blackwood Rd,GREENBUSHES,6254,195.7,195.70,Pheonix
@@ -424,7 +423,6 @@ BP 2go Noranda,40 Benara Rd,NORANDA,6062,204.9,194.90,BP
 BP Connect Merriwa,2 Ridgewood Bvd,RIDGEWOOD,6030,204.9,193.90,BP
 BP Connect Riverton,339 High Rd,RIVERTON,6148,204.9,190.90,BP
 BP Connect Wembley,240 Cambridge St,WEMBLEY,6014,204.9,193.90,BP
-Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,205.0,205.00,Independent
 Young Siding General Store,19 Station St,YOUNGS SIDING,6330,205.0,205.00,BP
 Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,205.1,205.10,Puma
 Vibe Toodyay Rd,2086 Toodyay Rd,GIDGEGANNUP,6083,205.5,193.70,Vibe
@@ -706,6 +704,7 @@ Derby Fuels,46 Clarendon St,DERBY,6728,252.5,252.50,Shell
 BP Colac,138 Loch St,DERBY,6728,252.9,252.90,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 S24 Balcatta,229 Balcatta Rd,BALCATTA,6021,,199.90,Caltex
+Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,,195.00,Shell
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
 Gracie's General,2 Bayview Dr,GRACETOWN,6284,,212.00,Independent
@@ -715,5 +714,6 @@ Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,196.50,Inde
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,204.50,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
+Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,,205.00,Independent
 BP Singleton,2514 Mandurah Rd,SINGLETON,6175,,184.90,BP
 Smiths Shell Service,86 Avon Tce,YORK,6302,,199.70,Shell
