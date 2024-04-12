@@ -32,7 +32,6 @@ Better Choice Naval Base,Cnr Rockingham Rd & Lee Rd,NAVAL BASE,6165,134.5,134.5,
 Better Choice Tuart Hill,150 Wanneroo Rd,TUART HILL,6060,134.5,134.5,Better Choice
 EG Ampol Osborne Park,401 Scarborough Beach Rd,OSBORNE PARK,6017,134.9,134.9,EG Ampol
 BP Woodbridge,380 Great Eastern Hwy,WOODBRIDGE,6056,134.9,134.9,BP
-Vibe Spearwood,333 Rockingham Rd,SPEARWOOD,6163,135.7,135.7,Vibe
 BP Balcatta,53 Erindale Rd,BALCATTA,6021,135.9,135.9,BP
 Caltex Barragup,715 Pinjarra Rd,BARRAGUP,6209,135.9,135.9,Caltex
 BP Beldon,261 Eddystone Ave,BELDON,6027,135.9,135.9,BP
@@ -59,7 +58,6 @@ Ampol Foodary Williams,56 Albany Hwy,WILLIAMS,6391,139.9,139.9,Ampol
 Ampol Foodary North Road,204 North Rd,YAKAMIA,6330,139.9,139.9,Ampol
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,141.9,141.9,Better Choice
 Ampol Foodary Busselton,115 Strelly St,BUSSELTON,6280,142.9,142.9,Ampol
-Astron Roleystone,11 Wygonda Rd,ROLEYSTONE,6111,145.9,145.9,Astron
 Ampol Foodary Albany York St,271 York St,ALBANY,6330,147.9,147.9,Ampol
 Ampol Collie,124 Throssell St,COLLIE,6225,147.9,147.9,Ampol
 Ampol Foodary Esperance,59 Dempster St,ESPERANCE,6450,157.9,157.9,Ampol
@@ -76,5 +74,7 @@ Ampol Maddington Truck Stop,18 Orchard Rd,MADDINGTON,6109,,,Ampol
 Puma Manjimup Roadhouse,1182 South Western Hwy,MANJIMUP,6258,,,Puma
 United Mt Lawley,791 Beaufort St,MOUNT LAWLEY,6050,,,United
 Narrogin Gasworx,22 Fairway St,NARROGIN,6312,,172.0,Independent
+Astron Roleystone,11 Wygonda Rd,ROLEYSTONE,6111,,145.9,Astron
+Vibe Spearwood,333 Rockingham Rd,SPEARWOOD,6163,,135.7,Vibe
 BOC Gas & Gear,287 Place Rd,WEBBERTON,6530,,,
 Ampol Foodary Yanchep,1 Morwell St,YANCHEP,6035,,,Ampol
