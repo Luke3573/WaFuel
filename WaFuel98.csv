@@ -289,7 +289,6 @@ EG Ampol Warnbro,202 Warnbro Sound Ave,WARNBRO,6169,214.9,210.9,EG Ampol
 Liberty West Busselton,259 Bussell Hwy,WEST BUSSELTON,6280,214.9,214.9,Liberty
 Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,215.0,215.0,Shell
 Vibe Broadwater,375 Bussell Hwy,BROADWATER,6280,215.5,215.5,Vibe
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,215.5,215.5,Independent
 Vibe Siesta Park,367 Caves Rd,KEALY,6280,215.5,215.5,Vibe
 Vibe Piara Waters,390 Nicholson Rd,PIARA WATERS,6112,215.5,209.7,Vibe
 Vibe Toodyay Rd,2086 Toodyay Rd,GIDGEGANNUP,6083,215.7,213.5,Vibe
@@ -499,7 +498,6 @@ BP Connect Carlisle,44 Archer St,CARLISLE,6101,221.9,218.9,BP
 Coles Express Collie,57 Johnston St,COLLIE,6225,221.9,221.9,Coles Express
 BP Westgate,85 Queen Victoria St,FREMANTLE,6160,221.9,214.9,BP
 Hillview Roadhouse and Motel,47 Albany Hwy,KOJONUP,6395,221.9,221.9,Shell
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,221.9,221.9,Independent
 BP Pemberton Garage & Service Station,84 Brockman St,PEMBERTON,6260,221.9,221.9,BP
 BP South Fremantle,229B Hampton Rd,SOUTH FREMANTLE,6162,221.9,216.9,BP
 BP Kenwick,48 Courtney Pl,WATTLE GROVE,6107,221.9,218.9,BP
@@ -536,7 +534,6 @@ Dwellingup BP,48 McLarty St,DWELLINGUP,6213,224.9,224.9,BP
 Del Park Roadhouse,4267 South Western Hwy,NORTH DANDALUP,6207,224.9,212.9,Ampol
 Caltex Piccadilly,7 Maritana St,PICCADILLY,6430,224.9,224.9,Caltex
 Caltex Tammin,15323 Great Eastern Hwy,TAMMIN,6409,224.9,224.9,Caltex
-Smiths Shell Service,86 Avon Tce,YORK,6302,224.9,224.9,Shell
 Dardanup Garage & Service Station,11 Charlotte St,DARDANUP,6236,225.0,225.0,Independent
 Puma Bedfordale,681 Albany Hwy,BEDFORDALE,6112,225.7,209.7,Puma
 Puma Belmont,33 Belvidere St,BELMONT,6104,225.7,209.7,Puma
@@ -623,9 +620,12 @@ Ampol Foodary Exmouth,77 Maidstone Cr,EXMOUTH,6707,251.9,251.9,Ampol
 Dunning's Broome,7 Clementson St,BROOME,6725,255.9,255.9,Shell
 BP Broome Central Service Centre,2 Coghlan St,DJUGUN,6725,262.9,262.9,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
-Metro Bassendean,2/335 Collier Rd,BASSENDEAN,6054,,197.9,Metro
+Metro Bassendean,2/335 Collier Rd,BASSENDEAN,6054,,,Metro
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,215.5,Independent
 BP Connect North Perth,349 Charles St,NORTH PERTH,6006,,,BP
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,221.9,Independent
 Vibe Upper Swan,1447 Great Northern Hwy,UPPER SWAN,6069,,,Vibe
 S24 Yanchep,1 Ikara Lane,YANCHEP,6035,,219.9,Caltex
+Smiths Shell Service,86 Avon Tce,YORK,6302,,224.9,Shell

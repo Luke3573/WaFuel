@@ -465,7 +465,6 @@ Ampol Foodary Forrest Highway South,Lot 601 Forrest Hwy,WEST PINJARRA,6208,195.9
 BP 2go Collins Road,121 Collins Rd,WILLETTON,6155,195.9,190.9,BP
 7-Eleven Yanchep,2 Tamala Lane,YANCHEP,6035,195.9,189.9,7 Eleven
 Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,196.3,196.3,Better Choice
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,196.5,196.5,Independent
 Gull Collie,143 Throssell St,COLLIE,6225,196.7,196.7,Gull
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,196.7,196.7,Better Choice
 Vibe Witchcliffe,10428 Bussell Hwy,WITCHCLIFFE,6286,196.7,196.7,Vibe
@@ -515,7 +514,6 @@ Ampol Narrogin,12 Clayton Rd,NARROGIN,6312,198.9,198.9,Ampol
 S-Bend Caravan Park,27 Company Rd,SOUTH GREENOUGH,6528,199.0,199.0,Liberty
 Gull York Roadhouse,63 Avon Tce,YORK,6302,199.5,199.5,Gull
 Vibe Coolgardie,1 Bayley St,COOLGARDIE,6429,199.7,199.7,Vibe
-Smiths Shell Service,86 Avon Tce,YORK,6302,199.7,199.7,Shell
 Petro Fuels Mount Barker,25 Mitchell Rd,MOUNT BARKER,6324,199.8,199.8,BP
 7-Eleven Haynes,1256 Armadale Rd,ARMADALE,6112,199.9,185.9,7 Eleven
 BP Attadale,530 Canning Hwy,ATTADALE,6156,199.9,192.9,BP
@@ -640,7 +638,6 @@ Caltex North Perth,311 Fitzgerald St,WEST PERTH,6005,203.9,189.9,Caltex
 Caltex Wooroloo,3381 Great Eastern Hwy,WUNDOWIE,6558,203.9,189.9,Caltex
 Caltex Yokine,398 Hector St,YOKINE,6060,203.9,189.9,Caltex
 Walpole IGA Pioneer Store,10 Nockolds St,WALPOLE,6398,204.0,210.0,Ampol
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,204.5,204.5,Independent
 Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,205.0,205.0,Independent
 Young Siding General Store,19 Station St,YOUNGS SIDING,6330,205.0,205.0,BP
 Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,205.1,205.1,Puma
@@ -709,10 +706,13 @@ BP Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,249.9,249.9
 Derby Fuels,46 Clarendon St,DERBY,6728,252.5,252.5,Shell
 BP Colac,138 Loch St,DERBY,6728,252.9,252.9,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
-Metro Bassendean,2/335 Collier Rd,BASSENDEAN,6054,,177.9,Metro
+Metro Bassendean,2/335 Collier Rd,BASSENDEAN,6054,,,Metro
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,196.5,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,204.5,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
 S24 Yanchep,1 Ikara Lane,YANCHEP,6035,,195.9,Caltex
+Smiths Shell Service,86 Avon Tce,YORK,6302,,199.7,Shell
