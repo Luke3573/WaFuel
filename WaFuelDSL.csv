@@ -128,7 +128,6 @@ BP Narrogin,37 Federal St,NARROGIN,6312,194.9,194.9,BP
 BP Picton Wetherley Dr,24 Wetherly Dr,PICTON,6229,194.9,194.9,BP
 53 Mile Roadhouse,31 South Western Hwy,PINJARRA,6208,194.9,194.9,United
 BP Geraldton OPT,Lot 1662 Shenton St,WEST END,6530,194.9,194.9,BP
-Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,195.0,195.0,Shell
 Dardanup Garage & Service Station,11 Charlotte St,DARDANUP,6236,195.0,195.0,Independent
 Vibe Broadwater,375 Bussell Hwy,BROADWATER,6280,195.5,195.5,Vibe
 Geographe Petroleum,84 Strelly St,BUSSELTON,6280,195.5,195.5,Liberty
@@ -316,7 +315,6 @@ Coles Express Lakelands,49 Banksiadale Gte,LAKELANDS,6210,201.9,201.9,Coles Expr
 Dunning's Thompsons Garage,127 Giblett St,MANJIMUP,6258,201.9,201.9,Shell
 Puma Manjimup Roadhouse,1182 South Western Hwy,MANJIMUP,6258,201.9,201.9,Puma
 Coles Express Ocean Reef,6 Marina Bvd,OCEAN REEF,6027,201.9,201.9,Coles Express
-Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,202.0,202.0,Independent
 Petro Fuels Mount Barker,25 Mitchell Rd,MOUNT BARKER,6324,202.8,202.8,BP
 BP Beeliar,701 Beeliar Dr,COCKBURN CENTRAL,6164,202.9,202.9,BP
 Ampol Foodary Carnarvon,595 Robinson St,KINGSFORD,6701,202.9,202.9,Ampol
@@ -425,6 +423,7 @@ BP Colac,138 Loch St,DERBY,6728,252.9,252.9,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 Metro Bassendean,2/335 Collier Rd,BASSENDEAN,6054,,,Metro
 Coles Express Casuarina (WA),1 Johnson Rd,BERTRAM,6167,,,Coles Express
+Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,,195.0,Shell
 Cheynes Beach Caravan Park,12 Bald Island Rd,CHEYNES,6328,,,Independent
 Coles Express Dunsborough,64 Dunn Bay Rd,DUNSBOROUGH,6281,,,Coles Express
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
@@ -434,4 +433,5 @@ Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,199.5,Indep
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,204.9,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
+Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,,202.0,Independent
 Smiths Shell Service,86 Avon Tce,YORK,6302,,203.7,Shell

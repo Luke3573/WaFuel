@@ -59,7 +59,6 @@ United Vasse,210 Northerly St,VASSE,6280,198.9,198.9,United
 Burk Alkimos,12 Longstaff Ave,ALKIMOS,6038,199.3,199.3,BURK
 Burk Malaga,1 Harlond Ave,MALAGA,6090,199.3,199.3,BURK
 Burk West Swan,6639 West Swan Rd,WEST SWAN,6055,199.3,199.3,BURK
-Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,199.7,198.7,Independent
 NightOwl Shell Bellevue,49 Great Eastern Hwy,BELLEVUE,6056,199.9,199.9,Shell
 NightOwl Shell Maddington,1 Davison St,MADDINGTON,6109,199.9,199.9,Shell
 Vibe South Bunbury,302 Blair St,SOUTH BUNBURY,6230,200.3,200.3,Vibe
@@ -325,7 +324,6 @@ EG Ampol Ballajura,5 Hamelin Dr,BALLAJURA,6066,210.9,204.9,EG Ampol
 BP Bull Creek,83 Wheatley Dr,BULL CREEK,6149,210.9,200.9,BP
 EG Ampol Currambine Marketplace,1244 Marmion Ave,CURRAMBINE,6028,210.9,204.9,EG Ampol
 S24 Harvey,77 Uduc Rd,HARVEY,6220,210.9,207.9,Caltex
-Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,210.9,210.9,Puma
 EG Ampol Whitfords,470 Whitfords Ave,HILLARYS,6025,210.9,204.9,EG Ampol
 BP Welshpool,1 Ballantyne Rd,KEWDALE,6105,210.9,207.9,BP
 BP Malaga,370 Victoria Rd,MALAGA,6090,210.9,205.9,BP
@@ -339,9 +337,7 @@ EG Ampol South Fremantle,219 Hampton Rd,SOUTH FREMANTLE,6162,210.9,204.9,EG Ampo
 Ampol Foodary Stratton,240 Toodyay Rd,STRATTON,6056,210.9,199.9,Ampol
 Ampol Foodary Forrest Highway North,Lot 602 Forrest Hwy,WEST PINJARRA,6208,210.9,205.9,Ampol
 Ampol Foodary Forrest Highway South,Lot 601 Forrest Hwy,WEST PINJARRA,6208,210.9,205.9,Ampol
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,211.3,211.3,Better Choice
 Geographe IGA,328 Marine Tce,GEOGRAPHE,6280,211.5,211.5,Liberty
-Gull York Roadhouse,63 Avon Tce,YORK,6302,211.5,211.5,Gull
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,211.7,211.7,Better Choice
 BP 2go Armadale,3249 Albany Hwy,ARMADALE,6112,211.9,207.9,BP
 Ampol Foodary Cannington,1346 Albany Hwy,CANNINGTON,6107,211.9,203.9,Ampol
@@ -474,8 +470,12 @@ Metro Bassendean,2/335 Collier Rd,BASSENDEAN,6054,,,Metro
 Cheynes Beach Caravan Park,12 Bald Island Rd,CHEYNES,6328,,,Independent
 Coles Express Dunsborough,64 Dunn Bay Rd,DUNSBOROUGH,6281,,,Coles Express
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,,210.9,Puma
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,211.3,Better Choice
+Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,198.7,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Coles Express Port Hedland,Lot 2065 Wilson St,PORT HEDLAND,6721,,,Coles Express
 Caltex Upper Swan,1383 Great Northern Hwy,UPPER SWAN,6069,,,Caltex
 Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,,,Ampol
 S24 Yanchep,1 Ikara Lane,YANCHEP,6035,,210.9,Caltex
+Gull York Roadhouse,63 Avon Tce,YORK,6302,,211.5,Gull

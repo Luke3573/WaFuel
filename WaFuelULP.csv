@@ -408,7 +408,6 @@ BP 2go Noranda,40 Benara Rd,NORANDA,6062,194.9,189.9,BP
 BP Connect West Coast,11 Scarborough Beach Rd,SCARBOROUGH,6019,194.9,189.9,BP
 BP Wonthella Service Station,190 North West Coastal Hwy,WEBBERTON,6530,194.9,194.9,BP
 Smart Mart Pure Convenience - Flores Rd,280 Fourth St,WONTHELLA,6530,194.9,194.9,BP
-Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,195.0,195.0,Shell
 Maisey Fuels Rudds Gully,512 Rudds Gully Rd,NARNGULU,6532,195.5,195.5,Independent
 Maisey Fuels Flores Road,83 Flores Rd,WEBBERTON,6530,195.5,195.5,Independent
 Greenbushes Roadhouse,28 Blackwood Rd,GREENBUSHES,6254,195.7,195.7,Pheonix
@@ -638,7 +637,6 @@ Caltex North Perth,311 Fitzgerald St,WEST PERTH,6005,203.9,189.9,Caltex
 Caltex Wooroloo,3381 Great Eastern Hwy,WUNDOWIE,6558,203.9,189.9,Caltex
 Caltex Yokine,398 Hector St,YOKINE,6060,203.9,189.9,Caltex
 Walpole IGA Pioneer Store,10 Nockolds St,WALPOLE,6398,204.0,210.0,Ampol
-Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,205.0,205.0,Independent
 Young Siding General Store,19 Station St,YOUNGS SIDING,6330,205.0,205.0,BP
 Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,205.1,205.1,Puma
 BP Cunderdin Roadhouse,Lot 6 Great Eastern Hwy,CUNDERDIN,6407,205.9,205.9,BP
@@ -707,6 +705,7 @@ Derby Fuels,46 Clarendon St,DERBY,6728,252.5,252.5,Shell
 BP Colac,138 Loch St,DERBY,6728,252.9,252.9,BP
 BP Allway,35 Albany Hwy,ALBANY,6330,,,BP
 Metro Bassendean,2/335 Collier Rd,BASSENDEAN,6054,,,Metro
+Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,,195.0,Shell
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 Glen Forrest Fuel,20 Great Eastern Hwy,GLEN FORREST,6071,,,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
@@ -714,5 +713,6 @@ Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,196.5,Indep
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,204.5,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
+Darnell's General Store,1230 Rosa Brook Rd,ROSA BROOK,6285,,205.0,Independent
 S24 Yanchep,1 Ikara Lane,YANCHEP,6035,,195.9,Caltex
 Smiths Shell Service,86 Avon Tce,YORK,6302,,199.7,Shell
