@@ -1,7 +1,7 @@
 Name,Location,Suberb,PostCode,Price Today,Price Tomorrow,Brand
 Liberty Beckenham,63 William St,BECKENHAM,6107,125.9,125.9,Liberty
 Caltex Kiara,157 Morley Dr,KIARA,6054,125.9,125.9,Caltex
-BP Attadale,530 Canning Hwy,ATTADALE,6156,128.9,126.9,BP
+BP Attadale,530 Canning Hwy,ATTADALE,6156,126.9,126.9,BP
 BP Morley,335 Walter Rd West,MORLEY,6062,128.9,128.9,BP
 Vibe Placid Ark Roadhouse,6947 South Western Hwy,COOLUP,6214,129.7,129.7,Vibe
 United Ellenbrook,3 Locke Lane,ELLENBROOK,6069,129.7,129.7,United
@@ -40,6 +40,7 @@ Ampol Foodary Joondalup,420 Joondalup Dr,JOONDALUP,6027,135.9,135.9,Ampol
 Better Choice Malaga,3 Carson Rd,MALAGA,6090,135.9,135.9,Better Choice
 BP Mindarie,360 Anchorage Dr North,MINDARIE,6030,135.9,135.9,BP
 Astron Quinns Rocks,121 Quinns Rd,QUINNS ROCKS,6030,135.9,135.9,Astron
+S24 Sawyers Valley,96 Great Eastern Hwy,SAWYERS VALLEY,6074,135.9,135.9,Caltex
 Ampol Foodary Secret Harbour,420 Secret Harbour Bvd,SECRET HARBOUR,6173,135.9,135.9,Ampol
 Ampol Foodary Wangara,79 Buckingham Dr,WANGARA,6065,135.9,135.9,Ampol
 Ampol Foodary Carine,510 Beach Rd,CARINE,6020,136.9,136.9,Ampol
@@ -76,5 +77,5 @@ United Mt Lawley,791 Beaufort St,MOUNT LAWLEY,6050,,,United
 Narrogin Gasworx,22 Fairway St,NARROGIN,6312,,172.0,Independent
 Astron Roleystone,11 Wygonda Rd,ROLEYSTONE,6111,,145.9,Astron
 Vibe Spearwood,333 Rockingham Rd,SPEARWOOD,6163,,135.7,Vibe
-BOC Gas & Gear,287 Place Rd,WEBBERTON,6530,,,
+BOC Gas & Gear,287 Place Rd,WEBBERTON,6530,,182.0,
 Ampol Foodary Yanchep,1 Morwell St,YANCHEP,6035,,,Ampol
