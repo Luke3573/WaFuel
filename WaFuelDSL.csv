@@ -274,7 +274,6 @@ Dunning's Northam,38 Peel Tce,NORTHAM,6401,194.9,194.90,Shell
 De Rosa's Highway Motors,8222 South Western Hwy,WAROONA,6215,194.9,194.90,Independent
 United East Victoria Park,916 Albany Hwy,EAST VICTORIA PARK,6101,195.7,195.70,United
 Gull York Roadhouse,63 Avon Tce,YORK,6302,195.7,195.70,Gull
-Smiths Shell Service,86 Avon Tce,YORK,6302,195.7,195.70,Shell
 Refuel Australia - Dalwallinu,2 Clinch Rd,DALWALLINU,6609,195.8,195.80,Ampol
 Coles Express Bayswater,34 Jackson St,BAYSWATER,6053,195.9,195.90,Coles Express
 Coles Express Beeliar,8 Durnin Ave,BEELIAR,6164,195.9,195.90,Coles Express
@@ -319,7 +318,6 @@ BP Cowaramup,1 Roy Earl Dr,COWARAMUP,6284,197.9,197.90,BP
 Coles Express Dianella,67 Walter Rd West,DIANELLA,6059,197.9,197.90,Coles Express
 Dwellingup BP,48 McLarty St,DWELLINGUP,6213,197.9,197.90,BP
 Reddy Express Jolimont,6 Jersey St,JOLIMONT,6014,197.9,197.90,
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,197.9,197.90,Independent
 BP Kununurra Depot (Recharge Petroleum),Cnr Stockman Rd & Bull Run Rd,KUNUNURRA,6743,197.9,197.90,BP
 CGL Fuel,3 Bandicoot Dr,KUNUNURRA,6743,197.9,197.90,CGL Fuel
 Coles Express Leeming,29/51 Farrington St,LEEMING,6149,197.9,197.90,Coles Express
@@ -354,7 +352,6 @@ Coles Express Kununurra Roadhouse,17 Poinciana St,KUNUNURRA,6743,199.9,199.90,Co
 Coles Express Margaret River,78 Bussell Hwy,MARGARET RIVER,6285,199.9,196.90,Coles Express
 Coles Express Mosman Park,582 Stirling Hwy,MOSMAN PARK,6012,199.9,199.90,Coles Express
 Coles Express Mount Pleasant,1 The Esplanade,MOUNT PLEASANT,6153,199.9,199.90,Coles Express
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,199.9,199.90,Independent
 Coles Express Albany Orana,342 Albany Hwy,ORANA,6330,199.9,199.90,Coles Express
 United Swanbourne,2 Servetus St,SWANBOURNE,6010,199.9,199.90,United
 Eagle West Kalgoorlie Truckstop,2 Brinsden Rd,WEST KALGOORLIE,6430,199.9,199.90,Eagle
@@ -391,7 +388,6 @@ BP Wubin,80-82 Great Northern Hwy,WUBIN,6612,209.8,209.80,BP
 BP Karratha Depot (Recharge Petroleum),1033 Mardie Rd,KARRATHA INDUSTRIAL ESTATE,6714,209.9,209.90,BP
 Walpole IGA Pioneer Store,10 Nockolds St,WALPOLE,6398,210.0,210.00,Ampol
 Coles Express Meekatharra Roadhouse,Lot 821 Main St,MEEKATHARRA,6642,211.9,209.90,Coles Express
-Gracie's General,2 Bayview Dr,GRACETOWN,6284,212.0,212.00,Independent
 Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,212.0,212.00,Ampol
 Vibe Coolgardie,1 Bayley St,COOLGARDIE,6429,213.5,213.50,Vibe
 United Boulder Kalgoorlie,26 Davis St,BOULDER,6432,213.9,213.90,United
@@ -431,7 +427,11 @@ Derby Fuels,46 Clarendon St,DERBY,6728,249.5,249.50,Shell
 BP Colac,138 Loch St,DERBY,6728,249.9,249.90,BP
 BP Munglinup,16 Tubada St,MUNGLINUP,6450,250.0,250.00,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+Gracie's General,2 Bayview Dr,GRACETOWN,6284,,212.00,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,197.90,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Mobil Fresh Trading Co Northam,Cnr Great Eastern Hwy & Yilgarn Ave,MALABAINE,6401,,,Mobil
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,199.90,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
+Smiths Shell Service,86 Avon Tce,YORK,6302,,195.70,Shell

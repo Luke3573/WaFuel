@@ -267,9 +267,7 @@ BP Walpole,18 Nockolds St,WALPOLE,6398,219.9,219.90,BP
 Caltex Piccadilly,7 Maritana St,PICCADILLY,6430,220.9,220.90,Caltex
 Vibe Mandurah,2 Rafferty Rd,MANDURAH,6210,221.7,201.70,Vibe
 Hi-Way Sales & Service 1982,154 Albany Hwy,KOJONUP,6395,221.9,221.90,Ampol
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,221.9,221.90,Independent
 Ampol Foodary South Lake,2 Omeo St,SOUTH LAKE,6164,221.9,209.90,Ampol
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,222.7,222.70,Independent
 United Boulder Kalgoorlie,26 Davis St,BOULDER,6432,222.9,222.90,United
 EG Ampol Canning Vale,15 Sarah Cl,CANNING VALE,6155,222.9,220.90,EG Ampol
 Caltex Castletown,49 Norseman Rd,CASTLETOWN,6450,222.9,222.90,Caltex
@@ -297,7 +295,6 @@ Karnup Roadhouse,2263 Mandurah Rd,KARNUP,6176,224.9,216.90,BP
 Mundijong Store & Deli,20 Paterson St,MUNDIJONG,6123,225.0,225.00,Independent
 Vibe Toodyay Rd,2086 Toodyay Rd,GIDGEGANNUP,6083,225.7,219.50,Vibe
 BP Cunderdin Roadhouse,Lot 6 Great Eastern Hwy,CUNDERDIN,6407,225.9,219.90,BP
-Smiths Shell Service,86 Avon Tce,YORK,6302,225.9,225.90,Shell
 Ampol Meckering,31 Dreyer St,MECKERING,6405,226.9,226.90,Ampol
 Smart Mart Newman,Lot 1 Newman Dr,NEWMAN,6753,226.9,226.90,Shell
 Vibe Bedford,168 Walter Rd West,BEDFORD,6052,227.7,221.70,Vibe
@@ -628,4 +625,7 @@ BP Broome Central Service Centre,2 Coghlan St,DJUGUN,6725,262.9,262.90,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 S24 Guildford,22 Johnson St,GUILDFORD,6055,,,Caltex
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,222.70,Independent
 Mobil Fresh Trading Co Northam,Cnr Great Eastern Hwy & Yilgarn Ave,MALABAINE,6401,,,Mobil
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,221.90,Independent
+Smiths Shell Service,86 Avon Tce,YORK,6302,,225.90,Shell

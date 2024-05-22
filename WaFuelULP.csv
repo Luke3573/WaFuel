@@ -279,7 +279,6 @@ Ampol Narrogin,12 Clayton Rd,NARROGIN,6312,194.9,194.90,Ampol
 Dunning's Newman,21 Willis St,NEWMAN,6753,194.9,194.90,Shell
 Smart Mart Pure Convenience - Flores Rd,280 Fourth St,WONTHELLA,6530,194.9,194.90,BP
 Gull York Roadhouse,63 Avon Tce,YORK,6302,195.7,195.70,Gull
-Smiths Shell Service,86 Avon Tce,YORK,6302,195.7,195.70,Shell
 Refuel Australia - DMW Supplies,39 Moreton Tce,DONGARA,6525,195.8,195.80,Ampol
 NightOwl Shell Bellevue,49 Great Eastern Hwy,BELLEVUE,6056,195.9,195.90,Shell
 Caltex Chadwick OPT,Lot 6 Beckwith Rd,CHADWICK,6450,195.9,195.90,Caltex
@@ -295,7 +294,6 @@ Greenbushes Roadhouse,28 Blackwood Rd,GREENBUSHES,6254,196.7,196.70,Pheonix
 BP Augusta,64 Blackwood Ave,AUGUSTA,6290,196.9,196.90,BP
 Balingup Liquor & General Store,12 Bridgetown Rd,BALINGUP,6253,196.9,196.90,Independent
 Hills Emporio,1615 Canning Rd,KARRAGULLEN,6111,196.9,196.90,Independent
-Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,196.9,196.90,Independent
 Ampol Rous Head,Cnr North Mole Dr & Rous Head Rd,NORTH FREMANTLE,6159,196.9,196.90,Ampol
 Chidlow Growers Mart Liquor Store,570 Rosedale Rd,CHIDLOW,6556,197.0,197.00,Independent
 Route 94 Bakers Hill,4641 Great Eastern Hwy,BAKERS HILL,6562,197.3,197.30,United
@@ -348,7 +346,6 @@ BP Kambalda,Lot 35 Goldfields Hwy,KAMBALDA EAST,6442,201.9,201.90,BP
 BP Newman South,101 Great Northern Hwy,NEWMAN,6753,201.9,201.90,BP
 Smart Mart Newman,Lot 1 Newman Dr,NEWMAN,6753,201.9,201.90,Shell
 Moonyoonooka Store,753 Geraldton-Mt Magnet Rd,MOONYOONOOKA,6532,202.0,202.00,Ampol
-Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,202.5,202.50,Independent
 Better Choice Como,25 Preston St,COMO,6152,203.5,203.50,Better Choice
 Vibe Toodyay Rd,2086 Toodyay Rd,GIDGEGANNUP,6083,203.7,197.50,Vibe
 Liberty Karratha,2 Cockatoo St,NICKOL,6714,203.9,203.90,Liberty
@@ -402,7 +399,6 @@ BP Dog Swamp,4 Wanneroo Rd,YOKINE,6060,209.9,199.90,BP
 Walpole IGA Pioneer Store,10 Nockolds St,WALPOLE,6398,210.0,210.00,Ampol
 BP Norseman,Lot 2 Eyre Hwy,NORSEMAN,6443,210.1,210.10,BP
 Cheynes Beach Caravan Park,12 Bald Island Rd,CHEYNES,6328,211.5,211.50,Independent
-Gracie's General,2 Bayview Dr,GRACETOWN,6284,212.0,212.00,Independent
 Crudeli's Auto Repairs,24 Maitland Rd,MULLEWA,6630,213.9,213.90,BP
 Better Choice Stratton,177 O'Connor Rd,STRATTON,6056,213.9,199.90,Better Choice
 Ampol Foodary Ascot,204 Great Eastern Hwy,ASCOT,6104,214.9,208.90,Ampol
@@ -709,10 +705,14 @@ BP Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,249.9,249.9
 Derby Fuels,46 Clarendon St,DERBY,6728,252.5,252.50,Shell
 BP Colac,138 Loch St,DERBY,6728,252.9,252.90,BP
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
+Gracie's General,2 Bayview Dr,GRACETOWN,6284,,212.00,Independent
 S24 Guildford,22 Johnson St,GUILDFORD,6055,,,Caltex
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,196.90,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Mobil Fresh Trading Co Northam,Cnr Great Eastern Hwy & Yilgarn Ave,MALABAINE,6401,,,Mobil
 Ampol Foodary Norseman,1 Princep St,NORSEMAN,6443,,,Ampol
+Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,202.50,Independent
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
 BP Connect Wembley,240 Cambridge St,WEMBLEY,6014,,,BP
+Smiths Shell Service,86 Avon Tce,YORK,6302,,195.70,Shell
