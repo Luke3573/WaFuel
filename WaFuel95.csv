@@ -99,7 +99,6 @@ Liberty Cataby,10805 Brand Hwy,CATABY,6507,198.9,192.90,Liberty
 Liberty Dongara,30215 Brand Hwy,DONGARA,6525,198.9,198.90,Liberty
 Caltex High Wycombe OPT,494 Kalamunda Rd,HIGH WYCOMBE,6057,198.9,198.90,Caltex
 Liberty Dalyellup,9 Norton Prom,DALYELLUP,6230,199.5,199.50,Liberty
-Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,199.7,199.70,Independent
 7-Eleven Eaton,15 Albatross Cres,EATON,6232,199.9,199.90,7 Eleven
 Metro Jurien Bay,74 Bashford St,JURIEN BAY,6516,199.9,199.90,Metro
 Metro Geraldton,1 Fortyn Ct,MAHOMETS FLATS,6530,199.9,199.90,Metro
@@ -156,7 +155,6 @@ Caltex Tarcoola,156 Brand Hwy,TARCOOLA BEACH,6530,206.9,204.90,Caltex
 Ampol Foodary Wonthella,40 North West Coastal Hwy,WONTHELLA,6530,206.9,206.90,Ampol
 Better Choice Malaga,3 Carson Rd,MALAGA,6090,207.5,207.50,Better Choice
 Vibe Nollamara,66 Sylvia St,NOLLAMARA,6061,207.7,207.70,Vibe
-Gull York Roadhouse,63 Avon Tce,YORK,6302,207.7,207.70,Gull
 Fruit Barn,7 South Western Hwy,DONNYBROOK,6239,208.5,208.50,Liberty
 Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,208.5,208.50,Better Choice
 Ampol Foodary Busselton,115 Strelly St,BUSSELTON,6280,208.9,208.90,Ampol
@@ -170,10 +168,8 @@ Ampol Foodary Doubleview,365 Scarborough Beach Rd,DOUBLEVIEW,6018,210.9,206.90,A
 Coles Express Albany Orana,342 Albany Hwy,ORANA,6330,210.9,206.90,Coles Express
 S24 Sawyers Valley,96 Great Eastern Hwy,SAWYERS VALLEY,6074,210.9,210.90,Caltex
 Geographe IGA,328 Marine Tce,GEOGRAPHE,6280,211.5,211.50,Liberty
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,211.5,211.50,Better Choice
 Ampol Rous Head,Cnr North Mole Dr & Rous Head Rd,NORTH FREMANTLE,6159,211.9,211.90,Ampol
 7-Eleven Cockburn Central,814 North Lake Rd,COCKBURN CENTRAL,6164,212.9,208.90,7 Eleven
-Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,212.9,212.90,Puma
 Coles Express Kununurra Roadhouse,17 Poinciana St,KUNUNURRA,6743,212.9,212.90,Coles Express
 Coles Express Dunsborough,64 Dunn Bay Rd,DUNSBOROUGH,6281,213.9,211.90,Coles Express
 Coles Express Margaret River,78 Bussell Hwy,MARGARET RIVER,6285,213.9,211.90,Coles Express
@@ -476,6 +472,10 @@ Shinju BP,101 Guy St,BROOME,6725,263.9,262.90,BP
 Cheynes Beach Caravan Park,12 Bald Island Rd,CHEYNES,6328,,,Independent
 Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,,,Better Choice
 S24 Guildford,22 Johnson St,GUILDFORD,6055,,,Caltex
+Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,,212.90,Puma
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,211.50,Better Choice
+Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,199.70,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 Caltex Upper Swan,1383 Great Northern Hwy,UPPER SWAN,6069,,,Caltex
 Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,,,Ampol
+Gull York Roadhouse,63 Avon Tce,YORK,6302,,207.70,Gull
