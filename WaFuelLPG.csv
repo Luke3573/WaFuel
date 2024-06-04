@@ -1,8 +1,7 @@
 Name,Location,Suberb,PostCode,Price Today,Price Tomorrow,Brand
 Liberty Beckenham,63 William St,BECKENHAM,6107,125.9,,Liberty
+Caltex Kiara,157 Morley Dr,KIARA,6054,125.9,,Caltex
 BP Attadale,530 Canning Hwy,ATTADALE,6156,126.9,,BP
-Caltex Kiara,157 Morley Dr,KIARA,6054,128.9,,Caltex
-BP Morley,335 Walter Rd West,MORLEY,6062,128.9,,BP
 United Ellenbrook,3 Locke Lane,ELLENBROOK,6069,129.7,,United
 United Hamilton Hill,9 Winterfold Rd,HAMILTON HILL,6163,129.7,,United
 BP Kelmscott,2907 Albany Hwy,KELMSCOTT,6111,129.7,,BP
@@ -12,7 +11,7 @@ United Myaree,182 Leach Hwy,MYAREE,6154,129.7,,United
 United Hepburn Heights,4 Walter Padbury Bvd,PADBURY,6025,129.7,,United
 United Perth Airport,Airport Dr (Cnr Paltridge Rd),PERTH AIRPORT,6105,129.7,,United
 United South Lake,49 Berrigan Dr,SOUTH LAKE,6164,129.7,,United
-Caltex Burswood,265 Great Eastern Hwy,BURSWOOD,6100,129.9,,Caltex
+Caltex Alexander Heights,200 Mirrabooka Ave,ALEXANDER HEIGHTS,6064,129.9,,Caltex
 BP Beeliar,701 Beeliar Dr,COCKBURN CENTRAL,6164,129.9,,BP
 BP Forrestfield,155 Hale Rd,FORRESTFIELD,6058,129.9,,BP
 BP Henley Brook,1520 Gnangara Rd,HENLEY BROOK,6055,129.9,,BP
@@ -22,6 +21,8 @@ EG Ampol South Lake,752 North Lake Rd,SOUTH LAKE,6164,129.9,,EG Ampol
 United East Victoria Park,916 Albany Hwy,EAST VICTORIA PARK,6101,131.7,,United
 United Kewdale,410-412 Orrong Rd,KEWDALE,6105,131.7,,United
 United Osborne Park,479 Scarborough Beach Rd,OSBORNE PARK,6017,131.7,,United
+Caltex Burswood,265 Great Eastern Hwy,BURSWOOD,6100,131.9,,Caltex
+United Northbridge,31 Fitzgerald St,NORTHBRIDGE,6003,132.9,,United
 United Leda,2 Feilman Dr,LEDA,6170,133.9,,United
 EG Ampol Southern River,466 Warton Rd,SOUTHERN RIVER,6110,133.9,,EG Ampol
 Better Choice Bellevue,177-179 Great Eastern Hwy,BELLEVUE,6056,134.5,,Better Choice
@@ -30,7 +31,6 @@ Better Choice Tuart Hill,150 Wanneroo Rd,TUART HILL,6060,134.5,,Better Choice
 Better Choice Stratton,177 O'Connor Rd,STRATTON,6056,134.9,,Better Choice
 BP Woodbridge,380 Great Eastern Hwy,WOODBRIDGE,6056,134.9,,BP
 Vibe Spearwood,333 Rockingham Rd,SPEARWOOD,6163,135.7,,Vibe
-Caltex Alexander Heights,200 Mirrabooka Ave,ALEXANDER HEIGHTS,6064,135.9,,Caltex
 BP Balcatta,53 Erindale Rd,BALCATTA,6021,135.9,,BP
 Caltex Barragup,715 Pinjarra Rd,BARRAGUP,6209,135.9,,Caltex
 BP Beldon,261 Eddystone Ave,BELDON,6027,135.9,,BP
@@ -73,8 +73,7 @@ BP Connect Ascot (WA),210 Great Eastern Hwy,ASCOT,6104,,,BP
 Vibe Beechboro,495 Beechboro Rd North,BEECHBORO,6063,,,Vibe
 Ampol Foodary Leederville,319 Vincent St,LEEDERVILLE,6007,,,Ampol
 BP Crystal Brook (Lesmurdie),7 Welshpool Rd East,LESMURDIE,6076,,,BP
-Ampol Maddington Truck Stop,18 Orchard Rd,MADDINGTON,6109,,,Ampol
 Puma Manjimup Roadhouse,1182 South Western Hwy,MANJIMUP,6258,,,Puma
+BP Morley,335 Walter Rd West,MORLEY,6062,,,BP
 United Mt Lawley,791 Beaufort St,MOUNT LAWLEY,6050,,,United
-United Northbridge,31 Fitzgerald St,NORTHBRIDGE,6003,,,United
 Ampol Foodary Yanchep,1 Morwell St,YANCHEP,6035,,,Ampol
