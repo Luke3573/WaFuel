@@ -14,6 +14,7 @@ from github import Github
 import datetime
 import time
 from subprocess import call
+import pandas as pandasForSortingCSV
 
 #INPUT TAGS
 ACCESS_TOKEN = "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"
@@ -1861,26 +1862,49 @@ def Convert():
     read_file.to_csv (r'Documents/WaFuel/WaFuelULP.csv', index = None, header=True)
     df = pb.read_csv('Documents/WaFuel/WaFuelULP.csv')
     df.to_html('WaFuel/WaFuelULP.html')
+    
+    csvData = pandasForSortingCSV.read_csv("Documents/WaFuel/WaFuelULP.csv")
+    csvData.sort_values(["Price Tomorrow"], axis=0, inplace=True)
+    csvData.to_csv("Documents/WaFuel/WaFuelULPsort.csv")
 
     read_file = pb.read_excel(r'WaFuel95.xlsx')
     read_file.to_csv(r'Documents/WaFuel/WaFuel95.csv', index=None, header=True)
     df = pb.read_csv('Documents/WaFuel/WaFuel95.csv')
     df.to_html('WaFuel/WaFuel95.html')
+    
+    csvData = pandasForSortingCSV.read_csv("Documents/WaFuel/WaFuel95.csv")
+    csvData.sort_values(["Price Tomorrow"], axis=0, inplace=True)
+    csvData.to_csv("Documents/WaFuel/WaFuel95sort.csv")
+
 
     read_file = pb.read_excel(r'WaFuel98.xlsx')
     read_file.to_csv(r'Documents/WaFuel/WaFuel98.csv', index=None, header=True)
     df = pb.read_csv('Documents/WaFuel/WaFuel98.csv')
     df.to_html('WaFuel/WaFuel98.html')
 
+    csvData = pandasForSortingCSV.read_csv("Documents/WaFuel/WaFuel98.csv")
+    csvData.sort_values(["Price Tomorrow"], axis=0, inplace=True)
+    csvData.to_csv("Documents/WaFuel/WaFuel98sort.csv")
+
     read_file = pb.read_excel(r'WaFuelDSL.xlsx')
     read_file.to_csv(r'Documents/WaFuel/WaFuelDSL.csv', index=None, header=True)
     df = pb.read_csv('Documents/WaFuel/WaFuelDSL.csv')
     df.to_html('WaFuel/WaFuelDSL.html')
+    
+    csvData = pandasForSortingCSV.read_csv("Documents/WaFuel/WaFuelDSL.csv")
+    csvData.sort_values(["Price Tomorrow"], axis=0, inplace=True)
+    csvData.to_csv("Documents/WaFuel/WaFuelDSLsort.csv")
+
 
     read_file = pb.read_excel(r'WaFuelLPG.xlsx')
     read_file.to_csv(r'Documents/WaFuel/WaFuelLPG.csv', index=None, header=True)
     df = pb.read_csv('Documents/WaFuel/WaFuelLPG.csv')
     df.to_html('WaFuel/WaFuelLPG.html')
+    
+    csvData = pandasForSortingCSV.read_csv("Documents/WaFuel/WaFuelLPG.csv")
+    csvData.sort_values(["Price Tomorrow"], axis=0, inplace=True)
+    csvData.to_csv("Documents/WaFuel/WaFuelLPGsort.csv")
+
 
 def UpLoad_ULP(access_tocken, github_repo, git_branch, initial_file, folder_empl_in_git):
     g = Github(access_tocken)
