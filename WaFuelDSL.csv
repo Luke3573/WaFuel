@@ -7,7 +7,6 @@ Vibe Ascot,268 Great Eastern Hwy,ASCOT,6104,159.5,159.5,Vibe
 Vibe Kwinana OPT,Cnr Mandurah Rd & Beach St,KWINANA BEACH,6167,159.5,158.7,Vibe
 Liberty Naval Base,24 Dooley St,NAVAL BASE,6165,159.5,159.5,Liberty
 United Naval Base,13 Lionel St,NAVAL BASE,6165,159.5,159.5,United
-Atlas Fuel Wanneroo,951 Wanneroo Rd,WANNEROO,6065,159.5,159.5,Atlas
 Liberty Busselton West,100 West St,WEST BUSSELTON,6280,159.5,159.5,Liberty
 Liberty East Rockingham,115 Dixon Rd,EAST ROCKINGHAM,6168,159.9,159.9,Liberty
 Vibe Kwinana Town Centre,6 Chisham Ave,KWINANA TOWN CENTRE,6167,159.9,163.5,Vibe
@@ -19,7 +18,6 @@ Burk Broadwater,545 Bussell Hwy,BROADWATER,6280,161.3,161.3,BURK
 Burk Camillo,Cnr Westfield Rd & Ypres Rd,CAMILLO,6111,161.3,161.3,BURK
 Burk Malaga,1 Harlond Ave,MALAGA,6090,161.3,161.3,BURK
 Liberty Dalyellup,9 Norton Prom,DALYELLUP,6230,161.5,161.5,Liberty
-Atlas Fuel Thornlie,223 Yale Rd,THORNLIE,6108,162.5,159.5,Atlas
 FastFuel 24/7,54 Cumberland Rd,FORRESTFIELD,6058,162.9,162.9,FastFuel
 Burk Alkimos,12 Longstaff Ave,ALKIMOS,6038,163.3,163.3,BURK
 Vibe Beechboro,495 Beechboro Rd North,BEECHBORO,6063,163.3,163.3,Vibe
@@ -166,7 +164,6 @@ Shell Coles Express Waikiki,1-9 Gnangara Dr,WAIKIKI,6169,173.9,173.9,Coles Expre
 Shell Coles Express Wanneroo Pearsall,621 Wanneroo Rd,WANNEROO,6065,173.9,173.9,Coles Express
 Shell Reddy Express West Perth,30 Thomas St,WEST PERTH,6005,173.9,173.9,
 Dardanup Garage & Service Station,11 Charlotte St,DARDANUP,6236,174.0,174.0,Independent
-Petro Fuels Denmark,69 South Coast Hwy,DENMARK,6333,174.8,174.8,Shell
 BP Cunderdin Roadhouse,Lot 6 Great Eastern Hwy,CUNDERDIN,6407,174.9,174.9,BP
 Shell Coles Express Dianella,67 Walter Rd West,DIANELLA,6059,174.9,174.9,Coles Express
 Shell Reddy Express Jolimont,6 Jersey St,JOLIMONT,6014,174.9,174.9,
@@ -334,6 +331,7 @@ Better Choice Como,25 Preston St,COMO,6152,,182.5,Better Choice
 Vibe Coolgardie,1 Bayley St,COOLGARDIE,6429,,192.7,Vibe
 Vibe Placid Ark Roadhouse,6947 South Western Hwy,COOLUP,6214,,169.7,Vibe
 Shell Reddy Express Dampier,47 Church Rd,DAMPIER,6713,,186.9,
+Petro Fuels Denmark,69 South Coast Hwy,DENMARK,6333,,174.8,Shell
 Vibe Donnybrook,45 South Western Hwy,DONNYBROOK,6239,,169.7,Vibe
 BP Dunsborough,238 Naturaliste Tce,DUNSBOROUGH,6281,,175.9,BP
 Vibe Bunbury Strickland St,81 King Rd,EAST BUNBURY,6230,,169.7,Vibe
@@ -418,9 +416,11 @@ United Southern River,Lot 101 Terrier Pl,SOUTHERN RIVER,6110,,175.7,United
 Caltex Lakes Road Nambeelup,6 Dollyup Street,STAKE HILL,6181,,172.9,Caltex
 Vibe Subiaco,123 Thomas St,SUBIACO,6008,,173.7,Vibe
 United Swanbourne,2 Servetus St,SWANBOURNE,6010,,186.9,United
+Atlas Fuel Thornlie,223 Yale Rd,THORNLIE,6108,,159.5,Atlas
 Shell Reddy Express Vasse,2 Napoleon Prom,VASSE,6280,,164.9,
 Walkaway General Store,1 Evans Rd,WALKAWAY,6528,,175.0,Independent
 BP Walpole,18 Nockolds St,WALPOLE,6398,,181.9,BP
+Atlas Fuel Wanneroo,951 Wanneroo Rd,WANNEROO,6065,,159.5,Atlas
 Vibe Wanneroo,964 Wanneroo Rd,WANNEROO,6065,,159.5,Vibe
 Waroona Roadhouse,32 South Western Hwy,WAROONA,6215,,171.9,Puma
 Gull Waterloo,14270 South Western Hwy,WATERLOO,6228,,,Gull
