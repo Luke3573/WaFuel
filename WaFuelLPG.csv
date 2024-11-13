@@ -14,7 +14,6 @@ United Myaree,182 Leach Hwy,MYAREE,6154,129.7,129.7,United
 United Northbridge,31 Fitzgerald St,NORTHBRIDGE,6003,129.7,129.7,United
 United Hepburn Heights,4 Walter Padbury Bvd,PADBURY,6025,129.7,129.7,United
 United Perth Airport,Airport Dr (Cnr Paltridge Rd),PERTH AIRPORT,6105,129.7,129.7,United
-United South Lake,49 Berrigan Dr,SOUTH LAKE,6164,129.7,129.7,United
 Caltex Alexander Heights,200 Mirrabooka Ave,ALEXANDER HEIGHTS,6064,129.9,129.9,Caltex
 Caltex Burswood,265 Great Eastern Hwy,BURSWOOD,6100,129.9,129.9,Caltex
 BP Beeliar,701 Beeliar Dr,COCKBURN CENTRAL,6164,129.9,129.9,BP
@@ -30,7 +29,6 @@ Better Choice Stratton,177 O'Connor Rd,STRATTON,6056,134.9,134.9,Better Choice
 BP Woodbridge,380 Great Eastern Hwy,WOODBRIDGE,6056,134.9,134.9,BP
 Vibe Spearwood,333 Rockingham Rd,SPEARWOOD,6163,135.7,135.7,Vibe
 United Leda,2 Feilman Dr,LEDA,6170,135.9,135.9,United
-Better Choice Malaga,3 Carson Rd,MALAGA,6090,135.9,135.9,Better Choice
 Caltex Naval Base,Cnr Rockingham Rd & Lee Rd,NAVAL BASE,6165,135.9,135.9,Caltex
 EG Ampol Osborne Park,401 Scarborough Beach Rd,OSBORNE PARK,6017,135.9,136.9,EG Ampol
 Astron Quinns Rocks,121 Quinns Rd,QUINNS ROCKS,6030,135.9,135.9,Astron
@@ -58,10 +56,12 @@ Ampol Foodary Eaton,1 Pratt Rd,EATON,6232,,,Ampol
 Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,141.9,Better Choice
 Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,138.9,Independent
 Ampol Foodary Leederville,319 Vincent St,LEEDERVILLE,6007,,,Ampol
+Better Choice Malaga,3 Carson Rd,MALAGA,6090,,135.9,Better Choice
 Puma Manjimup Roadhouse,1182 South Western Hwy,MANJIMUP,6258,,,Puma
 Narrogin Gasworx,22 Fairway St,NARROGIN,6312,,174.5,Independent
 Astron Roleystone,11 Wygonda Rd,ROLEYSTONE,6111,,129.9,Astron
 Ampol Foodary Secret Harbour,420 Secret Harbour Bvd,SECRET HARBOUR,6173,,,Ampol
+United South Lake,49 Berrigan Dr,SOUTH LAKE,6164,,129.7,United
 BOC Gas & Gear,287 Place Rd,WEBBERTON,6530,,184.5,
 Ampol Foodary Forrest Highway North,Lot 602 Forrest Hwy,WEST PINJARRA,6208,,,Ampol
 Ampol Foodary Forrest Highway South,Lot 601 Forrest Hwy,WEST PINJARRA,6208,,,Ampol
