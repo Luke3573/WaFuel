@@ -47,7 +47,6 @@ Vibe Bullsbrook Northlink,1769 Neaves Rd,BULLSBROOK,6084,181.3,181.3,Vibe
 Liberty Dalyellup,9 Norton Prom,DALYELLUP,6230,181.5,181.5,Liberty
 X Convenience Erskine,2 Wattleglen Ave,ERSKINE,6210,181.5,181.5,X Convenience
 Vibe Forrestfield,159 Milner Rd,FORRESTFIELD,6058,181.5,181.5,Vibe
-Metro Bassendean,2/335 Collier Rd,BASSENDEAN,6054,181.7,181.5,Metro
 Petro Fuels Calista,103 Calista Ave,CALISTA,6167,181.8,181.8,Liberty
 Ampol Foodary Kwinana,Cnr Mandurah Rd & Wellard Rd,KWINANA BEACH,6167,181.9,177.9,Ampol
 United Kewdale,410-412 Orrong Rd,KEWDALE,6105,182.3,180.5,United
@@ -101,7 +100,6 @@ BP Malaga,370 Victoria Rd,MALAGA,6090,185.9,185.9,BP
 Atlas Fuel Midvale,227 Morrison Rd,MIDVALE,6056,185.9,185.9,Atlas
 Vibe Morley,430 Morley Dr,MORLEY,6062,185.9,181.9,Vibe
 Shell Reddy Express Vasse,2 Napoleon Prom,VASSE,6280,185.9,185.9,
-Atlas Fresh Trading Co Northam,Cnr Great Eastern Hwy & Yilgarn Ave,MALABAINE,6401,186.7,186.7,Atlas
 Vibe Spearwood,333 Rockingham Rd,SPEARWOOD,6163,186.7,185.7,Vibe
 Petro Fuels Baldivis,2/909 Mandurah Rd,BALDIVIS,6171,186.8,186.8,Petro
 Petro Fuels Karragullen,1287 Brookton Hwy,KARRAGULLEN,6111,186.8,186.8,Petro
@@ -348,7 +346,6 @@ Waroona Roadhouse,32 South Western Hwy,WAROONA,6215,190.9,190.9,Puma
 BP Kenwick,48 Courtney Pl,WATTLE GROVE,6107,190.9,190.9,BP
 7-Eleven Withers,1 Island Queen St,WITHERS,6230,190.9,190.9,7 Eleven
 Caltex Lakes Road Nambeelup,6 Dollyup Street,STAKE HILL,6181,191.5,191.5,Caltex
-Puma Belmont,33 Belvidere St,BELMONT,6104,191.7,189.7,Puma
 Vibe Placid Ark Roadhouse,6947 South Western Hwy,COOLUP,6214,191.7,189.7,Vibe
 Vibe Waroona,89 South Western Hwy,WAROONA,6215,191.7,191.7,Vibe
 Petro Fuels Shoalwater,113-121 Safety Bay Rd,SHOALWATER,6169,191.8,191.8,Caltex
@@ -428,12 +425,10 @@ Shell Coles Express Kwinana Beach,4 Beach St,KWINANA BEACH,6167,192.9,192.9,Cole
 Shell Reddy Express Maddington,117 Burslem Dr,MADDINGTON,6109,192.9,192.9,
 Shell Reddy Express Middle Swan,Lot 46 Great Northern Hwy,MIDDLE SWAN,6056,192.9,192.9,
 BP Mindarie,360 Anchorage Dr North,MINDARIE,6030,192.9,192.9,BP
-Whalley's United Beachway,260 Middleton Rd,MIRA MAR,6330,192.9,192.9,United
 Whalley's United Uberwash,225-227 Albany Hwy,MOUNT MELVILLE,6330,192.9,192.9,United
 Shell Coles Express Mount Pleasant,1 The Esplanade,MOUNT PLEASANT,6153,192.9,192.9,Coles Express
 BP Mullaloo,101 Dampier Av,MULLALOO,6027,192.9,192.9,BP
 Shell Narrogin,44 Egerton St,NARROGIN,6312,192.9,192.9,Shell
-EG Ampol Northam,86 Wellington St,NORTHAM,6401,192.9,188.9,EG Ampol
 EG Ampol Osborne Park,401 Scarborough Beach Rd,OSBORNE PARK,6017,192.9,188.9,EG Ampol
 Shell Reddy Express Perth,480 William St,PERTH,6000,192.9,192.9,
 53 Mile Roadhouse,31 South Western Hwy,PINJARRA,6208,192.9,192.9,United
@@ -477,7 +472,6 @@ BP Ballajura,2 Illawarra Cres North,BALLAJURA,6066,194.9,194.9,BP
 BP Baskerville,1084 Great Northern Hwy,BASKERVILLE,6056,194.9,194.9,BP
 BP Bibra Lake,2 Wellard St,BIBRA LAKE,6163,194.9,194.9,BP
 Caltex Binningup,7080 Forrest Hwy,BINNINGUP,6233,194.9,194.9,Caltex
-Carbunup River Store,6672 Bussell Hwy,CARBUNUP RIVER,6280,194.9,194.9,Independent
 EG Ampol Dianella,372 Grand Prom,DIANELLA,6059,194.9,190.9,EG Ampol
 BP Donnybrook,15 South Western Hwy,DONNYBROOK,6239,194.9,194.9,BP
 BP East Rockingham,137 Dixon Rd,EAST ROCKINGHAM,6168,194.9,194.9,BP
@@ -515,7 +509,6 @@ Ampol Foodary O'Connor,309 Stock Rd,O'CONNOR,6163,195.9,190.9,Ampol
 Shell Reddy Express Albany Orana,342 Albany Hwy,ORANA,6330,195.9,195.9,
 BP Spencer Park Service Station,30 Angove Rd,SPENCER PARK,6330,195.9,195.9,BP
 Ampol Foodary Yangebup,289 Beeliar Dr,YANGEBUP,6164,195.9,190.9,Ampol
-Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,196.5,196.5,Better Choice
 Refuel Australia - Sunset Geraldton,620 Chapman Rd,GLENFIELD,6532,196.8,196.8,Ampol
 Little Grove General Store,639 Frenchmans Bay Rd,LITTLE GROVE,6330,196.8,196.8,Shell
 Refuel Australia - Geraldton Flores Road,120 Flores Rd,WEBBERTON,6530,196.8,196.8,Ampol
@@ -546,14 +539,12 @@ Ampol Foodary Williams,56 Albany Hwy,WILLIAMS,6391,197.9,197.9,Ampol
 Caltex Wooroloo,3381 Great Eastern Hwy,WUNDOWIE,6558,197.9,189.9,Caltex
 Ampol Foodary North Road,204 North Rd,YAKAMIA,6330,197.9,197.9,Ampol
 Bakers Food and Fuel,46458 South Coast Hwy,KING RIVER,6330,198.0,198.0,Liberty
-BP Augusta,64 Blackwood Ave,AUGUSTA,6290,198.9,198.9,BP
 Binningup General Store,21 Coronation Dr,BINNINGUP,6233,198.9,198.9,Independent
 BP Karratha Service Station,30 Balmoral Rd,KARRATHA,6714,198.9,198.9,BP
 Shell Lower King Liquor & General,629 Lower King Rd,LOWER KING,6330,198.9,198.9,Shell
 Dunning's Manjimup,5 Margerison St,MANJIMUP,6258,198.9,198.9,
 Ampol Narrogin,12 Clayton Rd,NARROGIN,6312,198.9,198.9,Ampol
 Ampol Foodary Karratha,Lot 3861 Bathgate Rd,NICKOL,6714,198.9,198.9,Ampol
-Vibe Bridgetown,169 Hampton St,BRIDGETOWN,6255,199.7,199.7,Vibe
 Petro Fuels Denmark,69 South Coast Hwy,DENMARK,6333,199.8,199.8,Shell
 BP Cunderdin Roadhouse,Lot 6 Great Eastern Hwy,CUNDERDIN,6407,199.9,199.9,BP
 Liberty East Rockingham,115 Dixon Rd,EAST ROCKINGHAM,6168,199.9,179.9,Liberty
@@ -561,7 +552,6 @@ BP Karratha West,Lot 9 Resource Rd,GAP RIDGE,6714,199.9,199.9,BP
 Metro Jurien Bay,74 Bashford St,JURIEN BAY,6516,199.9,199.9,Metro
 Ampol Meckering Roadhouse,31 Dreyer St,MECKERING,6405,199.9,199.9,Ampol
 Liberty O'Connor,9 Pritchard St,O'CONNOR,6163,199.9,185.9,Liberty
-United Swanbourne,2 Servetus St,SWANBOURNE,6010,199.9,199.9,United
 BP Roadhouse Bridgetown,43 Hampton St,BRIDGETOWN,6255,200.9,200.9,BP
 Shell Coles Express Dunsborough,64 Dunn Bay Rd,DUNSBOROUGH,6281,200.9,200.9,Coles Express
 Caltex Glenfield,1182 Chapman Rd,GLENFIELD,6532,200.9,200.9,Caltex
@@ -587,7 +577,6 @@ Shell Gidgegannup,2095 Toodyay Rd,GIDGEGANNUP,6083,204.9,199.9,Shell
 BP Golden Gate,438 Hannan St,KALGOORLIE,6430,204.9,204.9,BP
 Smart Mart Newman,Lot 1 Newman Dr,NEWMAN,6753,204.9,204.9,Shell
 Caltex Piccadilly,7 Maritana St,PICCADILLY,6430,204.9,204.9,Caltex
-BP Walpole,18 Nockolds St,WALPOLE,6398,204.9,204.9,BP
 Hills Emporio,1615 Canning Rd,KARRAGULLEN,6111,205.9,205.9,Independent
 Ampol Foodary Kalgoorlie South,146 Boulder Rd,SOUTH KALGOORLIE,6430,205.9,205.9,Ampol
 Dardanup Garage & Service Station,11 Charlotte St,DARDANUP,6236,206.0,206.0,Independent
@@ -616,23 +605,34 @@ BP Norseman,Lot 2 Eyre Hwy,NORSEMAN,6443,222.8,222.8,BP
 BP Ravensthorpe,47 Morgans St,RAVENSTHORPE,6346,225.9,225.9,BP
 GSG WA Pty Ltd,111 Morgans St,RAVENSTHORPE,6346,225.9,225.9,Shell
 Ampol Foodary Norseman,1 Princep St,NORSEMAN,6443,226.9,226.9,Ampol
-BP Port Hedland,90 Anderson St,PORT HEDLAND,6721,233.0,233.0,BP
 Ampol Foodary Exmouth,77 Maidstone Cr,EXMOUTH,6707,242.9,242.9,Ampol
-Dunning's Broome,7 Clementson St,BROOME,6725,245.9,245.9,Shell
 BP Broome Central Service Centre,2 Coghlan St,DJUGUN,6725,249.9,249.9,BP
+BP Augusta,64 Blackwood Ave,AUGUSTA,6290,,198.9,BP
+Metro Bassendean,2/335 Collier Rd,BASSENDEAN,6054,,181.5,Metro
+Puma Belmont,33 Belvidere St,BELMONT,6104,,189.7,Puma
+Vibe Bridgetown,169 Hampton St,BRIDGETOWN,6255,,199.7,Vibe
+Dunning's Broome,7 Clementson St,BROOME,6725,,245.9,Shell
 GD's Brunswick Roadhouse,94 Ommaney Rd,BRUNSWICK,6224,,195.9,Ampol
 Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,,205.0,Shell
 7-Eleven Canning Vale,215 Campbell Rd,CANNING VALE,6155,,,7 Eleven
+Carbunup River Store,6672 Bussell Hwy,CARBUNUP RIVER,6280,,194.9,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,196.5,Better Choice
 Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,198.9,Independent
 Hi-Way Sales & Service 1982,154 Albany Hwy,KOJONUP,6395,,,Ampol
 Caltex Kelvin Rd,137 Kelvin Rd,MADDINGTON,6109,,,Caltex
+Atlas Fresh Trading Co Northam,Cnr Great Eastern Hwy & Yilgarn Ave,MALABAINE,6401,,186.7,Atlas
+Whalley's United Beachway,260 Middleton Rd,MIRA MAR,6330,,192.9,United
 Moonyoonooka Store,753 Geraldton-Mt Magnet Rd,MOONYOONOOKA,6532,,205.0,Ampol
 Dunning's Carnarvon,125 Robinson St,MORGANTOWN,6701,,,Shell
+EG Ampol Northam,86 Wellington St,NORTHAM,6401,,188.9,EG Ampol
 Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,,Independent
 Ampol Picton Depot With Front,1 Wimbridge Rd,PICTON,6229,,,Ampol
+BP Port Hedland,90 Anderson St,PORT HEDLAND,6721,,233.0,BP
 BP South Bunbury,188 Spencer St,SOUTH BUNBURY,6230,,,BP
+United Swanbourne,2 Servetus St,SWANBOURNE,6010,,199.9,United
 Caltex Victoria Park,162-170 Albany Hwy,VICTORIA PARK,6100,,,Caltex
+BP Walpole,18 Nockolds St,WALPOLE,6398,,204.9,BP
 Caltex Wangara,1 Brady St,WANGARA,6065,,,Caltex
 Ampol Foodary Wonthella,40 North West Coastal Hwy,WONTHELLA,6530,,,Ampol
 Smiths Shell Service,86 Avon Tce,YORK,6302,,,Shell
