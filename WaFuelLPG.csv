@@ -13,12 +13,10 @@ United Myaree,182 Leach Hwy,MYAREE,6154,129.7,129.7,United
 United Northbridge,31 Fitzgerald St,NORTHBRIDGE,6003,129.7,129.7,United
 United Hepburn Heights,4 Walter Padbury Bvd,PADBURY,6025,129.7,129.7,United
 United Perth Airport,Airport Dr (Cnr Paltridge Rd),PERTH AIRPORT,6105,129.7,129.7,United
-United South Lake,49 Berrigan Dr,SOUTH LAKE,6164,129.7,129.7,United
 Caltex Burswood,265 Great Eastern Hwy,BURSWOOD,6100,129.9,129.9,Caltex
 BP Forrestfield,155 Hale Rd,FORRESTFIELD,6058,129.9,129.9,BP
 Caltex Kiara,157 Morley Dr,KIARA,6054,129.9,129.9,Caltex
 BP Redcliffe,419 Great Eastern Hwy,REDCLIFFE,6104,129.9,129.9,BP
-Astron Roleystone,11 Wygonda Rd,ROLEYSTONE,6111,129.9,129.9,Astron
 EG Ampol South Lake,752 North Lake Rd,SOUTH LAKE,6164,133.9,133.9,EG Ampol
 EG Ampol Southern River,466 Warton Rd,SOUTHERN RIVER,6110,133.9,133.9,EG Ampol
 Better Choice Bellevue,177-179 Great Eastern Hwy,BELLEVUE,6056,134.5,134.5,Better Choice
@@ -29,7 +27,6 @@ Caltex Alexander Heights,200 Mirrabooka Ave,ALEXANDER HEIGHTS,6064,135.9,135.9,C
 BP Beeliar,701 Beeliar Dr,COCKBURN CENTRAL,6164,135.9,135.9,BP
 BP Henley Brook,1520 Gnangara Rd,HENLEY BROOK,6055,135.9,135.9,BP
 United Leda,2 Feilman Dr,LEDA,6170,135.9,135.9,United
-Better Choice Malaga,3 Carson Rd,MALAGA,6090,135.9,135.9,Better Choice
 Caltex Naval Base,Cnr Rockingham Rd & Lee Rd,NAVAL BASE,6165,135.9,135.9,Caltex
 Astron Quinns Rocks,121 Quinns Rd,QUINNS ROCKS,6030,135.9,135.9,Astron
 Better Choice Tuart Hill,150 Wanneroo Rd,TUART HILL,6060,135.9,135.9,Better Choice
@@ -55,10 +52,13 @@ Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,141.9,Better
 Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,144.9,Independent
 Ampol Foodary Carnarvon,595 Robinson St,KINGSFORD,6701,,,Ampol
 Ampol Foodary Leederville,319 Vincent St,LEEDERVILLE,6007,,,Ampol
+Better Choice Malaga,3 Carson Rd,MALAGA,6090,,135.9,Better Choice
 Puma Manjimup Roadhouse,1182 South Western Hwy,MANJIMUP,6258,,,Puma
 Narrogin Gasworx,22 Fairway St,NARROGIN,6312,,174.5,Independent
 United Osborne Park,479 Scarborough Beach Rd,OSBORNE PARK,6017,,,United
+Astron Roleystone,11 Wygonda Rd,ROLEYSTONE,6111,,129.9,Astron
 Ampol Foodary Secret Harbour,420 Secret Harbour Bvd,SECRET HARBOUR,6173,,,Ampol
+United South Lake,49 Berrigan Dr,SOUTH LAKE,6164,,129.7,United
 BOC Gas & Gear,287 Place Rd,WEBBERTON,6530,,184.5,
 Ampol Foodary Forrest Highway North,Lot 602 Forrest Hwy,WEST PINJARRA,6208,,,Ampol
 Ampol Foodary Forrest Highway South,Lot 601 Forrest Hwy,WEST PINJARRA,6208,,,Ampol
