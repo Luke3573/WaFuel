@@ -256,7 +256,6 @@ BP Dunsborough,238 Naturaliste Tce,DUNSBOROUGH,6281,177.9,177.9,BP
 Shell Coles Express Dunsborough,64 Dunn Bay Rd,DUNSBOROUGH,6281,177.9,177.9,Coles Express
 Shell Gidgegannup,2095 Toodyay Rd,GIDGEGANNUP,6083,177.9,177.9,Shell
 Shell Reddy Express Girrawheen,60 Marangaroo Dr,GIRRAWHEEN,6064,177.9,177.9,
-Hills Emporio,1615 Canning Rd,KARRAGULLEN,6111,177.9,177.9,Independent
 Shell Reddy Express Kingsley,47 Renegade Way,KINGSLEY,6026,177.9,177.9,
 Shell Coles Express Leeming,29/51 Farrington St,LEEMING,6149,177.9,177.9,Coles Express
 Shell Reddy Express Malaga,492 Alexander Dr,MALAGA,6090,177.9,177.9,
@@ -290,7 +289,6 @@ BP Baldivis Southbound Travel Centre,Lot 192 Leary Rd,BALDIVIS,6171,179.9,179.9,
 BP Baskerville,1084 Great Northern Hwy,BASKERVILLE,6056,179.9,179.9,BP
 Shell Coles Express Beeliar,8 Durnin Ave,BEELIAR,6164,179.9,179.9,Coles Express
 BP Roadhouse Bridgetown,43 Hampton St,BRIDGETOWN,6255,179.9,179.9,BP
-GD's Brunswick Roadhouse,94 Ommaney Rd,BRUNSWICK,6224,179.9,179.9,Ampol
 Colroy Country Kitchen,93 Capel Dr,CAPEL,6271,179.9,179.9,Ampol
 Shell Coles Express Clarkson,36 Ocean Keys Bvd,CLARKSON,6030,179.9,179.9,Coles Express
 Shell Reddy Express Collie,57 Johnston St,COLLIE,6225,179.9,179.9,
@@ -349,10 +347,8 @@ Hillview Roadhouse and Motel,47 Albany Hwy,KOJONUP,6395,184.9,184.9,Shell
 CGL Fuel,3 Bandicoot Dr,KUNUNURRA,6743,184.9,184.9,CGL Fuel
 Del Park Roadhouse,4267 South Western Hwy,NORTH DANDALUP,6207,184.9,184.9,Ampol
 Shell Reddy Express Scarborough,205 West Coast Hwy,SCARBOROUGH,6019,184.9,184.9,
-United Swanbourne,2 Servetus St,SWANBOURNE,6010,184.9,184.9,United
 Shell Reddy Express South Hedland Roadhouse,Lot 5553 Great Northern Hwy,WEDGEFIELD,6721,184.9,184.9,
 Manypeaks Store,43738 South Coast Hwy,MANYPEAKS,6328,185.0,185.0,BP
-Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,185.7,185.7,Puma
 Shell Reddy Express Claremont,269 Stirling Hwy,CLAREMONT,6010,185.9,185.9,
 Shell Reddy Express Dampier,47 Church Rd,DAMPIER,6713,185.9,185.9,
 WA Fuel Karratha,1031 Mardie Rd,KARRATHA INDUSTRIAL ESTATE,6714,185.9,185.9,WA Fuel
@@ -388,7 +384,6 @@ Cape Agencies,20 Windsor Rd,WELLSTEAD,6328,194.0,194.0,Ampol
 Refuel Australia - Meekatharra,81 Oliver St,MEEKATHARRA,6642,194.8,194.8,Ampol
 BP Port Hedland Boulevard,150 Anderson St,PORT HEDLAND,6721,195.9,195.9,BP
 Shell Reddy Express Port Hedland,Lot 2065 Wilson St,PORT HEDLAND,6721,195.9,195.9,
-Gracie's General,2 Bayview Dr,GRACETOWN,6284,199.0,199.0,Independent
 Shell Reddy Express Meekatharra Roadhouse,Lot 821 Main St,MEEKATHARRA,6642,199.9,199.9,
 Meekatharra Caravan Park,119 Main St,MEEKATHARRA,6642,200.9,200.9,Independent
 Ampol Foodary Norseman,1 Princep St,NORSEMAN,6443,202.9,202.9,Ampol
@@ -418,8 +413,12 @@ Fitzroy River Lodge,Lot 277 Great Northern Hwy,FITZROY CROSSING,6765,235.0,235.0
 Derby Fuels,46 Clarendon St,DERBY,6728,235.5,235.5,Shell
 BP Fitzroy Crossing,Lot 315 Great Northern Hwy,FITZROY CROSSING,6765,235.5,235.5,BP
 BP Colac,138 Loch St,DERBY,6728,235.9,235.9,BP
+GD's Brunswick Roadhouse,94 Ommaney Rd,BRUNSWICK,6224,,179.9,Ampol
 Shell Bullsbrook,2539 Great Northern Hwy,BULLSBROOK,6084,,175.0,Shell
+Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,,185.7,Puma
+Gracie's General,2 Bayview Dr,GRACETOWN,6284,,199.0,Independent
 Liberty Kalgoorlie,69-71 Wilson St,KALGOORLIE,6430,,,Liberty
+Hills Emporio,1615 Canning Rd,KARRAGULLEN,6111,,177.9,Independent
 Karridale Crossroads General Store,12425 Bussell Hwy,KARRIDALE,6288,,178.9,Independent
 Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,167.9,Independent
 Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
@@ -429,6 +428,7 @@ Northcliffe Farm and Trade,6 Windy Harbour Rd,NORTHCLIFFE,6262,,182.9,Independen
 86 On South,86 South Coast Hwy,ORANA,6330,,,Independent
 Ampol Picton Depot With Front,1 Wimbridge Rd,PICTON,6229,,,Ampol
 BP South Bunbury,188 Spencer St,SOUTH BUNBURY,6230,,171.9,BP
+United Swanbourne,2 Servetus St,SWANBOURNE,6010,,184.9,United
 Walkaway General Store,1 Evans Rd,WALKAWAY,6528,,176.0,Independent
 Gull Waterloo,14270 South Western Hwy,WATERLOO,6228,,,Gull
 Ampol Foodary Wonthella,40 North West Coastal Hwy,WONTHELLA,6530,,,Ampol
