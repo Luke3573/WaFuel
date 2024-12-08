@@ -446,38 +446,38 @@
 443,Caltex Glenfield,1182 Chapman Rd,GLENFIELD,6532,192.9,192.9,Caltex
 444,Caltex Tarcoola,156 Brand Hwy,TARCOOLA BEACH,6530,192.9,192.9,Caltex
 445,Shell Reddy Express Boulder,35 Frank St,BOULDER,6432,193.9,193.9,
-452,Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,197.9,193.9,Puma
+451,Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,197.9,193.9,Puma
 446,Shell Coles Express Dunsborough,64 Dunn Bay Rd,DUNSBOROUGH,6281,194.9,194.9,Coles Express
 447,FDWA Cunderdin,67 Lundy Ave,CUNDERDIN,6407,195.0,195.0,Independent
-448,Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,195.1,195.1,Puma
-449,Ampol Foodary Esperance,59 Dempster St,ESPERANCE,6450,196.9,196.9,Ampol
-450,Shell Reddy Express Esperance,25 Andrew St,ESPERANCE,6450,196.9,196.9,
-451,EG Ampol Manjimup,89 Mottram St,MANJIMUP,6258,196.9,196.9,EG Ampol
-453,Kambalda Roadhouse,2 Bluebush Rd,KAMBALDA WEST,6442,197.9,197.9,Liberty
-454,Ampol Foodary Kalgoorlie South,146 Boulder Rd,SOUTH KALGOORLIE,6430,197.9,197.9,Ampol
-455,Ampol Foodary Newman,Lot 1328 Newman Dr,NEWMAN,6753,198.9,198.9,Ampol
-456,Ampol Foodary Kalgoorlie,581 Hannan St,SOMERVILLE,6430,198.9,198.9,Ampol
-457,Shell Reddy Express Kununurra Roadhouse,17 Poinciana St,KUNUNURRA,6743,200.9,200.9,
-459,BP South Hedland,2 Throssell Rd,SOUTH HEDLAND,6722,202.9,202.9,BP
-458,Ampol Foodary South Hedland,67 Hamilton Rd,SOUTH HEDLAND,6722,202.9,202.9,Ampol
-460,Caltex Dalwallinu,4 Johnston St,DALWALLINU,6609,204.9,204.9,Caltex
-461,Ampol Foodary Coolgardie,110-114 Bayley St,COOLGARDIE,6429,206.9,206.9,Ampol
-462,Caltex South Hedland,1 Altitude Ave,PORT HEDLAND,6721,206.9,206.9,Caltex
-463,BP Port Hedland Boulevard,150 Anderson St,PORT HEDLAND,6721,209.9,209.9,BP
-464,EG Ampol Carnarvon,90 Robinson St,CARNARVON,6701,210.9,210.9,EG Ampol
-465,Ampol Foodary Carnarvon,595 Robinson St,KINGSFORD,6701,210.9,210.9,Ampol
-466,Shell Reddy Express South Hedland Roadhouse,Lot 5553 Great Northern Hwy,WEDGEFIELD,6721,210.9,210.9,
-467,Ningaloo Reef Fuels,6 Pelias St,EXMOUTH,6707,223.9,223.9,Independent
-468,S-Bend Caravan Park,27 Company Rd,SOUTH GREENOUGH,6528,225.0,225.0,Liberty
-469,Exmouth Fuel Supplies,2 Huston St,EXMOUTH,6707,230.8,230.8,Independent
-470,Ampol Foodary Exmouth,77 Maidstone Cr,EXMOUTH,6707,230.9,230.9,Ampol
-471,Ampol Foodary Broome,50 Mavis Rd,BILINGURR,6725,236.9,236.9,Ampol
-472,United Broome,49 Reid Rd,CABLE BEACH,6726,238.5,238.5,United
-473,EG Ampol Djugun,106 Frederick St,DJUGUN,6725,244.9,244.9,EG Ampol
-474,BP Shinju Broome,101 Guy St,BROOME,6725,246.9,246.9,BP
-475,Shell Reddy Express Broome,19 Napier Tce,BROOME,6725,246.9,246.9,
-476,BP Colac,138 Loch St,DERBY,6728,255.9,255.9,BP
-477,Cheynes Beach Caravan Park,12 Bald Island Rd,CHEYNES,6328,,,Independent
+477,Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,,195.1,Puma
+448,Ampol Foodary Esperance,59 Dempster St,ESPERANCE,6450,196.9,196.9,Ampol
+449,Shell Reddy Express Esperance,25 Andrew St,ESPERANCE,6450,196.9,196.9,
+450,EG Ampol Manjimup,89 Mottram St,MANJIMUP,6258,196.9,196.9,EG Ampol
+452,Kambalda Roadhouse,2 Bluebush Rd,KAMBALDA WEST,6442,197.9,197.9,Liberty
+453,Ampol Foodary Kalgoorlie South,146 Boulder Rd,SOUTH KALGOORLIE,6430,197.9,197.9,Ampol
+454,Ampol Foodary Newman,Lot 1328 Newman Dr,NEWMAN,6753,198.9,198.9,Ampol
+455,Ampol Foodary Kalgoorlie,581 Hannan St,SOMERVILLE,6430,198.9,198.9,Ampol
+456,Shell Reddy Express Kununurra Roadhouse,17 Poinciana St,KUNUNURRA,6743,200.9,200.9,
+457,Ampol Foodary South Hedland,67 Hamilton Rd,SOUTH HEDLAND,6722,202.9,202.9,Ampol
+458,BP South Hedland,2 Throssell Rd,SOUTH HEDLAND,6722,202.9,202.9,BP
+459,Caltex Dalwallinu,4 Johnston St,DALWALLINU,6609,204.9,204.9,Caltex
+460,Ampol Foodary Coolgardie,110-114 Bayley St,COOLGARDIE,6429,206.9,206.9,Ampol
+461,Caltex South Hedland,1 Altitude Ave,PORT HEDLAND,6721,206.9,206.9,Caltex
+462,BP Port Hedland Boulevard,150 Anderson St,PORT HEDLAND,6721,209.9,209.9,BP
+463,EG Ampol Carnarvon,90 Robinson St,CARNARVON,6701,210.9,210.9,EG Ampol
+464,Ampol Foodary Carnarvon,595 Robinson St,KINGSFORD,6701,210.9,210.9,Ampol
+465,Shell Reddy Express South Hedland Roadhouse,Lot 5553 Great Northern Hwy,WEDGEFIELD,6721,210.9,210.9,
+466,Ningaloo Reef Fuels,6 Pelias St,EXMOUTH,6707,223.9,223.9,Independent
+467,S-Bend Caravan Park,27 Company Rd,SOUTH GREENOUGH,6528,225.0,225.0,Liberty
+468,Exmouth Fuel Supplies,2 Huston St,EXMOUTH,6707,230.8,230.8,Independent
+469,Ampol Foodary Exmouth,77 Maidstone Cr,EXMOUTH,6707,230.9,230.9,Ampol
+470,Ampol Foodary Broome,50 Mavis Rd,BILINGURR,6725,236.9,236.9,Ampol
+471,United Broome,49 Reid Rd,CABLE BEACH,6726,238.5,238.5,United
+472,EG Ampol Djugun,106 Frederick St,DJUGUN,6725,244.9,244.9,EG Ampol
+473,BP Shinju Broome,101 Guy St,BROOME,6725,246.9,246.9,BP
+474,Shell Reddy Express Broome,19 Napier Tce,BROOME,6725,246.9,246.9,
+475,BP Colac,138 Loch St,DERBY,6728,255.9,255.9,BP
+476,Cheynes Beach Caravan Park,12 Bald Island Rd,CHEYNES,6328,,,Independent
 479,Puma Kununurra,32 Bandicoot Dr,KUNUNURRA,6743,,,Puma
 480,Liberty Karratha,2 Cockatoo St,NICKOL,6714,,,Liberty
 481,Shell Reddy Express Port Hedland,Lot 2065 Wilson St,PORT HEDLAND,6721,,,
