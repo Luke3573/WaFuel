@@ -1,489 +1,491 @@
 ,Name,Location,Suberb,PostCode,Price Today,Price Tomorrow,Brand
-0,Burk Landsdale,274 Gnangara Rd,LANDSDALE,6065,165.3,165.3,BURK
-1,Burk Alkimos,12 Longstaff Ave,ALKIMOS,6038,166.3,166.3,BURK
-2,Burk Bassendean,309 Guildford Rd,BASSENDEAN,6054,166.3,166.3,BURK
-3,Burk Malaga,1 Harlond Ave,MALAGA,6090,167.3,167.3,BURK
-4,Metro Bassendean,2/335 Collier Rd,BASSENDEAN,6054,167.9,167.9,Metro
-5,Burk West Swan,6639 West Swan Rd,WEST SWAN,6055,169.3,169.3,BURK
-7,Liberty Beckenham,63 William St,BECKENHAM,6107,171.3,171.3,Liberty
-11,Metro Wanneroo,994 Wanneroo Rd,WANNEROO,6065,171.9,171.9,Metro
-9,Metro Wangara,79 Gnangara Road,WANGARA,6065,171.9,171.9,Metro
-8,Metro Canning Vale,Lot 322 Ranford Rd,CANNING VALE,6155,171.9,171.9,Metro
-6,Atlas Fuel Ascot,472 Great Eastern Hwy,ASCOT,6104,170.9,172.5,Atlas
-12,Shell High Wycombe,1100 Abernethy Rd,HIGH WYCOMBE,6057,172.5,172.5,Shell
-13,Liberty Landsdale,2 Cowle St,LANDSDALE,6065,172.5,172.5,Liberty
-15,Petro Fuels Westminster,436 Wanneroo Rd,WESTMINSTER,6061,172.8,172.8,Petro
-25,Atlas Fuel Thornlie,223 Yale Rd,THORNLIE,6108,172.9,172.9,Atlas
-28,Atlas Fuel Kwinana,1 Mandurah Rd,KWINANA BEACH,6167,173.5,173.5,Atlas
-125,Vibe Kwinana Town Centre,6 Chisham Ave,KWINANA TOWN CENTRE,6167,175.7,173.7,Vibe
-30,Vibe Ascot,268 Great Eastern Hwy,ASCOT,6104,173.7,173.7,Vibe
-10,Atlas Fuel Wanneroo,951 Wanneroo Rd,WANNEROO,6065,171.9,173.9,Atlas
-37,FastFuel 24/7,54 Cumberland Rd,FORRESTFIELD,6058,173.9,173.9,FastFuel
-35,Petro Fuels Albany,250 Albany Hwy,CENTENNIAL PARK,6330,173.9,173.9,Petro
-44,Atlas Fuel Forrestfield,78C Hale Rd,FORRESTFIELD,6058,174.5,174.5,Atlas
-47,Liberty Naval Base,24 Dooley St,NAVAL BASE,6165,174.5,174.5,Liberty
-48,Atlas Fuel Stratton,177 O'Connor Rd,STRATTON,6056,174.5,174.5,Atlas
-49,Liberty Tapping,3 Herdsman Lane,WANNEROO,6065,174.5,174.5,Liberty
-43,Liberty East Rockingham,115 Dixon Rd,EAST ROCKINGHAM,6168,174.5,174.5,Liberty
-42,Liberty Banksia Grove,7 Honeybee Pde,BANKSIA GROVE,6031,174.5,174.5,Liberty
-51,Vibe Armadale,126 Forrest Rd,ARMADALE,6112,174.7,174.7,Vibe
-55,Vibe Port Kennedy,35 Blackburn Dr,PORT KENNEDY,6172,174.7,174.7,Vibe
-52,Vibe Canning Vale,6 Birnam Rd,CANNING VALE,6155,174.7,176.3,Vibe
-156,Liberty Gosnells,2341 Albany Hwy,GOSNELLS,6110,176.5,176.5,Liberty
-227,Burk Broadwater,545 Bussell Hwy,BROADWATER,6280,177.3,177.3,BURK
-230,Liberty Pinjarra,Cnr Pinjarra Rd & Carey St,PINJARRA,6208,177.5,177.5,Liberty
-26,X Convenience Alkimos,58 Montana Cres,ALKIMOS,6038,173.5,177.5,X Convenience
-231,Petro Fuels Shoalwater,113-121 Safety Bay Rd,SHOALWATER,6169,177.8,177.8,Caltex
-255,Liberty Cannington,25 Cecil Ave,CANNINGTON,6107,178.3,178.3,Liberty
-261,Liberty O'Connor,9 Pritchard St,O'CONNOR,6163,178.5,178.5,Liberty
-50,Metro Albany,269 York St,ALBANY,6330,174.7,179.7,Metro
-345,Liberty Busselton West,100 West St,WEST BUSSELTON,6280,180.5,180.5,Liberty
-272,Atlas Fuel Caversham,40 Bennett St,CAVERSHAM,6055,178.9,180.9,Atlas
-350,Liberty Dongara,30215 Brand Hwy,DONGARA,6525,180.9,180.9,Liberty
-365,Liberty West Busselton,259 Bussell Hwy,WEST BUSSELTON,6280,180.9,180.9,Liberty
-40,Atlas Fuel Midvale,227 Morrison Rd,MIDVALE,6056,173.9,181.9,Atlas
-366,Liberty Oyster Harbour,4 Bayonet Head Rd,BAYONET HEAD,6330,182.5,182.5,Liberty
-367,Liberty McKail,557 Albany Hwy,MCKAIL,6330,182.5,182.5,Liberty
-298,Atlas Fuel Welshpool,36 Welshpool Rd,WELSHPOOL,6106,179.5,182.9,Atlas
-375,Serpentine Falls Roadhouse,2 Falls Rd,SERPENTINE,6125,182.9,182.9,Independent
-161,United Neerabup Truck Stop,2038 Wanneroo Rd,NEERABUP,6031,176.5,183.5,United
-379,United Vasse Truck Stop,210 Northerly St,VASSE,6280,183.5,183.5,United
-27,X Convenience Erskine,2 Wattleglen Ave,ERSKINE,6210,173.5,183.5,X Convenience
-378,Geographe Petroleum,84 Strelly St,BUSSELTON,6280,183.5,183.5,Liberty
-262,United Pinjarra Truck Stop,1602 Pinjarra Rd,PINJARRA,6208,178.5,183.5,United
-122,United Naval Base Truck Stop,13 Lionel St,NAVAL BASE,6165,175.5,183.5,United
-123,United Tapping,1369 Wanneroo Rd,WANNEROO,6065,175.5,183.5,United
-165,United Perth Airport Truck Stop,Airport Dr (Cnr Paltridge Rd),PERTH AIRPORT,6105,176.5,183.9,United
-228,United Byford,801-803 South Western Hwy,BYFORD,6122,177.5,183.9,United
-148,Vibe Bullsbrook Northlink,1769 Neaves Rd,BULLSBROOK,6084,176.3,184.7,Vibe
-149,Vibe Neerabup,1 Pinnacle Dr,NEERABUP,6031,176.3,184.7,Vibe
-368,Vibe Henderson,Lot 104 Russel Rd,HENDERSON,6166,182.7,184.7,Vibe
-114,7-Eleven Thornlie,125 Murdoch Rd,THORNLIE,6108,174.9,184.9,7 Eleven
-382,7-Eleven Busselton,81-93 West St,BUSSELTON,6280,184.9,184.9,7 Eleven
-387,Caltex High Wycombe OPT,494 Kalamunda Rd,HIGH WYCOMBE,6057,184.9,184.9,Caltex
-256,Vibe Forrestfield,159 Milner Rd,FORRESTFIELD,6058,178.3,184.9,Vibe
-29,7-Eleven Landsdale,8 Mullingar Way,LANDSDALE,6065,173.5,184.9,7 Eleven
-246,BP Naval Base,1351 Rockingham Rd,NAVAL BASE,6165,177.9,184.9,BP
-33,7-Eleven Alkimos,10 Carlsbad Prom,ALKIMOS,6038,173.9,184.9,7 Eleven
-393,Astron Quinns Rocks,121 Quinns Rd,QUINNS ROCKS,6030,185.3,185.3,Astron
-394,Caltex Naval Base,Cnr Rockingham Rd & Lee Rd,NAVAL BASE,6165,185.9,185.9,Caltex
-395,Ampol Rous Head,Cnr North Mole Dr & Rous Head Rd,NORTH FREMANTLE,6159,185.9,185.9,Ampol
-396,Astron Roleystone,11 Wygonda Rd,ROLEYSTONE,6111,185.9,185.9,Astron
-397,Phoenix Barlee St,31 Barlee St,BUSSELTON,6280,186.0,186.0,Independent
-398,Atlas Fuel Geraldton,184 North West Coastal Hwy,WONTHELLA,6530,186.5,186.5,Atlas
-399,Vibe Treendale,157 Grand Ent,AUSTRALIND,6233,186.7,186.7,Vibe
-401,Shell Reddy Express Vasse,2 Napoleon Prom,VASSE,6280,186.9,186.9,
-222,7-Eleven Wanneroo South,929-931 Wanneroo Rd,WANNEROO,6065,176.9,186.9,7 Eleven
-402,Condello's Liquor Waterloo,14755 South Western Hwy,PICTON EAST,6229,187.5,187.5,Pheonix
-406,United Mount Barker Roadhouse Truck Stop,31763 Albany Hwy,MOUNT BARKER,6324,187.9,187.9,United
-405,Metro Geraldton,1 Fortyn Ct,MAHOMETS FLATS,6530,187.9,187.9,Metro
-404,Liberty Cataby,10805 Brand Hwy,CATABY,6507,187.9,187.9,Liberty
-407,Liberty Dalyellup,9 Norton Prom,DALYELLUP,6230,188.5,188.5,Liberty
-408,United Kellerberrin Truck Stop,150 Massingham St,KELLERBERRIN,6410,188.5,188.5,United
-409,United Rangeway Truck Stop,50 Rifle Range Rd,RANGEWAY,6530,188.5,188.5,United
-263,Vibe Bayswater,120 Beechboro Rd South,BAYSWATER,6053,178.7,188.7,Vibe
-197,BP Jindalee,2 Abello Bvd,JINDALEE,6036,176.9,188.9,BP
-206,BP 2go Morrison Road,226 Morrison Rd,MIDVALE,6056,176.9,188.9,BP
-299,Caltex Westfield Street,134 Westfield St,MADDINGTON,6109,179.7,189.7,Caltex
-249,Atlas Fuel Sawyers Valley,10895 Great Eastern Hwy,SAWYERS VALLEY,6074,177.9,189.9,Atlas
-410,Fruit Barn,7 South Western Hwy,DONNYBROOK,6239,189.9,189.9,Liberty
-411,Whalley's United Uberwash,225-227 Albany Hwy,MOUNT MELVILLE,6330,190.4,190.4,United
-412,Vibe South Bunbury,302 Blair St,SOUTH BUNBURY,6230,190.5,190.5,Vibe
-416,Liberty Karratha,2 Cockatoo St,NICKOL,6714,190.9,190.9,Liberty
-413,7-Eleven Dalyellup,51 Tiffany Ctr,DALYELLUP,6230,190.9,190.9,7 Eleven
-359,Ampol Foodary Midvale,375 Great Eastern Hwy,MIDVALE,6056,180.9,190.9,Ampol
-422,BP Cowaramup,1 Roy Earl Dr,COWARAMUP,6284,192.9,190.9,BP
-400,Gull Waterloo,14270 South Western Hwy,WATERLOO,6228,186.7,191.7,Gull
-403,Ampol Foodary Bunbury,1 Forrest Ave,BUNBURY,6230,187.9,191.9,Ampol
-418,Caltex Lakes Road Nambeelup,6 Dollyup Street,STAKE HILL,6181,191.9,191.9,Caltex
-417,EG Ampol Geraldton,59 Cathedral Ave,GERALDTON,6530,191.9,191.9,EG Ampol
-211,Ampol Foodary O'Connor,309 Stock Rd,O'CONNOR,6163,176.9,191.9,Ampol
-414,Ampol Foodary Gelorup,39 Bussell Hwy,GELORUP,6230,190.9,191.9,Ampol
-419,7-Eleven Bunbury East,8D Picton Rd,EAST BUNBURY,6230,192.7,192.7,7 Eleven
-266,Vibe Upper Swan,1447 Great Northern Hwy,UPPER SWAN,6069,178.7,192.7,Vibe
-421,Caltex Bunbury South,1 Brittain Rd,CAREY PARK,6230,192.9,192.9,Caltex
-423,7-Eleven Withers,1 Island Queen St,WITHERS,6230,192.9,192.9,7 Eleven
-420,Ampol Foodary Busselton,115 Strelly St,BUSSELTON,6280,192.9,193.9,Ampol
-32,EG Ampol Maddington West,207 Burslem Dr,MADDINGTON,6109,173.8,193.9,EG Ampol
-70,EG Ampol Canning Vale,15 Sarah Cl,CANNING VALE,6155,174.9,193.9,EG Ampol
-54,Vibe Nollamara,66 Sylvia St,NOLLAMARA,6061,174.7,193.9,Vibe
-424,Metro Jurien Bay,74 Bashford St,JURIEN BAY,6516,193.9,193.9,Metro
-254,Better Choice Tuart Hill,150 Wanneroo Rd,TUART HILL,6060,178.2,194.2,Better Choice
-259,Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,178.5,194.5,Better Choice
-426,Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,194.5,194.5,Better Choice
-257,Better Choice Bellevue,177-179 Great Eastern Hwy,BELLEVUE,6056,178.5,194.5,Better Choice
-260,Better Choice Malaga,3 Carson Rd,MALAGA,6090,178.5,194.5,Better Choice
-210,BP Connect North Perth,349 Charles St,NORTH PERTH,6006,176.9,194.9,BP
-233,BP 2go Bellevue,59 Great Eastern Hwy,BELLEVUE,6056,177.9,194.9,BP
-203,BP Malaga,370 Victoria Rd,MALAGA,6090,176.9,194.9,BP
-172,BP Connect Ascot (WA),210 Great Eastern Hwy,ASCOT,6104,176.9,194.9,BP
-235,BP Thornlie,459 Nicholson Rd,CANNING VALE,6155,177.9,194.9,BP
-307,NightOwl Shell Bellevue,49 Great Eastern Hwy,BELLEVUE,6056,179.9,194.9,Shell
-207,BP Connect Wellington Rd,261 Walter Rd West,MORLEY,6062,176.9,194.9,BP
-190,BP Embleton,484 Walter Rd East,EMBLETON,6062,176.9,194.9,BP
-435,Shell Reddy Express Bunbury,70 Forrest Ave,SOUTH BUNBURY,6230,194.9,194.9,
-425,Ampol Foodary Williams,56 Albany Hwy,WILLIAMS,6391,193.9,194.9,Ampol
-428,Caltex Busselton,99 Causeway Rd,BUSSELTON,6280,194.9,194.9,Caltex
-429,7-Eleven Dunsborough,100 Commonage Rd,DUNSBOROUGH,6281,194.9,194.9,7 Eleven
-430,EG Ampol Bunbury,Lot 68 Pennant Rd,EAST BUNBURY,6230,194.9,194.9,EG Ampol
-431,Shell Coles Express Margaret River,78 Bussell Hwy,MARGARET RIVER,6285,194.9,194.9,Coles Express
-432,Caltex Moora,65 Roberts St,MOORA,6510,194.9,194.9,Caltex
-433,Mt Barker Fuel Services,48 Lowood Rd,MOUNT BARKER,6324,194.9,194.9,Independent
-58,EG Ampol South Lake,752 North Lake Rd,SOUTH LAKE,6164,174.8,194.9,EG Ampol
-436,Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,195.5,195.5,Better Choice
+2,Burk Bassendean,309 Guildford Rd,BASSENDEAN,6054,169.3,163.3,BURK
+1,Burk Alkimos,12 Longstaff Ave,ALKIMOS,6038,169.3,165.3,BURK
+3,Burk Landsdale,274 Gnangara Rd,LANDSDALE,6065,169.3,165.3,BURK
+14,Burk West Swan,6639 West Swan Rd,WEST SWAN,6055,172.3,165.3,BURK
+9,Burk Malaga,1 Harlond Ave,MALAGA,6090,171.3,165.3,BURK
+10,Atlas Fuel Ascot,472 Great Eastern Hwy,ASCOT,6104,171.9,167.9,Atlas
+17,Atlas Fuel Thornlie,223 Yale Rd,THORNLIE,6108,172.5,167.9,Atlas
+21,X Convenience Erskine,2 Wattleglen Ave,ERSKINE,6210,173.5,168.5,X Convenience
+20,X Convenience Alkimos,58 Montana Cres,ALKIMOS,6038,173.5,168.5,X Convenience
+196,BP Nookenburra,386 Scarborough Beach Rd,INNALOO,6018,180.9,168.9,BP
+240,BP Connect Wembley,240 Cambridge St,WEMBLEY,6014,180.9,168.9,BP
+203,Caltex Kwinana Truck Stop,4 Ocean St,KWINANA BEACH,6167,180.9,168.9,Caltex
+15,Atlas Fuel Forrestfield,78C Hale Rd,FORRESTFIELD,6058,172.5,168.9,Atlas
+209,Caltex Maddington Truck Stop,18 Orchard Rd,MADDINGTON,6109,180.9,168.9,Caltex
+8,Atlas Fuel Wanneroo,951 Wanneroo Rd,WANNEROO,6065,170.9,168.9,Atlas
+0,Metro Wangara,79 Gnangara Road,WANGARA,6065,168.9,168.9,Metro
+89,United Hepburn Heights,4 Walter Padbury Bvd,PADBURY,6025,177.9,169.5,United
+92,United Southern River,Lot 101 Terrier Pl,SOUTHERN RIVER,6110,177.9,169.5,United
+79,United Bibra Lake,13 Whyalla Ct,BIBRA LAKE,6163,177.5,169.5,United
+78,United Armadale,178 South Western Hwy,ARMADALE,6112,177.5,169.5,United
+64,United Kewdale Truck Stop,410-412 Orrong Rd,KEWDALE,6105,176.9,169.5,United
+61,United Ellenbrook,3 Locke Lane,ELLENBROOK,6069,176.9,169.5,United
+77,United Anketell South,811 Thomas Rd,ANKETELL,6167,177.5,169.5,United
+48,United South Lake,49 Berrigan Dr,SOUTH LAKE,6164,175.9,169.5,United
+76,United Anketell,5 Albina Ave,ANKETELL,6167,177.5,169.5,United
+482,Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,,169.7,Independent
+43,Petro Fuels Westminster,436 Wanneroo Rd,WESTMINSTER,6061,175.8,169.8,Petro
+283,BP 2go Morrison Road,226 Morrison Rd,MIDVALE,6056,182.9,169.9,BP
+66,United Maddington Truck Stop,13 Stebbing Rd,MADDINGTON,6109,176.9,169.9,United
+279,BP Halls Head,2 Guava Way,HALLS HEAD,6210,182.9,169.9,BP
+286,BP Connect Myaree,246 Leach Hwy,MYAREE,6154,182.9,169.9,BP
+70,United Myaree,182 Leach Hwy,MYAREE,6154,176.9,169.9,United
+157,BP Connect Ascot (WA),210 Great Eastern Hwy,ASCOT,6104,180.9,169.9,BP
+272,BP Clarkson,28K Caloundra Rd,CLARKSON,6030,182.9,169.9,BP
+287,BP 2go Noranda,40 Benara Rd,NORANDA,6062,182.9,169.9,BP
+289,BP Connect Beaumauris,2 Prendiville Ave,OCEAN REEF,6027,182.9,169.9,BP
+284,BP Connect Wellington Rd,261 Walter Rd West,MORLEY,6062,182.9,169.9,BP
+90,United Perth Airport Truck Stop,Airport Dr (Cnr Paltridge Rd),PERTH AIRPORT,6105,177.9,169.9,United
+80,Ampol Foodary Melville,585 Canning Hwy,ALFRED COVE,6154,177.9,169.9,Ampol
+267,BP Applecross,848 Canning Hwy,APPLECROSS,6153,182.9,169.9,BP
+83,United East Victoria Park,916 Albany Hwy,EAST VICTORIA PARK,6101,177.9,169.9,United
+88,United Northbridge,31 Fitzgerald St,NORTHBRIDGE,6003,177.9,169.9,United
+290,BP Connect Main Street,218 Main St,OSBORNE PARK,6017,182.9,169.9,BP
+93,Ampol Foodary Stratton,240 Toodyay Rd,STRATTON,6056,177.9,169.9,Ampol
+229,BP Connect West Coast,11 Scarborough Beach Rd,SCARBOROUGH,6019,180.9,169.9,BP
+227,Ampol Foodary Rockingham,29 Dixon Rd,ROCKINGHAM,6168,180.9,169.9,Ampol
+213,BP Malaga,370 Victoria Rd,MALAGA,6090,180.9,169.9,BP
+107,Ampol Foodary Ascot,204 Great Eastern Hwy,ASCOT,6104,178.9,169.9,Ampol
+198,BP Jindalee,2 Abello Bvd,JINDALEE,6036,180.9,169.9,BP
+120,Atlas Fuel Midvale,227 Morrison Rd,MIDVALE,6056,178.9,169.9,Atlas
+189,BP Embleton,484 Walter Rd East,EMBLETON,6062,180.9,169.9,BP
+167,Ampol Foodary Belmont,303 Great Eastern Hwy,BELMONT,6104,180.9,169.9,Ampol
+271,BP Connect Carlisle,44 Archer St,CARLISLE,6101,182.9,169.9,BP
+54,Ampol Foodary Northlands,391 Wanneroo Rd,BALCATTA,6021,176.9,169.9,Ampol
+149,Ampol Foodary Secret Harbour,420 Secret Harbour Bvd,SECRET HARBOUR,6173,179.9,169.9,Ampol
+345,BP Connect Palm Springs,214 Warnbro Sound Ave,WARNBRO,6169,184.9,169.9,BP
+341,BP Singleton,2514 Mandurah Rd,SINGLETON,6175,184.9,169.9,BP
+6,FastFuel 24/7,54 Cumberland Rd,FORRESTFIELD,6058,169.9,169.9,FastFuel
+5,Metro Canning Vale,Lot 322 Ranford Rd,CANNING VALE,6155,169.9,169.9,Metro
+338,BP Connect Riverton,339 High Rd,RIVERTON,6148,184.9,169.9,BP
+30,Ampol Foodary Carine,510 Beach Rd,CARINE,6020,174.9,169.9,Ampol
+342,BP South Fremantle,229B Hampton Rd,SOUTH FREMANTLE,6162,184.9,169.9,BP
+18,Ampol Foodary Bentley,91-93 Manning Rd,BENTLEY,6102,172.9,169.9,Ampol
+336,BP Piara Waters,12 Erade Dr,PIARA WATERS,6112,184.9,169.9,BP
+343,BP Connect South Perth,9 Mends St,SOUTH PERTH,6151,184.9,169.9,BP
+334,BP Rosegarden,129 Stirling Hwy,NEDLANDS,6009,184.9,169.9,BP
+7,Metro Wanneroo,994 Wanneroo Rd,WANNEROO,6065,169.9,169.9,Metro
+329,BP 2go Silver Sands,183-187 Mandurah Tce,MANDURAH,6210,184.9,169.9,BP
+28,Atlas Fuel Kwinana,1 Mandurah Rd,KWINANA BEACH,6167,174.5,169.9,Atlas
+293,BP Sorrento,128 West Coast Dr,SORRENTO,6020,182.9,169.9,BP
+344,BP The Lakes Roadhouse,13724 Great Eastern Hwy,THE LAKES,6556,184.9,169.9,BP
+4,Metro Bassendean,2/335 Collier Rd,BASSENDEAN,6054,169.9,169.9,Metro
+295,BP 2go Burrendah,69 Pinetree Gully Rd,WILLETTON,6155,182.9,169.9,BP
+19,Ampol Foodary Subiaco,194 Rokeby Rd,SUBIACO,6008,172.9,169.9,Ampol
+50,United Osborne Park,479 Scarborough Beach Rd,OSBORNE PARK,6017,176.5,169.9,United
+320,BP Westgate,85 Queen Victoria St,FREMANTLE,6160,184.9,169.9,BP
+324,BP Huntingdale,68 Warton Rd,HUNTINGDALE,6110,184.9,169.9,BP
+340,BP Connect Rockingham Park,2 Chalgrove Ave,ROCKINGHAM,6168,184.9,169.9,BP
+42,Liberty Beckenham,63 William St,BECKENHAM,6107,175.3,170.3,Liberty
+62,EG Ampol Greenwood,37 Canham Way,GREENWOOD,6024,176.9,170.3,EG Ampol
+35,EG Ampol Maddington West,207 Burslem Dr,MADDINGTON,6109,174.9,170.3,EG Ampol
+195,Shell Reddy Express Halls Head,14 Guava Way,HALLS HEAD,6210,180.9,170.9,
+381,BP Connect Phoenix,222 Rockingham Rd,SPEARWOOD,6163,185.9,170.9,BP
+205,Shell Reddy Express Lakelands,49 Banksiadale Gte,LAKELANDS,6210,180.9,170.9,
+206,Shell Reddy Express Langford,70 Nicholson Rd,LANGFORD,6147,180.9,170.9,
+197,Ampol Foodary Cockburn Central,3 Armadale Rd,JANDAKOT,6164,180.9,170.9,Ampol
+207,Shell Reddy Express Leeming,29/51 Farrington St,LEEMING,6149,180.9,170.9,
+347,BP 2go Woodvale,941 Whitfords Ave,WOODVALE,6026,184.9,170.9,BP
+201,Shell Reddy Express Karawara,222 Manning Rd,KARAWARA,6152,180.9,170.9,
+199,Shell Reddy Express Jolimont,6 Jersey St,JOLIMONT,6014,180.9,170.9,
+185,Shell Reddy Express Duncraig,193 Warwick Rd,DUNCRAIG,6023,180.9,170.9,
+191,Shell Reddy Express Fremantle,101 Hampton Rd,FREMANTLE,6160,180.9,170.9,
+159,S24 Balcatta,229 Balcatta Rd,BALCATTA,6021,180.9,170.9,Caltex
+162,Shell Reddy Express Banksia Grove,1001 Joondalup Dr,BANKSIA GROVE,6031,180.9,170.9,
+165,Shell Reddy Express Bayswater,34 Jackson St,BAYSWATER,6053,180.9,170.9,
+166,Shell Coles Express Beeliar,8 Durnin Ave,BEELIAR,6164,180.9,170.9,Coles Express
+168,Shell Reddy Express Bentley,1128 Albany Hwy,BENTLEY,6102,180.9,170.9,
+169,Shell Reddy Express Casuarina,1 Johnson Rd,BERTRAM,6167,180.9,170.9,
+172,Shell Reddy Express Bicton,394 Canning Hwy,BICTON,6157,180.9,170.9,
+173,Shell Reddy Express Brentwood,71 Cranford Ave,BRENTWOOD,6153,180.9,170.9,
+174,S24 Bull Creek,83 Wheatley Dr,BULL CREEK,6149,180.9,170.9,Shell
+175,Shell Reddy Express Bull Creek,44 Benningfield Rd,BULL CREEK,6149,180.9,170.9,
+177,BP Thornlie,459 Nicholson Rd,CANNING VALE,6155,180.9,170.9,BP
+178,Shell Reddy Express Claremont,269 Stirling Hwy,CLAREMONT,6010,180.9,170.9,
+179,Shell Reddy Express Clarkson,36 Ocean Keys Bvd,CLARKSON,6030,180.9,170.9,
+183,Shell Reddy Express Dianella,67 Walter Rd West,DIANELLA,6059,180.9,170.9,
+188,Shell Reddy Express Ellenbrook,3 Goodwood Cres,ELLENBROOK,6069,180.9,170.9,
+192,Shell Reddy Express Girrawheen,60 Marangaroo Dr,GIRRAWHEEN,6064,180.9,170.9,
+346,BP Kenwick,48 Courtney Pl,WATTLE GROVE,6107,184.9,170.9,BP
+291,BP Connect Padbury,2 Warburton Ave,PADBURY,6025,182.9,170.9,BP
+214,Shell Reddy Express Malaga,492 Alexander Dr,MALAGA,6090,180.9,170.9,
+296,BP 2go Collins Road,121 Collins Rd,WILLETTON,6155,182.9,170.9,BP
+288,BP Connect North Perth,349 Charles St,NORTH PERTH,6006,182.9,170.9,BP
+312,BP Baldivis Northbound Travel Centre,Lot 191 Paparone Rd,BALDIVIS,6171,184.9,170.9,BP
+313,BP Baldivis Southbound Travel Centre,Lot 192 Leary Rd,BALDIVIS,6171,184.9,170.9,BP
+317,BP 2go Cannington,1443 Albany Hwy,CANNINGTON,6107,184.9,170.9,BP
+325,BP Kardinya,88 Gilbertson Rd,KARDINYA,6163,184.9,170.9,BP
+277,BP Ellenbrook,180 The Promenade,ELLENBROOK,6069,182.9,170.9,BP
+275,BP Connect East Perth,68-70 Brown St,EAST PERTH,6004,182.9,170.9,BP
+326,BP Welshpool,1 Ballantyne Rd,KEWDALE,6105,184.9,170.9,BP
+327,BP Connect Kwinana Hub,4 Chisham Ave,KWINANA TOWN CENTRE,6167,184.9,170.9,BP
+328,BP Maida Vale,269 Kalamunda Rd,MAIDA VALE,6057,184.9,170.9,BP
+269,BP Canning Vale,1 Wilfred Rd,CANNING VALE,6155,182.9,170.9,BP
+268,BP 2go Bellevue,59 Great Eastern Hwy,BELLEVUE,6056,182.9,170.9,BP
+333,BP Naval Base,1351 Rockingham Rd,NAVAL BASE,6165,184.9,170.9,BP
+210,OTR Maddington,1-3 Sampson St,MADDINGTON,6109,180.9,170.9,Shell
+335,BP Highgate,342 Beaufort St,PERTH,6000,184.9,170.9,BP
+243,Shell Reddy Express Willetton,239-247 High Rd,WILLETTON,6155,180.9,170.9,
+239,Shell Reddy Express Warwick,274 Erindale Rd,WARWICK,6024,180.9,170.9,
+238,Shell Coles Express Wanneroo Pearsall,621 Wanneroo Rd,WANNEROO,6065,180.9,170.9,Coles Express
+237,Shell Reddy Express Wangara,1 Niche Pde,WANGARA,6065,180.9,170.9,
+236,Shell Reddy Express Waikiki,1-9 Gnangara Dr,WAIKIKI,6169,180.9,170.9,
+233,Shell Reddy Express Southern River,216 Lakey St,SOUTHERN RIVER,6110,180.9,170.9,
+232,Shell Reddy Express South Perth,3 Canning Hwy,SOUTH PERTH,6151,180.9,170.9,
+230,Shell Reddy Express Scarborough,205 West Coast Hwy,SCARBOROUGH,6019,180.9,170.9,
+224,Shell Reddy Express Palmyra,80 Carrington St,PALMYRA,6157,180.9,170.9,
+223,Shell Reddy Express Osborne Park,11 Roberts St West,OSBORNE PARK,6017,180.9,170.9,
+222,Shell Reddy Express Northam,10 Beamish Ave,NORTHAM,6401,180.9,170.9,
+221,Shell Reddy Express Mount Lawley,253 Walcott St,NORTH PERTH,6006,180.9,170.9,
+220,Shell Reddy Express Myaree,69 North Lake Rd,MYAREE,6154,180.9,170.9,
+216,OTR Como,73 Manning Rd,MANNING,6152,180.9,170.9,Shell
+337,BP Connect Merriwa,2 Ridgewood Bvd,RIDGEWOOD,6030,184.9,170.9,BP
+274,BP Connect Currambine,2 Sunlander Dr,CURRAMBINE,6028,182.9,170.9,BP
+242,Shell Reddy Express West Perth,30 Thomas St,WEST PERTH,6005,180.9,170.9,
+58,Ampol Foodary Byford,Lot 22 South Western Hwy,BYFORD,6122,176.9,170.9,Ampol
+85,United Leda,2 Feilman Dr,LEDA,6170,177.9,170.9,United
+133,United Byford,801-803 South Western Hwy,BYFORD,6122,179.9,170.9,United
+123,S24 Redcliffe,419 Great Eastern Hwy,REDCLIFFE,6104,178.9,170.9,Shell
+87,United Lexia Truck Stop,779 Gnangara Rd,LEXIA,6065,177.9,170.9,United
+140,Ampol Foodary Gosnells,158 Corfield St,GOSNELLS,6110,179.9,170.9,Ampol
+12,Ampol Foodary Glendalough,2 Jon Sanders Dr,GLENDALOUGH,6016,171.9,170.9,Ampol
+91,Ampol Foodary South Lake,2 Omeo St,SOUTH LAKE,6164,177.9,170.9,Ampol
+47,EG Ampol South Lake,752 North Lake Rd,SOUTH LAKE,6164,175.9,171.3,EG Ampol
+25,NightOwl Shell Maddington,1 Davison St,MADDINGTON,6109,174.4,171.4,Shell
+117,EG Ampol Whitfords,470 Whitfords Ave,HILLARYS,6025,178.9,171.9,EG Ampol
+109,Ampol Foodary Butler,11 Headingly Cr,BUTLER,6036,178.9,171.9,Ampol
+73,EG Ampol Southern River,466 Warton Rd,SOUTHERN RIVER,6110,176.9,171.9,EG Ampol
+95,Ampol Foodary Thornlie Square,316 Spencer Rd,THORNLIE,6108,177.9,171.9,Ampol
+59,EG Ampol Canning Vale,15 Sarah Cl,CANNING VALE,6155,176.9,171.9,EG Ampol
+94,Atlas Fuel Stratton,177 O'Connor Rd,STRATTON,6056,177.9,171.9,Atlas
+34,Ampol Foodary High Wycombe,967 Abernethy Rd,HIGH WYCOMBE,6057,174.9,171.9,Ampol
+69,EG Ampol Mirrabooka,53 Yirrigan Dr,MIRRABOOKA,6061,176.9,171.9,EG Ampol
+71,Ampol Foodary O'Connor,309 Stock Rd,O'CONNOR,6163,176.9,171.9,Ampol
+115,EG Ampol Ellenbrook,11 Main St,ELLENBROOK,6069,178.9,171.9,EG Ampol
+122,EG Ampol Osborne Park,401 Scarborough Beach Rd,OSBORNE PARK,6017,178.9,171.9,EG Ampol
+116,EG Ampol Floreat,5 Howtree Pl,FLOREAT,6014,178.9,171.9,EG Ampol
+31,Ampol Foodary East Fremantle,176 Canning Hwy,EAST FREMANTLE,6158,174.9,171.9,Ampol
+96,Ampol Foodary Yanchep,1 Morwell St,YANCHEP,6035,177.9,171.9,Ampol
+86,Ampol Foodary Leederville,319 Vincent St,LEEDERVILLE,6007,177.9,171.9,Ampol
+46,Ampol Foodary Scarborough,74 Scarborough Beach Rd,SCARBOROUGH,6019,175.9,171.9,Ampol
+13,Ampol Foodary Kwinana,Cnr Mandurah Rd & Wellard Rd,KWINANA BEACH,6167,171.9,171.9,Ampol
+41,Ampol Foodary Yangebup,289 Beeliar Dr,YANGEBUP,6164,174.9,171.9,Ampol
+160,Ampol Foodary Baldivis,614 Baldivis Rd,BALDIVIS,6171,180.9,171.9,Ampol
+37,Ampol Foodary Nedlands,7 Broadway,NEDLANDS,6009,174.9,171.9,Ampol
+252,Ampol Foodary North Wanneroo,2624 Wanneroo Rd,NOWERGUP,6032,181.9,171.9,Ampol
+38,NightOwl Shell Redcliffe,443 Great Eastern Hwy,REDCLIFFE,6104,174.9,171.9,Shell
+75,NightOwl Shell Bellevue,49 Great Eastern Hwy,BELLEVUE,6056,177.4,172.4,Shell
+261,Liberty O'Connor,9 Pritchard St,O'CONNOR,6163,182.5,172.5,Liberty
+16,Liberty Landsdale,2 Cowle St,LANDSDALE,6065,172.5,172.5,Liberty
+310,Petro Fuels Shoalwater,113-121 Safety Bay Rd,SHOALWATER,6169,184.8,172.8,Caltex
+106,EG Ampol Alkimos,11 Shorehaven Bvd,ALKIMOS,6038,178.9,172.9,EG Ampol
+114,EG Ampol Currambine Marketplace,1244 Marmion Ave,CURRAMBINE,6028,178.9,172.9,EG Ampol
+231,EG Ampol South Fremantle,219 Hampton Rd,SOUTH FREMANTLE,6162,180.9,172.9,EG Ampol
+219,Shell Reddy Express Mosman Park,582 Stirling Hwy,MOSMAN PARK,6012,180.9,172.9,
+204,Shell Reddy Express Kwinana Beach,4 Beach St,KWINANA BEACH,6167,180.9,172.9,
+44,Ampol Foodary Mosman Park,676 Stirling Hwy,MOSMAN PARK,6012,175.9,172.9,Ampol
+72,7-Eleven Southern River,481 Balfour St,SOUTHERN RIVER,6110,176.9,172.9,7 Eleven
+217,Shell Reddy Express Middle Swan,Lot 46 Great Northern Hwy,MIDDLE SWAN,6056,180.9,172.9,
+81,Ampol Foodary Ashby,2 Hollosy Way,ASHBY,6065,177.9,172.9,Ampol
+110,Ampol Foodary Livingston,110 Ranford Rd,CANNING VALE,6155,178.9,172.9,Ampol
+215,EG Ampol Mandurah,10-12 Magenta Tce,MANDURAH,6210,180.9,172.9,EG Ampol
+108,EG Ampol Banksia Grove,133 Ghost Gum Bvd,BANKSIA GROVE,6031,178.9,172.9,EG Ampol
+211,Shell Reddy Express Maddington,117 Burslem Dr,MADDINGTON,6109,180.9,172.9,
+218,EG Ampol Morley Galleria,60 Russell St,MORLEY,6062,180.9,172.9,EG Ampol
+118,7-Eleven Mandurah,296 Pinjarra Rd,MANDURAH,6210,178.9,172.9,7 Eleven
+119,EG Ampol Mandurah Forum,330 Pinjarra Rd,MANDURAH,6210,178.9,172.9,EG Ampol
+194,S24 Guildford,22 Johnson St,GUILDFORD,6055,180.9,172.9,Caltex
+244,S24 Yanchep,1 Ikara Lane,YANCHEP,6035,180.9,172.9,Caltex
+82,7-Eleven Stirling,377 Wanneroo Rd,BALCATTA,6021,177.9,172.9,7 Eleven
+148,7-Eleven Ridgewood,35 Kilrush Turn,RIDGEWOOD,6030,179.9,172.9,7 Eleven
+52,7-Eleven Haynes,1256 Armadale Rd,ARMADALE,6112,176.9,172.9,7 Eleven
+156,Shell Reddy Express Armadale,269 South Western Hwy,ARMADALE,6112,180.9,172.9,
+53,EG Ampol Aveley,317 Millhouse Rd,AVELEY,6069,176.9,172.9,EG Ampol
+55,7-Eleven Bentley,1133-1135 Albany Hwy,BENTLEY,6102,176.9,172.9,7 Eleven
+163,Shell Reddy Express Mandurah,Cnr Pinjarra Rd & Watson Dr,BARRAGUP,6209,180.9,172.9,
+56,7-Eleven Booragoon,492 Marmion St,BOORAGOON,6154,176.9,172.9,7 Eleven
+248,Ampol Foodary Falcon (Miami Beach),2 Baroy St,FALCON,6210,181.9,172.9,Ampol
+171,Shell Reddy Express Bibra Lake,1 Timberyard Way,BIBRA LAKE,6163,180.9,172.9,
+11,Ampol Foodary Doubleview,365 Scarborough Beach Rd,DOUBLEVIEW,6018,171.9,172.9,Ampol
+170,7-Eleven Bibra Lake,35 Port Kembla Dr,BIBRA LAKE,6163,180.9,172.9,7 Eleven
+176,Shell Reddy Express Brighton,61 Butler Bvd,BUTLER,6036,180.9,172.9,
+193,Ampol Foodary Greenfields,35 Minilya Pkwy,GREENFIELDS,6210,180.9,172.9,Ampol
+121,EG Ampol Northam,86 Wellington St,NORTHAM,6401,178.9,172.9,EG Ampol
+190,Shell Reddy Express Forrestfield,2 Strelitzia Ave,FORRESTFIELD,6058,180.9,172.9,
+187,Shell Reddy Express Victoria Park,66 Kent St,EAST VICTORIA PARK,6101,180.9,172.9,
+225,OTR Perth Pier Street,17 Brisbane St,PERTH,6000,180.9,172.9,Shell
+124,EG Ampol Warnbro,202 Warnbro Sound Ave,WARNBRO,6169,178.9,172.9,EG Ampol
+180,Shell Reddy Express Cloverdale,223 Belmont Ave,CLOVERDALE,6105,180.9,172.9,
+235,Shell Reddy Express Upper Swan Roadhouse,1333 Great Northern Hwy,UPPER SWAN,6069,180.9,172.9,
+182,EG Ampol Dianella,372 Grand Prom,DIANELLA,6059,180.9,172.9,EG Ampol
+226,Shell Reddy Express Perth,480 William St,PERTH,6000,180.9,172.9,
+29,Vibe Canning Vale,6 Birnam Rd,CANNING VALE,6155,174.7,173.7,Vibe
+22,Vibe Ascot,268 Great Eastern Hwy,ASCOT,6104,173.7,173.7,Vibe
+27,Vibe Jandakot,630 Karel Ave,JANDAKOT,6164,174.5,173.7,Vibe
+250,Ampol Foodary Malaga Drive,76 Malaga Dr,MALAGA,6090,181.9,173.9,Ampol
+40,Ampol Foodary Willetton,169 High Rd,WILLETTON,6155,174.9,173.9,Ampol
+45,Atlas Fuel Sawyers Valley,10895 Great Eastern Hwy,SAWYERS VALLEY,6074,175.9,173.9,Atlas
+246,EG Ampol Ballajura,5 Hamelin Dr,BALLAJURA,6066,181.9,173.9,EG Ampol
+266,Ampol Foodary Applecross,918 Canning Hwy,APPLECROSS,6153,182.9,173.9,Ampol
+307,Ampol Foodary East Perth,157 Lord St,PERTH,6000,183.9,173.9,Ampol
+147,EG Ampol Port Kennedy,12 Saltaire Way,PORT KENNEDY,6172,179.9,173.9,EG Ampol
+23,Atlas Fuel Geraldton,184 North West Coastal Hwy,WONTHELLA,6530,173.9,173.9,Atlas
+134,Ampol Foodary Clarkson,7 Ocean Keys Bvd,CLARKSON,6030,179.9,173.9,Ampol
+32,Ampol Foodary Erskine,112 Oakleigh Dr,ERSKINE,6210,174.9,173.9,Ampol
+127,Vibe Bullsbrook Northlink,1769 Neaves Rd,BULLSBROOK,6084,179.7,173.9,Vibe
+282,Ampol Foodary Midvale,375 Great Eastern Hwy,MIDVALE,6056,182.9,173.9,Ampol
+33,Ampol Foodary Forrestdale,63 Alex Wood Dr,FORRESTDALE,6112,174.9,173.9,Ampol
+276,Caltex Edgewater,2 The Gateway,EDGEWATER,6027,182.9,173.9,Caltex
+202,Ampol Foodary Kewdale,2 Fenton St,KEWDALE,6105,180.9,173.9,Ampol
+111,Ampol Foodary Cannington,1346 Albany Hwy,CANNINGTON,6107,178.9,173.9,Ampol
+143,EG Ampol Joondalup Winton Road,189 Winton Rd,JOONDALUP,6027,179.9,173.9,EG Ampol
+181,Ampol Foodary Dawesville,191 Bailey Bvd,DAWESVILLE,6211,180.9,173.9,Ampol
+247,EG Ampol Brabham,3 Marvel Ent,BRABHAM,6055,181.9,173.9,EG Ampol
+264,Vibe Armadale,126 Forrest Rd,ARMADALE,6112,182.7,174.2,Vibe
+24,Liberty Cannington,25 Cecil Ave,CANNINGTON,6107,174.3,174.3,Liberty
+151,Vibe Forrestfield,159 Milner Rd,FORRESTFIELD,6058,180.3,174.3,Vibe
+26,NightOwl Shell Highgate,3 Guildford Rd,MOUNT LAWLEY,6050,174.4,174.4,Shell
+99,Liberty Gosnells,2341 Albany Hwy,GOSNELLS,6110,178.5,174.5,Liberty
+101,Liberty Tapping,3 Herdsman Lane,WANNEROO,6065,178.5,174.5,Liberty
+84,7-Eleven Landsdale,8 Mullingar Way,LANDSDALE,6065,177.9,174.5,7 Eleven
+105,Vibe Port Kennedy,35 Blackburn Dr,PORT KENNEDY,6172,178.7,174.5,Vibe
+97,Liberty Banksia Grove,7 Honeybee Pde,BANKSIA GROVE,6031,178.5,174.5,Liberty
+98,Liberty East Rockingham,115 Dixon Rd,EAST ROCKINGHAM,6168,178.5,174.5,Liberty
+265,Vibe Upper Swan,1447 Great Northern Hwy,UPPER SWAN,6069,182.7,174.7,Vibe
+102,Vibe Bayswater,120 Beechboro Rd South,BAYSWATER,6053,178.7,174.7,Vibe
+51,Vibe Nollamara,66 Sylvia St,NOLLAMARA,6061,176.7,174.7,Vibe
+309,Vibe Piara Waters,390 Nicholson Rd,PIARA WATERS,6112,184.7,174.7,Vibe
+153,Vibe Spearwood,333 Rockingham Rd,SPEARWOOD,6163,180.7,174.7,Vibe
+154,Vibe Subiaco,123 Thomas St,SUBIACO,6008,180.7,174.7,Vibe
+285,Ampol Foodary Murdoch,10 Robson Way,MURDOCH,6150,182.9,174.9,Ampol
+65,Ampol Foodary Kingsley,86 Kingsley Dr,KINGSLEY,6026,176.9,174.9,Ampol
+348,7-Eleven Yanchep,2 Tamala Lane,YANCHEP,6035,184.9,174.9,7 Eleven
+60,7-Eleven Clarkson,19 Neerabup Dr,CLARKSON,6030,176.9,174.9,7 Eleven
+339,7-Eleven Rockingham Central,2 Sepia Ct,ROCKINGHAM,6168,184.9,174.9,7 Eleven
+136,7-Eleven Malvern Springs,324 The Broadway,ELLENBROOK,6069,179.9,174.9,7 Eleven
+57,7-Eleven Butler,270 Butler Bvd,BUTLER,6036,176.9,174.9,7 Eleven
+132,7-Eleven Brabham,3 Marvel Ent,BRABHAM,6055,179.9,174.9,7 Eleven
+281,7-Eleven Midvale,231 Morrison Rd,MIDVALE,6056,182.9,174.9,7 Eleven
+137,EG Ampol Falcon,651 Old Coast Rd,FALCON,6210,179.9,174.9,EG Ampol
+280,7-Eleven Kardinya,1 South St,KARDINYA,6163,182.9,174.9,7 Eleven
+67,Ampol Foodary Malaga,1 Capital Rd,MALAGA,6090,176.9,174.9,Ampol
+155,7-Eleven Alkimos,10 Carlsbad Prom,ALKIMOS,6038,180.9,174.9,7 Eleven
+68,7-Eleven Middle Swan,40-42 Great Northern Hwy,MIDDLE SWAN,6056,176.9,174.9,7 Eleven
+63,7-Eleven Kelmscott,105 Champion Dr,KELMSCOTT,6111,176.9,174.9,7 Eleven
+245,OTR Yangebup,71 Shallcross St,YANGEBUP,6164,180.9,174.9,Caltex
+270,7-Eleven Carlisle,232 Orrong Rd,CARLISLE,6101,182.9,174.9,7 Eleven
+330,7-Eleven Midland,8 Clayton St,MIDLAND,6056,184.9,174.9,7 Eleven
+234,7-Eleven Thornlie,125 Murdoch Rd,THORNLIE,6108,180.9,174.9,7 Eleven
+228,OTR Roleystone,770 Brookton Hwy,ROLEYSTONE,6111,180.9,174.9,Caltex
+253,7-Eleven Queens Park,235 Welshpool Rd,QUEENS PARK,6107,181.9,174.9,7 Eleven
+145,7-Eleven Morley,162 Russell St,MORLEY,6062,179.9,174.9,7 Eleven
+186,7-Eleven Rockingham,129 Dixon Rd,EAST ROCKINGHAM,6168,180.9,174.9,7 Eleven
+303,7-Eleven Baldivis,370 Baldivis Rd,BALDIVIS,6171,183.9,174.9,7 Eleven
+141,7-Eleven Greenfields South,13 Lakes Rd,GREENFIELDS,6210,179.9,174.9,7 Eleven
+104,Caltex Kelmscott,2907 Albany Hwy,KELMSCOTT,6111,178.7,174.9,Caltex
+212,7-Eleven Malaga,650 Marshall Rd,MALAGA,6090,180.9,174.9,7 Eleven
+158,7-Eleven Balcatta,174 Balcatta Rd,BALCATTA,6021,180.9,174.9,7 Eleven
+208,7-Eleven Maddington South,1969 Albany Hwy,MADDINGTON,6109,180.9,174.9,7 Eleven
+112,Atlas Fuel Caversham,40 Bennett St,CAVERSHAM,6055,178.9,174.9,Atlas
+103,7-Eleven Kelmscott Central,4 Church St,KELMSCOTT,6111,178.7,174.9,7 Eleven
+302,United Tapping,1369 Wanneroo Rd,WANNEROO,6065,183.5,175.5,United
+306,Ampol Foodary Mundaring,5895 Great Eastern Hwy,MUNDARING,6073,183.9,175.9,Ampol
+378,Caltex Neerabup,2056 Wanneroo Rd,NEERABUP,6031,185.9,175.9,Caltex
+350,Caltex Alexander Heights,200 Mirrabooka Ave,ALEXANDER HEIGHTS,6064,185.9,175.9,Caltex
+49,Atlas Fuel Welshpool,36 Welshpool Rd,WELSHPOOL,6106,175.9,175.9,Atlas
+351,Caltex Armadale,10 Orchard Ave,ARMADALE,6112,185.9,175.9,Caltex
+356,Caltex Burswood,265 Great Eastern Hwy,BURSWOOD,6100,185.9,175.9,Caltex
+376,Caltex Murdoch,170 Murdoch Dr,MURDOCH,6150,185.9,175.9,Caltex
+355,Caltex Bentley,1/1163 Albany Hwy,BENTLEY,6102,185.9,175.9,Caltex
+354,Caltex Bellevue,16-20 Clayton St,BELLEVUE,6056,185.9,175.9,Caltex
+353,Caltex Bayswater,502 Guildford Rd,BAYSWATER,6053,185.9,175.9,Caltex
+352,Caltex Baldivis,67 Ridge Bvd,BALDIVIS,6171,185.9,175.9,Caltex
+375,Caltex Mundaring,7060 Great Eastern Hwy,MUNDARING,6073,185.9,175.9,Caltex
+357,Caltex Byford,8 Kardan Bvd,BYFORD,6122,185.9,175.9,Caltex
+358,Caltex Como,393 Canning Hwy,COMO,6152,185.9,175.9,Caltex
+373,Caltex Mindarie,22 Anchorage Dr,MINDARIE,6030,185.9,175.9,Caltex
+379,Caltex Osborne Park,8 Main St,OSBORNE PARK,6017,185.9,175.9,Caltex
+359,Caltex Dayton,8 Repton St,DAYTON,6055,185.9,175.9,Caltex
+365,Caltex Hamilton Hill South,216 Rockingham Rd,HAMILTON HILL,6163,185.9,175.9,Caltex
+366,Caltex Lesmurdie,194 Canning Rd,LESMURDIE,6076,185.9,175.9,Caltex
+367,Caltex Lynwood,2 Lynwood Ave,LYNWOOD,6147,185.9,175.9,Caltex
+368,Caltex Malaga,1896 Beach Rd,MALAGA,6090,185.9,175.9,Caltex
+369,Caltex Mandurah,105 Reserve Dr,MANDURAH,6210,185.9,175.9,Caltex
+370,Caltex Meadow Springs,25 Meadow Springs Dr,MEADOW SPRINGS,6210,185.9,175.9,Caltex
+130,BP Ballajura,2 Illawarra Cres North,BALLAJURA,6066,179.9,175.9,BP
+135,BP East Rockingham,137 Dixon Rd,EAST ROCKINGHAM,6168,179.9,175.9,BP
+138,BP Forrestdale,2 Alex Wood Dr,FORRESTDALE,6112,179.9,175.9,BP
+371,Caltex Merriwa,5/4 Hughie Edwards Dr,MERRIWA,6030,185.9,175.9,Caltex
+484,United Neerabup Truck Stop,2038 Wanneroo Rd,NEERABUP,6031,,175.9,United
+150,BP Woodbridge,380 Great Eastern Hwy,WOODBRIDGE,6056,179.9,175.9,BP
+142,BP Greenwood North,1 Canham Way,GREENWOOD,6024,179.9,175.9,BP
+146,BP Port Kennedy,46 Bakewell Dr,PORT KENNEDY,6172,179.9,175.9,BP
+364,Caltex Hamilton Hill North,224 Clontarf Rd,HAMILTON HILL,6163,185.9,175.9,Caltex
+391,Ampol Foodary North Yunderup,868 Pinjarra Rd,FURNISSDALE,6209,186.9,175.9,Ampol
+374,Caltex Mount Lawley,81 Guildford Rd,MOUNT LAWLEY,6050,185.9,175.9,Caltex
+363,Caltex Gwelup,1 Wishart St,GWELUP,6018,185.9,175.9,Caltex
+380,Caltex Pearsall,204 Shiraz Bvd,PEARSALL,6065,185.9,175.9,Caltex
+299,United Naval Base Truck Stop,13 Lionel St,NAVAL BASE,6165,183.5,175.9,United
+362,Caltex Glen Forrest,1400 Great Eastern Hwy,GLEN FORREST,6071,185.9,175.9,Caltex
+372,Caltex Midvale,232-234 Morrison Rd,MIDVALE,6056,185.9,175.9,Caltex
+382,Caltex Upper Swan,1383 Great Northern Hwy,UPPER SWAN,6069,185.9,175.9,Caltex
+383,Caltex Warnbro,649-651 Safety Bay Rd,WARNBRO,6169,185.9,175.9,Caltex
+384,Caltex Welshpool,23 Kewdale Rd,WELSHPOOL,6106,185.9,175.9,Caltex
+360,Caltex Dianella,61 Walter Rd West,DIANELLA,6059,185.9,175.9,Caltex
+361,Caltex Forrestdale,4 Remisko Dr,FORRESTDALE,6112,185.9,175.9,Caltex
+128,Vibe Neerabup,1 Pinnacle Dr,NEERABUP,6031,179.7,176.7,Vibe
+254,Ampol Foodary Rivervale,111 Great Eastern Hwy,RIVERVALE,6103,181.9,176.9,Ampol
+294,7-Eleven Wanneroo South,929-931 Wanneroo Rd,WANNEROO,6065,182.9,176.9,7 Eleven
+139,7-Eleven Golden Bay,52 Thundelarra Dr,GOLDEN BAY,6174,179.9,176.9,7 Eleven
+164,7-Eleven Bassendean,302-318 Collier Rd,BASSENDEAN,6054,180.9,176.9,7 Eleven
+39,Ampol Foodary Warnbro,2 Bristol St,WARNBRO,6169,174.9,176.9,Ampol
+251,Ampol Foodary Mt Lawley,810 Beaufort St,MOUNT LAWLEY,6050,181.9,176.9,Ampol
+385,Ampol Foodary Forrest Highway North,Lot 602 Forrest Hwy,WEST PINJARRA,6208,185.9,176.9,Ampol
+36,Ampol Foodary Lakelands,Lot 50 Mandurah Rd,MEADOW SPRINGS,6210,174.9,176.9,Ampol
+386,Ampol Foodary Forrest Highway South,Lot 601 Forrest Hwy,WEST PINJARRA,6208,185.9,176.9,Ampol
+200,Ampol Foodary Joondalup,420 Joondalup Dr,JOONDALUP,6027,180.9,176.9,Ampol
+393,Ampol Foodary Karrinyup,490 Karrinyup Rd,GWELUP,6018,186.9,176.9,Ampol
+256,Better Choice Bellevue,177-179 Great Eastern Hwy,BELLEVUE,6056,182.5,176.9,Better Choice
+74,Burk Broadwater,545 Bussell Hwy,BROADWATER,6280,177.3,177.3,BURK
+263,Better Choice Tuart Hill,150 Wanneroo Rd,TUART HILL,6060,182.5,177.3,Better Choice
+258,Better Choice Malaga,3 Carson Rd,MALAGA,6090,182.5,177.7,Better Choice
+257,Better Choice Edgewater,21 Edgewater Dr,EDGEWATER,6027,182.5,177.7,Better Choice
+126,Metro Albany,269 York St,ALBANY,6330,179.7,177.7,Metro
+319,Better Choice Como,25 Preston St,COMO,6152,184.9,178.3,Better Choice
+100,Shell High Wycombe,1100 Abernethy Rd,HIGH WYCOMBE,6057,178.5,178.5,Shell
+315,Vibe Bullsbrook,2533 Great Northern Hwy,BULLSBROOK,6084,184.9,178.7,Vibe
+125,Vibe Kwinana Town Centre,6 Chisham Ave,KWINANA TOWN CENTRE,6167,179.3,178.7,Vibe
+161,7-Eleven Banksia Grove,1/300 Joseph Banks Bvd,BANKSIA GROVE,6031,180.9,178.9,7 Eleven
+403,7-Eleven Success,660 Beeliar Dr,SUCCESS,6164,188.9,178.9,7 Eleven
+113,Petro Fuels Albany,250 Albany Hwy,CENTENNIAL PARK,6330,178.9,178.9,Petro
+392,7-Eleven Gosnells,303 Corfield St,GOSNELLS,6110,186.9,178.9,7 Eleven
+390,7-Eleven Byford South,25 Abernethy Rd,BYFORD,6122,186.9,178.9,7 Eleven
+331,BP Mindarie,360 Anchorage Dr North,MINDARIE,6030,184.9,178.9,BP
+273,7-Eleven Cockburn Central,814 North Lake Rd,COCKBURN CENTRAL,6164,182.9,178.9,7 Eleven
+278,7-Eleven Forrestdale,2 Haydock St,FORRESTDALE,6112,182.9,178.9,7 Eleven
+304,7-Eleven Greenfields,1 Eaglemont St,GREENFIELDS,6210,183.9,178.9,7 Eleven
+305,7-Eleven Joondalup,8 Buick Way,JOONDALUP,6027,183.9,178.9,7 Eleven
+311,7-Eleven Ascot,194 Great Eastern Hwy,ASCOT,6104,184.9,178.9,7 Eleven
+318,BP Beeliar,701 Beeliar Dr,COCKBURN CENTRAL,6164,184.9,178.9,BP
+321,BP Greenwood,19 Coolibah Dr,GREENWOOD,6024,184.9,178.9,BP
+322,BP Henley Brook,1520 Gnangara Rd,HENLEY BROOK,6055,184.9,178.9,BP
+332,BP Mullaloo,101 Dampier Av,MULLALOO,6027,184.9,178.9,BP
+314,7-Eleven Balga,102 Princess Rd,BALGA,6061,184.9,178.9,7 Eleven
+405,Astron Quinns Rocks,121 Quinns Rd,QUINNS ROCKS,6030,189.5,179.4,Astron
+144,NightOwl BP Mandurah,304 Pinjarra Rd,MANDURAH,6210,179.9,179.9,BP
+131,Petro Fuels Bluff Point,381 Chapman Rd,BLUFF POINT,6530,179.9,179.9,Petro
+129,NightOwl BP Armadale,3249 Albany Hwy,ARMADALE,6112,179.9,179.9,BP
+308,Vibe Henderson,Lot 104 Russel Rd,HENDERSON,6166,184.3,180.3,Vibe
+152,Liberty Busselton West,100 West St,WEST BUSSELTON,6280,180.5,180.5,Liberty
+184,Liberty Dongara,30215 Brand Hwy,DONGARA,6525,180.9,180.9,Liberty
+404,7-Eleven Wattle Grove,332 Hale Rd,WATTLE GROVE,6107,188.9,180.9,7 Eleven
+241,Liberty West Busselton,259 Bussell Hwy,WEST BUSSELTON,6280,180.9,180.9,Liberty
+394,S24 Harvey,77 Uduc Rd,HARVEY,6220,186.9,180.9,Caltex
+249,Metro Geraldton,1 Fortyn Ct,MAHOMETS FLATS,6530,181.9,181.9,Metro
+260,Liberty Naval Base,24 Dooley St,NAVAL BASE,6165,182.5,182.5,Liberty
+259,Liberty McKail,557 Albany Hwy,MCKAIL,6330,182.5,182.5,Liberty
+255,Liberty Oyster Harbour,4 Bayonet Head Rd,BAYONET HEAD,6330,182.5,182.5,Liberty
+262,Liberty Pinjarra,Cnr Pinjarra Rd & Carey St,PINJARRA,6208,182.5,182.5,Liberty
+292,Serpentine Falls Roadhouse,2 Falls Rd,SERPENTINE,6125,182.9,182.9,Independent
+398,7-Eleven Caversham,2131 West Swan Rd,CAVERSHAM,6055,187.9,182.9,7 Eleven
+297,Phoenix Barlee St,31 Barlee St,BUSSELTON,6280,183.0,183.0,Independent
+298,Geographe Petroleum,84 Strelly St,BUSSELTON,6280,183.5,183.5,Liberty
+300,United Pinjarra Truck Stop,1602 Pinjarra Rd,PINJARRA,6208,183.5,183.5,United
+301,United Vasse Truck Stop,210 Northerly St,VASSE,6280,183.5,183.5,United
+428,7-Eleven Harrisdale,120 Yellowwood Ave,HARRISDALE,6112,194.9,184.9,7 Eleven
+323,Caltex High Wycombe OPT,494 Kalamunda Rd,HIGH WYCOMBE,6057,184.9,184.9,Caltex
+316,7-Eleven Busselton,81-93 West St,BUSSELTON,6280,184.9,184.9,7 Eleven
+349,Gull Waterloo,14270 South Western Hwy,WATERLOO,6228,185.7,185.7,Gull
+486,Astron Roleystone,11 Wygonda Rd,ROLEYSTONE,6111,,185.9,Astron
+409,Ampol Rous Head,Cnr North Mole Dr & Rous Head Rd,NORTH FREMANTLE,6159,189.9,185.9,Ampol
+377,Caltex Naval Base,Cnr Rockingham Rd & Lee Rd,NAVAL BASE,6165,185.9,185.9,Caltex
+387,Condello's Liquor Waterloo,14755 South Western Hwy,PICTON EAST,6229,186.2,186.2,Pheonix
+388,Liberty Dalyellup,9 Norton Prom,DALYELLUP,6230,186.5,186.5,Liberty
+420,Caltex Westfield Street,134 Westfield St,MADDINGTON,6109,193.7,186.7,Caltex
+389,Vibe Treendale,157 Grand Ent,AUSTRALIND,6233,186.7,186.7,Vibe
+395,Shell Reddy Express Vasse,2 Napoleon Prom,VASSE,6280,186.9,186.9,
+396,United Rangeway Truck Stop,50 Rifle Range Rd,RANGEWAY,6530,187.5,187.5,United
+408,EG Ampol Geraldton,59 Cathedral Ave,GERALDTON,6530,189.9,187.9,EG Ampol
+399,United Mount Barker Roadhouse Truck Stop,31763 Albany Hwy,MOUNT BARKER,6324,187.9,187.9,United
+397,Liberty Cataby,10805 Brand Hwy,CATABY,6507,187.9,187.9,Liberty
+411,7-Eleven Bunbury East,8D Picton Rd,EAST BUNBURY,6230,190.9,188.1,7 Eleven
+400,Vibe South Bunbury,302 Blair St,SOUTH BUNBURY,6230,188.3,188.3,Vibe
+402,United Kellerberrin Truck Stop,150 Massingham St,KELLERBERRIN,6410,188.5,188.5,United
+401,7-Eleven Dalyellup,51 Tiffany Ctr,DALYELLUP,6230,188.5,188.5,7 Eleven
+414,Ampol Foodary Gelorup,39 Bussell Hwy,GELORUP,6230,191.9,189.9,Ampol
+415,Caltex Lakes Road Nambeelup,6 Dollyup Street,STAKE HILL,6181,191.9,189.9,Caltex
+406,Ampol Foodary Bunbury,1 Forrest Ave,BUNBURY,6230,189.9,189.9,Ampol
+407,Fruit Barn,7 South Western Hwy,DONNYBROOK,6239,189.9,189.9,Liberty
+483,Whalley's United Uberwash,225-227 Albany Hwy,MOUNT MELVILLE,6330,,190.4,United
+413,7-Eleven Withers,1 Island Queen St,WITHERS,6230,190.9,190.9,7 Eleven
+412,Liberty Karratha,2 Cockatoo St,NICKOL,6714,190.9,190.9,Liberty
+410,BP Cowaramup,1 Roy Earl Dr,COWARAMUP,6284,190.9,190.9,BP
+480,Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,,190.9,Puma
+418,EG Ampol Bunbury,Lot 68 Pennant Rd,EAST BUNBURY,6230,192.9,192.9,EG Ampol
+417,Caltex Bunbury South,1 Brittain Rd,CAREY PARK,6230,192.9,192.9,Caltex
+416,Caltex Busselton,99 Causeway Rd,BUSSELTON,6280,192.9,192.9,Caltex
+419,Shell Reddy Express Bunbury,70 Forrest Ave,SOUTH BUNBURY,6230,192.9,192.9,
+421,Ampol Foodary Busselton,115 Strelly St,BUSSELTON,6280,193.9,193.9,Ampol
+422,Metro Jurien Bay,74 Bashford St,JURIEN BAY,6516,193.9,193.9,Metro
+423,Ampol Foodary Williams,56 Albany Hwy,WILLIAMS,6391,193.9,193.9,Ampol
+424,FDWA Cunderdin,67 Lundy Ave,CUNDERDIN,6407,194.0,194.0,Independent
+425,Better Choice Margaret River,211 Bussell Hwy,MARGARET RIVER,6285,194.5,194.5,Better Choice
+429,Shell Reddy Express Margaret River,78 Bussell Hwy,MARGARET RIVER,6285,194.9,194.9,
+431,Mt Barker Fuel Services,48 Lowood Rd,MOUNT BARKER,6324,194.9,194.9,Independent
+430,Caltex Moora,65 Roberts St,MOORA,6510,194.9,194.9,Caltex
+427,Shell Reddy Express Esperance,25 Andrew St,ESPERANCE,6450,194.9,194.9,
+426,7-Eleven Dunsborough,100 Commonage Rd,DUNSBOROUGH,6281,194.9,194.9,7 Eleven
+432,Ampol Foodary Esperance,59 Dempster St,ESPERANCE,6450,195.9,195.9,Ampol
+445,Ampol Foodary Karratha,Lot 3861 Bathgate Rd,NICKOL,6714,197.9,195.9,Ampol
+481,Better Choice Karridale Roadhouse,12440 Bussell Hwy,KARRIDALE,6288,,196.7,Better Choice
+442,Shell Reddy Express Bunbury Outbound,9850 Forrest Hwy,VITTORIA,6230,196.9,196.9,
+433,BP 2go Australind,80 Old Coast Rd,AUSTRALIND,6233,196.9,196.9,BP
+440,EG Ampol Manjimup,89 Mottram St,MANJIMUP,6258,196.9,196.9,EG Ampol
+439,EG Ampol Brooks Garden,162 Chester Pass Rd,LANGE,6330,196.9,196.9,EG Ampol
+434,EG Ampol Australind,Cnr Grand Ent & The Promenade,AUSTRALIND,6233,196.9,196.9,EG Ampol
 438,Shell Reddy Express Bunbury Gateway,9805 Forrest Hwy,GLEN IRIS,6230,196.9,196.9,
-449,EG Ampol Eaton,2 Recreation Dr,EATON,6232,198.9,196.9,EG Ampol
-440,Shell Reddy Express Bunbury Outbound,9850 Forrest Hwy,VITTORIA,6230,196.9,196.9,
-124,Lori's Fuel Supply,259 Railway Ave,KELMSCOTT,6111,175.7,197.7,Independent
-437,Ampol Foodary Esperance,59 Dempster St,ESPERANCE,6450,196.9,197.9,Ampol
-439,Ampol Foodary Newman,Lot 1328 Newman Dr,NEWMAN,6753,196.9,197.9,Ampol
-442,Ampol Foodary Karratha,Lot 3861 Bathgate Rd,NICKOL,6714,197.9,197.9,Ampol
-443,FDWA Cunderdin,67 Lundy Ave,CUNDERDIN,6407,198.0,198.0,Independent
-444,7-Eleven Treendale,147-149 Grand Ent,AUSTRALIND,6233,198.7,198.7,7 Eleven
-451,Caltex Glenfield,1182 Chapman Rd,GLENFIELD,6532,198.9,198.9,Caltex
-452,EG Ampol Brooks Garden,162 Chester Pass Rd,LANGE,6330,198.9,198.9,EG Ampol
-448,7-Eleven Eaton,15 Albatross Cres,EATON,6232,198.9,198.9,7 Eleven
+435,Caltex Binningup,7080 Forrest Hwy,BINNINGUP,6233,196.9,196.9,Caltex
+436,7-Eleven Eaton,15 Albatross Cres,EATON,6232,196.9,196.9,7 Eleven
+437,EG Ampol Eaton,2 Recreation Dr,EATON,6232,196.9,196.9,EG Ampol
+441,Caltex Myalup,6043 Forrest Hwy,MYALUP,6220,196.9,196.9,Caltex
+443,Ampol Foodary Eaton,1 Pratt Rd,EATON,6232,197.9,197.9,Ampol
+444,Ampol Foodary Newman,Lot 1328 Newman Dr,NEWMAN,6753,197.9,197.9,Ampol
+446,7-Eleven Treendale,147-149 Grand Ent,AUSTRALIND,6233,198.7,198.7,7 Eleven
+448,Caltex Glenfield,1182 Chapman Rd,GLENFIELD,6532,198.9,198.9,Caltex
+450,Caltex Tarcoola,156 Brand Hwy,TARCOOLA BEACH,6530,198.9,198.9,Caltex
+449,Caltex Mt Melville,317 Albany Hwy,MOUNT MELVILLE,6330,198.9,198.9,Caltex
 447,Shell Reddy Express Dunsborough,64 Dunn Bay Rd,DUNSBOROUGH,6281,198.9,198.9,
-446,EG Ampol Australind,Cnr Grand Ent & The Promenade,AUSTRALIND,6233,198.9,198.9,EG Ampol
-445,BP 2go Australind,80 Old Coast Rd,AUSTRALIND,6233,198.9,198.9,BP
-450,Shell Reddy Express Esperance,25 Andrew St,ESPERANCE,6450,198.9,198.9,
-441,EG Ampol Manjimup,89 Mottram St,MANJIMUP,6258,197.9,198.9,EG Ampol
-454,Caltex Tarcoola,156 Brand Hwy,TARCOOLA BEACH,6530,198.9,198.9,Caltex
-434,Caltex Myalup,6043 Forrest Hwy,MYALUP,6220,194.9,198.9,Caltex
-427,Caltex Binningup,7080 Forrest Hwy,BINNINGUP,6233,194.9,198.9,Caltex
-453,Caltex Mt Melville,317 Albany Hwy,MOUNT MELVILLE,6330,198.9,198.9,Caltex
-457,Geographe IGA,328 Marine Tce,GEOGRAPHE,6280,199.9,199.9,Liberty
-455,Ampol Foodary North Road,204 North Rd,YAKAMIA,6330,198.9,199.9,Ampol
-456,Ampol Foodary Eaton,1 Pratt Rd,EATON,6232,199.9,199.9,Ampol
-31,EG Ampol Greenwood,37 Canham Way,GREENWOOD,6024,173.8,200.9,EG Ampol
-458,Shell Reddy Express Albany Orana,342 Albany Hwy,ORANA,6330,200.9,200.9,
-112,EG Ampol Southern River,466 Warton Rd,SOUTHERN RIVER,6110,174.9,200.9,EG Ampol
-459,Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,202.4,202.4,Puma
-460,Kambalda Roadhouse,2 Bluebush Rd,KAMBALDA WEST,6442,202.9,202.9,Liberty
-415,Herne Hill General Store,777 Great Northern Hwy,HERNE HILL,6056,190.9,202.9,Puma
-380,Vibe Bullsbrook,2533 Great Northern Hwy,BULLSBROOK,6084,183.7,203.7,Vibe
-461,United Boulder Kalgoorlie,26 Davis St,BOULDER,6432,203.9,203.9,United
-45,Caltex Kwinana Truck Stop,4 Ocean St,KWINANA BEACH,6167,174.5,204.9,Caltex
-209,BP 2go Noranda,40 Benara Rd,NORANDA,6062,176.9,204.9,BP
-463,Shell Reddy Express Kununurra Roadhouse,17 Poinciana St,KUNUNURRA,6743,204.9,204.9,
-243,BP Connect Kwinana Hub,4 Chisham Ave,KWINANA TOWN CENTRE,6167,177.9,204.9,BP
-462,Caltex Dalwallinu,4 Johnston St,DALWALLINU,6609,204.9,204.9,Caltex
-340,NightOwl Shell Redcliffe,443 Great Eastern Hwy,REDCLIFFE,6104,179.9,205.9,Shell
-283,Ampol Foodary Kwinana,Cnr Mandurah Rd & Wellard Rd,KWINANA BEACH,6167,178.9,205.9,Ampol
-109,S24 Redcliffe,419 Great Eastern Hwy,REDCLIFFE,6104,174.9,205.9,Shell
-240,S24 Guildford,22 Johnson St,GUILDFORD,6055,177.9,205.9,Caltex
-171,Ampol Foodary Ascot,204 Great Eastern Hwy,ASCOT,6104,176.9,206.9,Ampol
-264,Vibe Jandakot,630 Karel Ave,JANDAKOT,6164,178.7,208.5,Vibe
-270,Ampol Foodary Belmont,303 Great Eastern Hwy,BELMONT,6104,178.9,208.9,Ampol
-170,7-Eleven Ascot,194 Great Eastern Hwy,ASCOT,6104,176.9,208.9,7 Eleven
-46,Caltex Maddington Truck Stop,18 Orchard Rd,MADDINGTON,6109,174.5,208.9,Caltex
-464,Shell Reddy Express Boulder,35 Frank St,BOULDER,6432,208.9,208.9,
-468,BP South Hedland,2 Throssell Rd,SOUTH HEDLAND,6722,209.9,209.9,BP
-466,Ampol Foodary Kalgoorlie South,146 Boulder Rd,SOUTH KALGOORLIE,6430,208.9,209.9,Ampol
-465,Ampol Foodary Kalgoorlie,581 Hannan St,SOMERVILLE,6430,208.9,209.9,Ampol
-244,BP Maida Vale,269 Kalamunda Rd,MAIDA VALE,6057,177.9,209.9,BP
-217,BP Connect Rockingham Park,2 Chalgrove Ave,ROCKINGHAM,6168,176.9,209.9,BP
-234,BP Canning Vale,1 Wilfred Rd,CANNING VALE,6155,177.9,209.9,BP
-248,BP Connect Merriwa,2 Ridgewood Bvd,RIDGEWOOD,6030,177.9,209.9,BP
-324,NightOwl Shell Maddington,1 Davison St,MADDINGTON,6109,179.9,209.9,Shell
-220,BP The Lakes Roadhouse,13724 Great Eastern Hwy,THE LAKES,6556,176.9,209.9,BP
-247,BP Connect Main Street,218 Main St,OSBORNE PARK,6017,177.9,209.9,BP
-241,BP Nookenburra,386 Scarborough Beach Rd,INNALOO,6018,177.9,209.9,BP
-53,Caltex Edgewater,2 The Gateway,EDGEWATER,6027,174.7,210.9,Caltex
-146,EG Ampol Warnbro,202 Warnbro Sound Ave,WARNBRO,6169,175.9,210.9,EG Ampol
-467,Ampol Foodary South Hedland,67 Hamilton Rd,SOUTH HEDLAND,6722,209.9,210.9,Ampol
-78,EG Ampol Ellenbrook,11 Main St,ELLENBROOK,6069,174.9,210.9,EG Ampol
-130,EG Ampol Banksia Grove,133 Ghost Gum Bvd,BANKSIA GROVE,6031,175.9,210.9,EG Ampol
-252,BP Kenwick,48 Courtney Pl,WATTLE GROVE,6107,177.9,211.9,BP
-224,BP Connect Wembley,240 Cambridge St,WEMBLEY,6014,176.9,211.9,BP
-223,BP Connect Palm Springs,214 Warnbro Sound Ave,WARNBRO,6169,176.9,211.9,BP
-144,BP Sorrento,128 West Coast Dr,SORRENTO,6020,175.9,211.9,BP
-184,BP Connect Carlisle,44 Archer St,CARLISLE,6101,176.9,211.9,BP
-204,BP 2go Silver Sands,183-187 Mandurah Tce,MANDURAH,6210,176.9,211.9,BP
-143,BP Connect West Coast,11 Scarborough Beach Rd,SCARBOROUGH,6019,175.9,211.9,BP
-195,BP Halls Head,2 Guava Way,HALLS HEAD,6210,176.9,211.9,BP
-355,Caltex Kelmscott,2907 Albany Hwy,KELMSCOTT,6111,180.9,212.3,Caltex
-258,Better Choice Como,25 Preston St,COMO,6152,178.5,212.5,Better Choice
-101,EG Ampol Mirrabooka,53 Yirrigan Dr,MIRRABOOKA,6061,174.9,212.9,EG Ampol
-293,Ampol Foodary Thornlie Square,316 Spencer Rd,THORNLIE,6108,178.9,212.9,Ampol
-369,Ampol Foodary Butler,11 Headingly Cr,BUTLER,6036,182.9,212.9,Ampol
-471,Caltex South Hedland,1 Altitude Ave,PORT HEDLAND,6721,212.9,212.9,Caltex
-469,EG Ampol Carnarvon,90 Robinson St,CARNARVON,6701,212.9,212.9,EG Ampol
-275,Ampol Foodary Doubleview,365 Scarborough Beach Rd,DOUBLEVIEW,6018,178.9,212.9,Ampol
-191,EG Ampol Falcon,651 Old Coast Rd,FALCON,6210,176.9,213.9,EG Ampol
-166,United South Lake,49 Berrigan Dr,SOUTH LAKE,6164,176.5,213.9,United
-278,Ampol Foodary Glendalough,2 Jon Sanders Dr,GLENDALOUGH,6016,178.9,213.9,Ampol
-470,Ampol Foodary Carnarvon,595 Robinson St,KINGSFORD,6701,212.9,213.9,Ampol
-229,United Leda,2 Feilman Dr,LEDA,6170,177.5,213.9,United
-163,United Osborne Park,479 Scarborough Beach Rd,OSBORNE PARK,6017,176.5,213.9,United
-392,Ampol Foodary Rivervale,111 Great Eastern Hwy,RIVERVALE,6103,184.9,213.9,Ampol
-155,United Ellenbrook,3 Locke Lane,ELLENBROOK,6069,176.5,213.9,United
-158,United Lexia Truck Stop,779 Gnangara Rd,LEXIA,6065,176.5,213.9,United
-159,United Maddington Truck Stop,13 Stebbing Rd,MADDINGTON,6109,176.5,213.9,United
-167,United Southern River,Lot 101 Terrier Pl,SOUTHERN RIVER,6110,176.5,213.9,United
-56,Vibe Spearwood,333 Rockingham Rd,SPEARWOOD,6163,174.7,214.7,Vibe
-250,BP Singleton,2514 Mandurah Rd,SINGLETON,6175,177.9,214.9,BP
-245,BP Connect Myaree,246 Leach Hwy,MYAREE,6154,177.9,214.9,BP
-253,BP 2go Collins Road,121 Collins Rd,WILLETTON,6155,177.9,214.9,BP
-302,NightOwl BP Armadale,3249 Albany Hwy,ARMADALE,6112,179.9,214.9,BP
-141,BP Piara Waters,12 Erade Dr,PIARA WATERS,6112,175.9,214.9,BP
-287,OTR Roleystone,770 Brookton Hwy,ROLEYSTONE,6111,178.9,214.9,Caltex
-297,OTR Yangebup,71 Shallcross St,YANGEBUP,6164,178.9,214.9,Caltex
-138,BP Connect Beaumauris,2 Prendiville Ave,OCEAN REEF,6027,175.9,214.9,BP
-333,NightOwl Shell Highgate,3 Guildford Rd,MOUNT LAWLEY,6050,179.9,214.9,Shell
-189,BP Ellenbrook,180 The Promenade,ELLENBROOK,6069,176.9,214.9,BP
-71,7-Eleven Carlisle,232 Orrong Rd,CARLISLE,6101,174.9,214.9,7 Eleven
-133,EG Ampol Mandurah,10-12 Magenta Tce,MANDURAH,6210,175.9,214.9,EG Ampol
-126,EG Ampol Alkimos,11 Shorehaven Bvd,ALKIMOS,6038,175.9,214.9,EG Ampol
-89,7-Eleven Kardinya,1 South St,KARDINYA,6163,174.9,214.9,7 Eleven
-90,7-Eleven Kelmscott Central,4 Church St,KELMSCOTT,6111,174.9,214.9,7 Eleven
-100,7-Eleven Midvale,231 Morrison Rd,MIDVALE,6056,174.9,214.9,7 Eleven
-99,7-Eleven Midland,8 Clayton St,MIDLAND,6056,174.9,214.9,7 Eleven
-276,Ampol Foodary Erskine,112 Oakleigh Dr,ERSKINE,6210,178.9,214.9,Ampol
-242,BP Kardinya,88 Gilbertson Rd,KARDINYA,6163,177.9,214.9,BP
-95,7-Eleven Malaga,650 Marshall Rd,MALAGA,6090,174.9,214.9,7 Eleven
-38,OTR Maddington,1-3 Sampson St,MADDINGTON,6109,173.9,214.9,Shell
-216,7-Eleven Ridgewood,35 Kilrush Turn,RIDGEWOOD,6030,176.9,214.9,7 Eleven
-212,BP Connect Padbury,2 Warburton Ave,PADBURY,6025,176.9,214.9,BP
-24,7-Eleven Rockingham Central,2 Sepia Ct,ROCKINGHAM,6168,172.9,214.9,7 Eleven
-168,BP Applecross,848 Canning Hwy,APPLECROSS,6153,176.9,214.9,BP
-18,7-Eleven Stirling,377 Wanneroo Rd,BALCATTA,6021,172.9,214.9,7 Eleven
-187,BP Connect East Perth,68-70 Brown St,EAST PERTH,6004,176.9,214.9,BP
-196,BP Huntingdale,68 Warton Rd,HUNTINGDALE,6110,176.9,214.9,BP
-237,BP Clarkson,28K Caloundra Rd,CLARKSON,6030,177.9,214.9,BP
-238,BP Connect Currambine,2 Sunlander Dr,CURRAMBINE,6028,177.9,214.9,BP
-200,BP Welshpool,1 Ballantyne Rd,KEWDALE,6105,176.9,214.9,BP
-472,BP Port Hedland Boulevard,150 Anderson St,PORT HEDLAND,6721,215.9,215.9,BP
-318,BP Greenwood North,1 Canham Way,GREENWOOD,6024,179.9,215.9,BP
-317,Caltex Glen Forrest,1400 Great Eastern Hwy,GLEN FORREST,6071,179.9,215.9,Caltex
-316,Caltex Forrestdale,4 Remisko Dr,FORRESTDALE,6112,179.9,215.9,Caltex
-313,Caltex Dianella,61 Walter Rd West,DIANELLA,6059,179.9,215.9,Caltex
-312,Caltex Dayton,8 Repton St,DAYTON,6055,179.9,215.9,Caltex
-311,Caltex Como,393 Canning Hwy,COMO,6152,179.9,215.9,Caltex
-309,Caltex Burswood,265 Great Eastern Hwy,BURSWOOD,6100,179.9,215.9,Caltex
-308,Caltex Bentley,1/1163 Albany Hwy,BENTLEY,6102,179.9,215.9,Caltex
-306,Caltex Bellevue,16-20 Clayton St,BELLEVUE,6056,179.9,215.9,Caltex
-305,Caltex Bayswater,502 Guildford Rd,BAYSWATER,6053,179.9,215.9,Caltex
-303,Caltex Baldivis,67 Ridge Bvd,BALDIVIS,6171,179.9,215.9,Caltex
-301,Caltex Armadale,10 Orchard Ave,ARMADALE,6112,179.9,215.9,Caltex
-300,Caltex Alexander Heights,200 Mirrabooka Ave,ALEXANDER HEIGHTS,6064,179.9,215.9,Caltex
-310,Caltex Byford,8 Kardan Bvd,BYFORD,6122,179.9,215.9,Caltex
-319,Caltex Gwelup,1 Wishart St,GWELUP,6018,179.9,215.9,Caltex
-322,Caltex Lesmurdie,194 Canning Rd,LESMURDIE,6076,179.9,215.9,Caltex
-321,Caltex Hamilton Hill South,216 Rockingham Rd,HAMILTON HILL,6163,179.9,215.9,Caltex
-344,BP Woodbridge,380 Great Eastern Hwy,WOODBRIDGE,6056,179.9,215.9,BP
-343,Caltex Welshpool,23 Kewdale Rd,WELSHPOOL,6106,179.9,215.9,Caltex
-342,Caltex Warnbro,649-651 Safety Bay Rd,WARNBRO,6169,179.9,215.9,Caltex
-341,Caltex Upper Swan,1383 Great Northern Hwy,UPPER SWAN,6069,179.9,215.9,Caltex
-338,Caltex Pearsall,204 Shiraz Bvd,PEARSALL,6065,179.9,215.9,Caltex
-337,Caltex Osborne Park,8 Main St,OSBORNE PARK,6017,179.9,215.9,Caltex
-320,Caltex Hamilton Hill North,224 Clontarf Rd,HAMILTON HILL,6163,179.9,215.9,Caltex
-335,Caltex Murdoch,170 Murdoch Dr,MURDOCH,6150,179.9,215.9,Caltex
-332,Caltex Mount Lawley,81 Guildford Rd,MOUNT LAWLEY,6050,179.9,215.9,Caltex
-331,Caltex Mindarie,22 Anchorage Dr,MINDARIE,6030,179.9,215.9,Caltex
-330,Caltex Midvale,232-234 Morrison Rd,MIDVALE,6056,179.9,215.9,Caltex
-329,Caltex Merriwa,5/4 Hughie Edwards Dr,MERRIWA,6030,179.9,215.9,Caltex
-325,Caltex Malaga,1896 Beach Rd,MALAGA,6090,179.9,215.9,Caltex
-323,Caltex Lynwood,2 Lynwood Ave,LYNWOOD,6147,179.9,215.9,Caltex
-334,Caltex Mundaring,7060 Great Eastern Hwy,MUNDARING,6073,179.9,215.9,Caltex
-326,Caltex Mandurah,105 Reserve Dr,MANDURAH,6210,179.9,215.9,Caltex
-328,Caltex Meadow Springs,25 Meadow Springs Dr,MEADOW SPRINGS,6210,179.9,215.9,Caltex
-336,Caltex Neerabup,2056 Wanneroo Rd,NEERABUP,6031,179.9,215.9,Caltex
-288,Ampol Foodary Scarborough,74 Scarborough Beach Rd,SCARBOROUGH,6019,178.9,215.9,Ampol
-251,BP Connect South Perth,9 Mends St,SOUTH PERTH,6151,177.9,216.9,BP
-136,BP Rosegarden,129 Stirling Hwy,NEDLANDS,6009,175.9,216.9,BP
-358,Ampol Foodary Leederville,319 Vincent St,LEEDERVILLE,6007,180.9,216.9,Ampol
-236,BP 2go Cannington,1443 Albany Hwy,CANNINGTON,6107,177.9,216.9,BP
-225,BP 2go Woodvale,941 Whitfords Ave,WOODVALE,6026,176.9,216.9,BP
-147,BP 2go Burrendah,69 Pinetree Gully Rd,WILLETTON,6155,175.9,216.9,BP
-129,BP Baldivis Southbound Travel Centre,Lot 192 Leary Rd,BALDIVIS,6171,175.9,216.9,BP
-128,BP Baldivis Northbound Travel Centre,Lot 191 Paparone Rd,BALDIVIS,6171,175.9,216.9,BP
-142,BP Connect Riverton,339 High Rd,RIVERTON,6148,175.9,216.9,BP
-213,BP Highgate,342 Beaufort St,PERTH,6000,176.9,216.9,BP
-83,7-Eleven Golden Bay,52 Thundelarra Dr,GOLDEN BAY,6174,174.9,216.9,7 Eleven
-218,BP South Fremantle,229B Hampton Rd,SOUTH FREMANTLE,6162,176.9,216.9,BP
-473,Shell Reddy Express South Hedland Roadhouse,Lot 5553 Great Northern Hwy,WEDGEFIELD,6721,216.9,216.9,
-193,BP Westgate,85 Queen Victoria St,FREMANTLE,6160,176.9,216.9,BP
-160,United Myaree,182 Leach Hwy,MYAREE,6154,176.5,217.9,United
-281,Ampol Foodary High Wycombe,967 Abernethy Rd,HIGH WYCOMBE,6057,178.9,217.9,Ampol
-157,United Kewdale Truck Stop,410-412 Orrong Rd,KEWDALE,6105,176.5,217.9,United
-153,United Bibra Lake,13 Whyalla Ct,BIBRA LAKE,6163,176.5,217.9,United
-290,BP Connect Phoenix,222 Rockingham Rd,SPEARWOOD,6163,178.9,217.9,BP
-162,United Northbridge,31 Fitzgerald St,NORTHBRIDGE,6003,176.5,217.9,United
-164,United Hepburn Heights,4 Walter Padbury Bvd,PADBURY,6025,176.5,217.9,United
-268,Ampol Foodary Applecross,918 Canning Hwy,APPLECROSS,6153,178.9,217.9,Ampol
-269,Ampol Foodary Baldivis,614 Baldivis Rd,BALDIVIS,6171,178.9,217.9,Ampol
-152,United Armadale,178 South Western Hwy,ARMADALE,6112,176.5,217.9,United
-154,United East Victoria Park,916 Albany Hwy,EAST VICTORIA PARK,6101,176.5,217.9,United
-173,Ampol Foodary Northlands,391 Wanneroo Rd,BALCATTA,6021,176.9,218.9,Ampol
-348,Ampol Foodary Cannington,1346 Albany Hwy,CANNINGTON,6107,180.9,218.9,Ampol
-474,Ampol Foodary Coolgardie,110-114 Bayley St,COOLGARDIE,6429,217.9,218.9,Ampol
-385,Ampol Foodary Karrinyup,490 Karrinyup Rd,GWELUP,6018,184.9,218.9,Ampol
-134,EG Ampol Mandurah Forum,330 Pinjarra Rd,MANDURAH,6210,175.9,218.9,EG Ampol
-386,BP Henley Brook,1520 Gnangara Rd,HENLEY BROOK,6055,184.9,218.9,BP
-360,Ampol Foodary Murdoch,10 Robson Way,MURDOCH,6150,180.9,218.9,Ampol
-371,Ampol Foodary North Yunderup,868 Pinjarra Rd,FURNISSDALE,6209,182.9,218.9,Ampol
-373,Ampol Foodary Mundaring,5895 Great Eastern Hwy,MUNDARING,6073,182.9,218.9,Ampol
-391,BP Mullaloo,101 Dampier Av,MULLALOO,6027,184.9,218.9,BP
-127,EG Ampol Aveley,317 Millhouse Rd,AVELEY,6069,175.9,218.9,EG Ampol
-383,BP Beeliar,701 Beeliar Dr,COCKBURN CENTRAL,6164,184.9,218.9,BP
-389,BP Mindarie,360 Anchorage Dr North,MINDARIE,6030,184.9,218.9,BP
-384,BP Greenwood,19 Coolibah Dr,GREENWOOD,6024,184.9,218.9,BP
-352,Ampol Foodary Gosnells,158 Corfield St,GOSNELLS,6110,180.9,218.9,Ampol
-374,Ampol Foodary East Perth,157 Lord St,PERTH,6000,182.9,218.9,Ampol
-289,Ampol Foodary Secret Harbour,420 Secret Harbour Bvd,SECRET HARBOUR,6173,178.9,218.9,Ampol
-267,Ampol Foodary Melville,585 Canning Hwy,ALFRED COVE,6154,178.9,218.9,Ampol
-292,7-Eleven Success,660 Beeliar Dr,SUCCESS,6164,178.9,218.9,7 Eleven
-139,EG Ampol Osborne Park,401 Scarborough Beach Rd,OSBORNE PARK,6017,175.9,218.9,EG Ampol
-282,Ampol Foodary Cockburn Central,3 Armadale Rd,JANDAKOT,6164,178.9,218.9,Ampol
-284,Ampol Foodary Malaga Drive,76 Malaga Dr,MALAGA,6090,178.9,218.9,Ampol
-361,Ampol Foodary Rockingham,29 Dixon Rd,ROCKINGHAM,6168,180.9,219.9,Ampol
-181,EG Ampol Brabham,3 Marvel Ent,BRABHAM,6055,176.9,219.9,EG Ampol
-271,Ampol Foodary Byford,Lot 22 South Western Hwy,BYFORD,6122,178.9,219.9,Ampol
-151,United Anketell South,811 Thomas Rd,ANKETELL,6167,176.5,219.9,United
-347,Ampol Foodary Livingston,110 Ranford Rd,CANNING VALE,6155,180.9,219.9,Ampol
-381,Ampol Foodary Ashby,2 Hollosy Way,ASHBY,6065,184.9,219.9,Ampol
-150,United Anketell,5 Albina Ave,ANKETELL,6167,176.5,219.9,United
-390,Ampol Foodary Mt Lawley,810 Beaufort St,MOUNT LAWLEY,6050,184.9,219.9,Ampol
-215,EG Ampol Port Kennedy,12 Saltaire Way,PORT KENNEDY,6172,176.9,219.9,EG Ampol
-327,NightOwl BP Mandurah,304 Pinjarra Rd,MANDURAH,6210,179.9,219.9,BP
-304,BP Ballajura,2 Illawarra Cres North,BALLAJURA,6066,179.9,219.9,BP
-357,Ampol Foodary Kingsley,86 Kingsley Dr,KINGSLEY,6026,180.9,220.9,Ampol
-388,Ampol Foodary Lakelands,Lot 50 Mandurah Rd,MEADOW SPRINGS,6210,184.9,220.9,Ampol
-179,Ampol Foodary Bentley,91-93 Manning Rd,BENTLEY,6102,176.9,220.9,Ampol
-363,Ampol Foodary Warnbro,2 Bristol St,WARNBRO,6169,180.9,220.9,Ampol
-362,Ampol Foodary Stratton,240 Toodyay Rd,STRATTON,6056,180.9,220.9,Ampol
-354,Ampol Foodary Joondalup,420 Joondalup Dr,JOONDALUP,6027,180.9,220.9,Ampol
-59,7-Eleven Baldivis,370 Baldivis Rd,BALDIVIS,6171,174.9,220.9,7 Eleven
-294,Ampol Foodary Willetton,169 High Rd,WILLETTON,6155,178.9,220.9,Ampol
-273,7-Eleven Cockburn Central,814 North Lake Rd,COCKBURN CENTRAL,6164,178.9,220.9,7 Eleven
-219,Ampol Foodary South Lake,2 Omeo St,SOUTH LAKE,6164,176.9,221.9,Ampol
-277,Ampol Foodary Falcon (Miami Beach),2 Baroy St,FALCON,6210,178.9,221.9,Ampol
-274,Ampol Foodary Dawesville,191 Bailey Bvd,DAWESVILLE,6211,178.9,221.9,Ampol
-356,Ampol Foodary Kewdale,2 Fenton St,KEWDALE,6105,180.9,222.9,Ampol
-286,Ampol Foodary North Wanneroo,2624 Wanneroo Rd,NOWERGUP,6032,178.9,222.9,Ampol
-280,Ampol Foodary Greenfields,35 Minilya Pkwy,GREENFIELDS,6210,178.9,222.9,Ampol
-349,Ampol Foodary Clarkson,7 Ocean Keys Bvd,CLARKSON,6030,180.9,222.9,Ampol
-131,EG Ampol Currambine Marketplace,1244 Marmion Ave,CURRAMBINE,6028,175.9,222.9,EG Ampol
-194,7-Eleven Greenfields,1 Eaglemont St,GREENFIELDS,6210,176.9,222.9,7 Eleven
-372,Ampol Foodary Malaga,1 Capital Rd,MALAGA,6090,182.9,222.9,Ampol
-370,7-Eleven Caversham,2131 West Swan Rd,CAVERSHAM,6055,182.9,222.9,7 Eleven
-376,Ampol Foodary Forrest Highway North,Lot 602 Forrest Hwy,WEST PINJARRA,6208,182.9,223.9,Ampol
-377,Ampol Foodary Forrest Highway South,Lot 601 Forrest Hwy,WEST PINJARRA,6208,182.9,223.9,Ampol
-199,EG Ampol Joondalup Winton Road,189 Winton Rd,JOONDALUP,6027,176.9,223.9,EG Ampol
-208,Ampol Foodary Nedlands,7 Broadway,NEDLANDS,6009,176.9,223.9,Ampol
-175,EG Ampol Ballajura,5 Hamelin Dr,BALLAJURA,6066,176.9,223.9,EG Ampol
-265,Vibe Piara Waters,390 Nicholson Rd,PIARA WATERS,6112,178.7,224.7,Vibe
-57,Vibe Subiaco,123 Thomas St,SUBIACO,6008,174.7,224.7,Vibe
-39,OTR Como,73 Manning Rd,MANNING,6152,173.9,224.9,Shell
-75,Shell Reddy Express Duncraig,193 Warwick Rd,DUNCRAIG,6023,174.9,224.9,
-76,7-Eleven Rockingham,129 Dixon Rd,EAST ROCKINGHAM,6168,174.9,224.9,7 Eleven
-77,7-Eleven Malvern Springs,324 The Broadway,ELLENBROOK,6069,174.9,224.9,7 Eleven
-92,Shell Reddy Express Langford,70 Nicholson Rd,LANGFORD,6147,174.9,224.9,
-91,Shell Reddy Express Lakelands,49 Banksiadale Gte,LAKELANDS,6210,174.9,224.9,
-79,Shell Reddy Express Ellenbrook,3 Goodwood Cres,ELLENBROOK,6069,174.9,224.9,
-81,Shell Reddy Express Fremantle,101 Hampton Rd,FREMANTLE,6160,174.9,224.9,
-60,Shell Reddy Express Banksia Grove,1001 Joondalup Dr,BANKSIA GROVE,6031,174.9,224.9,
-84,7-Eleven Greenfields South,13 Lakes Rd,GREENFIELDS,6210,174.9,224.9,7 Eleven
-85,Shell Reddy Express Halls Head,14 Guava Way,HALLS HEAD,6210,174.9,224.9,
-86,EG Ampol Whitfords,470 Whitfords Ave,HILLARYS,6025,174.9,224.9,EG Ampol
-23,7-Eleven Morley,162 Russell St,MORLEY,6062,172.9,224.9,7 Eleven
-87,Shell Reddy Express Jolimont,6 Jersey St,JOLIMONT,6014,174.9,224.9,
-88,Shell Reddy Express Karawara,222 Manning Rd,KARAWARA,6152,174.9,224.9,
-82,Shell Reddy Express Girrawheen,60 Marangaroo Dr,GIRRAWHEEN,6064,174.9,224.9,
-63,Shell Reddy Express Bentley,1128 Albany Hwy,BENTLEY,6102,174.9,224.9,
-74,Shell Reddy Express Dianella,67 Walter Rd West,DIANELLA,6059,174.9,224.9,
-61,Shell Reddy Express Bayswater,34 Jackson St,BAYSWATER,6053,174.9,224.9,
-69,Shell Reddy Express Bull Creek,44 Benningfield Rd,BULL CREEK,6149,174.9,224.9,
-21,7-Eleven Butler,270 Butler Bvd,BUTLER,6036,172.9,224.9,7 Eleven
-16,7-Eleven Haynes,1256 Armadale Rd,ARMADALE,6112,172.9,224.9,7 Eleven
-72,Shell Reddy Express Claremont,269 Stirling Hwy,CLAREMONT,6010,174.9,224.9,
-14,7-Eleven Harrisdale,120 Yellowwood Ave,HARRISDALE,6112,172.7,224.9,7 Eleven
-62,Shell Coles Express Beeliar,8 Durnin Ave,BEELIAR,6164,174.9,224.9,Coles Express
-20,7-Eleven Booragoon,492 Marmion St,BOORAGOON,6154,172.9,224.9,7 Eleven
-67,7-Eleven Brabham,3 Marvel Ent,BRABHAM,6055,174.9,224.9,7 Eleven
-64,Shell Reddy Express Casuarina,1 Johnson Rd,BERTRAM,6167,174.9,224.9,
-19,7-Eleven Bentley,1133-1135 Albany Hwy,BENTLEY,6102,172.9,224.9,7 Eleven
-66,Shell Reddy Express Bicton,394 Canning Hwy,BICTON,6157,174.9,224.9,
-17,7-Eleven Balcatta,174 Balcatta Rd,BALCATTA,6021,172.9,224.9,7 Eleven
-73,Shell Reddy Express Clarkson,36 Ocean Keys Bvd,CLARKSON,6030,174.9,224.9,
-36,7-Eleven Clarkson,19 Neerabup Dr,CLARKSON,6030,173.9,224.9,7 Eleven
-93,Shell Reddy Express Leeming,29/51 Farrington St,LEEMING,6149,174.9,224.9,
-41,7-Eleven Southern River,481 Balfour St,SOUTHERN RIVER,6110,173.9,224.9,7 Eleven
-34,S24 Bull Creek,83 Wheatley Dr,BULL CREEK,6149,173.9,224.9,Shell
-65,7-Eleven Bibra Lake,35 Port Kembla Dr,BIBRA LAKE,6163,174.9,224.9,7 Eleven
-22,7-Eleven Kelmscott,105 Champion Dr,KELMSCOTT,6111,172.9,224.9,7 Eleven
-68,Shell Reddy Express Brentwood,71 Cranford Ave,BRENTWOOD,6153,174.9,224.9,
-188,Shell Reddy Express Victoria Park,66 Kent St,EAST VICTORIA PARK,6101,176.9,224.9,
-96,Shell Reddy Express Malaga,492 Alexander Dr,MALAGA,6090,174.9,224.9,
-192,Shell Reddy Express Forrestfield,2 Strelitzia Ave,FORRESTFIELD,6058,176.9,224.9,
-201,Shell Reddy Express Kwinana Beach,4 Beach St,KWINANA BEACH,6167,176.9,224.9,
-353,S24 Harvey,77 Uduc Rd,HARVEY,6220,180.9,224.9,Caltex
-202,Shell Reddy Express Maddington,117 Burslem Dr,MADDINGTON,6109,176.9,224.9,
-135,EG Ampol Morley Galleria,60 Russell St,MORLEY,6062,175.9,224.9,EG Ampol
-205,Shell Reddy Express Middle Swan,Lot 46 Great Northern Hwy,MIDDLE SWAN,6056,176.9,224.9,
-185,Shell Reddy Express Cloverdale,223 Belmont Ave,CLOVERDALE,6105,176.9,224.9,
-182,Shell Reddy Express Brighton,61 Butler Bvd,BUTLER,6036,176.9,224.9,
-214,Shell Reddy Express Perth,480 William St,PERTH,6000,176.9,224.9,
-180,Shell Reddy Express Bibra Lake,1 Timberyard Way,BIBRA LAKE,6163,176.9,224.9,
-140,OTR Perth Pier Street,17 Brisbane St,PERTH,6000,175.9,224.9,Shell
-296,S24 Yanchep,1 Ikara Lane,YANCHEP,6035,178.9,224.9,Caltex
-94,7-Eleven Maddington South,1969 Albany Hwy,MADDINGTON,6109,174.9,224.9,7 Eleven
-221,Shell Reddy Express Upper Swan Roadhouse,1333 Great Northern Hwy,UPPER SWAN,6069,176.9,224.9,
-177,Shell Reddy Express Mandurah,Cnr Pinjarra Rd & Watson Dr,BARRAGUP,6209,176.9,224.9,
-121,7-Eleven Yanchep,2 Tamala Lane,YANCHEP,6035,174.9,224.9,7 Eleven
-120,Shell Reddy Express Willetton,239-247 High Rd,WILLETTON,6155,174.9,224.9,
-119,Shell Reddy Express West Perth,30 Thomas St,WEST PERTH,6005,174.9,224.9,
-118,Shell Reddy Express Warwick,274 Erindale Rd,WARWICK,6024,174.9,224.9,
-97,7-Eleven Mandurah,296 Pinjarra Rd,MANDURAH,6210,174.9,224.9,7 Eleven
-98,7-Eleven Middle Swan,40-42 Great Northern Hwy,MIDDLE SWAN,6056,174.9,224.9,7 Eleven
-102,Shell Reddy Express Mosman Park,582 Stirling Hwy,MOSMAN PARK,6012,174.9,224.9,
-103,Shell Reddy Express Myaree,69 North Lake Rd,MYAREE,6154,174.9,224.9,
-104,Shell Reddy Express Mount Lawley,253 Walcott St,NORTH PERTH,6006,174.9,224.9,
-105,Shell Reddy Express Northam,10 Beamish Ave,NORTHAM,6401,174.9,224.9,
-106,Shell Reddy Express Osborne Park,11 Roberts St West,OSBORNE PARK,6017,174.9,224.9,
-232,S24 Balcatta,229 Balcatta Rd,BALCATTA,6021,177.9,224.9,Caltex
-107,Shell Reddy Express Palmyra,80 Carrington St,PALMYRA,6157,174.9,224.9,
-110,Shell Reddy Express Scarborough,205 West Coast Hwy,SCARBOROUGH,6019,174.9,224.9,
-111,Shell Reddy Express South Perth,3 Canning Hwy,SOUTH PERTH,6151,174.9,224.9,
-113,Shell Reddy Express Southern River,216 Lakey St,SOUTHERN RIVER,6110,174.9,224.9,
-115,Shell Reddy Express Waikiki,1-9 Gnangara Dr,WAIKIKI,6169,174.9,224.9,
-116,Shell Reddy Express Wangara,1 Niche Pde,WANGARA,6065,174.9,224.9,
-117,Shell Coles Express Wanneroo Pearsall,621 Wanneroo Rd,WANNEROO,6065,174.9,224.9,Coles Express
-108,7-Eleven Queens Park,235 Welshpool Rd,QUEENS PARK,6107,174.9,224.9,7 Eleven
-169,Shell Reddy Express Armadale,269 South Western Hwy,ARMADALE,6112,176.9,224.9,
-475,S-Bend Caravan Park,27 Company Rd,SOUTH GREENOUGH,6528,225.0,225.0,Liberty
-295,Ampol Foodary Yanchep,1 Morwell St,YANCHEP,6035,178.9,225.9,Ampol
-314,BP East Rockingham,137 Dixon Rd,EAST ROCKINGHAM,6168,179.9,225.9,BP
-339,BP Port Kennedy,46 Bakewell Dr,PORT KENNEDY,6172,179.9,225.9,BP
-315,BP Forrestdale,2 Alex Wood Dr,FORRESTDALE,6112,179.9,225.9,BP
-80,EG Ampol Floreat,5 Howtree Pl,FLOREAT,6014,174.9,226.9,EG Ampol
-476,Ningaloo Reef Fuels,6 Pelias St,EXMOUTH,6707,226.9,226.9,Independent
-137,EG Ampol Northam,86 Wellington St,NORTHAM,6401,175.9,226.9,EG Ampol
-132,EG Ampol Dianella,372 Grand Prom,DIANELLA,6059,175.9,226.9,EG Ampol
-145,EG Ampol South Fremantle,219 Hampton Rd,SOUTH FREMANTLE,6162,175.9,226.9,EG Ampol
-291,Ampol Foodary Subiaco,194 Rokeby Rd,SUBIACO,6008,178.9,227.9,Ampol
-285,Ampol Foodary Mosman Park,676 Stirling Hwy,MOSMAN PARK,6012,178.9,227.9,Ampol
-183,Ampol Foodary Carine,510 Beach Rd,CARINE,6020,176.9,227.9,Ampol
-186,Ampol Foodary East Fremantle,176 Canning Hwy,EAST FREMANTLE,6158,176.9,227.9,Ampol
-351,Ampol Foodary Forrestdale,63 Alex Wood Dr,FORRESTDALE,6112,180.9,227.9,Ampol
-226,Ampol Foodary Yangebup,289 Beeliar Dr,YANGEBUP,6164,176.9,227.9,Ampol
-178,7-Eleven Bassendean,302-318 Collier Rd,BASSENDEAN,6054,176.9,228.9,7 Eleven
-198,7-Eleven Joondalup,8 Buick Way,JOONDALUP,6027,176.9,228.9,7 Eleven
-176,7-Eleven Banksia Grove,1/300 Joseph Banks Bvd,BANKSIA GROVE,6031,176.9,228.9,7 Eleven
-174,7-Eleven Balga,102 Princess Rd,BALGA,6061,176.9,228.9,7 Eleven
-279,7-Eleven Gosnells,303 Corfield St,GOSNELLS,6110,178.9,228.9,7 Eleven
-239,7-Eleven Forrestdale,2 Haydock St,FORRESTDALE,6112,177.9,228.9,7 Eleven
-346,7-Eleven Byford South,25 Abernethy Rd,BYFORD,6122,180.9,230.9,7 Eleven
-364,7-Eleven Wattle Grove,332 Hale Rd,WATTLE GROVE,6107,180.9,230.9,7 Eleven
-477,Exmouth Fuel Supplies,2 Huston St,EXMOUTH,6707,232.8,232.8,Independent
-478,Ampol Foodary Exmouth,77 Maidstone Cr,EXMOUTH,6707,233.9,238.9,Ampol
-479,United Broome,49 Reid Rd,CABLE BEACH,6726,240.9,240.9,United
-480,BP Shinju Broome,101 Guy St,BROOME,6725,244.9,244.9,BP
-482,EG Ampol Djugun,106 Frederick St,DJUGUN,6725,246.9,246.9,EG Ampol
-481,Shell Reddy Express Broome,19 Napier Tce,BROOME,6725,246.9,246.9,
-483,BP Colac,138 Loch St,DERBY,6728,258.9,258.9,BP
-484,Ampol Foodary Broome,50 Mavis Rd,BILINGURR,6725,,,Ampol
+451,Geographe IGA,328 Marine Tce,GEOGRAPHE,6280,199.9,199.9,Liberty
+452,Ampol Foodary North Road,204 North Rd,YAKAMIA,6330,199.9,199.9,Ampol
+455,Caltex Dalwallinu,4 Johnston St,DALWALLINU,6609,202.9,200.9,Caltex
+453,Shell Reddy Express Albany Orana,342 Albany Hwy,ORANA,6330,200.9,200.9,
+454,Elleker General Store,1309 Lower Denmark Rd,ELLEKER,6330,202.4,202.4,Puma
+456,Kambalda Roadhouse,2 Bluebush Rd,KAMBALDA WEST,6442,202.9,202.9,Liberty
+457,Shell Reddy Express Kununurra Roadhouse,17 Poinciana St,KUNUNURRA,6743,202.9,202.9,
+458,United Boulder Kalgoorlie,26 Davis St,BOULDER,6432,203.9,203.9,United
+459,Shell Reddy Express Boulder,35 Frank St,BOULDER,6432,208.9,208.9,
+460,Ampol Foodary Kalgoorlie,581 Hannan St,SOMERVILLE,6430,209.9,209.9,Ampol
+461,BP South Hedland,2 Throssell Rd,SOUTH HEDLAND,6722,209.9,209.9,BP
+462,Ampol Foodary Kalgoorlie South,146 Boulder Rd,SOUTH KALGOORLIE,6430,209.9,209.9,Ampol
+463,Ampol Foodary South Hedland,67 Hamilton Rd,SOUTH HEDLAND,6722,210.9,210.9,Ampol
+464,Caltex South Hedland,1 Altitude Ave,PORT HEDLAND,6721,212.9,212.9,Caltex
+465,EG Ampol Carnarvon,90 Robinson St,CARNARVON,6701,213.9,213.9,EG Ampol
+466,Ampol Foodary Carnarvon,595 Robinson St,KINGSFORD,6701,213.9,213.9,Ampol
+468,BP Port Hedland Boulevard,150 Anderson St,PORT HEDLAND,6721,215.9,215.9,BP
+469,Shell Reddy Express South Hedland Roadhouse,Lot 5553 Great Northern Hwy,WEDGEFIELD,6721,216.9,216.9,
+467,Ampol Foodary Coolgardie,110-114 Bayley St,COOLGARDIE,6429,215.9,217.9,Ampol
+487,S-Bend Caravan Park,27 Company Rd,SOUTH GREENOUGH,6528,,225.0,Liberty
+470,Ningaloo Reef Fuels,6 Pelias St,EXMOUTH,6707,226.9,226.9,Independent
+471,Exmouth Fuel Supplies,2 Huston St,EXMOUTH,6707,232.8,232.8,Independent
+472,Ampol Foodary Exmouth,77 Maidstone Cr,EXMOUTH,6707,235.9,235.9,Ampol
+473,United Broome,49 Reid Rd,CABLE BEACH,6726,240.9,240.9,United
+474,BP Shinju Broome,101 Guy St,BROOME,6725,244.9,244.9,BP
+475,Shell Reddy Express Broome,19 Napier Tce,BROOME,6725,246.9,246.9,
+476,EG Ampol Djugun,106 Frederick St,DJUGUN,6725,246.9,246.9,EG Ampol
+477,BP Colac,138 Loch St,DERBY,6728,258.9,258.9,BP
+478,Ampol Foodary Broome,50 Mavis Rd,BILINGURR,6725,,,Ampol
+479,OTR Bunbury,92 Blair St,BUNBURY,6230,,,Shell
 485,Shell Reddy Express Port Hedland,Lot 2065 Wilson St,PORT HEDLAND,6721,,,
-486,Caltex Victoria Park,162-170 Albany Hwy,VICTORIA PARK,6100,,,Caltex
-487,Gull York Roadhouse,63 Avon Tce,YORK,6302,,,Gull
+488,Caltex Victoria Park,162-170 Albany Hwy,VICTORIA PARK,6100,,,Caltex
+489,Gull York Roadhouse,63 Avon Tce,YORK,6302,,,Gull
